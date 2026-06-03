@@ -1,0 +1,7 @@
+displayName = 格雷科技（泰拉瑞亚版）汉化补丁{未完成，暂时占位+招人汉化}
+author = moon.ditch
+version = 0.0.0.1
+translationMod = true
+side = NoSync
+hideResources = true
+modReferences = GregTechCEuTerraria
