@@ -1,117 +1,117 @@
 Mods: {
 	GregTechCEuTerraria: {
 		Materials: {
-			acetic_acid: Acetic Acid
-			acetic_anhydride: Acetic Anhydride
-			acetone: Acetone
-			acidic_enriched_naquadah_solution: Acidic Enriched Naquadah Solution
-			acidic_naquadria_solution: Acidic Naquadria Solution
-			acidic_osmium_solution: Acidic Osmium Solution
-			actinium: Actinium
-			activated_carbon: Activated Carbon
-			agar: Agar
-			air: Air
-			allyl_chloride: Allyl Chloride
-			almandine: Almandine
-			aluminium: Aluminium
-			aluminium_sulfite: Aluminium Sulfite
-			alunite: Alunite
-			americium: Americium
-			amethyst: Amethyst
-			aminophenol: Aminophenol
-			ammonia: Ammonia
-			ammonium_chloride: Ammonium Chloride
-			ammonium_formate: Ammonium Formate
-			andesite: Andesite
-			andradite: Andradite
-			annealed_copper: Annealed Copper
-			antimony: Antimony
-			antimony_trifluoride: Antimony Trifluoride
-			antimony_trioxide: Antimony Trioxide
-			apatite: Apatite
-			aqua_regia: Aqua Regia
-			argon: Argon
-			arsenic: Arsenic
-			arsenic_trioxide: Arsenic Trioxide
-			asbestos: Asbestos
-			ash: Ash
-			astatine: Astatine
-			bacteria: Bacteria
-			bacterial_sludge: Bacterial Sludge
-			barite: Barite
-			barium: Barium
-			barium_sulfide: Barium Sulfide
-			basalt: Basalt
-			basaltic_mineral_sand: Basaltic Mineral Sand
-			bastnasite: Bastnasite
-			battery_alloy: Battery Alloy
-			bauxite: Bauxite
-			bauxite_slag: Bauxite Slag
-			bauxite_sludge: Bauxite Sludge
-			bauxite_slurry: Bauxite Slurry
-			bentonite: Bentonite
-			benzene: Benzene
-			berkelium: Berkelium
-			beryllium: Beryllium
-			bio_diesel: Bio Diesel
-			biomass: Biomass
-			biotite: Biotite
-			biphenyl: Biphenyl
-			bismuth: Bismuth
-			bismuth_bronze: Bismuth Bronze
-			bisphenol_a: Bisphenol A
-			black_bronze: Black Bronze
-			black_dye: Black Dye
-			black_steel: Black Steel
-			blackstone: Blackstone
-			blaze: Blaze
-			blue_alloy: Blue Alloy
-			blue_dye: Blue Dye
-			blue_steel: Blue Steel
-			blue_topaz: Blue Topaz
-			bohrium: Bohrium
-			bone: Bone
-			borax: Borax
-			bornite: Bornite
-			boron: Boron
-			borosilicate_glass: Borosilicate Glass
-			brass: Brass
-			brick: Brick
-			bromine: Bromine
-			bronze: Bronze
-			brown_dye: Brown Dye
-			butadiene: Butadiene
-			butane: Butane
-			butene: Butene
-			butyraldehyde: Butyraldehyde
-			cadmium: Cadmium
-			caesium: Caesium
-			calcite: Calcite
-			calcium: Calcium
-			calcium_carbonate: Calcium Carbonate
-			calcium_chloride: Calcium Chloride
-			calcium_ferrocyanide: Calcium Ferrocyanide
-			calcium_hydroxide: Calcium Hydroxide
-			calcium_phosphide: Calcium Phosphide
-			californium: Californium
-			caprolactam: Caprolactam
-			carbon: Carbon
-			carbon_dioxide: Carbon Dioxide
-			carbon_monoxide: Carbon Monoxide
-			cassiterite: Cassiterite
-			cassiterite_sand: Cassiterite Sand
-			cerium: Cerium
-			certus_quartz: Certus Quartz
-			cetane_boosted_diesel: Cetane Boosted Diesel
-			chalcocite: Chalcocite
-			chalcopyrite: Chalcopyrite
-			charcoal: Charcoal
-			charcoal_byproducts: Charcoal Byproducts
-			chlorine: Chlorine
-			chlorobenzene: Chlorobenzene
-			chloroform: Chloroform
-			chloromethane: Chloromethane
-			chromite: Chromite
+			acetic_acid: Acetic 乙酸
+			acetic_anhydride: 乙酸酐
+			acetone: 丙酮
+			acidic_enriched_naquadah_solution: 酸性富集硅岩溶液
+			acidic_naquadria_solution: 酸性超能硅岩溶液
+			acidic_osmium_solution: 酸性锇溶液
+			actinium: 锕
+			activated_carbon: 活性炭
+			agar: 琼脂
+			air: 空气
+			allyl_chloride: 烯丙基氯
+			almandine: 铁铝榴石
+			aluminium: 铝
+			aluminium_sulfite: 亚硫酸铝
+			alunite: 明矾石
+			americium: 镅
+			amethyst: 紫水晶
+			aminophenol: 氨基苯酚
+			ammonia: 氨
+			ammonium_chloride: 氯化铵
+			ammonium_formate: 甲酸铵
+			andesite: 安山岩
+			andradite: 钙铁榴石
+			annealed_copper: 退火铜
+			antimony: 锑
+			antimony_trifluoride: 三氟化锑
+			antimony_trioxide: 三氧化二锑
+			apatite: 磷灰石
+			aqua_regia: 王水
+			argon: 氩
+			arsenic: 砷
+			arsenic_trioxide: 砒霜
+			asbestos: 石棉
+			ash: 灰烬
+			astatine: 砹
+			bacteria: 细菌
+			bacterial_sludge: 细菌浆液
+			barite: 重晶石
+			barium: 钡
+			barium_sulfide: 硫化钡
+			basalt: 玄武岩
+			basaltic_mineral_sand: 玄武岩矿砂
+			bastnasite: 氟碳镧铈
+			battery_alloy: 电池合金
+			bauxite: 铝土
+			bauxite_slag: 铝土矿渣
+			bauxite_sludge: 铝土泥渣
+			bauxite_slurry: 铝土浆液
+			bentonite: 膨润土
+			benzene: 笨
+			berkelium: 锫
+			beryllium: 铍
+			bio_diesel: 生物柴油
+			biomass: 生物质
+			biotite: 黑云母
+			biphenyl: 联苯
+			bismuth: 铋
+			bismuth_bronze: 铋青铜
+			bisphenol_a: 双酚 A
+			black_bronze: 黑青铜
+			black_dye: 黑色染料
+			black_steel: 黑钢
+			blackstone: 黑石
+			blaze: Blaze烈焰（占位符）
+			blue_alloy: 蓝石合金
+			blue_dye: 蓝色染料
+			blue_steel: 蓝钢
+			blue_topaz: 蓝黄玉
+			bohrium: bh
+			bone: 骨头
+			borax: 硼砂
+			bornite: 斑铜
+			boron: 硼
+			borosilicate_glass: 硼玻璃
+			brass: Brass 黄铜
+			brick: 砖
+			bromine: 溴
+			bronze: 青铜
+			brown_dye: 棕色染料
+			butadiene: 丁二烯
+			butane: 丁烷
+			butene: 丁烯
+			butyraldehyde: 丁醛
+			cadmium: 镉
+			caesium: 铯
+			calcite: 方解石
+			calcium: 钙
+			calcium_carbonate: 碳酸钙
+			calcium_chloride: 氯化钙
+			calcium_ferrocyanide: 亚铁氢化钙
+			calcium_hydroxide: 氢氧化钙
+			calcium_phosphide: 磷化钙粉
+			californium: 锎
+			caprolactam: 已内酰胺
+			carbon: 碳
+			carbon_dioxide: 二氧化碳
+			carbon_monoxide: 一氧化碳
+			cassiterite: 锡石
+			cassiterite_sand: 锡石矿砂
+			cerium: 铈
+			certus_quartz: 赛特石英
+			cetane_boosted_diesel: 高十六烷值柴油
+			chalcocite: 辉铜
+			chalcopyrite: 黄铜
+			charcoal: 木炭
+			charcoal_byproducts: 木炭副产
+			chlorine: 氯
+			chlorobenzene: 氯苯
+			chloroform: 氯仿
+			chloromethane: 氯甲烷
+			chromite: 烙铁
 			chromium: Chromium
 			chromium_trioxide: Chromium Trioxide
 			cinnabar: Cinnabar
@@ -290,7 +290,7 @@ Mods: {
 			iridium: Iridium
 			iridium_chloride: Iridium Chloride
 			iridium_metal_residue: Iridium Metal Residue
-			iron: Iron
+			iron: Iron 铁锭
 			iron_ii_chloride: Iron Ii Chloride
 			iron_iii_chloride: Iron Iii Chloride
 			isoprene: Isoprene
@@ -300,7 +300,7 @@ Mods: {
 			lanthanum: Lanthanum
 			lapis: Lapis
 			lapotron: Lapotron
-			lava: Lava
+			lava: Lava 岩浆
 			lawrencium: Lawrencium
 			lazurite: Lazurite
 			lead: Lead
@@ -659,1012 +659,1012 @@ Mods: {
 
 		Items: {
 			activated_carbon_dust: {
-				DisplayName: Activated Carbon Dust
+				DisplayName: 活性碳粉
 				Tooltip: ""
 			}
 
 			agar_dust: {
-				DisplayName: Agar Dust
+				DisplayName: 琼脂粉
 				Tooltip: ""
 			}
 
 			almandine_block: {
-				DisplayName: Block of Almandine
+				DisplayName: 铁铝榴石块
 				Tooltip: ""
 			}
 
 			almandine_dust: {
-				DisplayName: Almandine Dust
+				DisplayName: 铁铝榴石粉
 				Tooltip: ""
 			}
 
 			almandine_gem: {
-				DisplayName: Almandine
+				DisplayName: 铁铝榴石
 				Tooltip: ""
 			}
 
 			aluminium_block: {
-				DisplayName: Block of Aluminium
+				DisplayName: 铝块
 				Tooltip: ""
 			}
 
 			aluminium_bolt: {
-				DisplayName: Aluminium Bolt
+				DisplayName: 铝螺栓
 				Tooltip: ""
 			}
 
 			aluminium_buzz_saw_blade: {
-				DisplayName: Aluminium Buzzsaw Blade
+				DisplayName: 铝圆锯锯刃
 				Tooltip: ""
 			}
 
 			aluminium_chainsaw_head: {
-				DisplayName: Aluminium Chainsaw Head
+				DisplayName: 铝链锯头
 				Tooltip: ""
 			}
 
 			aluminium_double_cable: {
-				DisplayName: EV Double Aluminium Cable
+				DisplayName: EV 2x铝线缆
 				Tooltip: ""
 			}
 
 			aluminium_double_wire: {
-				DisplayName: EV Double Aluminium Wire
+				DisplayName: EV 2x铝导线
 				Tooltip: ""
 			}
 
 			aluminium_drill_head: {
-				DisplayName: Aluminium Drill Head
+				DisplayName: 铝钻头
 				Tooltip: ""
 			}
 
 			aluminium_dust: {
-				DisplayName: Aluminium Dust
+				DisplayName: 铝粉
 				Tooltip: ""
 			}
 
 			aluminium_foil: {
-				DisplayName: Aluminium Foil
+				DisplayName: 铝箔
 				Tooltip: ""
 			}
 
 			aluminium_frame: {
-				DisplayName: Aluminium Frame
+				DisplayName: 铝框架
 				Tooltip: ""
 			}
 
 			aluminium_gear: {
-				DisplayName: Aluminium Gear
+				DisplayName: 铝齿轮
 				Tooltip: ""
 			}
 
 			aluminium_hex_cable: {
-				DisplayName: EV Hex Aluminium Cable
+				DisplayName: EV 16x铝线缆
 				Tooltip: ""
 			}
 
 			aluminium_hex_wire: {
-				DisplayName: EV Hex Aluminium Wire
+				DisplayName: EV 16x铝导线
 				Tooltip: ""
 			}
 
 			aluminium_ingot: {
-				DisplayName: Aluminium Ingot
+				DisplayName: 铝锭
 				Tooltip: ""
 			}
 
 			aluminium_nugget: {
-				DisplayName: Aluminium Nugget
+				DisplayName: 铝粒
 				Tooltip: ""
 			}
 
 			aluminium_octal_cable: {
-				DisplayName: EV Octal Aluminium Cable
+				DisplayName: EV 8x铝线缆
 				Tooltip: ""
 			}
 
 			aluminium_octal_wire: {
-				DisplayName: EV Octal Aluminium Wire
+				DisplayName: EV 8x铝导线
 				Tooltip: ""
 			}
 
 			aluminium_plate: {
-				DisplayName: Aluminium Plate
+				DisplayName: 铝板
 				Tooltip: ""
 			}
 
 			aluminium_quadruple_cable: {
-				DisplayName: EV Quadruple Aluminium Cable
+				DisplayName: EV 4x铝线缆
 				Tooltip: ""
 			}
 
 			aluminium_quadruple_wire: {
-				DisplayName: EV Quadruple Aluminium Wire
+				DisplayName: EV 4x铝导线
 				Tooltip: ""
 			}
 
 			aluminium_ring: {
-				DisplayName: Aluminium Ring
+				DisplayName: 铝环
 				Tooltip: ""
 			}
 
 			aluminium_rod: {
-				DisplayName: Aluminium Rod
+				DisplayName: 铝杆
 				Tooltip: ""
 			}
 
 			aluminium_screw: {
-				DisplayName: Aluminium Screw
+				DisplayName: 铝螺丝
 				Tooltip: ""
 			}
 
 			aluminium_screwdriver_tip: {
-				DisplayName: Aluminium Screwdriver Tip
+				DisplayName: 铝螺丝刀头
 				Tooltip: ""
 			}
 
 			aluminium_single_cable: {
-				DisplayName: EV Aluminium Cable
+				DisplayName: EV 铝线缆
 				Tooltip: ""
 			}
 
 			aluminium_single_wire: {
-				DisplayName: EV Aluminium Wire
+				DisplayName: EV 铝导线
 				Tooltip: ""
 			}
 
 			aluminium_spring: {
-				DisplayName: Aluminium Spring
+				DisplayName: 铝弹簧
 				Tooltip: ""
 			}
 
 			aluminium_sulfite_dust: {
-				DisplayName: Aluminium Sulfite Dust
+				DisplayName: 亚硫酸铝粉
 				Tooltip: ""
 			}
 
 			aluminium_turbine_blade: {
-				DisplayName: Aluminium Turbine Blade
+				DisplayName: 铝涡轮扇叶
 				Tooltip: ""
 			}
 
 			aluminium_wire_cutter_head: {
-				DisplayName: Aluminium Wire Cutter Head
+				DisplayName: 铝剪线钳钳头
 				Tooltip: ""
 			}
 
 			aluminium_wrench_tip: {
-				DisplayName: Aluminium Wrench Tip
+				DisplayName: 铝扳手顶
 				Tooltip: ""
 			}
 
 			alunite_dust: {
-				DisplayName: Alunite Dust
+				DisplayName: 明矾石粉
 				Tooltip: ""
 			}
 
 			americium_block: {
-				DisplayName: Block of Americium
+				DisplayName: 镅块
 				Tooltip: ""
 			}
 
 			americium_dust: {
-				DisplayName: Americium Dust
+				DisplayName: 镅粉
 				Tooltip: ""
 			}
 
 			americium_foil: {
-				DisplayName: Americium Foil
+				DisplayName: 镅箔
 				Tooltip: ""
 			}
 
 			americium_ingot: {
-				DisplayName: Americium Ingot
+				DisplayName: 镅锭
 				Tooltip: ""
 			}
 
 			americium_nugget: {
-				DisplayName: Americium Nugget
+				DisplayName: 镅粒
 				Tooltip: ""
 			}
 
 			americium_plate: {
-				DisplayName: Americium Plate
+				DisplayName: 镅板
 				Tooltip: ""
 			}
 
 			americium_rod: {
-				DisplayName: Americium Rod
+				DisplayName: 镅杆
 				Tooltip: ""
 			}
 
 			amethyst_block: {
-				DisplayName: Block of Amethyst
+				DisplayName: 紫水晶块
 				Tooltip: ""
 			}
 
 			amethyst_dust: {
-				DisplayName: Amethyst Dust
+				DisplayName: 紫水晶粉
 				Tooltip: ""
 			}
 
 			amethyst_gem: {
-				DisplayName: Amethyst
+				DisplayName: 紫水晶
 				Tooltip: ""
 			}
 
 			amethyst_lens: {
-				DisplayName: Amethyst Lens
+				DisplayName: 紫水晶透镜
 				Tooltip: ""
 			}
 
 			amethyst_plate: {
-				DisplayName: Amethyst Plate
+				DisplayName: 紫水晶板
 				Tooltip: ""
 			}
 
 			amethyst_rod: {
-				DisplayName: Amethyst Rod
+				DisplayName: 紫水晶杆
 				Tooltip: ""
 			}
 
 			ammonium_chloride_dust: {
-				DisplayName: Ammonium Chloride Dust
+				DisplayName: 氯化铵粉
 				Tooltip: ""
 			}
 
 			andesite_dust: {
-				DisplayName: Andesite Dust
+				DisplayName: 安山岩粉
 				Tooltip: ""
 			}
 
 			andradite_block: {
-				DisplayName: Block of Andradite
+				DisplayName: 钙铁榴石块
 				Tooltip: ""
 			}
 
 			andradite_dust: {
-				DisplayName: Andradite Dust
+				DisplayName: 钙铁榴石粉
 				Tooltip: ""
 			}
 
 			andradite_gem: {
-				DisplayName: Andradite
+				DisplayName: 钙铁榴石
 				Tooltip: ""
 			}
 
 			annealed_copper_block: {
-				DisplayName: Block of Annealed Copper
+				DisplayName: 退火铜块
 				Tooltip: ""
 			}
 
 			annealed_copper_bolt: {
-				DisplayName: Annealed Copper Bolt
+				DisplayName: 退火铜螺栓
 				Tooltip: ""
 			}
 
 			annealed_copper_double_cable: {
-				DisplayName: MV Double Annealed Copper Cable
+				DisplayName: MV 2x退火铜线缆
 				Tooltip: ""
 			}
 
 			annealed_copper_double_wire: {
-				DisplayName: MV Double Annealed Copper Wire
+				DisplayName: MV 2x退火铜导线
 				Tooltip: ""
 			}
 
 			annealed_copper_dust: {
-				DisplayName: Annealed Copper Dust
+				DisplayName: 退火铜粉
 				Tooltip: ""
 			}
 
 			annealed_copper_foil: {
-				DisplayName: Annealed Copper Foil
+				DisplayName: 退火铜箔
 				Tooltip: ""
 			}
 
 			annealed_copper_hex_cable: {
-				DisplayName: MV Hex Annealed Copper Cable
+				DisplayName: MV 16x退火铜线缆
 				Tooltip: ""
 			}
 
 			annealed_copper_hex_wire: {
-				DisplayName: MV Hex Annealed Copper Wire
+				DisplayName: MV 16x退火铜导线
 				Tooltip: ""
 			}
 
 			annealed_copper_ingot: {
-				DisplayName: Annealed Copper Ingot
+				DisplayName: 退火铜锭
 				Tooltip: ""
 			}
 
 			annealed_copper_nugget: {
-				DisplayName: Annealed Copper Nugget
+				DisplayName: 退火铜粒
 				Tooltip: ""
 			}
 
 			annealed_copper_octal_cable: {
-				DisplayName: MV Octal Annealed Copper Cable
+				DisplayName: MV 8x退火铜线缆
 				Tooltip: ""
 			}
 
 			annealed_copper_octal_wire: {
-				DisplayName: MV Octal Annealed Copper Wire
+				DisplayName: MV 8x退火铜导线
 				Tooltip: ""
 			}
 
 			annealed_copper_plate: {
-				DisplayName: Annealed Copper Plate
+				DisplayName: 退火铜板
 				Tooltip: ""
 			}
 
 			annealed_copper_quadruple_cable: {
-				DisplayName: MV Quadruple Annealed Copper Cable
+				DisplayName: MV 4x退火铜线缆
 				Tooltip: ""
 			}
 
 			annealed_copper_quadruple_wire: {
-				DisplayName: MV Quadruple Annealed Copper Wire
+				DisplayName: MV 4x退火铜导线
 				Tooltip: ""
 			}
 
 			annealed_copper_rod: {
-				DisplayName: Annealed Copper Rod
+				DisplayName: 退火铜杆
 				Tooltip: ""
 			}
 
 			annealed_copper_screw: {
-				DisplayName: Annealed Copper Screw
+				DisplayName: 退火铜螺丝
 				Tooltip: ""
 			}
 
 			annealed_copper_single_cable: {
-				DisplayName: MV Annealed Copper Cable
+				DisplayName: MV 退火铜线缆
 				Tooltip: ""
 			}
 
 			annealed_copper_single_wire: {
-				DisplayName: MV Annealed Copper Wire
+				DisplayName: MV 退火铜导线
 				Tooltip: ""
 			}
 
 			antimony_block: {
-				DisplayName: Block of Antimony
+				DisplayName: 锑块
 				Tooltip: ""
 			}
 
 			antimony_dust: {
-				DisplayName: Antimony Dust
+				DisplayName: 锑粉
 				Tooltip: ""
 			}
 
 			antimony_ingot: {
-				DisplayName: Antimony Ingot
+				DisplayName: 锑锭
 				Tooltip: ""
 			}
 
 			antimony_nugget: {
-				DisplayName: Antimony Nugget
+				DisplayName: 锑粒
 				Tooltip: ""
 			}
 
 			antimony_trifluoride_dust: {
-				DisplayName: Antimony Trifluoride Dust
+				DisplayName: 三氟化锑粉
 				Tooltip: ""
 			}
 
 			antimony_trioxide_dust: {
-				DisplayName: Antimony Trioxide Dust
+				DisplayName: 三氧化二锑粉
 				Tooltip: ""
 			}
 
 			apatite_block: {
-				DisplayName: Block of Apatite
+				DisplayName: 磷灰石块
 				Tooltip: ""
 			}
 
 			apatite_dust: {
-				DisplayName: Apatite Dust
+				DisplayName: 磷灰石粉
 				Tooltip: ""
 			}
 
 			apatite_gem: {
-				DisplayName: Apatite
+				DisplayName: 磷灰石
 				Tooltip: ""
 			}
 
 			arsenic_dust: {
-				DisplayName: Arsenic Dust
+				DisplayName: 砷粉
 				Tooltip: ""
 			}
 
 			arsenic_trioxide_dust: {
-				DisplayName: Arsenic Trioxide Dust
+				DisplayName: 砒霜粉
 				Tooltip: ""
 			}
 
 			asbestos_dust: {
-				DisplayName: Asbestos Dust
+				DisplayName: 石棉粉
 				Tooltip: ""
 			}
 
 			ash_dust: {
-				DisplayName: Ash Dust
+				DisplayName: 灰烬粉
 				Tooltip: ""
 			}
 
 			barite_dust: {
-				DisplayName: Barite Dust
+				DisplayName: 重晶石粉
 				Tooltip: ""
 			}
 
 			barium_dust: {
-				DisplayName: Barium Dust
+				DisplayName: 钡粉
 				Tooltip: ""
 			}
 
 			barium_sulfide_dust: {
-				DisplayName: Barium Sulfide Dust
+				DisplayName: 硫化钡粉
 				Tooltip: ""
 			}
 
 			basalt_dust: {
-				DisplayName: Basalt Dust
+				DisplayName: 玄武岩粉
 				Tooltip: ""
 			}
 
 			basaltic_mineral_sand_dust: {
-				DisplayName: Basaltic Mineral Sand Dust
+				DisplayName: 玄武岩矿砂粉
 				Tooltip: ""
 			}
 
 			bastnasite_dust: {
-				DisplayName: Bastnasite Dust
+				DisplayName: 氟碳镧铈矿粉
 				Tooltip: ""
 			}
 
 			battery_alloy_block: {
-				DisplayName: Block of Battery Alloy
+				DisplayName: 电池合金块
 				Tooltip: ""
 			}
 
 			battery_alloy_dust: {
-				DisplayName: Battery Alloy Dust
+				DisplayName: 电池合金粉
 				Tooltip: ""
 			}
 
 			battery_alloy_ingot: {
-				DisplayName: Battery Alloy Ingot
+				DisplayName: 电池合金锭
 				Tooltip: ""
 			}
 
 			battery_alloy_nugget: {
-				DisplayName: Battery Alloy Nugget
+				DisplayName: 电池合金粒
 				Tooltip: ""
 			}
 
 			battery_alloy_plate: {
-				DisplayName: Battery Alloy Plate
+				DisplayName: 电池合金板
 				Tooltip: ""
 			}
 
 			battery_alloy_rod: {
-				DisplayName: Battery Alloy Rod
+				DisplayName: 电池合金杆
 				Tooltip: ""
 			}
 
 			bauxite_dust: {
-				DisplayName: Bauxite Dust
+				DisplayName: 铝土矿粉
 				Tooltip: ""
 			}
 
 			bauxite_slag_dust: {
-				DisplayName: Bauxite Slag Dust
+				DisplayName: 铝土矿渣粉
 				Tooltip: ""
 			}
 
 			bentonite_dust: {
-				DisplayName: Bentonite Dust
+				DisplayName: 膨润土粉
 				Tooltip: ""
 			}
 
 			beryllium_block: {
-				DisplayName: Block of Beryllium
+				DisplayName: 铍块
 				Tooltip: ""
 			}
 
 			beryllium_dust: {
-				DisplayName: Beryllium Dust
+				DisplayName: 铍粉
 				Tooltip: ""
 			}
 
 			beryllium_ingot: {
-				DisplayName: Beryllium Ingot
+				DisplayName: 铍锭
 				Tooltip: ""
 			}
 
 			beryllium_nugget: {
-				DisplayName: Beryllium Nugget
+				DisplayName: 铍粒
 				Tooltip: ""
 			}
 
 			beryllium_plate: {
-				DisplayName: Beryllium Plate
+				DisplayName: 铍板
 				Tooltip: ""
 			}
 
 			biotite_dust: {
-				DisplayName: Biotite Dust
+				DisplayName: 黑云母粉
 				Tooltip: ""
 			}
 
 			biphenyl_dust: {
-				DisplayName: Biphenyl Dust
+				DisplayName: 联苯粉
 				Tooltip: ""
 			}
 
 			bismuth_block: {
-				DisplayName: Block of Bismuth
+				DisplayName: 铋块
 				Tooltip: ""
 			}
 
 			bismuth_bronze_block: {
-				DisplayName: Block of Bismuth Bronze
+				DisplayName: 铋青铜块
 				Tooltip: ""
 			}
 
 			bismuth_bronze_bolt: {
-				DisplayName: Bismuth Bronze Bolt
+				DisplayName: 铋青铜螺栓
 				Tooltip: ""
 			}
 
 			bismuth_bronze_dust: {
-				DisplayName: Bismuth Bronze Dust
+				DisplayName: 铋青铜粉
 				Tooltip: ""
 			}
 
 			bismuth_bronze_ingot: {
-				DisplayName: Bismuth Bronze Ingot
+				DisplayName: 铋青铜锭
 				Tooltip: ""
 			}
 
 			bismuth_bronze_nugget: {
-				DisplayName: Bismuth Bronze Nugget
+				DisplayName: 铋青铜粒
 				Tooltip: ""
 			}
 
 			bismuth_bronze_plate: {
-				DisplayName: Bismuth Bronze Plate
+				DisplayName: 铋青铜板
 				Tooltip: ""
 			}
 
 			bismuth_bronze_rod: {
-				DisplayName: Bismuth Bronze Rod
+				DisplayName: 铋青铜杆
 				Tooltip: ""
 			}
 
 			bismuth_bronze_screw: {
-				DisplayName: Bismuth Bronze Screw
+				DisplayName: 铋青铜螺丝
 				Tooltip: ""
 			}
 
 			bismuth_bronze_turbine_blade: {
-				DisplayName: Bismuth Bronze Turbine Blade
+				DisplayName: 铋青铜涡轮扇叶
 				Tooltip: ""
 			}
 
 			bismuth_dust: {
-				DisplayName: Bismuth Dust
+				DisplayName: 铋粉
 				Tooltip: ""
 			}
 
 			bismuth_ingot: {
-				DisplayName: Bismuth Ingot
+				DisplayName: 铋锭
 				Tooltip: ""
 			}
 
 			bismuth_nugget: {
-				DisplayName: Bismuth Nugget
+				DisplayName: 铋粒
 				Tooltip: ""
 			}
 
 			black_bronze_block: {
-				DisplayName: Block of Black Bronze
+				DisplayName: 黑青铜快
 				Tooltip: ""
 			}
 
 			black_bronze_bolt: {
-				DisplayName: Black Bronze Bolt
+				DisplayName: 黑青铜螺栓
 				Tooltip: ""
 			}
 
 			black_bronze_dust: {
-				DisplayName: Black Bronze Dust
+				DisplayName: 黑青铜粉
 				Tooltip: ""
 			}
 
 			black_bronze_gear: {
-				DisplayName: Black Bronze Gear
+				DisplayName: 黑青铜齿轮
 				Tooltip: ""
 			}
 
 			black_bronze_ingot: {
-				DisplayName: Black Bronze Ingot
+				DisplayName: 黑青铜锭
 				Tooltip: ""
 			}
 
 			black_bronze_nugget: {
-				DisplayName: Black Bronze Nugget
+				DisplayName: 黑青铜粒
 				Tooltip: ""
 			}
 
 			black_bronze_plate: {
-				DisplayName: Black Bronze Plate
+				DisplayName: 黑青铜板
 				Tooltip: ""
 			}
 
 			black_bronze_rod: {
-				DisplayName: Black Bronze Rod
+				DisplayName: 黑青铜杆
 				Tooltip: ""
 			}
 
 			black_bronze_screw: {
-				DisplayName: Black Bronze Screw
+				DisplayName: 黑青铜螺丝
 				Tooltip: ""
 			}
 
 			black_bronze_turbine_blade: {
-				DisplayName: Black Bronze Turbine Blade
+				DisplayName: 黑青铜涡轮扇叶
 				Tooltip: ""
 			}
 
 			black_steel_block: {
-				DisplayName: Block of Black Steel
+				DisplayName: 黑钢块
 				Tooltip: ""
 			}
 
 			black_steel_double_cable: {
-				DisplayName: EV Double Black Steel Cable
+				DisplayName: EV 2x黑钢线缆
 				Tooltip: ""
 			}
 
 			black_steel_double_wire: {
-				DisplayName: EV Double Black Steel Wire
+				DisplayName: EV 2x黑钢导线
 				Tooltip: ""
 			}
 
 			black_steel_dust: {
-				DisplayName: Black Steel Dust
+				DisplayName: 黑钢粉
 				Tooltip: ""
 			}
 
 			black_steel_foil: {
-				DisplayName: Black Steel Foil
+				DisplayName: 黑钢箔
 				Tooltip: ""
 			}
 
 			black_steel_frame: {
-				DisplayName: Black Steel Frame
+				DisplayName: 黑钢框架
 				Tooltip: ""
 			}
 
 			black_steel_gear: {
-				DisplayName: Black Steel Gear
+				DisplayName: 黑钢齿轮
 				Tooltip: ""
 			}
 
 			black_steel_hex_cable: {
-				DisplayName: EV Hex Black Steel Cable
+				DisplayName: EV 16x黑钢线缆
 				Tooltip: ""
 			}
 
 			black_steel_hex_wire: {
-				DisplayName: EV Hex Black Steel Wire
+				DisplayName: EV 16x黑钢导线
 				Tooltip: ""
 			}
 
 			black_steel_ingot: {
-				DisplayName: Black Steel Ingot
+				DisplayName: 黑钢锭
 				Tooltip: ""
 			}
 
 			black_steel_nugget: {
-				DisplayName: Black Steel Nugget
+				DisplayName: 黑钢粒
 				Tooltip: ""
 			}
 
 			black_steel_octal_cable: {
-				DisplayName: EV Octal Black Steel Cable
+				DisplayName: EV 8x黑钢线缆
 				Tooltip: ""
 			}
 
 			black_steel_octal_wire: {
-				DisplayName: EV Octal Black Steel Wire
+				DisplayName: EV 8x黑钢导线
 				Tooltip: ""
 			}
 
 			black_steel_plate: {
-				DisplayName: Black Steel Plate
+				DisplayName: 黑钢板
 				Tooltip: ""
 			}
 
 			black_steel_quadruple_cable: {
-				DisplayName: EV Quadruple Black Steel Cable
+				DisplayName: EV 4x黑钢线缆
 				Tooltip: ""
 			}
 
 			black_steel_quadruple_wire: {
-				DisplayName: EV Quadruple Black Steel Wire
+				DisplayName: EV 4x黑钢导线
 				Tooltip: ""
 			}
 
 			black_steel_rod: {
-				DisplayName: Black Steel Rod
+				DisplayName: 黑钢杆
 				Tooltip: ""
 			}
 
 			black_steel_single_cable: {
-				DisplayName: EV Black Steel Cable
+				DisplayName: EV 黑钢线缆
 				Tooltip: ""
 			}
 
 			black_steel_single_wire: {
-				DisplayName: EV Black Steel Wire
+				DisplayName: EV 黑钢导线
 				Tooltip: ""
 			}
 
 			blackstone_dust: {
-				DisplayName: Blackstone Dust
+				DisplayName: 黑石粉
 				Tooltip: ""
 			}
 
 			blaze_dust: {
-				DisplayName: Blaze Dust
+				DisplayName: 烈焰粉
 				Tooltip: ""
 			}
 
 			blaze_rod: {
-				DisplayName: Blaze Rod
+				DisplayName: 烈焰棒
 				Tooltip: ""
 			}
 
 			blue_alloy_block: {
-				DisplayName: Block of Blue Alloy
+				DisplayName: 蓝石合金块
 				Tooltip: ""
 			}
 
 			blue_alloy_bolt: {
-				DisplayName: Blue Alloy Bolt
+				DisplayName: 蓝石合金螺栓
 				Tooltip: ""
 			}
 
 			blue_alloy_double_cable: {
-				DisplayName: HV Double Blue Alloy Cable
+				DisplayName: HV 2x蓝石合金线缆
 				Tooltip: ""
 			}
 
 			blue_alloy_double_wire: {
-				DisplayName: HV Double Blue Alloy Wire
+				DisplayName: HV 2x蓝石合金导线
 				Tooltip: ""
 			}
 
 			blue_alloy_dust: {
-				DisplayName: Blue Alloy Dust
+				DisplayName: 蓝石合金粉
 				Tooltip: ""
 			}
 
 			blue_alloy_hex_cable: {
-				DisplayName: HV Hex Blue Alloy Cable
+				DisplayName: HV 16x蓝石合金线缆
 				Tooltip: ""
 			}
 
 			blue_alloy_hex_wire: {
-				DisplayName: HV Hex Blue Alloy Wire
+				DisplayName: HV 16x蓝石合金导线
 				Tooltip: ""
 			}
 
 			blue_alloy_ingot: {
-				DisplayName: Blue Alloy Ingot
+				DisplayName: 蓝石合金锭
 				Tooltip: ""
 			}
 
 			blue_alloy_nugget: {
-				DisplayName: Blue Alloy Nugget
+				DisplayName: 蓝石合金粒
 				Tooltip: ""
 			}
 
 			blue_alloy_octal_cable: {
-				DisplayName: HV Octal Blue Alloy Cable
+				DisplayName: HV 8x蓝石合金线缆
 				Tooltip: ""
 			}
 
 			blue_alloy_octal_wire: {
-				DisplayName: HV Octal Blue Alloy Wire
+				DisplayName: HV 8x蓝石合金导线
 				Tooltip: ""
 			}
 
 			blue_alloy_plate: {
-				DisplayName: Blue Alloy Plate
+				DisplayName: 蓝石合金板
 				Tooltip: ""
 			}
 
 			blue_alloy_quadruple_cable: {
-				DisplayName: HV Quadruple Blue Alloy Cable
+				DisplayName: HV 4x蓝石合金线缆
 				Tooltip: ""
 			}
 
 			blue_alloy_quadruple_wire: {
-				DisplayName: HV Quadruple Blue Alloy Wire
+				DisplayName: HV 4x蓝石合金导线
 				Tooltip: ""
 			}
 
 			blue_alloy_rod: {
-				DisplayName: Blue Alloy Rod
+				DisplayName: 蓝石合金杆
 				Tooltip: ""
 			}
 
 			blue_alloy_screw: {
-				DisplayName: Blue Alloy Screw
+				DisplayName: 蓝石合金螺丝
 				Tooltip: ""
 			}
 
 			blue_alloy_single_cable: {
-				DisplayName: HV Blue Alloy Cable
+				DisplayName: HV 蓝石合金线缆
 				Tooltip: ""
 			}
 
 			blue_alloy_single_wire: {
-				DisplayName: HV Blue Alloy Wire
+				DisplayName: HV 蓝石合金导线
 				Tooltip: ""
 			}
 
 			blue_steel_block: {
-				DisplayName: Block of Blue Steel
+				DisplayName: 蓝钢块
 				Tooltip: ""
 			}
 
 			blue_steel_bolt: {
-				DisplayName: Blue Steel Bolt
+				DisplayName: 蓝钢螺栓
 				Tooltip: ""
 			}
 
 			blue_steel_buzz_saw_blade: {
-				DisplayName: Blue Steel Buzzsaw Blade
+				DisplayName: 蓝钢圆锯锯刃
 				Tooltip: ""
 			}
 
 			blue_steel_chainsaw_head: {
-				DisplayName: Blue Steel Chainsaw Head
+				DisplayName: 蓝钢链锯头
 				Tooltip: ""
 			}
 
 			blue_steel_drill_head: {
-				DisplayName: Blue Steel Drill Head
+				DisplayName: 蓝钢钻头
 				Tooltip: ""
 			}
 
 			blue_steel_dust: {
-				DisplayName: Blue Steel Dust
+				DisplayName: 蓝钢粉
 				Tooltip: ""
 			}
 
 			blue_steel_frame: {
-				DisplayName: Blue Steel Frame
+				DisplayName: 蓝钢框架
 				Tooltip: ""
 			}
 
 			blue_steel_gear: {
-				DisplayName: Blue Steel Gear
+				DisplayName: 蓝钢齿轮
 				Tooltip: ""
 			}
 
 			blue_steel_ingot: {
-				DisplayName: Blue Steel Ingot
+				DisplayName: 蓝钢锭
 				Tooltip: ""
 			}
 
 			blue_steel_nugget: {
-				DisplayName: Blue Steel Nugget
+				DisplayName: 蓝钢粒
 				Tooltip: ""
 			}
 
 			blue_steel_plate: {
-				DisplayName: Blue Steel Plate
+				DisplayName: 蓝钢板
 				Tooltip: ""
 			}
 
 			blue_steel_rod: {
-				DisplayName: Blue Steel Rod
+				DisplayName: 蓝钢杆
 				Tooltip: ""
 			}
 
 			blue_steel_screw: {
-				DisplayName: Blue Steel Screw
+				DisplayName: 蓝钢螺丝
 				Tooltip: ""
 			}
 
 			blue_steel_screwdriver_tip: {
-				DisplayName: Blue Steel Screwdriver Tip
+				DisplayName: 蓝钢螺丝刀刀头
 				Tooltip: ""
 			}
 
 			blue_steel_wire_cutter_head: {
-				DisplayName: Blue Steel Wire Cutter Head
+				DisplayName: 蓝钢剪线钳钳头
 				Tooltip: ""
 			}
 
 			blue_steel_wrench_tip: {
-				DisplayName: Blue Steel Wrench Tip
+				DisplayName: 蓝钢扳手顶
 				Tooltip: ""
 			}
 
 			blue_topaz_block: {
-				DisplayName: Block of Blue Topaz
+				DisplayName: 蓝黄玉块
 				Tooltip: ""
 			}
 
 			blue_topaz_dust: {
-				DisplayName: Blue Topaz Dust
+				DisplayName: 蓝黄玉粉
 				Tooltip: ""
 			}
 
 			blue_topaz_gem: {
-				DisplayName: Blue Topaz
+				DisplayName: 蓝黄玉
 				Tooltip: ""
 			}
 
 			blue_topaz_plate: {
-				DisplayName: Blue Topaz Plate
+				DisplayName: 蓝黄玉板
 				Tooltip: ""
 			}
 
 			blue_topaz_rod: {
-				DisplayName: Blue Topaz Rod
+				DisplayName: 蓝黄玉杆
 				Tooltip: ""
 			}
 
 			bone_dust: {
-				DisplayName: Bone Dust
+				DisplayName: 骨头粉
 				Tooltip: ""
 			}
 
 			borax_dust: {
-				DisplayName: Borax Dust
+				DisplayName: 硼砂粉
 				Tooltip: ""
 			}
 
 			bornite_dust: {
-				DisplayName: Bornite Dust
+				DisplayName: 斑铜矿粉
 				Tooltip: ""
 			}
 
 			boron_dust: {
-				DisplayName: Boron Dust
+				DisplayName: 硼粉
 				Tooltip: ""
 			}
 
 			borosilicate_glass_block: {
-				DisplayName: Block of Borosilicate Glass
+				DisplayName: 硼硅玻璃块
 				Tooltip: ""
 			}
 
 			borosilicate_glass_dust: {
-				DisplayName: Borosilicate Glass Dust
+				DisplayName: 硼硅玻璃粉
 				Tooltip: ""
 			}
 
 			borosilicate_glass_ingot: {
-				DisplayName: Borosilicate Glass Ingot
+				DisplayName: 硼硅玻璃锭
 				Tooltip: ""
 			}
 
 			borosilicate_glass_nugget: {
-				DisplayName: Borosilicate Glass Nugget
+				DisplayName: 硼硅玻璃粒
 				Tooltip: ""
 			}
 
 			brass_block: {
-				DisplayName: Block of Brass
+				DisplayName: 黄铜块
 				Tooltip: ""
 			}
 
