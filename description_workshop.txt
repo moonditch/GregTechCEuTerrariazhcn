@@ -8,3 +8,7 @@
 [*] 也可以在评论区告诉我，如果无法进行评论区留言，请加入[url=https://steamcommunity.com/chat/invite/RKieSpPJ]Steam聊天室[/url]
 [*] 我们暂不接受以咨询或反馈汉化为目的的Steam/QQ好友申请，请见谅
 [/list]
+
+模组图标来源: GregTech Modern team
+来源: https://github.com/GregTechCEu/GregTech-Modern
+许可: LGPL-3.0-or-later

@@ -3,6 +3,5 @@ author = moon.ditch & @马达达马达 & xiakkto & 氨苄西林 & TheWorldCreate
 version = 0.0.3
 translationMod = true
 side = NoSync
-hideResources = true
 modReferences = GregTechCEuTerraria
 homepage = https://github.com/moonditch/GregTechCEuTerrariazhcn
