@@ -1,7 +1,8 @@
 displayName = 格雷科技（泰拉瑞亚版）汉化补丁
-author = moon.ditch & @马达达马达 & xiakkto & 氨苄西林 & TheWorldCreater 
+author = moon.ditch & @马达达马达 & xiakkto & 氨苄西林 & TheWorldCreater &  onyx
 version = 0.0.3
 translationMod = true
 side = NoSync
 hideResources = true
 modReferences = GregTechCEuTerraria
+homepage = https://github.com/moonditch/GregTechCEuTerrariazhcn
