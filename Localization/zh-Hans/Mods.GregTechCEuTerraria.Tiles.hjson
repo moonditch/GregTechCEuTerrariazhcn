@@ -1,0 +1,2126 @@
+almandine_block.MapEntry: 铁铝榴石块
+aluminium_block.MapEntry: 铝块
+americium_block.MapEntry: 镅块
+amethyst_block.MapEntry: 紫水晶块
+andradite_block.MapEntry: 钙铁榴石块
+annealed_copper_block.MapEntry: 退火铜块
+antimony_block.MapEntry: 锑块
+apatite_block.MapEntry: 磷灰石块
+battery_alloy_block.MapEntry: 电池合金块
+beryllium_block.MapEntry: 铍块
+bismuth_block.MapEntry: 铋块
+bismuth_bronze_block.MapEntry: 铋青铜块
+black_bronze_block.MapEntry: 黑青铜块
+black_steel_block.MapEntry: 黑钢块
+blue_alloy_block.MapEntry: 蓝色合金块
+blue_steel_block.MapEntry: 蓝钢块
+blue_topaz_block.MapEntry: 蓝黄玉块
+borosilicate_glass_block.MapEntry: 硼硅玻璃块
+brass_block.MapEntry: 黄铜块
+bronze_block.MapEntry: 青铜块
+certus_quartz_block.MapEntry: 赛特斯石英块
+charcoal_block.MapEntry: 木炭块
+chromium_block.MapEntry: 铬块
+cinnabar_block.MapEntry: 朱砂块
+coal_block.MapEntry: 煤炭块
+cobalt_block.MapEntry: 钴块
+cobalt_brass_block.MapEntry: 钴黄铜块
+coke_block.MapEntry: 焦煤块
+copper_block.MapEntry: 铜块
+cupronickel_block.MapEntry: 白铜块
+damascus_steel_block.MapEntry: 大马士革钢块
+darmstadtium_block.MapEntry: 𫟼块
+diamond_block.MapEntry: 钻石块
+duranium_block.MapEntry: 铿铀块
+echo_shard_block.MapEntry: 回响碎片块
+electrum_block.MapEntry: 琥珀金块
+emerald_block.MapEntry: 绿宝石块
+ender_eye_block.MapEntry: 末影之眼块
+ender_pearl_block.MapEntry: 末影珍珠块
+enriched_naquadah_block.MapEntry: 富集硅岩块
+enriched_naquadah_trinium_europium_duranide_block.MapEntry: 富集硅岩凯金铕铿铀合金块
+epoxy_block.MapEntry: 环氧树脂块
+europium_block.MapEntry: 铕块
+flint_block.MapEntry: 燧石块
+gallium_block.MapEntry: 镓块
+gallium_arsenide_block.MapEntry: 砷化镓块
+glass_block.MapEntry: 玻璃块
+gold_block.MapEntry: 金块
+graphene_block.MapEntry: 石墨烯块
+green_sapphire_block.MapEntry: 绿色蓝宝石块
+grossular_block.MapEntry: 钙铝榴石块
+hastelloy_c_276_block.MapEntry: 哈斯特洛依合金 C-276块
+hastelloy_x_block.MapEntry: 哈斯特洛依合金-X块
+hsla_steel_block.MapEntry: HSLA钢块
+hsse_block.MapEntry: 高速钢-E块
+hssg_block.MapEntry: 高速钢-G块
+hsss_block.MapEntry: 高速钢-S块
+incoloy_ma_956_block.MapEntry: 耐热铬铁合金 MA-956块
+indium_block.MapEntry: 铟块
+indium_gallium_phosphide_block.MapEntry: 磷化铟镓块
+indium_tin_barium_titanium_cuprate_block.MapEntry: 铟锡钡钛铜氧化物块
+invar_block.MapEntry: 殷钢块
+iridium_block.MapEntry: 铱块
+iron_block.MapEntry: 铁块
+kanthal_block.MapEntry: 坎塔尔合金块
+lapis_block.MapEntry: 青金石块
+lapotron_block.MapEntry: 兰波顿块
+lazurite_block.MapEntry: 蓝金石块
+lead_block.MapEntry: 铅块
+magnalium_block.MapEntry: 镁铝合金块
+magnesium_diboride_block.MapEntry: 二硼化镁块
+magnetic_iron_block.MapEntry: 磁化铁块
+magnetic_neodymium_block.MapEntry: 磁化钕块
+magnetic_samarium_block.MapEntry: 磁化钐块
+magnetic_steel_block.MapEntry: 磁化钢块
+malachite_block.MapEntry: 孔雀石块
+manganese_block.MapEntry: 锰块
+manganese_phosphide_block.MapEntry: 磷化锰块
+maraging_steel_300_block.MapEntry: 马氏体时效钢-300块
+mercury_barium_calcium_cuprate_block.MapEntry: 汞钡钙铜氧化物块
+molybdenum_block.MapEntry: 钼块
+molybdenum_disilicide_block.MapEntry: 二硅化钼块
+monazite_block.MapEntry: 独居石块
+naquadah_block.MapEntry: 硅岩块
+naquadah_alloy_block.MapEntry: 硅岩合金块
+naquadria_block.MapEntry: 超能硅岩块
+neodymium_block.MapEntry: 钕块
+nether_quartz_block.MapEntry: 下界石英块
+nether_star_block.MapEntry: 下界之星块
+netherite_block.MapEntry: 下界合金块
+neutronium_block.MapEntry: 中子素块
+nichrome_block.MapEntry: 镍铬合金块
+nickel_block.MapEntry: 镍块
+nickel_zinc_ferrite_block.MapEntry: 镍锌铁氧体块
+niobium_block.MapEntry: 铌块
+niobium_nitride_block.MapEntry: 氮化铌块
+niobium_titanium_block.MapEntry: 铌钛合金块
+olivine_block.MapEntry: 橄榄石块
+opal_block.MapEntry: 猫眼石块
+osmiridium_block.MapEntry: 铱锇合金块
+osmium_block.MapEntry: 锇块
+palladium_block.MapEntry: 钯块
+platinum_block.MapEntry: 铂块
+plutonium_block.MapEntry: 钚块
+plutonium_241_block.MapEntry: 钚-241块
+polybenzimidazole_block.MapEntry: 聚苯并咪唑块
+polycaprolactam_block.MapEntry: 聚己内酰胺块
+polyethylene_block.MapEntry: 聚乙烯块
+polyphenylene_sulfide_block.MapEntry: 聚苯硫醚块
+polytetrafluoroethylene_block.MapEntry: 聚四氟乙烯块
+polyvinyl_butyral_block.MapEntry: 聚乙烯醇缩丁醛块
+polyvinyl_chloride_block.MapEntry: 聚氯乙烯块
+potin_block.MapEntry: 粗青铜合金块
+pyrope_block.MapEntry: 镁铝榴石块
+quartzite_block.MapEntry: 石英岩块
+raw_rubber_block.MapEntry: 生橡胶块
+realgar_block.MapEntry: 雄黄块
+red_alloy_block.MapEntry: 红色合金块
+red_garnet_block.MapEntry: 红石榴石块
+red_steel_block.MapEntry: 红钢块
+reinforced_epoxy_resin_block.MapEntry: 强化环氧树脂块
+rhodium_block.MapEntry: 铑块
+rhodium_plated_palladium_block.MapEntry: 镀铑钯块
+rock_salt_block.MapEntry: 岩盐块
+rose_gold_block.MapEntry: 玫瑰金块
+rtm_alloy_block.MapEntry: 钌钨钼合金块
+rubber_block.MapEntry: 橡胶块
+ruby_block.MapEntry: 红宝石块
+ruridit_block.MapEntry: 钌铱合金块
+ruthenium_block.MapEntry: 钌块
+ruthenium_trinium_americium_neutronate_block.MapEntry: 钌凯金镅中子素氧化物块
+rutile_block.MapEntry: 金红石块
+salt_block.MapEntry: 盐块
+samarium_block.MapEntry: 钐块
+samarium_iron_arsenic_oxide_block.MapEntry: 钐铁砷氧化物块
+sapphire_block.MapEntry: 蓝宝石块
+silicon_block.MapEntry: 硅块
+silicone_rubber_block.MapEntry: 硅橡胶块
+silver_block.MapEntry: 银块
+sodalite_block.MapEntry: 方钠石块
+soldering_alloy_block.MapEntry: 焊锡块
+spessartine_block.MapEntry: 锰铝榴石块
+stainless_steel_block.MapEntry: 不锈钢块
+steel_block.MapEntry: 钢块
+stellite_100_block.MapEntry: 司太立-100块
+sterling_silver_block.MapEntry: 标准纯银块
+styrene_butadiene_rubber_block.MapEntry: 丁苯橡胶块
+sugar_block.MapEntry: 糖块
+tantalum_block.MapEntry: 钽块
+tantalum_carbide_block.MapEntry: 碳化钽块
+thorium_block.MapEntry: 钍块
+tin_block.MapEntry: 锡块
+tin_alloy_block.MapEntry: 锡铁合金块
+titanium_block.MapEntry: 钛块
+titanium_carbide_block.MapEntry: 碳化钛块
+titanium_tungsten_carbide_block.MapEntry: 碳化钛钨块
+topaz_block.MapEntry: 黄玉块
+trinium_block.MapEntry: 凯金块
+tritanium_block.MapEntry: 三钛块
+tungsten_block.MapEntry: 钨块
+tungsten_carbide_block.MapEntry: 碳化钨块
+tungsten_steel_block.MapEntry: 钨钢块
+ultimet_block.MapEntry: 哈氏合金块
+uranium_block.MapEntry: 铀块
+uranium_235_block.MapEntry: 铀-235块
+uranium_rhodium_dinaquadide_block.MapEntry: 铀铑硅岩合金块
+uranium_triplatinum_block.MapEntry: 三铂化铀块
+uvarovite_block.MapEntry: 钙铬榴石块
+vanadium_block.MapEntry: 钒块
+vanadium_gallium_block.MapEntry: 钒镓合金块
+vanadium_steel_block.MapEntry: 钒钢块
+watertight_steel_block.MapEntry: 防水钢块
+wax_block.MapEntry: 蜡块
+wrought_iron_block.MapEntry: 锻铁块
+yellow_garnet_block.MapEntry: 黄石榴石块
+yttrium_block.MapEntry: 钇块
+yttrium_barium_cuprate_block.MapEntry: 钇钡铜氧化物块
+zeron_100_block.MapEntry: 赛龙-100块
+zinc_block.MapEntry: 锌块
+// almandine_ore.MapEntry: Almandine Ore
+// aluminium_ore.MapEntry: Aluminium Ore
+// alunite_ore.MapEntry: Alunite Ore
+// amethyst_ore.MapEntry: Amethyst Ore
+// apatite_ore.MapEntry: Apatite Ore
+// asbestos_ore.MapEntry: Asbestos Ore
+// barite_ore.MapEntry: Barite Ore
+// basaltic_mineral_sand_ore.MapEntry: Basaltic Mineral Sand Ore
+// bastnasite_ore.MapEntry: Bastnasite Ore
+// bauxite_ore.MapEntry: Bauxite Ore
+// bentonite_ore.MapEntry: Bentonite Ore
+// beryllium_ore.MapEntry: Beryllium Ore
+// blue_topaz_ore.MapEntry: Blue Topaz Ore
+// bornite_ore.MapEntry: Bornite Ore
+// calcite_ore.MapEntry: Calcite Ore
+// cassiterite_ore.MapEntry: Cassiterite Ore
+// cassiterite_sand_ore.MapEntry: Cassiterite Sand Ore
+// certus_quartz_ore.MapEntry: Certus Quartz Ore
+// chalcocite_ore.MapEntry: Chalcocite Ore
+// chalcopyrite_ore.MapEntry: Chalcopyrite Ore
+// chromite_ore.MapEntry: Chromite Ore
+// cinnabar_ore.MapEntry: Cinnabar Ore
+// coal_ore.MapEntry: Coal Ore
+// cobalt_ore.MapEntry: Cobalt Ore
+// cobaltite_ore.MapEntry: Cobaltite Ore
+// cooperite_ore.MapEntry: Cooperite Ore
+// copper_ore.MapEntry: Copper Ore
+// diamond_ore.MapEntry: Diamond Ore
+// diatomite_ore.MapEntry: Diatomite Ore
+// electrotine_ore.MapEntry: Electrotine Ore
+// emerald_ore.MapEntry: Emerald Ore
+// fullers_earth_ore.MapEntry: Fullers Earth Ore
+// galena_ore.MapEntry: Galena Ore
+// garnet_sand_ore.MapEntry: Garnet Sand Ore
+// garnierite_ore.MapEntry: Garnierite Ore
+// glauconite_sand_ore.MapEntry: Glauconite Sand Ore
+// goethite_ore.MapEntry: Goethite Ore
+// gold_ore.MapEntry: Gold Ore
+// granitic_mineral_sand_ore.MapEntry: Granitic Mineral Sand Ore
+// graphite_ore.MapEntry: Graphite Ore
+// green_sapphire_ore.MapEntry: Green Sapphire Ore
+// grossular_ore.MapEntry: Grossular Ore
+// gypsum_ore.MapEntry: Gypsum Ore
+// hematite_ore.MapEntry: Hematite Ore
+// ilmenite_ore.MapEntry: Ilmenite Ore
+// iron_ore.MapEntry: Iron Ore
+// kyanite_ore.MapEntry: Kyanite Ore
+// lapis_ore.MapEntry: Lapis Ore
+// lazurite_ore.MapEntry: Lazurite Ore
+// lead_ore.MapEntry: Lead Ore
+// lepidolite_ore.MapEntry: Lepidolite Ore
+// lithium_ore.MapEntry: Lithium Ore
+// magnesite_ore.MapEntry: Magnesite Ore
+// magnetite_ore.MapEntry: Magnetite Ore
+// malachite_ore.MapEntry: Malachite Ore
+// mica_ore.MapEntry: Mica Ore
+// molybdenite_ore.MapEntry: Molybdenite Ore
+// molybdenum_ore.MapEntry: Molybdenum Ore
+// monazite_ore.MapEntry: Monazite Ore
+// naquadah_ore.MapEntry: Naquadah Ore
+// neodymium_ore.MapEntry: Neodymium Ore
+// nether_quartz_ore.MapEntry: Nether Quartz Ore
+// nickel_ore.MapEntry: Nickel Ore
+// oilsands_ore.MapEntry: Oilsands Ore
+// olivine_ore.MapEntry: Olivine Ore
+// opal_ore.MapEntry: Opal Ore
+// palladium_ore.MapEntry: Palladium Ore
+// pentlandite_ore.MapEntry: Pentlandite Ore
+// pitchblende_ore.MapEntry: Pitchblende Ore
+// platinum_ore.MapEntry: Platinum Ore
+// plutonium_ore.MapEntry: Plutonium Ore
+// pollucite_ore.MapEntry: Pollucite Ore
+// powellite_ore.MapEntry: Powellite Ore
+// pyrite_ore.MapEntry: Pyrite Ore
+// pyrochlore_ore.MapEntry: Pyrochlore Ore
+// pyrolusite_ore.MapEntry: Pyrolusite Ore
+// pyrope_ore.MapEntry: Pyrope Ore
+// quartzite_ore.MapEntry: Quartzite Ore
+// realgar_ore.MapEntry: Realgar Ore
+// red_garnet_ore.MapEntry: Red Garnet Ore
+// redstone_ore.MapEntry: Redstone Ore
+// rock_salt_ore.MapEntry: Rock Salt Ore
+// ruby_ore.MapEntry: Ruby Ore
+// salt_ore.MapEntry: Salt Ore
+// saltpeter_ore.MapEntry: Saltpeter Ore
+// sapphire_ore.MapEntry: Sapphire Ore
+// scheelite_ore.MapEntry: Scheelite Ore
+// silver_ore.MapEntry: Silver Ore
+// soapstone_ore.MapEntry: Soapstone Ore
+// sodalite_ore.MapEntry: Sodalite Ore
+// spessartine_ore.MapEntry: Spessartine Ore
+// sphalerite_ore.MapEntry: Sphalerite Ore
+// spodumene_ore.MapEntry: Spodumene Ore
+// stibnite_ore.MapEntry: Stibnite Ore
+// sulfur_ore.MapEntry: Sulfur Ore
+// talc_ore.MapEntry: Talc Ore
+// tantalite_ore.MapEntry: Tantalite Ore
+// tetrahedrite_ore.MapEntry: Tetrahedrite Ore
+// thorium_ore.MapEntry: Thorium Ore
+// tin_ore.MapEntry: Tin Ore
+// topaz_ore.MapEntry: Topaz Ore
+// tricalcium_phosphate_ore.MapEntry: Tricalcium Phosphate Ore
+// trona_ore.MapEntry: Trona Ore
+// tungstate_ore.MapEntry: Tungstate Ore
+// uraninite_ore.MapEntry: Uraninite Ore
+// vanadium_magnetite_ore.MapEntry: Vanadium Magnetite Ore
+// wulfenite_ore.MapEntry: Wulfenite Ore
+// yellow_garnet_ore.MapEntry: Yellow Garnet Ore
+// yellow_limonite_ore.MapEntry: Yellow Limonite Ore
+// zeolite_ore.MapEntry: Zeolite Ore
+acid_hazard_sign_block.MapEntry: 强酸危害警示方块
+active_transformer.MapEntry: 有源变压器
+advanced_computer_casing.MapEntry: 高级计算机外壳
+advanced_data_access_hatch.MapEntry: 高级数据访问仓
+advanced_monitor.MapEntry: 高级监控器
+alloy_blast_smelter.MapEntry: 合金冶炼炉
+aluminium_crate.MapEntry: 铝板条箱
+aluminium_drum.MapEntry: 铝桶
+antimatter_hazard_sign_block.MapEntry: 反物质危害警示方块
+assembly_line.MapEntry: 装配线
+assembly_line_casing.MapEntry: 装配线外壳
+assembly_line_grating.MapEntry: 装配线格栅
+assembly_line_unit.MapEntry: 装配线控制外壳
+atomic_casing.MapEntry: 原子机械方块
+auto_maintenance_hatch.MapEntry: 自动维护仓
+basic_data_access_hatch.MapEntry: 基础数据访问仓
+bio_hazard_sign_block.MapEntry: 生化危害警示方块
+black_borderless_lamp.MapEntry: 黑色无框灯
+black_lamp.MapEntry: 黑色灯
+black_large_metal_sheet.MapEntry: 黑色粗纹金属板方块
+black_metal_sheet.MapEntry: 黑色金属板方块
+black_studs.MapEntry: 黑色橡胶混凝土
+blue_borderless_lamp.MapEntry: 蓝色无框灯
+blue_lamp.MapEntry: 蓝色灯
+blue_large_metal_sheet.MapEntry: 蓝色粗纹金属板方块
+blue_metal_sheet.MapEntry: 蓝色金属板方块
+blue_studs.MapEntry: 蓝色橡胶混凝土
+boss_hazard_sign_block.MapEntry: Boss危害警示方块
+brittle_charcoal.MapEntry: 脆木炭块
+bronze_brick_casing.MapEntry: 砖砌青铜外壳
+bronze_crate.MapEntry: 青铜板条箱
+bronze_drum.MapEntry: 青铜桶
+bronze_firebox_casing.MapEntry: 青铜燃烧室
+bronze_gearbox.MapEntry: 青铜齿轮箱机械方块
+bronze_large_boiler.MapEntry: 大型青铜锅炉
+bronze_machine_casing.MapEntry: 青铜机器外壳
+bronze_multiblock_tank.MapEntry: 青铜多方块储罐
+bronze_pipe_casing.MapEntry: 青铜管道方块
+bronze_tank_valve.MapEntry: 青铜储罐阀门
+brown_borderless_lamp.MapEntry: 棕色无框灯
+brown_lamp.MapEntry: 棕色灯
+brown_large_metal_sheet.MapEntry: 棕色粗纹金属板方块
+brown_metal_sheet.MapEntry: 棕色金属板方块
+brown_studs.MapEntry: 棕色橡胶混凝土
+causality_hazard_sign_block.MapEntry: 因果律危害警示方块
+central_monitor.MapEntry: 中央监控器
+charcoal_pile_igniter.MapEntry: 木炭堆点火器
+chiseled_dark_concrete.MapEntry: 雕纹深色混凝土
+chiseled_light_concrete.MapEntry: 雕纹淡色混凝土
+chiseled_marble.MapEntry: 雕纹大理岩
+chiseled_red_granite.MapEntry: 雕纹红花岗岩
+clean_machine_casing.MapEntry: 洁净不锈钢机械方块
+cleaning_maintenance_hatch.MapEntry: 超净维护仓
+cleanroom.MapEntry: 超净间
+cleanroom_glass.MapEntry: 超净间玻璃
+coke_oven.MapEntry: 焦炉
+coke_oven_bricks.MapEntry: 焦炉砖块
+coke_oven_hatch.MapEntry: 焦炉仓
+computation_receiver_hatch.MapEntry: 算力数据靶仓
+computation_transmitter_hatch.MapEntry: 算力数据源仓
+computer_casing.MapEntry: 计算机外壳
+computer_heat_vent.MapEntry: 计算机散热口
+configurable_maintenance_hatch.MapEntry: 可配置维护仓
+corrosion_proof_casing.MapEntry: 耐腐蚀机械方块
+cracked_dark_concrete_bricks.MapEntry: 裂纹深色混凝土砖
+cracked_light_concrete_bricks.MapEntry: 裂纹淡色混凝土砖
+cracked_marble_bricks.MapEntry: 裂纹大理岩砖
+cracked_red_granite_bricks.MapEntry: 裂纹红花岗岩砖
+cracker.MapEntry: 裂化机
+creative_chest.MapEntry: 创造模式箱子
+creative_computation_provider.MapEntry: 创造模式计算机
+creative_data_access_hatch.MapEntry: 创造模式数据访问仓
+creative_energy.MapEntry: 创造模式能量单元
+creative_tank.MapEntry: 创造模式储罐
+crushing_wheels.MapEntry: 粉碎轮
+cupronickel_coil_block.MapEntry: 白铜线圈方块
+cyan_borderless_lamp.MapEntry: 青色无框灯
+cyan_lamp.MapEntry: 青色灯
+cyan_large_metal_sheet.MapEntry: 青色粗纹金属板方块
+cyan_metal_sheet.MapEntry: 青色金属板方块
+cyan_studs.MapEntry: 青色橡胶混凝土
+dark_concrete.MapEntry: 深色混凝土
+dark_concrete_bricks.MapEntry: 深色混凝土砖
+dark_concrete_cobblestone.MapEntry: 深色混凝土圆石
+dark_concrete_small_tile.MapEntry: 深色混凝土小片瓦
+dark_concrete_tile.MapEntry: 深色混凝土瓦
+dark_concrete_windmill_a.MapEntry: 深色混凝土风车形瓦 A
+dark_concrete_windmill_b.MapEntry: 深色混凝土风车形瓦 B
+data_access_hatch.MapEntry: 数据访问仓
+data_bank.MapEntry: 数据库
+data_receiver_hatch.MapEntry: 光学数据靶仓
+data_transmitter_hatch.MapEntry: 光学数据源仓
+distillation_tower.MapEntry: 蒸馏塔
+electric_blast_furnace.MapEntry: 电力高炉
+electrolytic_cell.MapEntry: 电解器
+empty_tier_i_battery.MapEntry: 空电容（Tier I）
+empty_tier_ii_battery.MapEntry: 空电容（Tier II）
+empty_tier_iii_battery.MapEntry: 空电容（Tier III）
+engine_intake_casing.MapEntry: 引擎进气机械方块
+ev_16a_energy_converter.MapEntry: 16[c/FFFF55:安][c/AA00AA:EV]能量转换器
+ev_1a_energy_converter.MapEntry: 1[c/FFFF55:安][c/AA00AA:EV]能量转换器
+ev_4a_energy_converter.MapEntry: 4[c/FFFF55:安][c/AA00AA:EV]能量转换器
+ev_8a_energy_converter.MapEntry: 8[c/FFFF55:安][c/AA00AA:EV]能量转换器
+ev_air_scrubber.MapEntry: "[c/AA00AA:进阶空气净化器 III]"
+ev_alloy_smelter.MapEntry: "[c/AA00AA:进阶合金炉 III]"
+ev_arc_furnace.MapEntry: "[c/AA00AA:进阶电弧炉 III]"
+ev_assembler.MapEntry: "[c/AA00AA:进阶组装机 III]"
+ev_autoclave.MapEntry: "[c/AA00AA:进阶高压釜 III]"
+ev_battery_buffer_16x.MapEntry: 16x[c/AA00AA:超高压]电池箱（[c/AA00AA:EV]）
+ev_battery_buffer_4x.MapEntry: 4x[c/AA00AA:超高压]电池箱（[c/AA00AA:EV]）
+ev_battery_buffer_8x.MapEntry: 8x[c/AA00AA:超高压]电池箱（[c/AA00AA:EV]）
+ev_bedrock_ore_miner.MapEntry: "[c/AA00AA:进阶基岩采矿机 III]"
+ev_bender.MapEntry: "[c/AA00AA:进阶卷板机 III]"
+ev_block_breaker.MapEntry: "[c/AA00AA:进阶方块破坏器 III]"
+ev_brewery.MapEntry: "[c/AA00AA:进阶酿造室 III]"
+ev_canner.MapEntry: "[c/AA00AA:进阶装罐机 III]"
+ev_centrifuge.MapEntry: "[c/AA00AA:进阶离心机 III]"
+ev_charger_4x.MapEntry: 4x[c/AA00AA:超高压]闪聚充电箱（[c/AA00AA:EV]）
+ev_chemical_bath.MapEntry: "[c/AA00AA:进阶化学浸洗机 III]"
+ev_chemical_reactor.MapEntry: "[c/AA00AA:进阶化学反应釜 III]"
+ev_circuit_assembler.MapEntry: "[c/AA00AA:进阶电路组装机 III]"
+ev_compressor.MapEntry: "[c/AA00AA:进阶压缩机 III]"
+ev_cutter.MapEntry: "[c/AA00AA:进阶切割机 III]"
+ev_diode.MapEntry: "[c/AA00AA:EV]二极管"
+ev_distillery.MapEntry: "[c/AA00AA:进阶蒸馏室 III]"
+ev_electric_furnace.MapEntry: "[c/AA00AA:进阶电炉 III]"
+ev_electrolyzer.MapEntry: "[c/AA00AA:进阶电解机 III]"
+ev_electromagnetic_separator.MapEntry: "[c/AA00AA:进阶电磁选矿机 III]"
+ev_energy_input_hatch.MapEntry: "[c/AA00AA:EV]能源仓"
+ev_energy_input_hatch_16a.MapEntry: 16安[c/AA00AA:EV]能源仓
+ev_energy_input_hatch_4a.MapEntry: 4安[c/AA00AA:EV]能源仓
+ev_energy_output_hatch.MapEntry: "[c/AA00AA:EV]动力仓"
+ev_energy_output_hatch_16a.MapEntry: 16安[c/AA00AA:EV]动力仓
+ev_energy_output_hatch_4a.MapEntry: 4安[c/AA00AA:EV]动力仓
+ev_extractor.MapEntry: "[c/AA00AA:进阶提取机 III]"
+ev_extruder.MapEntry: "[c/AA00AA:进阶压模器 III]"
+ev_fermenter.MapEntry: "[c/AA00AA:进阶发酵槽 III]"
+ev_fisher.MapEntry: "[c/AA00AA:进阶捕鱼机 III]"
+ev_fluid_drilling_rig.MapEntry: "[c/AA00AA:进阶流体钻机 III]"
+ev_fluid_heater.MapEntry: "[c/AA00AA:进阶流体加热器 III]"
+ev_fluid_passthrough_hatch.MapEntry: "[c/AA00AA:EV]流体通行仓"
+ev_fluid_solidifier.MapEntry: "[c/AA00AA:进阶流体固化器 III]"
+ev_forge_hammer.MapEntry: "[c/AA00AA:进阶锻造锤 III]"
+ev_forming_press.MapEntry: "[c/AA00AA:进阶冲压机床 III]"
+ev_gas_collector.MapEntry: "[c/AA00AA:进阶集气室 III]"
+ev_hermetic_casing.MapEntry: 密封机械方块 IV
+ev_input_bus.MapEntry: "[c/AA00AA:EV]输入总线"
+ev_input_hatch.MapEntry: "[c/AA00AA:EV]输入仓"
+ev_input_hatch_4x.MapEntry: "[c/AA00AA:EV]四重输入仓"
+ev_input_hatch_9x.MapEntry: "[c/AA00AA:EV]九重输入仓"
+ev_item_collector.MapEntry: "[c/AA00AA:进阶物品收集器 III]"
+ev_item_passthrough_hatch.MapEntry: "[c/AA00AA:EV]物品通行仓"
+ev_lapotronic_battery.MapEntry: 兰波顿电容（[c/AA00AA:EV]）
+ev_large_miner.MapEntry: "[c/AA00AA:进阶大型采矿机 III]"
+ev_laser_engraver.MapEntry: "[c/AA00AA:进阶激光蚀刻机 III]"
+ev_lathe.MapEntry: "[c/AA00AA:进阶车床 III]"
+ev_macerator.MapEntry: "[c/AA00AA:进阶研磨机 III]"
+ev_machine_casing.MapEntry: "[c/AA00AA:EV]机械方块"
+ev_machine_hull.MapEntry: "[c/AA00AA:EV][c/FFFFFF:机器外壳]"
+ev_mixer.MapEntry: "[c/AA00AA:进阶搅拌机 III]"
+ev_muffler_hatch.MapEntry: "[c/AA00AA:EV]消声仓"
+ev_ore_washer.MapEntry: "[c/AA00AA:进阶洗矿厂 III]"
+ev_output_bus.MapEntry: "[c/AA00AA:EV]输出总线"
+ev_output_hatch.MapEntry: "[c/AA00AA:EV]输出仓"
+ev_output_hatch_4x.MapEntry: "[c/AA00AA:EV]四重输出仓"
+ev_output_hatch_9x.MapEntry: "[c/AA00AA:EV]九重输出仓"
+ev_packer.MapEntry: "[c/AA00AA:进阶打包机 III]"
+ev_polarizer.MapEntry: "[c/AA00AA:进阶两极磁化机 III]"
+ev_pump.MapEntry: "[c/AA00AA:进阶泵 III]"
+ev_rock_crusher.MapEntry: "[c/AA00AA:进阶碎岩机 III]"
+ev_rotor_holder.MapEntry: "[c/AA00AA:EV]转子支架"
+ev_scanner.MapEntry: "[c/AA00AA:进阶扫描仪 III]"
+ev_sifter.MapEntry: "[c/AA00AA:进阶筛选机 III]"
+ev_substation_input_hatch_64a.MapEntry: 64安[c/AA00AA:EV]变电能源仓
+ev_substation_output_hatch_64a.MapEntry: 64安[c/AA00AA:EV]变电动力仓
+ev_super_chest.MapEntry: 超级箱 IV
+ev_super_tank.MapEntry: 超级缸 IV
+ev_thermal_centrifuge.MapEntry: "[c/AA00AA:进阶热力离心机 III]"
+ev_transformer_16a.MapEntry: "[c/AA00AA:超高压]高能变压器（[c/AA00AA:EV]）"
+ev_transformer_1a.MapEntry: "[c/AA00AA:超高压]变压器（[c/AA00AA:EV]）"
+ev_transformer_2a.MapEntry: "[c/AA00AA:超高压]进阶变压器（[c/AA00AA:EV]）"
+ev_transformer_4a.MapEntry: "[c/AA00AA:超高压]高流变压器（[c/AA00AA:EV]）"
+ev_wiremill.MapEntry: "[c/AA00AA:进阶线材轧机 III]"
+ev_world_accelerator.MapEntry: "[c/AA00AA:进阶世界加速器 III]"
+explosion_hazard_sign_block.MapEntry: 爆炸危害警示方块
+extreme_combustion_engine.MapEntry: 极限内燃引擎
+extreme_engine_intake_casing.MapEntry: 极限引擎进气机械方块
+filter_casing.MapEntry: 过滤器机械方块
+fire_hazard_sign_block.MapEntry: 易燃危害警示方块
+firebricks.MapEntry: 耐火砖块
+foam.MapEntry: 建筑泡沫
+frost_hazard_sign_block.MapEntry: 低温危害警示方块
+frostproof_machine_casing.MapEntry: 铝制防冻机械方块
+fusion_casing.MapEntry: 聚变机械方块
+fusion_casing_mk2.MapEntry: 聚变机械方块 MK-II
+fusion_casing_mk3.MapEntry: 聚变机械方块 MK-III
+fusion_coil.MapEntry: 聚变线圈方块
+fusion_glass.MapEntry: 聚变玻璃
+gas_large_turbine.MapEntry: 大型燃气涡轮
+generic_hazard_sign_block.MapEntry: 泛用危害警示方块
+gold_drum.MapEntry: 金桶
+gray_borderless_lamp.MapEntry: 灰色无框灯
+gray_lamp.MapEntry: 灰色灯
+gray_large_metal_sheet.MapEntry: 灰色粗纹金属板方块
+gray_metal_sheet.MapEntry: 灰色金属板方块
+gray_studs.MapEntry: 灰色橡胶混凝土
+green_borderless_lamp.MapEntry: 绿色无框灯
+green_lamp.MapEntry: 绿色灯
+green_large_metal_sheet.MapEntry: 绿色粗纹金属板方块
+green_metal_sheet.MapEntry: 绿色金属板方块
+green_studs.MapEntry: 绿色橡胶混凝土
+gregification_hazard_sign_block.MapEntry: 格雷化危害警示方块
+heat_vent.MapEntry: 散热片
+heatproof_machine_casing.MapEntry: 殷钢隔热机械方块
+high_performance_computation_array.MapEntry: 高性能计算阵列（HPCA）
+high_power_casing.MapEntry: 高能机械方块
+high_pressure_hazard_sign_block.MapEntry: 高压力危害警示方块
+high_temperature_hazard_sign_block.MapEntry: 高温危害警示方块
+high_temperature_smelting_casing.MapEntry: 高温冶炼机械方块
+high_voltage_hazard_sign_block.MapEntry: 高压电危害警示方块
+hp_steam_alloy_smelter.MapEntry: 高压蒸汽合金炉
+hp_steam_compressor.MapEntry: 高压蒸汽压缩机
+hp_steam_extractor.MapEntry: 高压蒸汽提取机
+hp_steam_forge_hammer.MapEntry: 高压蒸汽锻造锤
+hp_steam_furnace.MapEntry: 高压蒸汽熔炉
+hp_steam_liquid_boiler.MapEntry: 高压蒸汽液体燃料锅炉
+hp_steam_macerator.MapEntry: 高压蒸汽研磨机
+hp_steam_miner.MapEntry: 高压蒸汽采矿机
+hp_steam_rock_crusher.MapEntry: 高压蒸汽碎岩机
+hp_steam_solar_boiler.MapEntry: 高压蒸汽太阳能锅炉
+hp_steam_solid_boiler.MapEntry: 高压蒸汽固体燃料锅炉
+hpca_active_cooler_component.MapEntry: HPCA主动冷却组件
+hpca_advanced_computation_component.MapEntry: HPCA高级计算组件
+hpca_bridge_component.MapEntry: HPCA桥接组件
+hpca_computation_component.MapEntry: HPCA计算组件
+hpca_empty_component.MapEntry: 空HPCA组件
+hpca_heat_sink_component.MapEntry: HPCA散热组件
+hssg_coil_block.MapEntry: 高速钢-G线圈方块
+huge_duct_pipe.MapEntry: 巨型风管
+hv_16a_energy_converter.MapEntry: 16[c/FFFF55:安][c/FFAA00:HV]能量转换器
+hv_1a_energy_converter.MapEntry: 1[c/FFFF55:安][c/FFAA00:HV]能量转换器
+hv_4a_energy_converter.MapEntry: 4[c/FFFF55:安][c/FFAA00:HV]能量转换器
+hv_8a_energy_converter.MapEntry: 8[c/FFFF55:安][c/FFAA00:HV]能量转换器
+hv_air_scrubber.MapEntry: "[c/FFAA00:进阶空气净化器 II]"
+hv_alloy_smelter.MapEntry: "[c/FFAA00:进阶合金炉 II]"
+hv_arc_furnace.MapEntry: "[c/FFAA00:进阶电弧炉 II]"
+hv_assembler.MapEntry: "[c/FFAA00:进阶组装机 II]"
+hv_autoclave.MapEntry: "[c/FFAA00:进阶高压釜 II]"
+hv_battery_buffer_16x.MapEntry: 16x[c/FFAA00:高压]电池箱（[c/FFAA00:HV]）
+hv_battery_buffer_4x.MapEntry: 4x[c/FFAA00:高压]电池箱（[c/FFAA00:HV]）
+hv_battery_buffer_8x.MapEntry: 8x[c/FFAA00:高压]电池箱（[c/FFAA00:HV]）
+hv_bedrock_ore_miner.MapEntry: "[c/FFAA00:进阶基岩采矿机 II]"
+hv_bender.MapEntry: "[c/FFAA00:进阶卷板机 II]"
+hv_block_breaker.MapEntry: "[c/FFAA00:进阶方块破坏机 II]"
+hv_brewery.MapEntry: "[c/FFAA00:进阶酿造室 II]"
+hv_buffer.MapEntry: "[c/FFAA00:进阶缓存器 II]"
+hv_canner.MapEntry: "[c/FFAA00:进阶装罐机 II]"
+hv_centrifuge.MapEntry: "[c/FFAA00:进阶离心机 II]"
+hv_charger_4x.MapEntry: 4x[c/FFAA00:高压]闪聚充电箱（[c/FFAA00:HV]）
+hv_chemical_bath.MapEntry: "[c/FFAA00:进阶化学浸洗机 II]"
+hv_chemical_reactor.MapEntry: "[c/FFAA00:进阶化学反应釜 II]"
+hv_circuit_assembler.MapEntry: "[c/FFAA00:进阶电路组装机 II]"
+hv_combustion.MapEntry: "[c/FFAA00:进阶内燃发电机 II]"
+hv_compressor.MapEntry: "[c/FFAA00:进阶压缩机 II]"
+hv_cutter.MapEntry: "[c/FFAA00:进阶切割机 II]"
+hv_diode.MapEntry: "[c/FFAA00:HV]二极管"
+hv_distillery.MapEntry: "[c/FFAA00:进阶蒸馏室 II]"
+hv_electric_furnace.MapEntry: "[c/FFAA00:进阶电炉 II]"
+hv_electrolyzer.MapEntry: "[c/FFAA00:进阶电解机 II]"
+hv_electromagnetic_separator.MapEntry: "[c/FFAA00:进阶电磁选矿机 II]"
+hv_energy_input_hatch.MapEntry: "[c/FFAA00:HV]能源仓"
+hv_energy_output_hatch.MapEntry: "[c/FFAA00:HV]动力仓"
+hv_extractor.MapEntry: "[c/FFAA00:进阶提取机 II]"
+hv_extruder.MapEntry: "[c/FFAA00:进阶压模器 II]"
+hv_fermenter.MapEntry: "[c/FFAA00:进阶发酵槽 II]"
+hv_fisher.MapEntry: "[c/FFAA00:进阶捕鱼机 II]"
+hv_fluid_drilling_rig.MapEntry: "[c/FFAA00:进阶流体钻机 II]"
+hv_fluid_heater.MapEntry: "[c/FFAA00:进阶流体加热器 II]"
+hv_fluid_passthrough_hatch.MapEntry: "[c/FFAA00:HV]流体通行仓"
+hv_fluid_solidifier.MapEntry: "[c/FFAA00:进阶流体固化器 II]"
+hv_forge_hammer.MapEntry: "[c/FFAA00:进阶锻造锤 II]"
+hv_forming_press.MapEntry: "[c/FFAA00:进阶冲压机床 II]"
+hv_gas_collector.MapEntry: "[c/FFAA00:进阶集气室 II]"
+hv_gas_turbine.MapEntry: "[c/FFAA00:进阶燃气轮机 II]"
+hv_hermetic_casing.MapEntry: 密封机械方块 III
+hv_input_bus.MapEntry: "[c/FFAA00:HV]输入总线"
+hv_input_hatch.MapEntry: "[c/FFAA00:HV]输入仓"
+hv_item_collector.MapEntry: "[c/FFAA00:进阶物品收集器 II]"
+hv_item_passthrough_hatch.MapEntry: "[c/FFAA00:HV]物品通行仓"
+hv_laser_engraver.MapEntry: "[c/FFAA00:进阶激光蚀刻机 II]"
+hv_lathe.MapEntry: "[c/FFAA00:进阶车床 II]"
+hv_macerator.MapEntry: "[c/FFAA00:进阶研磨机 II]"
+hv_machine_casing.MapEntry: "[c/FFAA00:HV]机械方块"
+hv_machine_hull.MapEntry: "[c/FFAA00:HV][c/FFFFFF:机器外壳]"
+hv_miner.MapEntry: "[c/FFAA00:进阶采矿机 II]"
+hv_mixer.MapEntry: "[c/FFAA00:进阶搅拌机 II]"
+hv_muffler_hatch.MapEntry: "[c/FFAA00:HV]消声仓"
+hv_ore_washer.MapEntry: "[c/FFAA00:进阶洗矿厂 II]"
+hv_output_bus.MapEntry: "[c/FFAA00:HV]输出总线"
+hv_output_hatch.MapEntry: "[c/FFAA00:HV]输出仓"
+hv_packer.MapEntry: "[c/FFAA00:进阶打包机 II]"
+hv_polarizer.MapEntry: "[c/FFAA00:进阶两极磁化机 II]"
+hv_pump.MapEntry: "[c/FFAA00:进阶泵 II]"
+hv_rock_crusher.MapEntry: "[c/FFAA00:进阶碎岩机 II]"
+hv_rotor_holder.MapEntry: "[c/FFAA00:HV]转子支架"
+hv_scanner.MapEntry: "[c/FFAA00:进阶扫描仪 II]"
+hv_sifter.MapEntry: "[c/FFAA00:进阶筛选机 II]"
+hv_steam_turbine.MapEntry: "[c/FFAA00:进阶蒸汽轮机 II]"
+hv_super_chest.MapEntry: 超级箱 III
+hv_super_tank.MapEntry: 超级缸 III
+hv_thermal_centrifuge.MapEntry: "[c/FFAA00:进阶热力离心机 II]"
+hv_transformer_16a.MapEntry: "[c/FFAA00:高压]高能变压器（[c/FFAA00:HV]）"
+hv_transformer_1a.MapEntry: "[c/FFAA00:高压]变压器（[c/FFAA00:HV]）"
+hv_transformer_2a.MapEntry: "[c/FFAA00:高压]进阶变压器（[c/FFAA00:HV]）"
+hv_transformer_4a.MapEntry: "[c/FFAA00:高压]高流变压器（[c/FFAA00:HV]）"
+hv_wiremill.MapEntry: "[c/FFAA00:进阶线材轧机 II]"
+hv_world_accelerator.MapEntry: "[c/FFAA00:进阶世界加速器 II]"
+implosion_compressor.MapEntry: 聚爆压缩机
+industrial_steam_casing.MapEntry: 工业蒸汽机械方块
+industrial_tnt.MapEntry: 工业TNT
+inert_machine_casing.MapEntry: 聚四氟乙烯化学惰性机械方块
+iv_1024a_laser_source_hatch.MapEntry: 1024[c/FFFF55:安][c/5555FF:IV]激光源仓
+iv_1024a_laser_target_hatch.MapEntry: 1024[c/FFFF55:安][c/5555FF:IV]激光靶仓
+iv_16a_energy_converter.MapEntry: 16[c/FFFF55:安][c/5555FF:IV]能量转换器
+iv_1a_energy_converter.MapEntry: 1[c/FFFF55:安][c/5555FF:IV]能量转换器
+iv_256a_laser_source_hatch.MapEntry: 256[c/FFFF55:安][c/5555FF:IV]激光源仓
+iv_256a_laser_target_hatch.MapEntry: 256[c/FFFF55:安][c/5555FF:IV]激光靶仓
+iv_4096a_laser_source_hatch.MapEntry: 4096[c/FFFF55:安][c/5555FF:IV]激光源仓
+iv_4096a_laser_target_hatch.MapEntry: 4096[c/FFFF55:安][c/5555FF:IV]激光靶仓
+iv_4a_energy_converter.MapEntry: 4[c/FFFF55:安][c/5555FF:IV]能量转换器
+iv_8a_energy_converter.MapEntry: 8[c/FFFF55:安][c/5555FF:IV]能量转换器
+iv_alloy_smelter.MapEntry: "[c/5555FF:精英合金炉]"
+iv_arc_furnace.MapEntry: "[c/5555FF:精英电弧炉]"
+iv_assembler.MapEntry: "[c/5555FF:精英组装机]"
+iv_autoclave.MapEntry: "[c/5555FF:精英高压釜]"
+iv_battery_buffer_16x.MapEntry: 16x[c/5555FF:强导压]电池箱（[c/5555FF:IV]）
+iv_battery_buffer_4x.MapEntry: 4x[c/5555FF:强导压]电池箱（[c/5555FF:IV]）
+iv_battery_buffer_8x.MapEntry: 8x[c/5555FF:强导压]电池箱（[c/5555FF:IV]）
+iv_bender.MapEntry: "[c/5555FF:精英卷板机]"
+iv_brewery.MapEntry: "[c/5555FF:精英酿造室]"
+iv_canner.MapEntry: "[c/5555FF:精英装罐机]"
+iv_centrifuge.MapEntry: "[c/5555FF:精英离心机]"
+iv_charger_4x.MapEntry: 4x[c/5555FF:强导压]闪聚充电箱（[c/5555FF:IV]）
+iv_chemical_bath.MapEntry: "[c/5555FF:精英化学浸洗机]"
+iv_chemical_reactor.MapEntry: "[c/5555FF:精英化学反应釜]"
+iv_circuit_assembler.MapEntry: "[c/5555FF:精英电路组装机]"
+iv_compressor.MapEntry: "[c/5555FF:精英压缩机]"
+iv_cutter.MapEntry: "[c/5555FF:精英切割机]"
+iv_diode.MapEntry: "[c/5555FF:IV]二极管"
+iv_distillery.MapEntry: "[c/5555FF:精英蒸馏室]"
+iv_electric_furnace.MapEntry: "[c/5555FF:精英电炉]"
+iv_electrolyzer.MapEntry: "[c/5555FF:精英电解机]"
+iv_electromagnetic_separator.MapEntry: "[c/5555FF:精英电磁选矿机]"
+iv_energy_input_hatch.MapEntry: "[c/5555FF:IV]能源仓"
+iv_energy_input_hatch_16a.MapEntry: 16安[c/5555FF:IV]能源仓
+iv_energy_input_hatch_4a.MapEntry: 4安[c/5555FF:IV]能源仓
+iv_energy_output_hatch.MapEntry: "[c/5555FF:IV]动力仓"
+iv_energy_output_hatch_16a.MapEntry: 16安[c/5555FF:IV]动力仓
+iv_energy_output_hatch_4a.MapEntry: 4安[c/5555FF:IV]动力仓
+iv_extractor.MapEntry: "[c/5555FF:精英提取机]"
+iv_extruder.MapEntry: "[c/5555FF:精英压模器]"
+iv_fermenter.MapEntry: "[c/5555FF:精英发酵槽]"
+iv_fisher.MapEntry: "[c/5555FF:精英捕鱼机]"
+iv_fluid_heater.MapEntry: "[c/5555FF:精英流体加热器]"
+iv_fluid_passthrough_hatch.MapEntry: "[c/5555FF:IV]流体通行仓"
+iv_fluid_solidifier.MapEntry: "[c/5555FF:精英流体固化器]"
+iv_forge_hammer.MapEntry: "[c/5555FF:精英锻造锤]"
+iv_forming_press.MapEntry: "[c/5555FF:精英冲压机床]"
+iv_gas_collector.MapEntry: "[c/5555FF:精英集气室]"
+iv_hermetic_casing.MapEntry: 密封机械方块 V
+iv_input_bus.MapEntry: "[c/5555FF:IV]输入总线"
+iv_input_hatch.MapEntry: "[c/5555FF:IV]输入仓"
+iv_input_hatch_4x.MapEntry: "[c/5555FF:IV]四重输入仓"
+iv_input_hatch_9x.MapEntry: "[c/5555FF:IV]九重输入仓"
+iv_item_passthrough_hatch.MapEntry: "[c/5555FF:IV]物品通行仓"
+iv_lapotronic_battery.MapEntry: 兰波顿电容（[c/0000AA:IV]）
+iv_large_miner.MapEntry: "[c/5555FF:精英大型采矿机]"
+iv_laser_engraver.MapEntry: "[c/5555FF:精英激光蚀刻机]"
+iv_lathe.MapEntry: "[c/5555FF:精英车床]"
+iv_macerator.MapEntry: "[c/5555FF:精英研磨机]"
+iv_machine_casing.MapEntry: "[c/5555FF:IV]机械方块"
+iv_machine_hull.MapEntry: "[c/5555FF:IV][c/FFFFFF:机器外壳]"
+iv_mixer.MapEntry: "[c/5555FF:精英搅拌机]"
+iv_muffler_hatch.MapEntry: "[c/5555FF:IV]消声仓"
+iv_ore_washer.MapEntry: "[c/5555FF:精英洗矿厂]"
+iv_output_bus.MapEntry: "[c/5555FF:IV]输出总线"
+iv_output_hatch.MapEntry: "[c/5555FF:IV]输出仓"
+iv_output_hatch_4x.MapEntry: "[c/5555FF:IV]四重输出仓"
+iv_output_hatch_9x.MapEntry: "[c/5555FF:IV]九重输出仓"
+iv_packer.MapEntry: "[c/5555FF:精英打包机]"
+iv_parallel_hatch.MapEntry: "[c/5555FF:IV]并行控制仓"
+iv_polarizer.MapEntry: "[c/5555FF:精英两极磁化机]"
+iv_quantum_chest.MapEntry: 量子箱 V
+iv_quantum_tank.MapEntry: 量子缸 V
+iv_rock_crusher.MapEntry: "[c/5555FF:精英碎岩机]"
+iv_rotor_holder.MapEntry: "[c/5555FF:IV]转子支架"
+iv_scanner.MapEntry: "[c/5555FF:精英扫描仪]"
+iv_sifter.MapEntry: "[c/5555FF:精英筛选机]"
+iv_substation_input_hatch_64a.MapEntry: 64安[c/5555FF:IV]变电能源仓
+iv_substation_output_hatch_64a.MapEntry: 64安[c/5555FF:IV]变电动力仓
+iv_thermal_centrifuge.MapEntry: "[c/5555FF:精英热力离心机]"
+iv_transformer_16a.MapEntry: "[c/5555FF:强导压]高能变压器（[c/5555FF:IV]）"
+iv_transformer_1a.MapEntry: "[c/5555FF:强导压]变压器（[c/5555FF:IV]）"
+iv_transformer_2a.MapEntry: "[c/5555FF:强导压]进阶变压器（[c/5555FF:IV]）"
+iv_transformer_4a.MapEntry: "[c/5555FF:强导压]高流变压器（[c/5555FF:IV]）"
+iv_wiremill.MapEntry: "[c/5555FF:精英线材轧机]"
+iv_world_accelerator.MapEntry: "[c/5555FF:精英世界加速器]"
+kanthal_coil_block.MapEntry: 坎塔尔合金线圈方块
+laminated_glass.MapEntry: 夹层玻璃
+large_arc_smelter.MapEntry: 大型电弧炉
+large_assembler.MapEntry: 大型组装厂
+large_autoclave.MapEntry: 大型高压结晶室
+large_brewer.MapEntry: 大型酿造厂
+large_centrifuge.MapEntry: 大型离心机组
+large_chemical_bath.MapEntry: 大型化学浸洗机
+large_chemical_reactor.MapEntry: 大型化学反应釜
+large_circuit_assembler.MapEntry: 大型电路组装设施
+large_combustion_engine.MapEntry: 大型内燃引擎
+large_cutter.MapEntry: 大型切割机
+large_distillery.MapEntry: 大型分馏蒸馏厂
+large_duct_pipe.MapEntry: 大型风管
+large_electrolyzer.MapEntry: 大型电解槽
+large_electromagnet.MapEntry: 大型电磁工厂
+large_engraving_laser.MapEntry: 大型激光蚀刻机
+large_extractor.MapEntry: 大型提取机
+large_extruder.MapEntry: 大型压模机
+large_maceration_tower.MapEntry: 大型研磨塔
+large_material_press.MapEntry: 大型挤压机
+large_mixer.MapEntry: 大型搅拌罐
+large_packer.MapEntry: 大型打包机
+large_scale_assembler_casing.MapEntry: 大型组装机机械方块
+large_sifting_funnel.MapEntry: 大型筛选漏斗
+large_solidifier.MapEntry: 大型固化阵列
+large_wiremill.MapEntry: 大型线材工厂
+laser_hazard_sign_block.MapEntry: 激光危害警示方块
+laser_safe_engraving_casing.MapEntry: 激光安全机械方块
+light_blue_borderless_lamp.MapEntry: 淡蓝色无框灯
+light_blue_lamp.MapEntry: 淡蓝色灯
+light_blue_large_metal_sheet.MapEntry: 淡蓝色粗纹金属板方块
+light_blue_metal_sheet.MapEntry: 淡蓝色金属板方块
+light_blue_studs.MapEntry: 淡蓝色橡胶混凝土
+light_concrete.MapEntry: 淡色混凝土
+light_concrete_bricks.MapEntry: 淡色混凝土砖
+light_concrete_cobblestone.MapEntry: 淡色混凝土圆石
+light_concrete_small_tile.MapEntry: 淡色混凝土小片瓦
+light_concrete_tile.MapEntry: 淡色混凝土瓦
+light_concrete_windmill_a.MapEntry: 淡色混凝土风车形瓦 A
+light_concrete_windmill_b.MapEntry: 淡色混凝土风车形瓦 B
+light_gray_borderless_lamp.MapEntry: 淡灰色无框灯
+light_gray_lamp.MapEntry: 淡灰色灯
+light_gray_large_metal_sheet.MapEntry: 淡灰色粗纹金属板方块
+light_gray_metal_sheet.MapEntry: 淡灰色金属板方块
+light_gray_studs.MapEntry: 淡灰色橡胶混凝土
+lime_borderless_lamp.MapEntry: 黄绿色无框灯
+lime_lamp.MapEntry: 黄绿色灯
+lime_large_metal_sheet.MapEntry: 黄绿色粗纹金属板方块
+lime_metal_sheet.MapEntry: 黄绿色金属板方块
+lime_studs.MapEntry: 黄绿色橡胶混凝土
+long_distance_fluid_pipeline.MapEntry: 长距离流体管道
+long_distance_fluid_pipeline_endpoint.MapEntry: 长距离流体管道接口
+long_distance_item_pipeline.MapEntry: 长距离物品管道
+long_distance_item_pipeline_endpoint.MapEntry: 长距离物品管道接口
+lp_steam_alloy_smelter.MapEntry: 低压蒸汽合金炉
+lp_steam_compressor.MapEntry: 低压蒸汽压缩机
+lp_steam_extractor.MapEntry: 低压蒸汽提取机
+lp_steam_forge_hammer.MapEntry: 低压蒸汽锻造锤
+lp_steam_furnace.MapEntry: 低压蒸汽熔炉
+lp_steam_liquid_boiler.MapEntry: 低压蒸汽液体燃料锅炉
+lp_steam_macerator.MapEntry: 低压蒸汽研磨机
+lp_steam_miner.MapEntry: 低压蒸汽采矿机
+lp_steam_rock_crusher.MapEntry: 低压蒸汽碎岩机
+lp_steam_solar_boiler.MapEntry: 低压蒸汽太阳能锅炉
+lp_steam_solid_boiler.MapEntry: 低压蒸汽固体燃料锅炉
+luv_1024a_laser_source_hatch.MapEntry: 1024[c/FFFF55:安][c/FF55FF:LuV]激光源仓
+luv_1024a_laser_target_hatch.MapEntry: 1024[c/FFFF55:安][c/FF55FF:LuV]激光靶仓
+luv_16a_energy_converter.MapEntry: 16[c/FFFF55:安][c/FF55FF:LuV]能量转换器
+luv_1a_energy_converter.MapEntry: 1[c/FFFF55:安][c/FF55FF:LuV]能量转换器
+luv_256a_laser_source_hatch.MapEntry: 256[c/FFFF55:安][c/FF55FF:LuV]激光源仓
+luv_256a_laser_target_hatch.MapEntry: 256[c/FFFF55:安][c/FF55FF:LuV]激光靶仓
+luv_4096a_laser_source_hatch.MapEntry: 4096[c/FFFF55:安][c/FF55FF:LuV]激光源仓
+luv_4096a_laser_target_hatch.MapEntry: 4096[c/FFFF55:安][c/FF55FF:LuV]激光靶仓
+luv_4a_energy_converter.MapEntry: 4[c/FFFF55:安][c/FF55FF:LuV]能量转换器
+luv_8a_energy_converter.MapEntry: 8[c/FFFF55:安][c/FF55FF:LuV]能量转换器
+luv_alloy_smelter.MapEntry: "[c/FF55FF:精英合金炉 II]"
+luv_arc_furnace.MapEntry: "[c/FF55FF:精英电弧炉 II]"
+luv_assembler.MapEntry: "[c/FF55FF:精英组装机 II]"
+luv_autoclave.MapEntry: "[c/FF55FF:精英高压釜 II]"
+luv_battery_buffer_16x.MapEntry: 16x[c/FF55FF:剧差压]电池箱（[c/FF55FF:LuV]）
+luv_battery_buffer_4x.MapEntry: 4x[c/FF55FF:剧差压]电池箱（[c/FF55FF:LuV]）
+luv_battery_buffer_8x.MapEntry: 8x[c/FF55FF:剧差压]电池箱（[c/FF55FF:LuV]）
+luv_bender.MapEntry: "[c/FF55FF:精英卷板机 II]"
+luv_brewery.MapEntry: "[c/FF55FF:精英酿造室 II]"
+luv_canner.MapEntry: "[c/FF55FF:精英装罐机 II]"
+luv_centrifuge.MapEntry: "[c/FF55FF:精英离心机 II]"
+luv_charger_4x.MapEntry: 4x[c/FF55FF:剧差压]闪聚充电箱（[c/FF55FF:LuV]）
+luv_chemical_bath.MapEntry: "[c/FF55FF:精英化学浸洗机 II]"
+luv_chemical_reactor.MapEntry: "[c/FF55FF:精英化学反应釜 II]"
+luv_circuit_assembler.MapEntry: "[c/FF55FF:精英电路组装机 II]"
+luv_compressor.MapEntry: "[c/FF55FF:精英压缩机 II]"
+luv_cutter.MapEntry: "[c/FF55FF:精英切割机 II]"
+luv_diode.MapEntry: "[c/FF55FF:LuV]二极管"
+luv_distillery.MapEntry: "[c/FF55FF:精英蒸馏室 II]"
+luv_dual_input_hatch.MapEntry: "[c/FF55FF:LuV]输入总成"
+luv_dual_output_hatch.MapEntry: "[c/FF55FF:LuV]输出总成"
+luv_electric_furnace.MapEntry: "[c/FF55FF:精英电炉 II]"
+luv_electrolyzer.MapEntry: "[c/FF55FF:精英电解机 II]"
+luv_electromagnetic_separator.MapEntry: "[c/FF55FF:精英电磁选矿机 II]"
+luv_energy_input_hatch.MapEntry: "[c/FF55FF:LuV]能源仓"
+luv_energy_input_hatch_16a.MapEntry: 16安[c/FF55FF:LuV]能源仓
+luv_energy_input_hatch_4a.MapEntry: 4安[c/FF55FF:LuV]能源仓
+luv_energy_output_hatch.MapEntry: "[c/FF55FF:LuV]动力仓"
+luv_energy_output_hatch_16a.MapEntry: 16安[c/FF55FF:LuV]动力仓
+luv_energy_output_hatch_4a.MapEntry: 4安[c/FF55FF:LuV]动力仓
+luv_extractor.MapEntry: "[c/FF55FF:精英提取机 II]"
+luv_extruder.MapEntry: "[c/FF55FF:精英压模器 II]"
+luv_fermenter.MapEntry: "[c/FF55FF:精英发酵槽 II]"
+luv_fisher.MapEntry: "[c/FF55FF:精英捕鱼机 II]"
+luv_fluid_heater.MapEntry: "[c/FF55FF:精英流体加热器 II]"
+luv_fluid_passthrough_hatch.MapEntry: "[c/FF55FF:LuV]流体通行仓"
+luv_fluid_solidifier.MapEntry: "[c/FF55FF:精英流体固化器 II]"
+luv_forge_hammer.MapEntry: "[c/FF55FF:精英锻造锤 II]"
+luv_forming_press.MapEntry: "[c/FF55FF:精英冲压机床 II]"
+luv_fusion_reactor.MapEntry: 核聚变反应堆控制电脑 MK-I
+luv_gas_collector.MapEntry: "[c/FF55FF:精英集气室 II]"
+luv_hermetic_casing.MapEntry: 密封机械方块 VI
+luv_input_bus.MapEntry: "[c/FF55FF:LuV]输入总线"
+luv_input_hatch.MapEntry: "[c/FF55FF:LuV]输入仓"
+luv_input_hatch_4x.MapEntry: "[c/FF55FF:LuV]四重输入仓"
+luv_input_hatch_9x.MapEntry: "[c/FF55FF:LuV]九重输入仓"
+luv_item_passthrough_hatch.MapEntry: "[c/FF55FF:LuV]物品通行仓"
+luv_lapotronic_battery.MapEntry: 兰波顿电容（[c/FF55FF:LuV]）
+luv_large_miner.MapEntry: "[c/FF55FF:精英大型采矿机 II]"
+luv_laser_engraver.MapEntry: "[c/FF55FF:精英激光蚀刻机 II]"
+luv_lathe.MapEntry: "[c/FF55FF:精英车床 II]"
+luv_macerator.MapEntry: "[c/FF55FF:精英研磨机 II]"
+luv_machine_casing.MapEntry: "[c/FF55FF:LuV]机械方块"
+luv_machine_hull.MapEntry: "[c/FF55FF:LuV][c/FFFFFF:机器外壳]"
+luv_mixer.MapEntry: "[c/FF55FF:精英搅拌机 II]"
+luv_muffler_hatch.MapEntry: "[c/FF55FF:LuV]消声仓"
+luv_ore_washer.MapEntry: "[c/FF55FF:精英洗矿厂 II]"
+luv_output_bus.MapEntry: "[c/FF55FF:LuV]输出总线"
+luv_output_hatch.MapEntry: "[c/FF55FF:LuV]输出仓"
+luv_output_hatch_4x.MapEntry: "[c/FF55FF:LuV]四重输出仓"
+luv_output_hatch_9x.MapEntry: "[c/FF55FF:LuV]九重输出仓"
+luv_packer.MapEntry: "[c/FF55FF:精英打包机 II]"
+luv_parallel_hatch.MapEntry: "[c/FF55FF:LuV]并行控制仓"
+luv_polarizer.MapEntry: "[c/FF55FF:精英两极磁化机 II]"
+luv_quantum_chest.MapEntry: 量子箱 VI
+luv_quantum_tank.MapEntry: 量子缸 VI
+luv_rock_crusher.MapEntry: "[c/FF55FF:精英碎岩机 II]"
+luv_rotor_holder.MapEntry: "[c/FF55FF:LuV]转子支架"
+luv_scanner.MapEntry: "[c/FF55FF:精英扫描仪 II]"
+luv_sifter.MapEntry: "[c/FF55FF:精英筛选机 II]"
+luv_substation_input_hatch_64a.MapEntry: 64安[c/FF55FF:LuV]变电能源仓
+luv_substation_output_hatch_64a.MapEntry: 64安[c/FF55FF:LuV]变电动力仓
+luv_thermal_centrifuge.MapEntry: "[c/FF55FF:精英热力离心机 II]"
+luv_transformer_16a.MapEntry: "[c/FF55FF:剧差压]高能变压器（[c/FF55FF:LuV]）"
+luv_transformer_1a.MapEntry: "[c/FF55FF:剧差压]变压器（[c/FF55FF:LuV]）"
+luv_transformer_2a.MapEntry: "[c/FF55FF:剧差压]进阶变压器（[c/FF55FF:LuV]）"
+luv_transformer_4a.MapEntry: "[c/FF55FF:剧差压]高流变压器（[c/FF55FF:LuV]）"
+luv_wiremill.MapEntry: "[c/FF55FF:精英线材轧机 II]"
+luv_world_accelerator.MapEntry: "[c/FF55FF:精英世界加速器 II]"
+lv_16a_energy_converter.MapEntry: 16[c/FFFF55:安][c/AAAAAA:LV]能量转换器
+lv_1a_energy_converter.MapEntry: 1[c/FFFF55:安][c/AAAAAA:LV]能量转换器
+lv_4a_energy_converter.MapEntry: 4[c/FFFF55:安][c/AAAAAA:LV]能量转换器
+lv_8a_energy_converter.MapEntry: 8[c/FFFF55:安][c/AAAAAA:LV]能量转换器
+lv_air_scrubber.MapEntry: 基础空气净化器
+lv_alloy_smelter.MapEntry: 基础合金炉
+lv_arc_furnace.MapEntry: 基础电弧炉
+lv_assembler.MapEntry: 基础组装机
+lv_autoclave.MapEntry: 基础高压釜
+lv_battery_buffer_16x.MapEntry: 16x[c/AAAAAA:低压]电池箱（[c/AAAAAA:LV]）
+lv_battery_buffer_4x.MapEntry: 4x[c/AAAAAA:低压]电池箱（[c/AAAAAA:LV]）
+lv_battery_buffer_8x.MapEntry: 8x[c/AAAAAA:低压]电池箱（[c/AAAAAA:LV]）
+lv_bender.MapEntry: 基础卷板机
+lv_block_breaker.MapEntry: 基础方块破坏器
+lv_brewery.MapEntry: 基础酿造室
+lv_buffer.MapEntry: 基础缓存器
+lv_canner.MapEntry: 基础装罐机
+lv_centrifuge.MapEntry: 基础离心机
+lv_charger_4x.MapEntry: 4x[c/AAAAAA:低压]闪聚充电箱（[c/AAAAAA:LV]）
+lv_chemical_bath.MapEntry: 基础化学浸洗机
+lv_chemical_reactor.MapEntry: 基础化学反应釜
+lv_circuit_assembler.MapEntry: 基础电路组装机
+lv_combustion.MapEntry: 基础内燃发电机
+lv_compressor.MapEntry: 基础压缩机
+lv_cutter.MapEntry: 基础切割机
+lv_diode.MapEntry: "[c/AAAAAA:LV]二极管"
+lv_distillery.MapEntry: 基础蒸馏室
+lv_electric_furnace.MapEntry: 基础电炉
+lv_electrolyzer.MapEntry: 基础电解机
+lv_electromagnetic_separator.MapEntry: 基础电磁选矿机
+lv_energy_input_hatch.MapEntry: "[c/AAAAAA:LV]能源仓"
+lv_energy_output_hatch.MapEntry: "[c/AAAAAA:LV]动力仓"
+lv_extractor.MapEntry: 基础提取机
+lv_extruder.MapEntry: 基础压模器
+lv_fermenter.MapEntry: 基础发酵槽
+lv_fisher.MapEntry: 基础捕鱼机
+lv_fluid_heater.MapEntry: 基础流体加热器
+lv_fluid_passthrough_hatch.MapEntry: "[c/AAAAAA:LV]流体通行仓"
+lv_fluid_solidifier.MapEntry: 基础流体固化器
+lv_forge_hammer.MapEntry: 基础锻造锤
+lv_forming_press.MapEntry: 基础冲压机床
+lv_gas_collector.MapEntry: 基础集气室
+lv_gas_turbine.MapEntry: 基础燃气轮机
+lv_hermetic_casing.MapEntry: 密封机械方块 I
+lv_input_bus.MapEntry: "[c/AAAAAA:LV]输入总线"
+lv_input_hatch.MapEntry: "[c/AAAAAA:LV]输入仓"
+lv_item_collector.MapEntry: 基础物品收集器
+lv_item_passthrough_hatch.MapEntry: "[c/AAAAAA:LV]物品通行仓"
+lv_laser_engraver.MapEntry: 基础激光蚀刻机
+lv_lathe.MapEntry: 基础车床
+lv_macerator.MapEntry: 基础研磨机
+lv_machine_casing.MapEntry: "[c/AAAAAA:LV]机械方块"
+lv_machine_hull.MapEntry: "[c/AAAAAA:LV][c/FFFFFF:机器外壳]"
+lv_miner.MapEntry: 基础采矿机
+lv_mixer.MapEntry: 基础搅拌机
+lv_muffler_hatch.MapEntry: "[c/AAAAAA:LV]消声仓"
+lv_ore_washer.MapEntry: 基础洗矿厂
+lv_output_bus.MapEntry: "[c/AAAAAA:LV]输出总线"
+lv_output_hatch.MapEntry: "[c/AAAAAA:LV]输出仓"
+lv_packer.MapEntry: 基础打包机
+lv_polarizer.MapEntry: 基础两极磁化机
+lv_pump.MapEntry: 基础泵
+lv_rock_crusher.MapEntry: 基础碎岩机
+lv_scanner.MapEntry: 基础扫描仪
+lv_sifter.MapEntry: 基础筛选机
+lv_steam_turbine.MapEntry: 基础蒸汽轮机
+lv_super_chest.MapEntry: 超级箱 I
+lv_super_tank.MapEntry: 超级缸 I
+lv_thermal_centrifuge.MapEntry: 基础热力离心机
+lv_transformer_16a.MapEntry: "[c/AAAAAA:低压]高能变压器（[c/AAAAAA:LV]）"
+lv_transformer_1a.MapEntry: "[c/AAAAAA:低压]变压器（[c/AAAAAA:LV]）"
+lv_transformer_2a.MapEntry: "[c/AAAAAA:低压]进阶变压器（[c/AAAAAA:LV]）"
+lv_transformer_4a.MapEntry: "[c/AAAAAA:低压]高流变压器（[c/AAAAAA:LV]）"
+lv_wiremill.MapEntry: 基础线材轧机
+lv_world_accelerator.MapEntry: 基础世界加速器
+magenta_borderless_lamp.MapEntry: 品红色无框灯
+magenta_lamp.MapEntry: 品红色灯
+magenta_large_metal_sheet.MapEntry: 品红色粗纹金属板方块
+magenta_metal_sheet.MapEntry: 品红色金属板方块
+magenta_studs.MapEntry: 品红色橡胶混凝土
+magic_hazard_sign_block.MapEntry: 魔力危害警示方块
+magnetic_hazard_sign_block.MapEntry: 强磁危害警示方块
+maintenance_hatch.MapEntry: 维护仓
+marble.MapEntry: 大理岩
+marble_bricks.MapEntry: 大理岩砖
+marble_cobblestone.MapEntry: 大理岩圆石
+marble_small_tile.MapEntry: 大理岩小片瓦
+marble_tile.MapEntry: 大理岩瓦
+marble_windmill_a.MapEntry: 大理岩风车形瓦 A
+marble_windmill_b.MapEntry: 大理岩风车形瓦 B
+max_16a_energy_converter.MapEntry: 16[c/FFFF55:安]MAX能量转换器
+max_1a_energy_converter.MapEntry: 1[c/FFFF55:安]MAX能量转换器
+max_4a_energy_converter.MapEntry: 4[c/FFFF55:安]MAX能量转换器
+max_8a_energy_converter.MapEntry: 8[c/FFFF55:安]MAX能量转换器
+max_battery_buffer_16x.MapEntry: 16x[c/FF5555:上限压]电池箱（MAX）
+max_battery_buffer_4x.MapEntry: 4x[c/FF5555:上限压]电池箱（MAX）
+max_battery_buffer_8x.MapEntry: 8x[c/FF5555:上限压]电池箱（MAX）
+max_charger_4x.MapEntry: 4x[c/FF5555:上限压]闪聚充电箱（MAX）
+max_dual_input_hatch.MapEntry: MAX输入总成
+max_dual_output_hatch.MapEntry: MAX输出总成
+max_energy_input_hatch.MapEntry: MAX能源仓
+max_energy_input_hatch_16a.MapEntry: 16安MAX能源仓
+max_energy_input_hatch_4a.MapEntry: 4安MAX能源仓
+max_energy_output_hatch.MapEntry: MAX动力仓
+max_energy_output_hatch_16a.MapEntry: 16安MAX动力仓
+max_energy_output_hatch_4a.MapEntry: 4安MAX动力仓
+max_input_bus.MapEntry: MAX输入总线
+max_input_hatch.MapEntry: MAX输入仓
+max_input_hatch_4x.MapEntry: MAX四重输入仓
+max_input_hatch_9x.MapEntry: MAX九重输入仓
+max_machine_casing.MapEntry: MAX机械方块
+max_machine_hull.MapEntry: MAX[c/FFFFFF:机器外壳]
+max_output_bus.MapEntry: MAX输出总线
+max_output_hatch.MapEntry: MAX输出仓
+max_output_hatch_4x.MapEntry: MAX四重输出仓
+max_output_hatch_9x.MapEntry: MAX九重输出仓
+max_substation_input_hatch_64a.MapEntry: 64安MAX变电能源仓
+max_substation_output_hatch_64a.MapEntry: 64安MAX变电动力仓
+me_input_bus.MapEntry: ME输入总线
+me_input_hatch.MapEntry: ME输入仓
+me_output_bus.MapEntry: ME输出总线
+me_output_hatch.MapEntry: ME输出仓
+me_pattern_buffer.MapEntry: ME样板总成
+me_pattern_buffer_proxy.MapEntry: ME样板总成镜像
+me_stocking_input_bus.MapEntry: ME库存输入总线
+me_stocking_input_hatch.MapEntry: ME库存输入仓
+mega_blast_furnace.MapEntry: 转底炉
+mega_vacuum_freezer.MapEntry: 巨型真空冷冻机
+mob_infestation_hazard_sign_block.MapEntry: 怪物侵袭危害警示方块
+mob_spawner_hazard_sign_block.MapEntry: 刷怪笼危害警示方块
+molybdenum_disilicide_coil_block.MapEntry: 二硅化钼线圈方块
+monitor.MapEntry: 监控器
+mossy_dark_concrete_bricks.MapEntry: 覆苔深色混凝土砖
+mossy_dark_concrete_cobblestone.MapEntry: 覆苔深色混凝土圆石
+mossy_light_concrete_bricks.MapEntry: 覆苔淡色混凝土砖
+mossy_light_concrete_cobblestone.MapEntry: 覆苔淡色混凝土圆石
+mossy_marble_bricks.MapEntry: 覆苔大理岩砖
+mossy_marble_cobblestone.MapEntry: 覆苔大理岩圆石
+mossy_red_granite_bricks.MapEntry: 覆苔红花岗岩砖
+mossy_red_granite_cobblestone.MapEntry: 覆苔红花岗岩圆石
+multi_smelter.MapEntry: 工业熔炉
+mv_16a_energy_converter.MapEntry: 16[c/FFFF55:安][c/55FFFF:MV]能量转换器
+mv_1a_energy_converter.MapEntry: 1[c/FFFF55:安][c/55FFFF:MV]能量转换器
+mv_4a_energy_converter.MapEntry: 4[c/FFFF55:安][c/55FFFF:MV]能量转换器
+mv_8a_energy_converter.MapEntry: 8[c/FFFF55:安][c/55FFFF:MV]能量转换器
+mv_air_scrubber.MapEntry: "[c/55FFFF:进阶空气净化器]"
+mv_alloy_smelter.MapEntry: "[c/55FFFF:进阶合金炉]"
+mv_arc_furnace.MapEntry: "[c/55FFFF:进阶电弧炉]"
+mv_assembler.MapEntry: "[c/55FFFF:进阶组装机]"
+mv_autoclave.MapEntry: "[c/55FFFF:进阶高压釜]"
+mv_battery_buffer_16x.MapEntry: 16x[c/55FFFF:中压]电池箱（[c/55FFFF:MV]）
+mv_battery_buffer_4x.MapEntry: 4x[c/55FFFF:中压]电池箱（[c/55FFFF:MV]）
+mv_battery_buffer_8x.MapEntry: 8x[c/55FFFF:中压]电池箱（[c/55FFFF:MV]）
+mv_bedrock_ore_miner.MapEntry: "[c/55FFFF:进阶基岩采矿机]"
+mv_bender.MapEntry: "[c/55FFFF:进阶卷板机]"
+mv_block_breaker.MapEntry: "[c/55FFFF:进阶方块破坏器]"
+mv_brewery.MapEntry: "[c/55FFFF:进阶酿造室]"
+mv_buffer.MapEntry: "[c/55FFFF:进阶缓存器]"
+mv_canner.MapEntry: "[c/55FFFF:进阶装罐机]"
+mv_centrifuge.MapEntry: "[c/55FFFF:进阶离心机]"
+mv_charger_4x.MapEntry: 4x[c/55FFFF:中压]闪聚充电箱（[c/55FFFF:MV]）
+mv_chemical_bath.MapEntry: "[c/55FFFF:进阶化学浸洗机]"
+mv_chemical_reactor.MapEntry: "[c/55FFFF:进阶化学反应釜]"
+mv_circuit_assembler.MapEntry: "[c/55FFFF:进阶电路组装机]"
+mv_combustion.MapEntry: "[c/55FFFF:进阶内燃发电机]"
+mv_compressor.MapEntry: "[c/55FFFF:进阶压缩机]"
+mv_cutter.MapEntry: "[c/55FFFF:进阶切割机]"
+mv_diode.MapEntry: "[c/55FFFF:MV]二极管"
+mv_distillery.MapEntry: "[c/55FFFF:进阶蒸馏室]"
+mv_electric_furnace.MapEntry: "[c/55FFFF:进阶电炉]"
+mv_electrolyzer.MapEntry: "[c/55FFFF:进阶电解机]"
+mv_electromagnetic_separator.MapEntry: "[c/55FFFF:进阶电磁选矿机]"
+mv_energy_input_hatch.MapEntry: "[c/55FFFF:MV]能源仓"
+mv_energy_output_hatch.MapEntry: "[c/55FFFF:MV]动力仓"
+mv_extractor.MapEntry: "[c/55FFFF:进阶提取机]"
+mv_extruder.MapEntry: "[c/55FFFF:进阶压模器]"
+mv_fermenter.MapEntry: "[c/55FFFF:进阶发酵槽]"
+mv_fisher.MapEntry: "[c/55FFFF:进阶捕鱼机]"
+mv_fluid_drilling_rig.MapEntry: "[c/55FFFF:进阶流体钻机]"
+mv_fluid_heater.MapEntry: "[c/55FFFF:进阶流体加热器]"
+mv_fluid_passthrough_hatch.MapEntry: "[c/55FFFF:MV]流体通行仓"
+mv_fluid_solidifier.MapEntry: "[c/55FFFF:进阶流体固化器]"
+mv_forge_hammer.MapEntry: "[c/55FFFF:进阶锻造锤]"
+mv_forming_press.MapEntry: "[c/55FFFF:进阶冲压机床]"
+mv_gas_collector.MapEntry: "[c/55FFFF:进阶集气室]"
+mv_gas_turbine.MapEntry: "[c/55FFFF:进阶燃气轮机]"
+mv_hermetic_casing.MapEntry: 密封机械方块 II
+mv_input_bus.MapEntry: "[c/55FFFF:MV]输入总线"
+mv_input_hatch.MapEntry: "[c/55FFFF:MV]输入仓"
+mv_item_collector.MapEntry: "[c/55FFFF:进阶物品收集器]"
+mv_item_passthrough_hatch.MapEntry: "[c/55FFFF:MV]物品通行仓"
+mv_laser_engraver.MapEntry: "[c/55FFFF:进阶激光蚀刻机]"
+mv_lathe.MapEntry: "[c/55FFFF:进阶车床]"
+mv_macerator.MapEntry: "[c/55FFFF:进阶研磨机]"
+mv_machine_casing.MapEntry: "[c/55FFFF:MV]机械方块"
+mv_machine_hull.MapEntry: "[c/55FFFF:MV][c/FFFFFF:机器外壳]"
+mv_miner.MapEntry: "[c/55FFFF:进阶采矿机]"
+mv_mixer.MapEntry: "[c/55FFFF:进阶搅拌机]"
+mv_muffler_hatch.MapEntry: "[c/55FFFF:MV]消声仓"
+mv_ore_washer.MapEntry: "[c/55FFFF:进阶洗矿厂]"
+mv_output_bus.MapEntry: "[c/55FFFF:MV]输出总线"
+mv_output_hatch.MapEntry: "[c/55FFFF:MV]输出仓"
+mv_packer.MapEntry: "[c/55FFFF:进阶打包机]"
+mv_polarizer.MapEntry: "[c/55FFFF:进阶两极磁化机]"
+mv_pump.MapEntry: "[c/55FFFF:进阶泵]"
+mv_rock_crusher.MapEntry: "[c/55FFFF:进阶碎岩机]"
+mv_scanner.MapEntry: "[c/55FFFF:进阶扫描仪]"
+mv_sifter.MapEntry: "[c/55FFFF:进阶筛选机]"
+mv_steam_turbine.MapEntry: "[c/55FFFF:进阶蒸汽轮机]"
+mv_super_chest.MapEntry: 超级箱 II
+mv_super_tank.MapEntry: 超级缸 II
+mv_thermal_centrifuge.MapEntry: "[c/55FFFF:进阶热力离心机]"
+mv_transformer_16a.MapEntry: "[c/55FFFF:中压]高能变压器（[c/55FFFF:MV]）"
+mv_transformer_1a.MapEntry: "[c/55FFFF:中压]变压器（[c/55FFFF:MV]）"
+mv_transformer_2a.MapEntry: "[c/55FFFF:中压]进阶变压器（[c/55FFFF:MV]）"
+mv_transformer_4a.MapEntry: "[c/55FFFF:中压]高流变压器（[c/55FFFF:MV]）"
+mv_wiremill.MapEntry: "[c/55FFFF:进阶线材轧机]"
+mv_world_accelerator.MapEntry: "[c/55FFFF:进阶世界加速器]"
+naquadah_coil_block.MapEntry: 硅岩线圈方块
+network_switch.MapEntry: 网络交换机
+nichrome_coil_block.MapEntry: 镍铬合金线圈方块
+noise_hazard_sign_block.MapEntry: 噪声危害警示方块
+nonconducting_casing.MapEntry: 绝缘机械方块
+normal_duct_pipe.MapEntry: 标准风管
+normal_laser_pipe.MapEntry: 标准激光管道
+normal_optical_pipe.MapEntry: 光缆
+object_holder.MapEntry: 物品支架
+opv_1024a_laser_source_hatch.MapEntry: 1024[c/FFFF55:安]OpV激光源仓
+opv_1024a_laser_target_hatch.MapEntry: 1024[c/FFFF55:安]OpV激光靶仓
+opv_16a_energy_converter.MapEntry: 16[c/FFFF55:安]OpV能量转换器
+opv_1a_energy_converter.MapEntry: 1[c/FFFF55:安]OpV能量转换器
+opv_256a_laser_source_hatch.MapEntry: 256[c/FFFF55:安]OpV激光源仓
+opv_256a_laser_target_hatch.MapEntry: 256[c/FFFF55:安]OpV激光靶仓
+opv_4096a_laser_source_hatch.MapEntry: 4096[c/FFFF55:安]OpV激光源仓
+opv_4096a_laser_target_hatch.MapEntry: 4096[c/FFFF55:安]OpV激光靶仓
+opv_4a_energy_converter.MapEntry: 4[c/FFFF55:安]OpV能量转换器
+opv_8a_energy_converter.MapEntry: 8[c/FFFF55:安]OpV能量转换器
+opv_alloy_smelter.MapEntry: 传奇合金炉
+opv_arc_furnace.MapEntry: 传奇电弧炉
+opv_assembler.MapEntry: 传奇组装机
+opv_autoclave.MapEntry: 传奇高压釜
+opv_battery_buffer_16x.MapEntry: 16x[c/5555FF:过载压]电池箱（OpV）
+opv_battery_buffer_4x.MapEntry: 4x[c/5555FF:过载压]电池箱（OpV）
+opv_battery_buffer_8x.MapEntry: 8x[c/5555FF:过载压]电池箱（OpV）
+opv_bender.MapEntry: 传奇卷板机
+opv_brewery.MapEntry: 传奇酿造室
+opv_canner.MapEntry: 传奇装罐机
+opv_centrifuge.MapEntry: 传奇离心机
+opv_charger_4x.MapEntry: 4x[c/5555FF:过载压]闪聚充电箱（OpV）
+opv_chemical_bath.MapEntry: 传奇化学浸洗机
+opv_chemical_reactor.MapEntry: 传奇化学反应釜
+opv_circuit_assembler.MapEntry: 传奇电路组装机
+opv_compressor.MapEntry: 传奇压缩机
+opv_cutter.MapEntry: 传奇切割机
+opv_diode.MapEntry: OpV二极管
+opv_distillery.MapEntry: 传奇蒸馏室
+opv_dual_input_hatch.MapEntry: OpV输入总成
+opv_dual_output_hatch.MapEntry: OpV输出总成
+opv_electric_furnace.MapEntry: 传奇电炉
+opv_electrolyzer.MapEntry: 传奇电解机
+opv_electromagnetic_separator.MapEntry: 传奇电磁选矿机
+opv_energy_input_hatch.MapEntry: OpV能源仓
+opv_energy_input_hatch_16a.MapEntry: 16安OpV能源仓
+opv_energy_input_hatch_4a.MapEntry: 4安OpV能源仓
+opv_energy_output_hatch.MapEntry: OpV动力仓
+opv_energy_output_hatch_16a.MapEntry: 16安OpV动力仓
+opv_energy_output_hatch_4a.MapEntry: 4安OpV动力仓
+opv_extractor.MapEntry: 传奇提取机
+opv_extruder.MapEntry: 传奇压模器
+opv_fermenter.MapEntry: 传奇发酵槽
+opv_fluid_heater.MapEntry: 传奇流体加热器
+opv_fluid_passthrough_hatch.MapEntry: OpV流体通行仓
+opv_fluid_solidifier.MapEntry: 传奇流体固化器
+opv_forge_hammer.MapEntry: 传奇锻造锤
+opv_forming_press.MapEntry: 传奇冲压机床
+opv_gas_collector.MapEntry: 传奇集气室
+opv_input_bus.MapEntry: OpV输入总线
+opv_input_hatch.MapEntry: OpV输入仓
+opv_input_hatch_4x.MapEntry: OpV四重输入仓
+opv_input_hatch_9x.MapEntry: OpV九重输入仓
+opv_item_passthrough_hatch.MapEntry: OpV物品通行仓
+opv_laser_engraver.MapEntry: 传奇激光蚀刻机
+opv_lathe.MapEntry: 传奇车床
+opv_macerator.MapEntry: 传奇研磨机
+opv_machine_casing.MapEntry: OpV机械方块
+opv_machine_hull.MapEntry: OpV[c/FFFFFF:机器外壳]
+opv_mixer.MapEntry: 传奇搅拌机
+opv_muffler_hatch.MapEntry: OpV消声仓
+opv_ore_washer.MapEntry: 传奇洗矿厂
+opv_output_bus.MapEntry: OpV输出总线
+opv_output_hatch.MapEntry: OpV输出仓
+opv_output_hatch_4x.MapEntry: OpV四重输出仓
+opv_output_hatch_9x.MapEntry: OpV九重输出仓
+opv_packer.MapEntry: 传奇打包机
+opv_polarizer.MapEntry: 传奇两极磁化机
+opv_quantum_chest.MapEntry: 量子箱 XIII
+opv_quantum_tank.MapEntry: 量子缸 XIII
+opv_rock_crusher.MapEntry: 传奇碎岩机
+opv_rotor_holder.MapEntry: OpV转子支架
+opv_scanner.MapEntry: 传奇扫描仪
+opv_sifter.MapEntry: 传奇筛选机
+opv_substation_input_hatch_64a.MapEntry: 64安OpV变电能源仓
+opv_substation_output_hatch_64a.MapEntry: 64安OpV变电动力仓
+opv_thermal_centrifuge.MapEntry: 传奇热力离心机
+opv_transformer_16a.MapEntry: "[c/5555FF:过载压]高能变压器（[c/5555FF:OpV]）"
+opv_transformer_1a.MapEntry: "[c/5555FF:过载压]变压器（[c/5555FF:OpV]）"
+opv_transformer_2a.MapEntry: "[c/5555FF:过载压]进阶变压器（[c/5555FF:OpV]）"
+opv_transformer_4a.MapEntry: "[c/5555FF:过载压]高流变压器（[c/5555FF:OpV]）"
+opv_wiremill.MapEntry: 传奇线材轧机
+orange_borderless_lamp.MapEntry: 橙色无框灯
+orange_lamp.MapEntry: 橙色灯
+orange_large_metal_sheet.MapEntry: 橙色粗纹金属板方块
+orange_metal_sheet.MapEntry: 橙色金属板方块
+orange_studs.MapEntry: 橙色橡胶混凝土
+overworld_marker.MapEntry: 主世界
+palladium_substation.MapEntry: 镀钯变电站机械方块
+petrified_foam.MapEntry: 石化建筑泡沫
+pink_borderless_lamp.MapEntry: 粉红色无框灯
+pink_lamp.MapEntry: 粉红色灯
+pink_large_metal_sheet.MapEntry: 粉红色粗纹金属板方块
+pink_metal_sheet.MapEntry: 粉红色金属板方块
+pink_studs.MapEntry: 粉红色橡胶混凝土
+plascrete.MapEntry: 塑料混凝土
+plasma_large_turbine.MapEntry: 大型等离子涡轮
+polished_dark_concrete.MapEntry: 磨制深色混凝土
+polished_light_concrete.MapEntry: 磨制淡色混凝土
+polished_marble.MapEntry: 磨制大理岩
+polished_red_granite.MapEntry: 磨制红花岗岩
+powderbarrel.MapEntry: 火药桶
+power_substation.MapEntry: 蓄能变电站
+primitive_blast_furnace.MapEntry: 土高炉
+primitive_pump.MapEntry: 原始水泵
+ptfe_pipe_casing.MapEntry: 聚四氟乙烯管道方块
+pump_deck.MapEntry: 水泵盖板
+pump_hatch.MapEntry: 水泵仓
+purple_borderless_lamp.MapEntry: 紫色无框灯
+purple_lamp.MapEntry: 紫色灯
+purple_large_metal_sheet.MapEntry: 紫色粗纹金属板方块
+purple_metal_sheet.MapEntry: 紫色金属板方块
+purple_studs.MapEntry: 紫色橡胶混凝土
+pyrolyse_oven.MapEntry: 热解炉
+radioactive_hazard_sign_block.MapEntry: 辐射危害警示方块
+reaction_safe_mixing_casing.MapEntry: 惰性搅拌机械方块
+red_borderless_lamp.MapEntry: 红色无框灯
+red_granite.MapEntry: 红花岗岩
+red_granite_bricks.MapEntry: 红花岗岩砖
+red_granite_cobblestone.MapEntry: 红花岗岩圆石
+red_granite_small_tile.MapEntry: 红花岗岩小片瓦
+red_granite_tile.MapEntry: 红花岗岩瓦
+red_granite_windmill_a.MapEntry: 红花岗岩风车形瓦 A
+red_granite_windmill_b.MapEntry: 红花岗岩风车形瓦 B
+red_lamp.MapEntry: 红色灯
+red_large_metal_sheet.MapEntry: 红色粗纹金属板方块
+red_metal_sheet.MapEntry: 红色金属板方块
+red_studs.MapEntry: 红色橡胶混凝土
+reinforced_foam.MapEntry: 强化建筑泡沫
+reinforced_stone.MapEntry: 防爆石
+research_station.MapEntry: 研究站
+reservoir_hatch.MapEntry: 水库仓
+robust_machine_casing.MapEntry: 强化钨钢机械方块
+rtm_alloy_coil_block.MapEntry: 钌钨钼合金线圈方块
+rubber_button.MapEntry: 橡胶木按钮
+rubber_door.MapEntry: 橡胶木门
+rubber_fence.MapEntry: 橡胶木栅栏
+rubber_fence_gate.MapEntry: 橡胶木栅栏门
+rubber_hanging_sign.MapEntry: 墙上的悬挂式橡胶木告示牌
+rubber_leaves.MapEntry: 橡胶树叶
+rubber_log.MapEntry: 橡胶原木
+rubber_planks.MapEntry: 橡胶木板
+rubber_pressure_plate.MapEntry: 橡胶木压力板
+rubber_sapling.MapEntry: 橡胶树苗
+rubber_sign.MapEntry: 墙上的橡胶木告示牌
+rubber_slab.MapEntry: 橡胶木台阶
+rubber_stairs.MapEntry: 橡胶木楼梯
+rubber_trapdoor.MapEntry: 橡胶木活板门
+rubber_wood.MapEntry: 橡胶木
+secure_maceration_casing.MapEntry: 安全研磨机械方块
+shock_proof_cutting_casing.MapEntry: 防震切割机械方块
+slicing_blades.MapEntry: 切片刀
+small_dark_concrete_bricks.MapEntry: 深色混凝土小块砖
+small_duct_pipe.MapEntry: 小型风管
+small_light_concrete_bricks.MapEntry: 淡色混凝土小块砖
+small_marble_bricks.MapEntry: 大理岩小块砖
+small_red_granite_bricks.MapEntry: 红花岗岩小块砖
+solid_machine_casing.MapEntry: 脱氧钢机械方块
+spatial_storage_hazard_sign_block.MapEntry: 空间存储危害警示方块
+square_dark_concrete_bricks.MapEntry: 深色混凝土方形砖
+square_light_concrete_bricks.MapEntry: 淡色混凝土方形砖
+square_marble_bricks.MapEntry: 大理岩方形砖
+square_red_granite_bricks.MapEntry: 红花岗岩方形砖
+stable_machine_casing.MapEntry: 加强钛机械方块
+stainless_steel_crate.MapEntry: 不锈钢板条箱
+stainless_steel_drum.MapEntry: 不锈钢桶
+stainless_steel_gearbox.MapEntry: 不锈钢齿轮箱机械方块
+stainless_steel_turbine_casing.MapEntry: 不锈钢涡轮机械方块
+steam_grinder.MapEntry: 蒸汽碾磨机
+steam_input_bus.MapEntry: 蒸汽输入总线
+steam_input_hatch.MapEntry: 蒸汽输入仓
+steam_large_turbine.MapEntry: 大型蒸汽涡轮
+steam_machine_casing.MapEntry: 蒸汽机械方块
+steam_output_bus.MapEntry: 蒸汽输出总线
+steam_oven.MapEntry: 蒸汽熔炼炉
+steel_brick_casing.MapEntry: 砖砌锻铁外壳
+steel_crate.MapEntry: 钢板条箱
+steel_drum.MapEntry: 钢桶
+steel_firebox_casing.MapEntry: 钢制燃烧室
+steel_gearbox.MapEntry: 钢齿轮箱机械方块
+steel_large_boiler.MapEntry: 大型钢锅炉
+steel_machine_casing.MapEntry: 牢固机械方块
+steel_multiblock_tank.MapEntry: 钢制多方块储罐
+steel_pipe_casing.MapEntry: 钢管道方块
+steel_tank_valve.MapEntry: 钢制储罐阀门
+steel_turbine_casing.MapEntry: 镁铝合金涡轮机械方块
+sterilizing_filter_casing.MapEntry: 除菌过滤器机械方块
+stress_proof_casing.MapEntry: 耐压机械方块
+stripped_rubber_log.MapEntry: 去皮橡胶原木
+stripped_rubber_wood.MapEntry: 去皮橡胶木
+sturdy_machine_casing.MapEntry: 坚固高速钢-E机械方块
+superconducting_coil.MapEntry: 超导线圈方块
+tempered_glass.MapEntry: 钢化玻璃
+the_end_marker.MapEntry: 末地
+the_nether_marker.MapEntry: 下界
+titanium_crate.MapEntry: 钛板条箱
+titanium_drum.MapEntry: 钛桶
+titanium_firebox_casing.MapEntry: 钛燃烧室
+titanium_gearbox.MapEntry: 钛齿轮箱机械方块
+titanium_large_boiler.MapEntry: 大型钛锅炉
+titanium_pipe_casing.MapEntry: 钛管道方块
+titanium_turbine_casing.MapEntry: 钛涡轮机械方块
+treated_wood_button.MapEntry: 防腐木按钮
+treated_wood_door.MapEntry: 防腐木门
+treated_wood_fence.MapEntry: 防腐木栅栏
+treated_wood_fence_gate.MapEntry: 防腐木栅栏门
+treated_wood_hanging_sign.MapEntry: 墙上的悬挂式防腐木告示牌
+treated_wood_planks.MapEntry: 防腐木板
+treated_wood_pressure_plate.MapEntry: 防腐木压力板
+treated_wood_sign.MapEntry: 墙上的防腐木告示牌
+treated_wood_slab.MapEntry: 防腐木台阶
+treated_wood_stairs.MapEntry: 防腐木楼梯
+treated_wood_trapdoor.MapEntry: 防腐木活板门
+trinium_coil_block.MapEntry: 凯金线圈方块
+tritanium_coil_block.MapEntry: 三钛线圈方块
+tungsten_steel_crate.MapEntry: 钨钢板条箱
+tungsten_steel_drum.MapEntry: 钨钢桶
+tungstensteel_firebox_casing.MapEntry: 钨钢燃烧室
+tungstensteel_gearbox.MapEntry: 钨钢齿轮箱机械方块
+tungstensteel_large_boiler.MapEntry: 大型钨钢锅炉
+tungstensteel_pipe_casing.MapEntry: 钨钢管道方块
+tungstensteel_turbine_casing.MapEntry: 钨钢涡轮机械方块
+turret_hazard_sign_block.MapEntry: 炮塔危害警示方块
+uev_1024a_laser_source_hatch.MapEntry: 1024[c/FFFF55:安][c/55FF55:UEV]激光源仓
+uev_1024a_laser_target_hatch.MapEntry: 1024[c/FFFF55:安][c/55FF55:UEV]激光靶仓
+uev_16a_energy_converter.MapEntry: 16[c/FFFF55:安][c/55FF55:UEV]能量转换器
+uev_1a_energy_converter.MapEntry: 1[c/FFFF55:安][c/55FF55:UEV]能量转换器
+uev_256a_laser_source_hatch.MapEntry: 256[c/FFFF55:安][c/55FF55:UEV]激光源仓
+uev_256a_laser_target_hatch.MapEntry: 256[c/FFFF55:安][c/55FF55:UEV]激光靶仓
+uev_4096a_laser_source_hatch.MapEntry: 4096[c/FFFF55:安][c/55FF55:UEV]激光源仓
+uev_4096a_laser_target_hatch.MapEntry: 4096[c/FFFF55:安][c/55FF55:UEV]激光靶仓
+uev_4a_energy_converter.MapEntry: 4[c/FFFF55:安][c/55FF55:UEV]能量转换器
+uev_8a_energy_converter.MapEntry: 8[c/FFFF55:安][c/55FF55:UEV]能量转换器
+uev_alloy_smelter.MapEntry: "[c/55FF55:史诗合金炉 II]"
+uev_arc_furnace.MapEntry: "[c/55FF55:史诗电弧炉 II]"
+uev_assembler.MapEntry: "[c/55FF55:史诗组装机 II]"
+uev_autoclave.MapEntry: "[c/55FF55:史诗高压釜 II]"
+uev_battery_buffer_16x.MapEntry: 16x[c/55FF55:极超压]电池箱（[c/55FF55:UEV]）
+uev_battery_buffer_4x.MapEntry: 4x[c/55FF55:极超压]电池箱（[c/55FF55:UEV]）
+uev_battery_buffer_8x.MapEntry: 8x[c/55FF55:极超压]电池箱（[c/55FF55:UEV]）
+uev_bender.MapEntry: "[c/55FF55:史诗卷板机 II]"
+uev_brewery.MapEntry: "[c/55FF55:史诗酿造室 II]"
+uev_canner.MapEntry: "[c/55FF55:史诗装罐机 II]"
+uev_centrifuge.MapEntry: "[c/55FF55:史诗离心机 II]"
+uev_charger_4x.MapEntry: 4x[c/55FF55:极超压]闪聚充电箱（[c/55FF55:UEV]）
+uev_chemical_bath.MapEntry: "[c/55FF55:史诗化学浸洗机 II]"
+uev_chemical_reactor.MapEntry: "[c/55FF55:史诗化学反应釜 II]"
+uev_circuit_assembler.MapEntry: "[c/55FF55:史诗电路组装机 II]"
+uev_compressor.MapEntry: "[c/55FF55:史诗压缩机 II]"
+uev_cutter.MapEntry: "[c/55FF55:史诗切割机 II]"
+uev_diode.MapEntry: "[c/55FF55:UEV]二极管"
+uev_distillery.MapEntry: "[c/55FF55:史诗蒸馏室 II]"
+uev_dual_input_hatch.MapEntry: "[c/55FF55:UEV]输入总成"
+uev_dual_output_hatch.MapEntry: "[c/55FF55:UEV]输出总成"
+uev_electric_furnace.MapEntry: "[c/55FF55:史诗电炉 II]"
+uev_electrolyzer.MapEntry: "[c/55FF55:史诗电解机 II]"
+uev_electromagnetic_separator.MapEntry: "[c/55FF55:史诗电磁选矿机 II]"
+uev_energy_input_hatch.MapEntry: "[c/55FF55:UEV]能源仓"
+uev_energy_input_hatch_16a.MapEntry: 16安[c/55FF55:UEV]能源仓
+uev_energy_input_hatch_4a.MapEntry: 4安[c/55FF55:UEV]能源仓
+uev_energy_output_hatch.MapEntry: "[c/55FF55:UEV]动力仓"
+uev_energy_output_hatch_16a.MapEntry: 16安[c/55FF55:UEV]动力仓
+uev_energy_output_hatch_4a.MapEntry: 4安[c/55FF55:UEV]动力仓
+uev_extractor.MapEntry: "[c/55FF55:史诗提取机 II]"
+uev_extruder.MapEntry: "[c/55FF55:史诗压模器 II]"
+uev_fermenter.MapEntry: "[c/55FF55:史诗发酵槽 II]"
+uev_fluid_heater.MapEntry: "[c/55FF55:史诗流体加热器 II]"
+uev_fluid_passthrough_hatch.MapEntry: "[c/55FF55:UEV]流体通行仓"
+uev_fluid_solidifier.MapEntry: "[c/55FF55:史诗流体固化器 II]"
+uev_forge_hammer.MapEntry: "[c/55FF55:史诗锻造锤 II]"
+uev_forming_press.MapEntry: "[c/55FF55:史诗冲压机床 II]"
+uev_gas_collector.MapEntry: "[c/55FF55:史诗集气室 II]"
+uev_input_bus.MapEntry: "[c/55FF55:UEV]输入总线"
+uev_input_hatch.MapEntry: "[c/55FF55:UEV]输入仓"
+uev_input_hatch_4x.MapEntry: "[c/55FF55:UEV]四重输入仓"
+uev_input_hatch_9x.MapEntry: "[c/55FF55:UEV]九重输入仓"
+uev_item_passthrough_hatch.MapEntry: "[c/55FF55:UEV]物品通行仓"
+uev_laser_engraver.MapEntry: "[c/55FF55:史诗激光蚀刻机 II]"
+uev_lathe.MapEntry: "[c/55FF55:史诗车床 II]"
+uev_macerator.MapEntry: "[c/55FF55:史诗研磨机 II]"
+uev_machine_casing.MapEntry: "[c/55FF55:UEV]机械方块"
+uev_machine_hull.MapEntry: "[c/55FF55:UEV][c/FFFFFF:机器外壳]"
+uev_mixer.MapEntry: "[c/55FF55:史诗搅拌机 II]"
+uev_muffler_hatch.MapEntry: "[c/55FF55:UEV]消声仓"
+uev_ore_washer.MapEntry: "[c/55FF55:史诗洗矿厂 II]"
+uev_output_bus.MapEntry: "[c/55FF55:UEV]输出总线"
+uev_output_hatch.MapEntry: "[c/55FF55:UEV]输出仓"
+uev_output_hatch_4x.MapEntry: "[c/55FF55:UEV]四重输出仓"
+uev_output_hatch_9x.MapEntry: "[c/55FF55:UEV]九重输出仓"
+uev_packer.MapEntry: "[c/55FF55:史诗打包机 II]"
+uev_polarizer.MapEntry: "[c/55FF55:史诗两极磁化机 II]"
+uev_quantum_chest.MapEntry: 量子箱 X
+uev_quantum_tank.MapEntry: 量子缸 X
+uev_rock_crusher.MapEntry: "[c/55FF55:史诗碎岩机 II]"
+uev_rotor_holder.MapEntry: "[c/55FF55:UEV]转子支架"
+uev_scanner.MapEntry: "[c/55FF55:史诗扫描仪 II]"
+uev_sifter.MapEntry: "[c/55FF55:史诗筛选机 II]"
+uev_substation_input_hatch_64a.MapEntry: 64安[c/55FF55:UEV]变电能源仓
+uev_substation_output_hatch_64a.MapEntry: 64安[c/55FF55:UEV]变电动力仓
+uev_thermal_centrifuge.MapEntry: "[c/55FF55:史诗热力离心机 II]"
+uev_transformer_16a.MapEntry: "[c/55FF55:极超压]高能变压器（[c/55FF55:UEV]）"
+uev_transformer_1a.MapEntry: "[c/55FF55:极超压]变压器（[c/55FF55:UEV]）"
+uev_transformer_2a.MapEntry: "[c/55FF55:极超压]进阶变压器（[c/55FF55:UEV]）"
+uev_transformer_4a.MapEntry: "[c/55FF55:极超压]高流变压器（[c/55FF55:UEV]）"
+uev_wiremill.MapEntry: "[c/55FF55:史诗线材轧机 II]"
+uhv_1024a_laser_source_hatch.MapEntry: 1024[c/FFFF55:安][c/AA0000:UHV]激光源仓
+uhv_1024a_laser_target_hatch.MapEntry: 1024[c/FFFF55:安][c/AA0000:UHV]激光靶仓
+uhv_16a_energy_converter.MapEntry: 16[c/FFFF55:安][c/AA0000:UHV]能量转换器
+uhv_1a_energy_converter.MapEntry: 1[c/FFFF55:安][c/AA0000:UHV]能量转换器
+uhv_256a_laser_source_hatch.MapEntry: 256[c/FFFF55:安][c/AA0000:UHV]激光源仓
+uhv_256a_laser_target_hatch.MapEntry: 256[c/FFFF55:安][c/AA0000:UHV]激光靶仓
+uhv_4096a_laser_source_hatch.MapEntry: 4096[c/FFFF55:安][c/AA0000:UHV]激光源仓
+uhv_4096a_laser_target_hatch.MapEntry: 4096[c/FFFF55:安][c/AA0000:UHV]激光靶仓
+uhv_4a_energy_converter.MapEntry: 4[c/FFFF55:安][c/AA0000:UHV]能量转换器
+uhv_8a_energy_converter.MapEntry: 8[c/FFFF55:安][c/AA0000:UHV]能量转换器
+uhv_alloy_smelter.MapEntry: "[c/AA0000:史诗合金炉]"
+uhv_arc_furnace.MapEntry: "[c/AA0000:史诗电弧炉]"
+uhv_assembler.MapEntry: "[c/AA0000:史诗组装机]"
+uhv_autoclave.MapEntry: "[c/AA0000:史诗高压釜]"
+uhv_battery_buffer_16x.MapEntry: 16x[c/AA0000:极高压]电池箱（[c/AA0000:UHV]）
+uhv_battery_buffer_4x.MapEntry: 4x[c/AA0000:极高压]电池箱（[c/AA0000:UHV]）
+uhv_battery_buffer_8x.MapEntry: 8x[c/AA0000:极高压]电池箱（[c/AA0000:UHV]）
+uhv_bender.MapEntry: "[c/AA0000:史诗卷板机]"
+uhv_brewery.MapEntry: "[c/AA0000:史诗酿造室]"
+uhv_canner.MapEntry: "[c/AA0000:史诗装罐机]"
+uhv_centrifuge.MapEntry: "[c/AA0000:史诗离心机]"
+uhv_charger_4x.MapEntry: 4x[c/AA0000:极高压]闪聚充电箱（[c/AA0000:UHV]）
+uhv_chemical_bath.MapEntry: "[c/AA0000:史诗化学浸洗机]"
+uhv_chemical_reactor.MapEntry: "[c/AA0000:史诗化学反应釜]"
+uhv_circuit_assembler.MapEntry: "[c/AA0000:史诗电路组装机]"
+uhv_compressor.MapEntry: "[c/AA0000:史诗压缩机]"
+uhv_cutter.MapEntry: "[c/AA0000:史诗切割机]"
+uhv_diode.MapEntry: "[c/AA0000:UHV]二极管"
+uhv_distillery.MapEntry: "[c/AA0000:史诗蒸馏室]"
+uhv_dual_input_hatch.MapEntry: "[c/AA0000:UHV]输入总成"
+uhv_dual_output_hatch.MapEntry: "[c/AA0000:UHV]输出总成"
+uhv_electric_furnace.MapEntry: "[c/AA0000:史诗电炉]"
+uhv_electrolyzer.MapEntry: "[c/AA0000:史诗电解机]"
+uhv_electromagnetic_separator.MapEntry: "[c/AA0000:史诗电磁选矿机]"
+uhv_energy_input_hatch.MapEntry: "[c/AA0000:UHV]能源仓"
+uhv_energy_input_hatch_16a.MapEntry: 16安[c/AA0000:UHV]能源仓
+uhv_energy_input_hatch_4a.MapEntry: 4安[c/AA0000:UHV]能源仓
+uhv_energy_output_hatch.MapEntry: "[c/AA0000:UHV]动力仓"
+uhv_energy_output_hatch_16a.MapEntry: 16安[c/AA0000:UHV]动力仓
+uhv_energy_output_hatch_4a.MapEntry: 4安[c/AA0000:UHV]动力仓
+uhv_extractor.MapEntry: "[c/AA0000:史诗提取机]"
+uhv_extruder.MapEntry: "[c/AA0000:史诗压模器]"
+uhv_fermenter.MapEntry: "[c/AA0000:史诗发酵槽]"
+uhv_fluid_heater.MapEntry: "[c/AA0000:史诗流体加热器]"
+uhv_fluid_passthrough_hatch.MapEntry: "[c/AA0000:UHV]流体通行仓"
+uhv_fluid_solidifier.MapEntry: "[c/AA0000:史诗流体固化器]"
+uhv_forge_hammer.MapEntry: "[c/AA0000:史诗锻造锤]"
+uhv_forming_press.MapEntry: "[c/AA0000:史诗冲压机床]"
+uhv_gas_collector.MapEntry: "[c/AA0000:史诗集气室]"
+uhv_hermetic_casing.MapEntry: 密封机械方块 IX
+uhv_input_bus.MapEntry: "[c/AA0000:UHV]输入总线"
+uhv_input_hatch.MapEntry: "[c/AA0000:UHV]输入仓"
+uhv_input_hatch_4x.MapEntry: "[c/AA0000:UHV]四重输入仓"
+uhv_input_hatch_9x.MapEntry: "[c/AA0000:UHV]九重输入仓"
+uhv_item_passthrough_hatch.MapEntry: "[c/AA0000:UHV]物品通行仓"
+uhv_laser_engraver.MapEntry: "[c/AA0000:史诗激光蚀刻机]"
+uhv_lathe.MapEntry: "[c/AA0000:史诗车床]"
+uhv_macerator.MapEntry: "[c/AA0000:史诗研磨机]"
+uhv_machine_casing.MapEntry: "[c/AA0000:UHV]机械方块"
+uhv_machine_hull.MapEntry: "[c/AA0000:UHV][c/FFFFFF:机器外壳]"
+uhv_mixer.MapEntry: "[c/AA0000:史诗搅拌机]"
+uhv_muffler_hatch.MapEntry: "[c/AA0000:UHV]消声仓"
+uhv_ore_washer.MapEntry: "[c/AA0000:史诗洗矿厂]"
+uhv_output_bus.MapEntry: "[c/AA0000:UHV]输出总线"
+uhv_output_hatch.MapEntry: "[c/AA0000:UHV]输出仓"
+uhv_output_hatch_4x.MapEntry: "[c/AA0000:UHV]四重输出仓"
+uhv_output_hatch_9x.MapEntry: "[c/AA0000:UHV]九重输出仓"
+uhv_packer.MapEntry: "[c/AA0000:史诗打包机]"
+uhv_polarizer.MapEntry: "[c/AA0000:史诗两极磁化机]"
+uhv_quantum_chest.MapEntry: 量子箱 IX
+uhv_quantum_tank.MapEntry: 量子缸 IX
+uhv_rock_crusher.MapEntry: "[c/AA0000:史诗碎岩机]"
+uhv_rotor_holder.MapEntry: "[c/AA0000:UHV]转子支架"
+uhv_scanner.MapEntry: "[c/AA0000:史诗扫描仪]"
+uhv_sifter.MapEntry: "[c/AA0000:史诗筛选机]"
+uhv_substation_input_hatch_64a.MapEntry: 64安[c/AA0000:UHV]变电能源仓
+uhv_substation_output_hatch_64a.MapEntry: 64安[c/AA0000:UHV]变电动力仓
+uhv_thermal_centrifuge.MapEntry: "[c/AA0000:史诗热力离心机]"
+uhv_transformer_16a.MapEntry: "[c/AA0000:极高压]高能变压器（[c/AA0000:UHV]）"
+uhv_transformer_1a.MapEntry: "[c/AA0000:极高压]变压器（[c/AA0000:UHV]）"
+uhv_transformer_2a.MapEntry: "[c/AA0000:极高压]进阶变压器（[c/AA0000:UHV]）"
+uhv_transformer_4a.MapEntry: "[c/AA0000:极高压]高流变压器（[c/AA0000:UHV]）"
+uhv_ultimate_battery.MapEntry: 终极电容（[c/AA0000:UHV]）
+uhv_wiremill.MapEntry: "[c/AA0000:史诗线材轧机]"
+uiv_1024a_laser_source_hatch.MapEntry: 1024[c/FFFF55:安][c/00AA00:UIV]激光源仓
+uiv_1024a_laser_target_hatch.MapEntry: 1024[c/FFFF55:安][c/00AA00:UIV]激光靶仓
+uiv_16a_energy_converter.MapEntry: 16[c/FFFF55:安][c/00AA00:UIV]能量转换器
+uiv_1a_energy_converter.MapEntry: 1[c/FFFF55:安][c/00AA00:UIV]能量转换器
+uiv_256a_laser_source_hatch.MapEntry: 256[c/FFFF55:安][c/00AA00:UIV]激光源仓
+uiv_256a_laser_target_hatch.MapEntry: 256[c/FFFF55:安][c/00AA00:UIV]激光靶仓
+uiv_4096a_laser_source_hatch.MapEntry: 4096[c/FFFF55:安][c/00AA00:UIV]激光源仓
+uiv_4096a_laser_target_hatch.MapEntry: 4096[c/FFFF55:安][c/00AA00:UIV]激光靶仓
+uiv_4a_energy_converter.MapEntry: 4[c/FFFF55:安][c/00AA00:UIV]能量转换器
+uiv_8a_energy_converter.MapEntry: 8[c/FFFF55:安][c/00AA00:UIV]能量转换器
+uiv_alloy_smelter.MapEntry: "[c/00AA00:史诗合金炉 III]"
+uiv_arc_furnace.MapEntry: "[c/00AA00:史诗电弧炉 III]"
+uiv_assembler.MapEntry: "[c/00AA00:史诗组装机 III]"
+uiv_autoclave.MapEntry: "[c/00AA00:史诗高压釜 III]"
+uiv_battery_buffer_16x.MapEntry: 16x[c/00AA00:极巨压]电池箱（[c/00AA00:UIV]）
+uiv_battery_buffer_4x.MapEntry: 4x[c/00AA00:极巨压]电池箱（[c/00AA00:UIV]）
+uiv_battery_buffer_8x.MapEntry: 8x[c/00AA00:极巨压]电池箱（[c/00AA00:UIV]）
+uiv_bender.MapEntry: "[c/00AA00:史诗卷板机 III]"
+uiv_brewery.MapEntry: "[c/00AA00:史诗酿造室 III]"
+uiv_canner.MapEntry: "[c/00AA00:史诗装罐机 III]"
+uiv_centrifuge.MapEntry: "[c/00AA00:史诗离心机 III]"
+uiv_charger_4x.MapEntry: 4x[c/00AA00:极巨压]闪聚充电箱（[c/00AA00:UIV]）
+uiv_chemical_bath.MapEntry: "[c/00AA00:史诗化学浸洗机 III]"
+uiv_chemical_reactor.MapEntry: "[c/00AA00:史诗化学反应釜 III]"
+uiv_circuit_assembler.MapEntry: "[c/00AA00:史诗电路组装机 III]"
+uiv_compressor.MapEntry: "[c/00AA00:史诗压缩机 III]"
+uiv_cutter.MapEntry: "[c/00AA00:史诗切割机 III]"
+uiv_diode.MapEntry: "[c/00AA00:UIV]二极管"
+uiv_distillery.MapEntry: "[c/00AA00:史诗蒸馏室 III]"
+uiv_dual_input_hatch.MapEntry: "[c/00AA00:UIV]输入总成"
+uiv_dual_output_hatch.MapEntry: "[c/00AA00:UIV]输出总成"
+uiv_electric_furnace.MapEntry: "[c/00AA00:史诗电炉 III]"
+uiv_electrolyzer.MapEntry: "[c/00AA00:史诗电解机 III]"
+uiv_electromagnetic_separator.MapEntry: "[c/00AA00:史诗电磁选矿机 III]"
+uiv_energy_input_hatch.MapEntry: "[c/00AA00:UIV]能源仓"
+uiv_energy_input_hatch_16a.MapEntry: 16安[c/00AA00:UIV]能源仓
+uiv_energy_input_hatch_4a.MapEntry: 4安[c/00AA00:UIV]能源仓
+uiv_energy_output_hatch.MapEntry: "[c/00AA00:UIV]动力仓"
+uiv_energy_output_hatch_16a.MapEntry: 16安[c/00AA00:UIV]动力仓
+uiv_energy_output_hatch_4a.MapEntry: 4安[c/00AA00:UIV]动力仓
+uiv_extractor.MapEntry: "[c/00AA00:史诗提取机 III]"
+uiv_extruder.MapEntry: "[c/00AA00:史诗压模器 III]"
+uiv_fermenter.MapEntry: "[c/00AA00:史诗发酵槽 III]"
+uiv_fluid_heater.MapEntry: "[c/00AA00:史诗流体加热器 III]"
+uiv_fluid_passthrough_hatch.MapEntry: "[c/00AA00:UIV]流体通行仓"
+uiv_fluid_solidifier.MapEntry: "[c/00AA00:史诗流体固化器 III]"
+uiv_forge_hammer.MapEntry: "[c/00AA00:史诗锻造锤 III]"
+uiv_forming_press.MapEntry: "[c/00AA00:史诗冲压机床 III]"
+uiv_gas_collector.MapEntry: "[c/00AA00:史诗集气室 III]"
+uiv_input_bus.MapEntry: "[c/00AA00:UIV]输入总线"
+uiv_input_hatch.MapEntry: "[c/00AA00:UIV]输入仓"
+uiv_input_hatch_4x.MapEntry: "[c/00AA00:UIV]四重输入仓"
+uiv_input_hatch_9x.MapEntry: "[c/00AA00:UIV]九重输入仓"
+uiv_item_passthrough_hatch.MapEntry: "[c/00AA00:UIV]物品通行仓"
+uiv_laser_engraver.MapEntry: "[c/00AA00:史诗激光蚀刻机 III]"
+uiv_lathe.MapEntry: "[c/00AA00:史诗车床 III]"
+uiv_macerator.MapEntry: "[c/00AA00:史诗研磨机 III]"
+uiv_machine_casing.MapEntry: "[c/00AA00:UIV]机械方块"
+uiv_machine_hull.MapEntry: "[c/00AA00:UIV][c/FFFFFF:机器外壳]"
+uiv_mixer.MapEntry: "[c/00AA00:史诗搅拌机 III]"
+uiv_muffler_hatch.MapEntry: "[c/00AA00:UIV]消声仓"
+uiv_ore_washer.MapEntry: "[c/00AA00:史诗洗矿厂 III]"
+uiv_output_bus.MapEntry: "[c/00AA00:UIV]输出总线"
+uiv_output_hatch.MapEntry: "[c/00AA00:UIV]输出仓"
+uiv_output_hatch_4x.MapEntry: "[c/00AA00:UIV]四重输出仓"
+uiv_output_hatch_9x.MapEntry: "[c/00AA00:UIV]九重输出仓"
+uiv_packer.MapEntry: "[c/00AA00:史诗打包机 III]"
+uiv_polarizer.MapEntry: "[c/00AA00:史诗两极磁化机 III]"
+uiv_quantum_chest.MapEntry: 量子箱 XI
+uiv_quantum_tank.MapEntry: 量子缸 XI
+uiv_rock_crusher.MapEntry: "[c/00AA00:史诗碎岩机 III]"
+uiv_rotor_holder.MapEntry: "[c/00AA00:UIV]转子支架"
+uiv_scanner.MapEntry: "[c/00AA00:史诗扫描仪 III]"
+uiv_sifter.MapEntry: "[c/00AA00:史诗筛选机 III]"
+uiv_substation_input_hatch_64a.MapEntry: 64安[c/00AA00:UIV]变电能源仓
+uiv_substation_output_hatch_64a.MapEntry: 64安[c/00AA00:UIV]变电动力仓
+uiv_thermal_centrifuge.MapEntry: "[c/00AA00:史诗热力离心机 III]"
+uiv_transformer_16a.MapEntry: "[c/00AA00:极巨压]高能变压器（[c/00AA00:UIV]）"
+uiv_transformer_1a.MapEntry: "[c/00AA00:极巨压]变压器（[c/00AA00:UIV]）"
+uiv_transformer_2a.MapEntry: "[c/00AA00:极巨压]进阶变压器（[c/00AA00:UIV]）"
+uiv_transformer_4a.MapEntry: "[c/00AA00:极巨压]高流变压器（[c/00AA00:UIV]）"
+uiv_wiremill.MapEntry: "[c/00AA00:史诗线材轧机 III]"
+ulv_16a_energy_converter.MapEntry: 16[c/FFFF55:安][c/555555:ULV]能量转换器
+ulv_1a_energy_converter.MapEntry: 1[c/FFFF55:安][c/555555:ULV]能量转换器
+ulv_4a_energy_converter.MapEntry: 4[c/FFFF55:安][c/555555:ULV]能量转换器
+ulv_8a_energy_converter.MapEntry: 8[c/FFFF55:安][c/555555:ULV]能量转换器
+ulv_battery_buffer_16x.MapEntry: 16x[c/555555:超低压]电池箱（[c/555555:ULV]）
+ulv_battery_buffer_4x.MapEntry: 4x[c/555555:超低压]电池箱（[c/555555:ULV]）
+ulv_battery_buffer_8x.MapEntry: 8x[c/555555:超低压]电池箱（[c/555555:ULV]）
+ulv_charger_4x.MapEntry: 4x[c/555555:超低压]闪聚充电箱（[c/555555:ULV]）
+ulv_energy_input_hatch.MapEntry: "[c/555555:ULV]能源仓"
+ulv_energy_output_hatch.MapEntry: "[c/555555:ULV]动力仓"
+ulv_input_bus.MapEntry: "[c/555555:ULV]输入总线"
+ulv_input_hatch.MapEntry: "[c/555555:ULV]输入仓"
+ulv_machine_casing.MapEntry: "[c/555555:ULV]机械方块"
+ulv_machine_hull.MapEntry: "[c/555555:ULV][c/FFFFFF:机器外壳]"
+ulv_output_bus.MapEntry: "[c/555555:ULV]输出总线"
+ulv_output_hatch.MapEntry: "[c/555555:ULV]输出仓"
+ulv_transformer_16a.MapEntry: "[c/555555:超低压]高能变压器（[c/555555:ULV]）"
+ulv_transformer_1a.MapEntry: "[c/555555:超低压]变压器（[c/555555:ULV]）"
+ulv_transformer_2a.MapEntry: "[c/555555:超低压]进阶变压器（[c/555555:ULV]）"
+ulv_transformer_4a.MapEntry: "[c/555555:超低压]高流变压器（[c/555555:ULV]）"
+uv_1024a_laser_source_hatch.MapEntry: 1024[c/FFFF55:安][c/00AAAA:UV]激光源仓
+uv_1024a_laser_target_hatch.MapEntry: 1024[c/FFFF55:安][c/00AAAA:UV]激光靶仓
+uv_16a_energy_converter.MapEntry: 16[c/FFFF55:安][c/00AAAA:UV]能量转换器
+uv_1a_energy_converter.MapEntry: 1[c/FFFF55:安][c/00AAAA:UV]能量转换器
+uv_256a_laser_source_hatch.MapEntry: 256[c/FFFF55:安][c/00AAAA:UV]激光源仓
+uv_256a_laser_target_hatch.MapEntry: 256[c/FFFF55:安][c/00AAAA:UV]激光靶仓
+uv_4096a_laser_source_hatch.MapEntry: 4096[c/FFFF55:安][c/00AAAA:UV]激光源仓
+uv_4096a_laser_target_hatch.MapEntry: 4096[c/FFFF55:安][c/00AAAA:UV]激光靶仓
+uv_4a_energy_converter.MapEntry: 4[c/FFFF55:安][c/00AAAA:UV]能量转换器
+uv_8a_energy_converter.MapEntry: 8[c/FFFF55:安][c/00AAAA:UV]能量转换器
+uv_alloy_smelter.MapEntry: "[c/00AAAA:终极合金炉]"
+uv_arc_furnace.MapEntry: "[c/00AAAA:终极电弧炉]"
+uv_assembler.MapEntry: "[c/00AAAA:终极组装机]"
+uv_autoclave.MapEntry: "[c/00AAAA:终极高压釜]"
+uv_battery_buffer_16x.MapEntry: 16x[c/00AAAA:极限压]电池箱（[c/00AAAA:UV]）
+uv_battery_buffer_4x.MapEntry: 4x[c/00AAAA:极限压]电池箱（[c/00AAAA:UV]）
+uv_battery_buffer_8x.MapEntry: 8x[c/00AAAA:极限压]电池箱（[c/00AAAA:UV]）
+uv_bender.MapEntry: "[c/00AAAA:终极卷板机]"
+uv_brewery.MapEntry: "[c/00AAAA:终极酿造室]"
+uv_canner.MapEntry: "[c/00AAAA:终极装罐机]"
+uv_centrifuge.MapEntry: "[c/00AAAA:终极离心机]"
+uv_charger_4x.MapEntry: 4x[c/00AAAA:极限压]闪聚充电箱（[c/00AAAA:UV]）
+uv_chemical_bath.MapEntry: "[c/00AAAA:终极化学浸洗机]"
+uv_chemical_reactor.MapEntry: "[c/00AAAA:终极化学反应釜]"
+uv_circuit_assembler.MapEntry: "[c/00AAAA:终极电路组装机]"
+uv_compressor.MapEntry: "[c/00AAAA:终极压缩机]"
+uv_cutter.MapEntry: "[c/00AAAA:终极切割机]"
+uv_diode.MapEntry: "[c/00AAAA:UV]二极管"
+uv_distillery.MapEntry: "[c/00AAAA:终极蒸馏室]"
+uv_dual_input_hatch.MapEntry: "[c/00AAAA:UV]输入总成"
+uv_dual_output_hatch.MapEntry: "[c/00AAAA:UV]输出总成"
+uv_electric_furnace.MapEntry: "[c/00AAAA:终极电炉]"
+uv_electrolyzer.MapEntry: "[c/00AAAA:终极电解机]"
+uv_electromagnetic_separator.MapEntry: "[c/00AAAA:终极电磁选矿机]"
+uv_energy_input_hatch.MapEntry: "[c/00AAAA:UV]能源仓"
+uv_energy_input_hatch_16a.MapEntry: 16安[c/00AAAA:UV]能源仓
+uv_energy_input_hatch_4a.MapEntry: 4安[c/00AAAA:UV]能源仓
+uv_energy_output_hatch.MapEntry: "[c/00AAAA:UV]动力仓"
+uv_energy_output_hatch_16a.MapEntry: 16安[c/00AAAA:UV]动力仓
+uv_energy_output_hatch_4a.MapEntry: 4安[c/00AAAA:UV]动力仓
+uv_extractor.MapEntry: "[c/00AAAA:终极提取机]"
+uv_extruder.MapEntry: "[c/00AAAA:终极压模器]"
+uv_fermenter.MapEntry: "[c/00AAAA:终极发酵槽]"
+uv_fluid_heater.MapEntry: "[c/00AAAA:终极流体加热器]"
+uv_fluid_passthrough_hatch.MapEntry: "[c/00AAAA:UV]流体通行仓"
+uv_fluid_solidifier.MapEntry: "[c/00AAAA:终极流体固化器]"
+uv_forge_hammer.MapEntry: "[c/00AAAA:终极锻造锤]"
+uv_forming_press.MapEntry: "[c/00AAAA:终极冲压机床]"
+uv_fusion_reactor.MapEntry: 核聚变反应堆控制电脑 MK-III
+uv_gas_collector.MapEntry: "[c/00AAAA:终极集气室]"
+uv_hermetic_casing.MapEntry: 密封机械方块 VIII
+uv_input_bus.MapEntry: "[c/00AAAA:UV]输入总线"
+uv_input_hatch.MapEntry: "[c/00AAAA:UV]输入仓"
+uv_input_hatch_4x.MapEntry: "[c/00AAAA:UV]四重输入仓"
+uv_input_hatch_9x.MapEntry: "[c/00AAAA:UV]九重输入仓"
+uv_item_passthrough_hatch.MapEntry: "[c/00AAAA:UV]物品通行仓"
+uv_lapotronic_battery.MapEntry: 兰波顿电容（[c/00AAAA:UV]）
+uv_laser_engraver.MapEntry: "[c/00AAAA:终极激光蚀刻机]"
+uv_lathe.MapEntry: "[c/00AAAA:终极车床]"
+uv_macerator.MapEntry: "[c/00AAAA:终极研磨机]"
+uv_machine_casing.MapEntry: "[c/00AAAA:UV]机械方块"
+uv_machine_hull.MapEntry: "[c/00AAAA:UV][c/FFFFFF:机器外壳]"
+uv_mixer.MapEntry: "[c/00AAAA:终极搅拌机]"
+uv_muffler_hatch.MapEntry: "[c/00AAAA:UV]消声仓"
+uv_ore_washer.MapEntry: "[c/00AAAA:终极洗矿厂]"
+uv_output_bus.MapEntry: "[c/00AAAA:UV]输出总线"
+uv_output_hatch.MapEntry: "[c/00AAAA:UV]输出仓"
+uv_output_hatch_4x.MapEntry: "[c/00AAAA:UV]四重输出仓"
+uv_output_hatch_9x.MapEntry: "[c/00AAAA:UV]九重输出仓"
+uv_packer.MapEntry: "[c/00AAAA:终极打包机]"
+uv_parallel_hatch.MapEntry: "[c/00AAAA:UV]并行控制仓"
+uv_polarizer.MapEntry: "[c/00AAAA:终极两极磁化机]"
+uv_quantum_chest.MapEntry: 量子箱 VIII
+uv_quantum_tank.MapEntry: 量子缸 VIII
+uv_rock_crusher.MapEntry: "[c/00AAAA:终极碎岩机]"
+uv_rotor_holder.MapEntry: "[c/00AAAA:UV]转子支架"
+uv_scanner.MapEntry: "[c/00AAAA:终极扫描仪]"
+uv_sifter.MapEntry: "[c/00AAAA:终极筛选机]"
+uv_substation_input_hatch_64a.MapEntry: 64安[c/00AAAA:UV]变电能源仓
+uv_substation_output_hatch_64a.MapEntry: 64安[c/00AAAA:UV]变电动力仓
+uv_thermal_centrifuge.MapEntry: "[c/00AAAA:终极热力离心机]"
+uv_transformer_16a.MapEntry: "[c/00AAAA:极限压]高能变压器（[c/00AAAA:UV]）"
+uv_transformer_1a.MapEntry: "[c/00AAAA:极限压]变压器（[c/00AAAA:UV]）"
+uv_transformer_2a.MapEntry: "[c/00AAAA:极限压]进阶变压器（[c/00AAAA:UV]）"
+uv_transformer_4a.MapEntry: "[c/00AAAA:极限压]高流变压器（[c/00AAAA:UV]）"
+uv_wiremill.MapEntry: "[c/00AAAA:终极线材轧机]"
+uv_world_accelerator.MapEntry: "[c/00AAAA:终极世界加速器]"
+uxv_1024a_laser_source_hatch.MapEntry: 1024[c/FFFF55:安][c/FFFF55:UXV]激光源仓
+uxv_1024a_laser_target_hatch.MapEntry: 1024[c/FFFF55:安][c/FFFF55:UXV]激光靶仓
+uxv_16a_energy_converter.MapEntry: 16[c/FFFF55:安][c/FFFF55:UXV]能量转换器
+uxv_1a_energy_converter.MapEntry: 1[c/FFFF55:安][c/FFFF55:UXV]能量转换器
+uxv_256a_laser_source_hatch.MapEntry: 256[c/FFFF55:安][c/FFFF55:UXV]激光源仓
+uxv_256a_laser_target_hatch.MapEntry: 256[c/FFFF55:安][c/FFFF55:UXV]激光靶仓
+uxv_4096a_laser_source_hatch.MapEntry: 4096[c/FFFF55:安][c/FFFF55:UXV]激光源仓
+uxv_4096a_laser_target_hatch.MapEntry: 4096[c/FFFF55:安][c/FFFF55:UXV]激光靶仓
+uxv_4a_energy_converter.MapEntry: 4[c/FFFF55:安][c/FFFF55:UXV]能量转换器
+uxv_8a_energy_converter.MapEntry: 8[c/FFFF55:安][c/FFFF55:UXV]能量转换器
+uxv_alloy_smelter.MapEntry: "[c/FFFF55:史诗合金炉 IV]"
+uxv_arc_furnace.MapEntry: "[c/FFFF55:史诗电弧炉 IV]"
+uxv_assembler.MapEntry: "[c/FFFF55:史诗组装机 IV]"
+uxv_autoclave.MapEntry: "[c/FFFF55:史诗高压釜 IV]"
+uxv_battery_buffer_16x.MapEntry: 16x[c/FFFF55:极顶压]电池箱（[c/FFFF55:UXV]）
+uxv_battery_buffer_4x.MapEntry: 4x[c/FFFF55:极顶压]电池箱（[c/FFFF55:UXV]）
+uxv_battery_buffer_8x.MapEntry: 8x[c/FFFF55:极顶压]电池箱（[c/FFFF55:UXV]）
+uxv_bender.MapEntry: "[c/FFFF55:史诗卷板机 IV]"
+uxv_brewery.MapEntry: "[c/FFFF55:史诗酿造室 IV]"
+uxv_canner.MapEntry: "[c/FFFF55:史诗装罐机 IV]"
+uxv_centrifuge.MapEntry: "[c/FFFF55:史诗离心机 IV]"
+uxv_charger_4x.MapEntry: 4x[c/FFFF55:极顶压]闪聚充电箱（[c/FFFF55:UXV]）
+uxv_chemical_bath.MapEntry: "[c/FFFF55:史诗化学浸洗机 IV]"
+uxv_chemical_reactor.MapEntry: "[c/FFFF55:史诗化学反应釜 IV]"
+uxv_circuit_assembler.MapEntry: "[c/FFFF55:史诗电路组装机 IV]"
+uxv_compressor.MapEntry: "[c/FFFF55:史诗压缩机 IV]"
+uxv_cutter.MapEntry: "[c/FFFF55:史诗切割机 IV]"
+uxv_diode.MapEntry: "[c/FFFF55:UXV]二极管"
+uxv_distillery.MapEntry: "[c/FFFF55:史诗蒸馏室 IV]"
+uxv_dual_input_hatch.MapEntry: "[c/FFFF55:UXV]输入总成"
+uxv_dual_output_hatch.MapEntry: "[c/FFFF55:UXV]输出总成"
+uxv_electric_furnace.MapEntry: "[c/FFFF55:史诗电炉 IV]"
+uxv_electrolyzer.MapEntry: "[c/FFFF55:史诗电解机 IV]"
+uxv_electromagnetic_separator.MapEntry: "[c/FFFF55:史诗电磁选矿机 IV]"
+uxv_energy_input_hatch.MapEntry: "[c/FFFF55:UXV]能源仓"
+uxv_energy_input_hatch_16a.MapEntry: 16安[c/FFFF55:UXV]能源仓
+uxv_energy_input_hatch_4a.MapEntry: 4安[c/FFFF55:UXV]能源仓
+uxv_energy_output_hatch.MapEntry: "[c/FFFF55:UXV]动力仓"
+uxv_energy_output_hatch_16a.MapEntry: 16安[c/FFFF55:UXV]动力仓
+uxv_energy_output_hatch_4a.MapEntry: 4安[c/FFFF55:UXV]动力仓
+uxv_extractor.MapEntry: "[c/FFFF55:史诗提取机 IV]"
+uxv_extruder.MapEntry: "[c/FFFF55:史诗压模器 IV]"
+uxv_fermenter.MapEntry: "[c/FFFF55:史诗发酵槽 IV]"
+uxv_fluid_heater.MapEntry: "[c/FFFF55:史诗流体加热器 IV]"
+uxv_fluid_passthrough_hatch.MapEntry: "[c/FFFF55:UXV]流体通行仓"
+uxv_fluid_solidifier.MapEntry: "[c/FFFF55:史诗流体固化器 IV]"
+uxv_forge_hammer.MapEntry: "[c/FFFF55:史诗锻造锤 IV]"
+uxv_forming_press.MapEntry: "[c/FFFF55:史诗冲压机床 IV]"
+uxv_gas_collector.MapEntry: "[c/FFFF55:史诗集气室 IV]"
+uxv_input_bus.MapEntry: "[c/FFFF55:UXV]输入总线"
+uxv_input_hatch.MapEntry: "[c/FFFF55:UXV]输入仓"
+uxv_input_hatch_4x.MapEntry: "[c/FFFF55:UXV]四重输入仓"
+uxv_input_hatch_9x.MapEntry: "[c/FFFF55:UXV]九重输入仓"
+uxv_item_passthrough_hatch.MapEntry: "[c/FFFF55:UXV]物品通行仓"
+uxv_laser_engraver.MapEntry: "[c/FFFF55:史诗激光蚀刻机 IV]"
+uxv_lathe.MapEntry: "[c/FFFF55:史诗车床 IV]"
+uxv_macerator.MapEntry: "[c/FFFF55:史诗研磨机 IV]"
+uxv_machine_casing.MapEntry: "[c/FFFF55:UXV]机械方块"
+uxv_machine_hull.MapEntry: "[c/FFFF55:UXV][c/FFFFFF:机器外壳]"
+uxv_mixer.MapEntry: "[c/FFFF55:史诗搅拌机 IV]"
+uxv_muffler_hatch.MapEntry: "[c/FFFF55:UXV]消声仓"
+uxv_ore_washer.MapEntry: "[c/FFFF55:史诗洗矿厂 IV]"
+uxv_output_bus.MapEntry: "[c/FFFF55:UXV]输出总线"
+uxv_output_hatch.MapEntry: "[c/FFFF55:UXV]输出仓"
+uxv_output_hatch_4x.MapEntry: "[c/FFFF55:UXV]四重输出仓"
+uxv_output_hatch_9x.MapEntry: "[c/FFFF55:UXV]九重输出仓"
+uxv_packer.MapEntry: "[c/FFFF55:史诗打包机 IV]"
+uxv_polarizer.MapEntry: "[c/FFFF55:史诗两极磁化机 IV]"
+uxv_quantum_chest.MapEntry: 量子箱 XII
+uxv_quantum_tank.MapEntry: 量子缸 XII
+uxv_rock_crusher.MapEntry: "[c/FFFF55:史诗碎岩机 IV]"
+uxv_rotor_holder.MapEntry: "[c/FFFF55:UXV]转子支架"
+uxv_scanner.MapEntry: "[c/FFFF55:史诗扫描仪 IV]"
+uxv_sifter.MapEntry: "[c/FFFF55:史诗筛选机 IV]"
+uxv_substation_input_hatch_64a.MapEntry: 64安[c/FFFF55:UXV]变电能源仓
+uxv_substation_output_hatch_64a.MapEntry: 64安[c/FFFF55:UXV]变电动力仓
+uxv_thermal_centrifuge.MapEntry: "[c/FFFF55:史诗热力离心机 IV]"
+uxv_transformer_16a.MapEntry: "[c/FFFF55:极顶压]高能变压器（[c/FFFF55:UXV]）"
+uxv_transformer_1a.MapEntry: "[c/FFFF55:极顶压]变压器（[c/FFFF55:UXV]）"
+uxv_transformer_2a.MapEntry: "[c/FFFF55:极顶压]进阶变压器（[c/FFFF55:UXV]）"
+uxv_transformer_4a.MapEntry: "[c/FFFF55:极顶压]高流变压器（[c/FFFF55:UXV]）"
+uxv_wiremill.MapEntry: "[c/FFFF55:史诗线材轧机 IV]"
+vacuum_freezer.MapEntry: 真空冷冻机
+vibration_safe_casing.MapEntry: 防震机械方块
+void_hazard_sign_block.MapEntry: 虚空危害警示方块
+watertight_casing.MapEntry: 防水机械方块
+white_borderless_lamp.MapEntry: 白色无框灯
+white_lamp.MapEntry: 白色灯
+white_large_metal_sheet.MapEntry: 白色粗纹金属板方块
+white_metal_sheet.MapEntry: 白色金属板方块
+white_studs.MapEntry: 白色橡胶混凝土
+wood_crate.MapEntry: 木板条箱
+wood_drum.MapEntry: 木桶
+wood_wall.MapEntry: 木壁
+wooden_multiblock_tank.MapEntry: 木制多方块储罐
+wooden_tank_valve.MapEntry: 木制储罐阀门
+yellow_borderless_lamp.MapEntry: 黄色无框灯
+yellow_lamp.MapEntry: 黄色灯
+yellow_large_metal_sheet.MapEntry: 黄色粗纹金属板方块
+yellow_metal_sheet.MapEntry: 黄色金属板方块
+yellow_stripes_block_a.MapEntry: 黄色路障方块A
+yellow_stripes_block_b.MapEntry: 黄色路障方块B
+yellow_studs.MapEntry: 黄色橡胶混凝土
+zpm_1024a_laser_source_hatch.MapEntry: 1024[c/FFFF55:安][c/FF5555:ZPM]激光源仓
+zpm_1024a_laser_target_hatch.MapEntry: 1024[c/FFFF55:安][c/FF5555:ZPM]激光靶仓
+zpm_16a_energy_converter.MapEntry: 16[c/FFFF55:安][c/FF5555:ZPM]能量转换器
+zpm_1a_energy_converter.MapEntry: 1[c/FFFF55:安][c/FF5555:ZPM]能量转换器
+zpm_256a_laser_source_hatch.MapEntry: 256[c/FFFF55:安][c/FF5555:ZPM]激光源仓
+zpm_256a_laser_target_hatch.MapEntry: 256[c/FFFF55:安][c/FF5555:ZPM]激光靶仓
+zpm_4096a_laser_source_hatch.MapEntry: 4096[c/FFFF55:安][c/FF5555:ZPM]激光源仓
+zpm_4096a_laser_target_hatch.MapEntry: 4096[c/FFFF55:安][c/FF5555:ZPM]激光靶仓
+zpm_4a_energy_converter.MapEntry: 4[c/FFFF55:安][c/FF5555:ZPM]能量转换器
+zpm_8a_energy_converter.MapEntry: 8[c/FFFF55:安][c/FF5555:ZPM]能量转换器
+zpm_alloy_smelter.MapEntry: "[c/FF5555:精英合金炉 III]"
+zpm_arc_furnace.MapEntry: "[c/FF5555:精英电弧炉 III]"
+zpm_assembler.MapEntry: "[c/FF5555:精英组装机 III]"
+zpm_autoclave.MapEntry: "[c/FF5555:精英高压釜 III]"
+zpm_battery_buffer_16x.MapEntry: 16x[c/FF5555:零点压]电池箱（[c/FF5555:ZPM]）
+zpm_battery_buffer_4x.MapEntry: 4x[c/FF5555:零点压]电池箱（[c/FF5555:ZPM]）
+zpm_battery_buffer_8x.MapEntry: 8x[c/FF5555:零点压]电池箱（[c/FF5555:ZPM]）
+zpm_bender.MapEntry: "[c/FF5555:精英卷板机 III]"
+zpm_brewery.MapEntry: "[c/FF5555:精英酿造室 III]"
+zpm_canner.MapEntry: "[c/FF5555:精英装罐机 III]"
+zpm_centrifuge.MapEntry: "[c/FF5555:精英离心机 III]"
+zpm_charger_4x.MapEntry: 4x[c/FF5555:零点压]闪聚充电箱（[c/FF5555:ZPM]）
+zpm_chemical_bath.MapEntry: "[c/FF5555:精英化学浸洗机 III]"
+zpm_chemical_reactor.MapEntry: "[c/FF5555:精英化学反应釜 III]"
+zpm_circuit_assembler.MapEntry: "[c/FF5555:精英电路组装机 III]"
+zpm_compressor.MapEntry: "[c/FF5555:精英压缩机 III]"
+zpm_cutter.MapEntry: "[c/FF5555:精英切割机 III]"
+zpm_diode.MapEntry: "[c/FF5555:ZPM]二极管"
+zpm_distillery.MapEntry: "[c/FF5555:精英蒸馏室 III]"
+zpm_dual_input_hatch.MapEntry: "[c/FF5555:ZPM]输入总成"
+zpm_dual_output_hatch.MapEntry: "[c/FF5555:ZPM]输出总成"
+zpm_electric_furnace.MapEntry: "[c/FF5555:精英电炉 III]"
+zpm_electrolyzer.MapEntry: "[c/FF5555:精英电解机 III]"
+zpm_electromagnetic_separator.MapEntry: "[c/FF5555:精英电磁选矿机 III]"
+zpm_energy_input_hatch.MapEntry: "[c/FF5555:ZPM]能源仓"
+zpm_energy_input_hatch_16a.MapEntry: 16安[c/FF5555:ZPM]能源仓
+zpm_energy_input_hatch_4a.MapEntry: 4安[c/FF5555:ZPM]能源仓
+zpm_energy_output_hatch.MapEntry: "[c/FF5555:ZPM]动力仓"
+zpm_energy_output_hatch_16a.MapEntry: 16安[c/FF5555:ZPM]动力仓
+zpm_energy_output_hatch_4a.MapEntry: 4安[c/FF5555:ZPM]动力仓
+zpm_extractor.MapEntry: "[c/FF5555:精英提取机 III]"
+zpm_extruder.MapEntry: "[c/FF5555:精英压模器 III]"
+zpm_fermenter.MapEntry: "[c/FF5555:精英发酵槽 III]"
+zpm_fluid_heater.MapEntry: "[c/FF5555:精英流体加热器 III]"
+zpm_fluid_passthrough_hatch.MapEntry: "[c/FF5555:ZPM]流体通行仓"
+zpm_fluid_solidifier.MapEntry: "[c/FF5555:精英流体固化器 III]"
+zpm_forge_hammer.MapEntry: "[c/FF5555:精英锻造锤 III]"
+zpm_forming_press.MapEntry: "[c/FF5555:精英冲压机床 III]"
+zpm_fusion_reactor.MapEntry: 核聚变反应堆控制电脑 MK-II
+zpm_gas_collector.MapEntry: "[c/FF5555:精英集气室 III]"
+zpm_hermetic_casing.MapEntry: 密封机械方块 VII
+zpm_input_bus.MapEntry: "[c/FF5555:ZPM]输入总线"
+zpm_input_hatch.MapEntry: "[c/FF5555:ZPM]输入仓"
+zpm_input_hatch_4x.MapEntry: "[c/FF5555:ZPM]四重输入仓"
+zpm_input_hatch_9x.MapEntry: "[c/FF5555:ZPM]九重输入仓"
+zpm_item_passthrough_hatch.MapEntry: "[c/FF5555:ZPM]物品通行仓"
+zpm_lapotronic_battery.MapEntry: 兰波顿电容（[c/FF5555:ZPM]）
+zpm_laser_engraver.MapEntry: "[c/FF5555:精英激光蚀刻机 III]"
+zpm_lathe.MapEntry: "[c/FF5555:精英车床 III]"
+zpm_macerator.MapEntry: "[c/FF5555:精英研磨机 III]"
+zpm_machine_casing.MapEntry: "[c/FF5555:ZPM]机械方块"
+zpm_machine_hull.MapEntry: "[c/FF5555:ZPM][c/FFFFFF:机器外壳]"
+zpm_mixer.MapEntry: "[c/FF5555:精英搅拌机 III]"
+zpm_muffler_hatch.MapEntry: "[c/FF5555:ZPM]消声仓"
+zpm_ore_washer.MapEntry: "[c/FF5555:精英洗矿厂 III]"
+zpm_output_bus.MapEntry: "[c/FF5555:ZPM]输出总线"
+zpm_output_hatch.MapEntry: "[c/FF5555:ZPM]输出仓"
+zpm_output_hatch_4x.MapEntry: "[c/FF5555:ZPM]四重输出仓"
+zpm_output_hatch_9x.MapEntry: "[c/FF5555:ZPM]九重输出仓"
+zpm_packer.MapEntry: "[c/FF5555:精英打包机 III]"
+zpm_parallel_hatch.MapEntry: "[c/FF5555:ZPM]并行控制仓"
+zpm_polarizer.MapEntry: "[c/FF5555:精英两极磁化机 III]"
+zpm_quantum_chest.MapEntry: 量子箱 VII
+zpm_quantum_tank.MapEntry: 量子缸 VII
+zpm_rock_crusher.MapEntry: "[c/FF5555:精英碎岩机 III]"
+zpm_rotor_holder.MapEntry: "[c/FF5555:ZPM]转子支架"
+zpm_scanner.MapEntry: "[c/FF5555:精英扫描仪III]"
+zpm_sifter.MapEntry: "[c/FF5555:精英筛选机 III]"
+zpm_substation_input_hatch_64a.MapEntry: 64安[c/FF5555:ZPM]变电能源仓
+zpm_substation_output_hatch_64a.MapEntry: 64安[c/FF5555:ZPM]变电动力仓
+zpm_thermal_centrifuge.MapEntry: "[c/FF5555:精英热力离心机 III]"
+zpm_transformer_16a.MapEntry: "[c/FF5555:零点压]高能变压器（[c/FF5555:ZPM]）"
+zpm_transformer_1a.MapEntry: "[c/FF5555:零点压]变压器（[c/FF5555:ZPM]）"
+zpm_transformer_2a.MapEntry: "[c/FF5555:零点压]进阶变压器（[c/FF5555:ZPM]）"
+zpm_transformer_4a.MapEntry: "[c/FF5555:零点压]高流变压器（[c/FF5555:ZPM]）"
+zpm_wiremill.MapEntry: "[c/FF5555:精英线材轧机 III]"
+zpm_world_accelerator.MapEntry: "[c/FF5555:精英世界加速器 III]"
+// TooManyItemsTile.MapEntry: Too Many Items
+// aluminium_frame.MapEntry: Aluminium Frame
+// black_steel_frame.MapEntry: Black Steel Frame
+// blue_steel_frame.MapEntry: Blue Steel Frame
+// bronze_frame.MapEntry: Bronze Frame
+// europium_frame.MapEntry: Europium Frame
+// glowstone_block.MapEntry: Glowstone Block
+// hastelloy_c_276_frame.MapEntry: Hastelloy C 276 Frame
+// hastelloy_x_frame.MapEntry: Hastelloy X Frame
+// hsla_steel_frame.MapEntry: Hsla Steel Frame
+// hsse_frame.MapEntry: Hsse Frame
+// hssg_frame.MapEntry: Hssg Frame
+// hsss_frame.MapEntry: Hsss Frame
+// incoloy_ma_956_frame.MapEntry: Incoloy Ma 956 Frame
+// invar_frame.MapEntry: Invar Frame
+// iridium_frame.MapEntry: Iridium Frame
+// maraging_steel_300_frame.MapEntry: Maraging Steel 300 Frame
+// naquadah_alloy_frame.MapEntry: Naquadah Alloy Frame
+// neutronium_frame.MapEntry: Neutronium Frame
+// polytetrafluoroethylene_frame.MapEntry: Polytetrafluoroethylene Frame
+// raw_almandine_block.MapEntry: Raw Almandine Block
+// raw_aluminium_block.MapEntry: Raw Aluminium Block
+// raw_alunite_block.MapEntry: Raw Alunite Block
+// raw_amethyst_block.MapEntry: Raw Amethyst Block
+// raw_apatite_block.MapEntry: Raw Apatite Block
+// raw_asbestos_block.MapEntry: Raw Asbestos Block
+// raw_barite_block.MapEntry: Raw Barite Block
+// raw_basaltic_mineral_sand_block.MapEntry: Raw Basaltic Mineral Sand Block
+// raw_bastnasite_block.MapEntry: Raw Bastnasite Block
+// raw_bauxite_block.MapEntry: Raw Bauxite Block
+// raw_bentonite_block.MapEntry: Raw Bentonite Block
+// raw_beryllium_block.MapEntry: Raw Beryllium Block
+// raw_blue_topaz_block.MapEntry: Raw Blue Topaz Block
+// raw_bornite_block.MapEntry: Raw Bornite Block
+// raw_calcite_block.MapEntry: Raw Calcite Block
+// raw_cassiterite_block.MapEntry: Raw Cassiterite Block
+// raw_cassiterite_sand_block.MapEntry: Raw Cassiterite Sand Block
+// raw_certus_quartz_block.MapEntry: Raw Certus Quartz Block
+// raw_chalcocite_block.MapEntry: Raw Chalcocite Block
+// raw_chalcopyrite_block.MapEntry: Raw Chalcopyrite Block
+// raw_chromite_block.MapEntry: Raw Chromite Block
+// raw_cinnabar_block.MapEntry: Raw Cinnabar Block
+// raw_coal_block.MapEntry: Raw Coal Block
+// raw_cobalt_block.MapEntry: Raw Cobalt Block
+// raw_cobaltite_block.MapEntry: Raw Cobaltite Block
+// raw_cooperite_block.MapEntry: Raw Cooperite Block
+// raw_copper_block.MapEntry: Raw Copper Block
+// raw_diamond_block.MapEntry: Raw Diamond Block
+// raw_diatomite_block.MapEntry: Raw Diatomite Block
+// raw_electrotine_block.MapEntry: Raw Electrotine Block
+// raw_emerald_block.MapEntry: Raw Emerald Block
+// raw_fullers_earth_block.MapEntry: Raw Fullers Earth Block
+// raw_galena_block.MapEntry: Raw Galena Block
+// raw_garnet_sand_block.MapEntry: Raw Garnet Sand Block
+// raw_garnierite_block.MapEntry: Raw Garnierite Block
+// raw_glauconite_sand_block.MapEntry: Raw Glauconite Sand Block
+// raw_goethite_block.MapEntry: Raw Goethite Block
+// raw_gold_block.MapEntry: Raw Gold Block
+// raw_granitic_mineral_sand_block.MapEntry: Raw Granitic Mineral Sand Block
+// raw_graphite_block.MapEntry: Raw Graphite Block
+// raw_green_sapphire_block.MapEntry: Raw Green Sapphire Block
+// raw_grossular_block.MapEntry: Raw Grossular Block
+// raw_gypsum_block.MapEntry: Raw Gypsum Block
+// raw_hematite_block.MapEntry: Raw Hematite Block
+// raw_ilmenite_block.MapEntry: Raw Ilmenite Block
+// raw_iron_block.MapEntry: Raw Iron Block
+// raw_kyanite_block.MapEntry: Raw Kyanite Block
+// raw_lapis_block.MapEntry: Raw Lapis Block
+// raw_lazurite_block.MapEntry: Raw Lazurite Block
+// raw_lead_block.MapEntry: Raw Lead Block
+// raw_lepidolite_block.MapEntry: Raw Lepidolite Block
+// raw_lithium_block.MapEntry: Raw Lithium Block
+// raw_magnesite_block.MapEntry: Raw Magnesite Block
+// raw_magnetite_block.MapEntry: Raw Magnetite Block
+// raw_malachite_block.MapEntry: Raw Malachite Block
+// raw_mica_block.MapEntry: Raw Mica Block
+// raw_molybdenite_block.MapEntry: Raw Molybdenite Block
+// raw_molybdenum_block.MapEntry: Raw Molybdenum Block
+// raw_monazite_block.MapEntry: Raw Monazite Block
+// raw_naquadah_block.MapEntry: Raw Naquadah Block
+// raw_neodymium_block.MapEntry: Raw Neodymium Block
+// raw_nether_quartz_block.MapEntry: Raw Nether Quartz Block
+// raw_nickel_block.MapEntry: Raw Nickel Block
+// raw_oilsands_block.MapEntry: Raw Oilsands Block
+// raw_olivine_block.MapEntry: Raw Olivine Block
+// raw_opal_block.MapEntry: Raw Opal Block
+// raw_palladium_block.MapEntry: Raw Palladium Block
+// raw_pentlandite_block.MapEntry: Raw Pentlandite Block
+// raw_pitchblende_block.MapEntry: Raw Pitchblende Block
+// raw_platinum_block.MapEntry: Raw Platinum Block
+// raw_plutonium_block.MapEntry: Raw Plutonium Block
+// raw_pollucite_block.MapEntry: Raw Pollucite Block
+// raw_powellite_block.MapEntry: Raw Powellite Block
+// raw_pyrite_block.MapEntry: Raw Pyrite Block
+// raw_pyrochlore_block.MapEntry: Raw Pyrochlore Block
+// raw_pyrolusite_block.MapEntry: Raw Pyrolusite Block
+// raw_pyrope_block.MapEntry: Raw Pyrope Block
+// raw_quartzite_block.MapEntry: Raw Quartzite Block
+// raw_realgar_block.MapEntry: Raw Realgar Block
+// raw_red_garnet_block.MapEntry: Raw Red Garnet Block
+// raw_redstone_block.MapEntry: Raw Redstone Block
+// raw_rock_salt_block.MapEntry: Raw Rock Salt Block
+// raw_ruby_block.MapEntry: Raw Ruby Block
+// raw_salt_block.MapEntry: Raw Salt Block
+// raw_saltpeter_block.MapEntry: Raw Saltpeter Block
+// raw_sapphire_block.MapEntry: Raw Sapphire Block
+// raw_scheelite_block.MapEntry: Raw Scheelite Block
+// raw_silver_block.MapEntry: Raw Silver Block
+// raw_soapstone_block.MapEntry: Raw Soapstone Block
+// raw_sodalite_block.MapEntry: Raw Sodalite Block
+// raw_spessartine_block.MapEntry: Raw Spessartine Block
+// raw_sphalerite_block.MapEntry: Raw Sphalerite Block
+// raw_spodumene_block.MapEntry: Raw Spodumene Block
+// raw_stibnite_block.MapEntry: Raw Stibnite Block
+// raw_sulfur_block.MapEntry: Raw Sulfur Block
+// raw_talc_block.MapEntry: Raw Talc Block
+// raw_tantalite_block.MapEntry: Raw Tantalite Block
+// raw_tetrahedrite_block.MapEntry: Raw Tetrahedrite Block
+// raw_thorium_block.MapEntry: Raw Thorium Block
+// raw_tin_block.MapEntry: Raw Tin Block
+// raw_topaz_block.MapEntry: Raw Topaz Block
+// raw_tricalcium_phosphate_block.MapEntry: Raw Tricalcium Phosphate Block
+// raw_trona_block.MapEntry: Raw Trona Block
+// raw_tungstate_block.MapEntry: Raw Tungstate Block
+// raw_uraninite_block.MapEntry: Raw Uraninite Block
+// raw_vanadium_magnetite_block.MapEntry: Raw Vanadium Magnetite Block
+// raw_wulfenite_block.MapEntry: Raw Wulfenite Block
+// raw_yellow_garnet_block.MapEntry: Raw Yellow Garnet Block
+// raw_yellow_limonite_block.MapEntry: Raw Yellow Limonite Block
+// raw_zeolite_block.MapEntry: Raw Zeolite Block
+// redstone_block.MapEntry: Redstone Block
+// ruridit_frame.MapEntry: Ruridit Frame
+// stainless_steel_frame.MapEntry: Stainless Steel Frame
+// steel_frame.MapEntry: Steel Frame
+// titanium_frame.MapEntry: Titanium Frame
+// treated_wood_frame.MapEntry: Treated Wood Frame
+// tritanium_frame.MapEntry: Tritanium Frame
+// tungsten_carbide_frame.MapEntry: Tungsten Carbide Frame
+// tungsten_frame.MapEntry: Tungsten Frame
+// tungsten_steel_frame.MapEntry: Tungsten Steel Frame
+// ultimet_frame.MapEntry: Ultimet Frame
+// watertight_steel_frame.MapEntry: Watertight Steel Frame
+// wood_frame.MapEntry: Wood Frame
+// ulv_macerator.MapEntry: ULV Macerator
+// max_macerator.MapEntry: MAX Macerator
+// ulv_alloy_smelter.MapEntry: ULV Alloy Smelter
+// max_alloy_smelter.MapEntry: MAX Alloy Smelter
+// ulv_brewery.MapEntry: ULV Brewery
+// max_brewery.MapEntry: MAX Brewery
+// ulv_compressor.MapEntry: ULV Compressor
+// max_compressor.MapEntry: MAX Compressor
+// ulv_extractor.MapEntry: ULV Extractor
+// max_extractor.MapEntry: MAX Extractor
+// ulv_forge_hammer.MapEntry: ULV Forge Hammer
+// max_forge_hammer.MapEntry: MAX Forge Hammer
+// ulv_bender.MapEntry: ULV Bender
+// max_bender.MapEntry: MAX Bender
+// ulv_lathe.MapEntry: ULV Lathe
+// max_lathe.MapEntry: MAX Lathe
+// ulv_polarizer.MapEntry: ULV Polarizer
+// max_polarizer.MapEntry: MAX Polarizer
+// ulv_wiremill.MapEntry: ULV Wiremill
+// max_wiremill.MapEntry: MAX Wiremill
+// ulv_electromagnetic_separator.MapEntry: ULV Electromagnetic Separator
+// max_electromagnetic_separator.MapEntry: MAX Electromagnetic Separator
+// ulv_packer.MapEntry: ULV Packer
+// max_packer.MapEntry: MAX Packer
+// ulv_fluid_solidifier.MapEntry: ULV Fluid Solidifier
+// max_fluid_solidifier.MapEntry: MAX Fluid Solidifier
+// ulv_chemical_reactor.MapEntry: ULV Chemical Reactor
+// max_chemical_reactor.MapEntry: MAX Chemical Reactor
+// ulv_electrolyzer.MapEntry: ULV Electrolyzer
+// max_electrolyzer.MapEntry: MAX Electrolyzer
+// ulv_centrifuge.MapEntry: ULV Centrifuge
+// max_centrifuge.MapEntry: MAX Centrifuge
+// ulv_arc_furnace.MapEntry: ULV Arc Furnace
+// max_arc_furnace.MapEntry: MAX Arc Furnace
+// ulv_cutter.MapEntry: ULV Cutter
+// max_cutter.MapEntry: MAX Cutter
+// ulv_extruder.MapEntry: ULV Extruder
+// max_extruder.MapEntry: MAX Extruder
+// ulv_scanner.MapEntry: ULV Scanner
+// max_scanner.MapEntry: MAX Scanner
+// ulv_laser_engraver.MapEntry: ULV Laser Engraver
+// max_laser_engraver.MapEntry: MAX Laser Engraver
+// ulv_sifter.MapEntry: ULV Sifter
+// max_sifter.MapEntry: MAX Sifter
+// ulv_thermal_centrifuge.MapEntry: ULV Thermal Centrifuge
+// max_thermal_centrifuge.MapEntry: MAX Thermal Centrifuge
+// ulv_gas_collector.MapEntry: ULV Gas Collector
+// max_gas_collector.MapEntry: MAX Gas Collector
+// ulv_air_scrubber.MapEntry: ULV Air Scrubber
+// iv_air_scrubber.MapEntry: IV Air Scrubber
+// luv_air_scrubber.MapEntry: LuV Air Scrubber
+// zpm_air_scrubber.MapEntry: ZPM Air Scrubber
+// uv_air_scrubber.MapEntry: UV Air Scrubber
+// uhv_air_scrubber.MapEntry: UHV Air Scrubber
+// uev_air_scrubber.MapEntry: UEV Air Scrubber
+// uiv_air_scrubber.MapEntry: UIV Air Scrubber
+// uxv_air_scrubber.MapEntry: UXV Air Scrubber
+// opv_air_scrubber.MapEntry: OpV Air Scrubber
+// max_air_scrubber.MapEntry: MAX Air Scrubber
+// ulv_electric_furnace.MapEntry: ULV Electric Furnace
+// max_electric_furnace.MapEntry: MAX Electric Furnace
+// ulv_rock_crusher.MapEntry: ULV Rock Crusher
+// max_rock_crusher.MapEntry: MAX Rock Crusher
+// ulv_distillery.MapEntry: ULV Distillery
+// max_distillery.MapEntry: MAX Distillery
+// ulv_mixer.MapEntry: ULV Mixer
+// max_mixer.MapEntry: MAX Mixer
+// ulv_autoclave.MapEntry: ULV Autoclave
+// max_autoclave.MapEntry: MAX Autoclave
+// ulv_ore_washer.MapEntry: ULV Ore Washer
+// max_ore_washer.MapEntry: MAX Ore Washer
+// ulv_chemical_bath.MapEntry: ULV Chemical Bath
+// max_chemical_bath.MapEntry: MAX Chemical Bath
+// ulv_fluid_heater.MapEntry: ULV Fluid Heater
+// max_fluid_heater.MapEntry: MAX Fluid Heater
+// ulv_fermenter.MapEntry: ULV Fermenter
+// max_fermenter.MapEntry: MAX Fermenter
+// ulv_canner.MapEntry: ULV Canner
+// max_canner.MapEntry: MAX Canner
+// ulv_assembler.MapEntry: ULV Assembler
+// max_assembler.MapEntry: MAX Assembler
+// ulv_forming_press.MapEntry: ULV Forming Press
+// max_forming_press.MapEntry: MAX Forming Press
+// ulv_circuit_assembler.MapEntry: ULV Circuit Assembler
+// max_circuit_assembler.MapEntry: MAX Circuit Assembler
+// ulv_steam_turbine.MapEntry: ULV Steam Turbine
+// ev_steam_turbine.MapEntry: EV Steam Turbine
+// iv_steam_turbine.MapEntry: IV Steam Turbine
+// luv_steam_turbine.MapEntry: LuV Steam Turbine
+// zpm_steam_turbine.MapEntry: ZPM Steam Turbine
+// uv_steam_turbine.MapEntry: UV Steam Turbine
+// uhv_steam_turbine.MapEntry: UHV Steam Turbine
+// uev_steam_turbine.MapEntry: UEV Steam Turbine
+// uiv_steam_turbine.MapEntry: UIV Steam Turbine
+// uxv_steam_turbine.MapEntry: UXV Steam Turbine
+// opv_steam_turbine.MapEntry: OpV Steam Turbine
+// max_steam_turbine.MapEntry: MAX Steam Turbine
+// ulv_solar_panel_machine.MapEntry: ULV Solar Panel
+// lv_solar_panel_machine.MapEntry: LV Solar Panel
+// mv_solar_panel_machine.MapEntry: MV Solar Panel
+// hv_solar_panel_machine.MapEntry: HV Solar Panel
+// ev_solar_panel_machine.MapEntry: EV Solar Panel
+// iv_solar_panel_machine.MapEntry: IV Solar Panel
+// luv_solar_panel_machine.MapEntry: LuV Solar Panel
+// zpm_solar_panel_machine.MapEntry: ZPM Solar Panel
+// uv_solar_panel_machine.MapEntry: UV Solar Panel
+// uhv_solar_panel_machine.MapEntry: UHV Solar Panel
+// uev_solar_panel_machine.MapEntry: UEV Solar Panel
+// uiv_solar_panel_machine.MapEntry: UIV Solar Panel
+// uxv_solar_panel_machine.MapEntry: UXV Solar Panel
+// opv_solar_panel_machine.MapEntry: OpV Solar Panel
+// max_solar_panel_machine.MapEntry: MAX Solar Panel
+// ulv_lamp.MapEntry: ULV Lamp
+// lv_lamp.MapEntry: LV Lamp
+// mv_lamp.MapEntry: MV Lamp
+// hv_lamp.MapEntry: HV Lamp
+// ev_lamp.MapEntry: EV Lamp
+// iv_lamp.MapEntry: IV Lamp
+// luv_lamp.MapEntry: LuV Lamp
+// zpm_lamp.MapEntry: ZPM Lamp
+// uv_lamp.MapEntry: UV Lamp
+// uhv_lamp.MapEntry: UHV Lamp
+// uev_lamp.MapEntry: UEV Lamp
+// uiv_lamp.MapEntry: UIV Lamp
+// uxv_lamp.MapEntry: UXV Lamp
+// opv_lamp.MapEntry: OpV Lamp
+// max_lamp.MapEntry: MAX Lamp
+// iv_block_breaker.MapEntry: IV Block Breaker
+// luv_block_breaker.MapEntry: LuV Block Breaker
+// zpm_block_breaker.MapEntry: ZPM Block Breaker
+// ev_miner.MapEntry: EV Miner
+// max_256a_laser_target_hatch.MapEntry: MAX 256A Laser Target Hatch
+// max_256a_laser_source_hatch.MapEntry: MAX 256A Laser Source Hatch
+// max_1024a_laser_target_hatch.MapEntry: MAX 1024A Laser Target Hatch
+// max_1024a_laser_source_hatch.MapEntry: MAX 1024A Laser Source Hatch
+// max_4096a_laser_target_hatch.MapEntry: MAX 4096A Laser Target Hatch
+// max_4096a_laser_source_hatch.MapEntry: MAX 4096A Laser Source Hatch

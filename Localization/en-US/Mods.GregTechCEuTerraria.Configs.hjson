@@ -1,0 +1,67 @@
+GTConfig: {
+	DisplayName: GregTech
+
+	EnableBossDrops: {
+		Label: Enable GregTech boss drops
+		Tooltip: If enabled, vanilla bosses drop tier-appropriate GregTech raw ores, dusts, and circuit components.
+	}
+
+	NetworkSyncPeriod: {
+		Label: Network Sync Period
+		Tooltip: ""
+	}
+
+	SimulationSpeed: {
+		Label: Simulation Speed
+		Tooltip: ""
+	}
+
+	EnableCleanroom: {
+		Label: Enable Cleanroom
+		Tooltip: ""
+	}
+
+	CleanMultiblocks: {
+		Label: Clean Multiblocks
+		Tooltip: ""
+	}
+
+	DebugMobs: {
+		Label: Debug Mobs
+		Tooltip: ""
+	}
+
+	EnableProfiler: {
+		Label: Enable Profiler
+		Tooltip: ""
+	}
+
+	LdItemPipeMinDistance: {
+		Label: Ld Item Pipe Min Distance
+		Tooltip: ""
+	}
+
+	LdFluidPipeMinDistance: {
+		Label: Ld Fluid Pipe Min Distance
+		Tooltip: ""
+	}
+
+	OrderedAssemblyLineItems: {
+		Label: Ordered Assembly Line Items
+		Tooltip: ""
+	}
+
+	OrderedAssemblyLineFluids: {
+		Label: Ordered Assembly Line Fluids
+		Tooltip: ""
+	}
+}
+
+GTClientConfig: {
+	DisplayName: G T Client Config
+
+	ShowDiscordInvite: {
+		Label: Show Discord Invite
+		Tooltip: ""
+	}
+}

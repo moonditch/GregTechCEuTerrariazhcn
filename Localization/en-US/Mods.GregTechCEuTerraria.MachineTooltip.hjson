@@ -1,0 +1,479 @@
+active_transformer_0: "[c/AAAAAA:Transformers: Lasers in Disguise]"
+active_transformer_1: "[c/AAAAAA:Can combine any number of Energy][c/FFFFFF:Inputs][c/AAAAAA: into any number of Energy][c/FFFFFF:Outputs][c/AAAAAA:.]"
+active_transformer_2: "[c/AAAAAA:Can transmit power at incredible distance with]"
+active_transformer_3: Lasers[c/AAAAAA:.]
+advanced_processing_array: Parallelize the World
+assembly_line: Not a multiblock Assembling Machine!
+available_recipe_map_1: Available Recipe Types: %s
+available_recipe_map_2: Available Recipe Types: %s, %s
+available_recipe_map_3: Available Recipe Types: %s, %s, %s
+available_recipe_map_4: Available Recipe Types: %s, %s, %s, %s
+block_breaker: "[c/AAAAAA:Mines block on front face and collects its drops]"
+buffer: A Small Buffer to store Items and Fluids
+central_monitor: But can it run Doom?
+charcoal_pile: Underground fuel bakery
+charcoal_pile_0: Turns Logs into [c/55FF55:Charcoal][c/AAAAAA: when][c/FF5555:ignited][c/AAAAAA:.]
+charcoal_pile_1: Right Click with fire-starting items to start.
+charcoal_pile_2: Pyrolysis occurs in up to a [c/55FFFF:9x4x9][c/AAAAAA: space beneath.]
+charcoal_pile_3: Logs must be not be exposed to [c/FFFF55:Air][c/AAAAAA:!]
+cleanroom: Keeping those pesky particles out
+cleanroom_0: Place machines inside to run cleanroom recipes.
+cleanroom_1: Uses [c/FFFFFF:30 EU/t][c/AAAAAA: when dirty,][c/FFFFFF:4 EU/t][c/AAAAAA: when clean.]
+cleanroom_2: Overclocking increases cleaning per cycle.
+cleanroom_3: "[c/55FFFF:Size:][c/FFFFFF:5x5x5 to 15x15x15]"
+cleanroom_4: Requires [c/FFFFFF:Filter Casings][c/AAAAAA:in the ceiling, excluding the edges.]
+cleanroom_5: Accepts up to [c/FFFFFF:4 Doors][c/AAAAAA:! Remains clean when the door is open.]
+cleanroom_6: Generators, Mufflers, Drills, and Primitive Machines are too dirty for the cleanroom!
+cleanroom_7: Send power through [c/FFFFFF:Hulls][c/AAAAAA:or][c/FFFFFF:Diodes][c/AAAAAA:in the walls.]
+coke_oven: Making better fuels for Steel and Power
+coke_oven_hatch: "[c/AAAAAA:Allows automation access for the Coke Oven.]"
+combustion: "[c/AAAAAA:Requires flammable Liquids]"
+computation_receiver_hatch: Computation Data Input for Multiblocks
+computation_transmitter_hatch: Computation Data Output for Multiblocks
+cracker: Makes Oil useful
+cracker_1: Every coil after [c/FFAA00:Cupronickel][c/AAAAAA: reduces energy usage by][c/FFFFFF:10%%][c/AAAAAA:.]
+data_access_hatch_0: Data Access for Multiblocks
+data_access_hatch_1: Adds [c/55FF55:%s][c/AAAAAA: slots for Data Items]
+data_bank_0: Your Personal NAS
+data_bank_1: Bulk Data Storage. Transfer with Optical Cables.
+data_bank_2: Data Banks can be chained together.
+data_bank_3: Uses [c/FFFFFF:%s EU/t][c/AAAAAA: per Data/Optical Hatch normally.]
+data_bank_4: Uses [c/FFFFFF:%s EU/t][c/AAAAAA: per Data/Optical Hatch when chained.]
+data_receiver_hatch: Research Data Input for Multiblocks
+data_transmitter_hatch: Research Data Output for Multiblocks
+distillation_tower: Fluid Refinery
+electric_blast_furnace: Where's the electric smoker?
+electric_blast_furnace_0: For every [c/FFFFFF:900K][c/AAAAAA: above the recipe temperature, a multiplicative][c/FFFFFF:95%%][c/AAAAAA: energy multiplier is applied pre-overclocking.]
+electric_blast_furnace_1: For every [c/FFFFFF:1800K][c/AAAAAA: above the recipe temperature, one overclock becomes][c/FFFFFF:100%% efficient][c/AAAAAA: (perfect overclock).]
+electric_blast_furnace_2: For every voltage tier above [c/55FFFF:MV][c/AAAAAA:, temperature is increased by][c/FFFFFF:100K][c/AAAAAA:.]
+endpoint_0: Connect with [c/FFFFFF:Long Distance Pipe][c/AAAAAA: blocks to create a pipeline.]
+endpoint_1: Pipelines must have exactly [c/FFFFFF:1 Input][c/AAAAAA: and][c/FFFFFF:1 Output][c/AAAAAA: endpoint.]
+endpoint_2: Only pipeline endpoints need to be [c/FFFFFF:chunk-loaded][c/AAAAAA:.]
+ev_alloy_smelter: "[c/AAAAAA:HighTech combination Smelter]"
+ev_arc_furnace: "[c/AAAAAA:Who needs a Blast Furnace?]"
+ev_assembler: "[c/AAAAAA:Avengers, Assemble!]"
+ev_autoclave: "[c/AAAAAA:Crystallizing your Dusts]"
+ev_bender: "[c/AAAAAA:Boo, he's bad! We want BENDER!!!]"
+ev_brewery: "[c/AAAAAA:Compact and efficient potion brewing]"
+ev_canner: "[c/AAAAAA:Puts things into and out of Containers]"
+ev_centrifuge: "[c/AAAAAA:Molecular Separator]"
+ev_chemical_bath: "[c/AAAAAA:Bathing Ores in Chemicals to separate them]"
+ev_chemical_reactor: "[c/AAAAAA:Letting Chemicals react with each other]"
+ev_circuit_assembler: "[c/AAAAAA:Pick-n-Place all over the place]"
+ev_compressor: "[c/AAAAAA:Compress-O-Matic C77]"
+ev_cutter: "[c/AAAAAA:Slice'N Dice]"
+ev_distillery: "[c/AAAAAA:Extracting most relevant Parts of Fluids]"
+ev_electric_furnace: "[c/AAAAAA:Not like using a Commodore 64]"
+ev_electrolyzer: "[c/AAAAAA:Electrolyzing Molecules]"
+ev_electromagnetic_separator: "[c/AAAAAA:Separating the magnetic Ores from the rest]"
+ev_extractor: "[c/AAAAAA:Dejuicer-Device of Doom - D123]"
+ev_extruder: "[c/AAAAAA:Universal Machine for Metal Working]"
+ev_fermenter: "[c/AAAAAA:Fermenting Fluids]"
+ev_fluid_drilling_rig: Well Drainer
+ev_fluid_heater: "[c/AAAAAA:Heating up your Fluids]"
+ev_fluid_solidifier: "[c/AAAAAA:Cools Fluids down to form Solids]"
+ev_forge_hammer: "[c/AAAAAA:Stop, Hammertime!]"
+ev_forming_press: "[c/AAAAAA:Imprinting Images into things]"
+ev_gas_collector: "[c/AAAAAA:Collects Gas from the air depending on the dimension]"
+ev_laser_engraver: "[c/AAAAAA:Don't look directly at the Laser]"
+ev_lathe: "[c/AAAAAA:Produces Rods more efficiently]"
+ev_macerator: "[c/AAAAAA:Shredding your Ores with Byproducts]"
+ev_mass_fabricator: "[c/AAAAAA:UUM Matter * Fabrication Squared]"
+ev_mixer: "[c/AAAAAA:Will it Blend?]"
+ev_ore_washer: "[c/AAAAAA:Getting more Byproducts from your Ores]"
+ev_packer: "[c/AAAAAA:Puts things into and Grabs things out of Boxes]"
+ev_polarizer: "[c/AAAAAA:Bipolarising your Magnets]"
+ev_replicator: "[c/AAAAAA:Producing the Purest of Elements]"
+ev_rock_crusher: "[c/AAAAAA:Place Water and Lava horizontally adjacent]"
+ev_scanner: "[c/AAAAAA:Scans Materials and other things]"
+ev_sifter: "[c/AAAAAA:Stay calm and keep sifting]"
+ev_thermal_centrifuge: "[c/AAAAAA:Separating Ores more precisely]"
+ev_wiremill: "[c/AAAAAA:Produces Wires more efficiently]"
+extreme_combustion_engine: Extreme Chemical Energy Releaser
+fisher: Costs string to fish. Consumes one string each time.
+gas_turbine: "[c/AAAAAA:Requires flammable Gases]"
+high_performance_computation_array_0: Just your average Supercomputer
+high_performance_computation_array_1: Used to generate [c/FFFFFF:Computation][c/AAAAAA: (and heat).]
+high_performance_computation_array_2: Requires HPCA components to generate [c/FFFFFF:CWU/t][c/AAAAAA: (Compute Work Units).]
+hp_steam_alloy_smelter: "[c/AAAAAA:Combination Smelter]"
+hp_steam_compressor: "[c/AAAAAA:Compressing Items]"
+hp_steam_extractor: "[c/AAAAAA:Extracting your first Rubber]"
+hp_steam_forge_hammer: "[c/AAAAAA:Forge Hammer]"
+hp_steam_furnace: "[c/AAAAAA:Smelting things with compressed Steam]"
+hp_steam_liquid_boiler: "[c/AAAAAA:Faster than Small Steam Liquid Boiler]"
+hp_steam_macerator: "[c/AAAAAA:Macerating your Ores without Byproducts]"
+hp_steam_rock_crusher: "[c/AAAAAA:Place Water and Lava horizontally adjacent]"
+hp_steam_solar_boiler: "[c/AAAAAA:Steam Power by Sun]"
+hp_steam_solid_boiler: "[c/AAAAAA:Faster than the Small Steam Solid Fuel Boiler]"
+hull: "[c/AAAAAA:You just need][c/AA00AA:I][c/FF55FF:m][c/AA0000:a][c/FF5555:g][c/FFFF55:i][c/55FF55:n][c/55FFFF:a][c/00AAAA:t][c/AAAAAA:i][c/0000AA:o][c/AA00AA:n][c/AAAAAA: to use this]"
+hv_alloy_smelter: "[c/AAAAAA:HighTech combination Smelter]"
+hv_arc_furnace: "[c/AAAAAA:Who needs a Blast Furnace?]"
+hv_assembler: "[c/AAAAAA:Avengers, Assemble!]"
+hv_autoclave: "[c/AAAAAA:Crystallizing your Dusts]"
+hv_bender: "[c/AAAAAA:Boo, he's bad! We want BENDER!!!]"
+hv_brewery: "[c/AAAAAA:Compact and efficient potion brewing]"
+hv_canner: "[c/AAAAAA:Puts things into and out of Containers]"
+hv_centrifuge: "[c/AAAAAA:Separating Molecules]"
+hv_chemical_bath: "[c/AAAAAA:Bathing Ores in Chemicals to separate them]"
+hv_chemical_reactor: "[c/AAAAAA:Letting Chemicals react with each other]"
+hv_circuit_assembler: "[c/AAAAAA:Pick-n-Place all over the place]"
+hv_compressor: "[c/AAAAAA:Compress-O-Matic C77]"
+hv_cutter: "[c/AAAAAA:Slice'N Dice]"
+hv_distillery: "[c/AAAAAA:Extracting most relevant Parts of Fluids]"
+hv_electric_furnace: "[c/AAAAAA:Not like using a Commodore 64]"
+hv_electrolyzer: "[c/AAAAAA:Electrolyzing Molecules]"
+hv_electromagnetic_separator: "[c/AAAAAA:Separating the magnetic Ores from the rest]"
+hv_extractor: "[c/AAAAAA:Dejuicer-Device of Doom - D123]"
+hv_extruder: "[c/AAAAAA:Universal Machine for Metal Working]"
+hv_fermenter: "[c/AAAAAA:Fermenting Fluids]"
+hv_fluid_drilling_rig: Does not perform Fracking
+hv_fluid_heater: "[c/AAAAAA:Heating up your Fluids]"
+hv_fluid_solidifier: "[c/AAAAAA:Cools Fluids down to form Solids]"
+hv_forge_hammer: "[c/AAAAAA:Stop, Hammertime!]"
+hv_forming_press: "[c/AAAAAA:Imprinting Images into things]"
+hv_gas_collector: "[c/AAAAAA:Collects Gas from the air depending on the dimension]"
+hv_laser_engraver: "[c/AAAAAA:Don't look directly at the Laser]"
+hv_lathe: "[c/AAAAAA:Produces Rods more efficiently]"
+hv_macerator: "[c/AAAAAA:Shredding your Ores with Byproducts]"
+hv_mass_fabricator: "[c/AAAAAA:UUM Matter * Fabrication Squared]"
+hv_mixer: "[c/AAAAAA:Will it Blend?]"
+hv_ore_washer: "[c/AAAAAA:Getting more Byproducts from your Ores]"
+hv_packer: "[c/AAAAAA:Puts things into and Grabs things out of Boxes]"
+hv_polarizer: "[c/AAAAAA:Bipolarising your Magnets]"
+hv_replicator: "[c/AAAAAA:Producing the Purest of Elements]"
+hv_rock_crusher: "[c/AAAAAA:Place Water and Lava horizontally adjacent]"
+hv_scanner: "[c/AAAAAA:Scans Materials and other things]"
+hv_sifter: "[c/AAAAAA:Stay calm and keep sifting]"
+hv_thermal_centrifuge: "[c/AAAAAA:Separating Ores more precisely]"
+hv_wiremill: "[c/AAAAAA:Produces Wires more efficiently]"
+implosion_compressor: The only Machine you want to go Boom
+item_collector: Collects Items around itself
+iv_alloy_smelter: "[c/AAAAAA:Alloy Integrator]"
+iv_arc_furnace: "[c/AAAAAA:Discharge Heater]"
+iv_assembler: "[c/AAAAAA:NOT a Crafting Table]"
+iv_autoclave: "[c/AAAAAA:Pressure Cooker]"
+iv_bender: "[c/AAAAAA:Shape Distorter]"
+iv_brewery: "[c/AAAAAA:Brewing your Drinks]"
+iv_canner: "[c/AAAAAA:Can Operator]"
+iv_centrifuge: "[c/AAAAAA:Molecular Cyclone]"
+iv_chemical_bath: "[c/AAAAAA:Chemical Soaker]"
+iv_chemical_reactor: "[c/AAAAAA:Chemical Performer]"
+iv_circuit_assembler: "[c/AAAAAA:Electronics Manufacturer]"
+iv_compressor: "[c/AAAAAA:Singularity Condenser]"
+iv_cutter: "[c/AAAAAA:Matter Cleaver]"
+iv_distillery: "[c/AAAAAA:Condensation Separator]"
+iv_electric_furnace: "[c/AAAAAA:Electron Excitement Processor]"
+iv_electrolyzer: "[c/AAAAAA:Molecular Disintegrator E-4906]"
+iv_electromagnetic_separator: "[c/AAAAAA:EM Categorizer]"
+iv_extractor: "[c/AAAAAA:Vacuum Extractinator]"
+iv_extruder: "[c/AAAAAA:Material Displacer]"
+iv_fermenter: "[c/AAAAAA:Fermentation Hastener]"
+iv_fluid_heater: "[c/AAAAAA:Heat Infuser]"
+iv_fluid_solidifier: "[c/AAAAAA:Not an Ice Machine]"
+iv_forge_hammer: "[c/AAAAAA:Plate Forger]"
+iv_forming_press: "[c/AAAAAA:Object Layerer]"
+iv_gas_collector: "[c/AAAAAA:Collects Gas from the atmosphere depending on the dimension]"
+iv_laser_engraver: "[c/AAAAAA:With the Power of 2.04 MW]"
+iv_lathe: "[c/AAAAAA:Turn-O-Matic L-5906]"
+iv_macerator: "[c/AAAAAA:Blend-O-Matic 9001]"
+iv_mass_fabricator: "[c/AAAAAA:Genesis Factory]"
+iv_mixer: "[c/AAAAAA:Matter Organizer]"
+iv_ore_washer: "[c/AAAAAA:Repurposed Laundry-Washer I-360]"
+iv_packer: "[c/AAAAAA:Boxinator]"
+iv_polarizer: "[c/AAAAAA:Magnetism Inducer]"
+iv_replicator: "[c/AAAAAA:Matter Paster]"
+iv_rock_crusher: "[c/AAAAAA:Cryogenic Magma Solidifier R-8200]"
+iv_scanner: "[c/AAAAAA:Anomaly Detector]"
+iv_sifter: "[c/AAAAAA:Sponsored by TFC]"
+iv_thermal_centrifuge: "[c/AAAAAA:Blaze Sweatshop T-6350]"
+iv_wiremill: "[c/AAAAAA:Ingot Elongator]"
+large_chemical_reactor: Black Box Reactor
+large_combustion_engine: Fuel Ignition Chamber
+laser_source_hatch_0: Transmitting power at distance
+laser_source_hatch_1: "[c/FF5555:Laser cables must be in a straight line!]"
+laser_target_hatch_0: Receiving power from distance
+laser_target_hatch_1: "[c/FF5555:Laser cables must be in a straight line!]"
+lp_steam_alloy_smelter: "[c/AAAAAA:Combination Smelter]"
+lp_steam_compressor: "[c/AAAAAA:Compressing Items]"
+lp_steam_extractor: "[c/AAAAAA:Extracting your first Rubber]"
+lp_steam_forge_hammer: "[c/AAAAAA:Forge Hammer]"
+lp_steam_furnace: "[c/AAAAAA:Smelting things with compressed Steam]"
+lp_steam_liquid_boiler: "[c/AAAAAA:A Boiler running off Liquids]"
+lp_steam_macerator: "[c/AAAAAA:Macerating your Ores without Byproducts]"
+lp_steam_rock_crusher: "[c/AAAAAA:Place Water and Lava horizontally adjacent]"
+lp_steam_solar_boiler: "[c/AAAAAA:Steam Power by Sun]"
+lp_steam_solid_boiler: "[c/AAAAAA:An early way to get Steam Power]"
+luv_alloy_smelter: "[c/AAAAAA:Alloy Integrator]"
+luv_arc_furnace: "[c/AAAAAA:Discharge Heater]"
+luv_assembler: "[c/AAAAAA:NOT a Crafting Table]"
+luv_autoclave: "[c/AAAAAA:Pressure Cooker]"
+luv_bender: "[c/AAAAAA:Shape Distorter]"
+luv_brewery: "[c/AAAAAA:Brewing your Drinks]"
+luv_canner: "[c/AAAAAA:Can Operator]"
+luv_centrifuge: "[c/AAAAAA:Molecular Cyclone]"
+luv_chemical_bath: "[c/AAAAAA:Chemical Soaker]"
+luv_chemical_reactor: "[c/AAAAAA:Chemical Performer]"
+luv_circuit_assembler: "[c/AAAAAA:Electronics Manufacturer]"
+luv_compressor: "[c/AAAAAA:Singularity Condenser]"
+luv_cutter: "[c/AAAAAA:Matter Cleaver]"
+luv_distillery: "[c/AAAAAA:Condensation Separator]"
+luv_electric_furnace: "[c/AAAAAA:Electron Excitement Processor]"
+luv_electrolyzer: "[c/AAAAAA:Molecular Disintegrator E-4907]"
+luv_electromagnetic_separator: "[c/AAAAAA:EM Categorizer]"
+luv_extractor: "[c/AAAAAA:Vacuum Extractinator]"
+luv_extruder: "[c/AAAAAA:Material Displacer]"
+luv_fermenter: "[c/AAAAAA:Fermentation Hastener]"
+luv_fluid_heater: "[c/AAAAAA:Heat Infuser]"
+luv_fluid_solidifier: "[c/AAAAAA:Not an Ice Machine]"
+luv_forge_hammer: "[c/AAAAAA:Plate Forger]"
+luv_forming_press: "[c/AAAAAA:Object Layerer]"
+luv_gas_collector: "[c/AAAAAA:Collects Gas from the atmosphere depending on the dimension]"
+luv_laser_engraver: "[c/AAAAAA:With the Power of 8.16 MW]"
+luv_lathe: "[c/AAAAAA:Turn-O-Matic L-5907]"
+luv_macerator: "[c/AAAAAA:Blend-O-Matic 9002]"
+luv_mass_fabricator: "[c/AAAAAA:Genesis Factory]"
+luv_mixer: "[c/AAAAAA:Matter Organizer]"
+luv_ore_washer: "[c/AAAAAA:Repurposed Laundry-Washer I-361]"
+luv_packer: "[c/AAAAAA:Boxinator]"
+luv_polarizer: "[c/AAAAAA:Magnetism Inducer]"
+luv_replicator: "[c/AAAAAA:Matter Paster]"
+luv_rock_crusher: "[c/AAAAAA:Cryogenic Magma Solidifier R-9200]"
+luv_scanner: "[c/AAAAAA:Anomaly Detector]"
+luv_sifter: "[c/AAAAAA:Sponsored by TFC]"
+luv_thermal_centrifuge: "[c/AAAAAA:Blaze Sweatshop T-6351]"
+luv_wiremill: "[c/AAAAAA:Ingot Elongator]"
+lv_alloy_smelter: "[c/AAAAAA:HighTech combination Smelter]"
+lv_arc_furnace: "[c/AAAAAA:Who needs a Blast Furnace?]"
+lv_assembler: "[c/AAAAAA:Avengers, Assemble!]"
+lv_autoclave: "[c/AAAAAA:Crystallizing your Dusts]"
+lv_bender: "[c/AAAAAA:Boo, he's bad! We want BENDER!!!]"
+lv_brewery: "[c/AAAAAA:Compact and efficient potion brewing]"
+lv_canner: "[c/AAAAAA:Puts things into and out of Containers]"
+lv_centrifuge: "[c/AAAAAA:Separating Molecules]"
+lv_chemical_bath: "[c/AAAAAA:Bathing Ores in Chemicals to separate them]"
+lv_chemical_reactor: "[c/AAAAAA:Letting Chemicals react with each other]"
+lv_circuit_assembler: "[c/AAAAAA:Pick-n-Place all over the place]"
+lv_compressor: "[c/AAAAAA:Compress-O-Matic C77]"
+lv_cutter: "[c/AAAAAA:Slice'N Dice]"
+lv_distillery: "[c/AAAAAA:Extracting most relevant Parts of Fluids]"
+lv_electric_furnace: "[c/AAAAAA:Not like using a Commodore 64]"
+lv_electrolyzer: "[c/AAAAAA:Electrolyzing Molecules]"
+lv_electromagnetic_separator: "[c/AAAAAA:Separating the magnetic Ores from the rest]"
+lv_extractor: "[c/AAAAAA:Dejuicer-Device of Doom - D123]"
+lv_extruder: "[c/AAAAAA:Universal Machine for Metal Working]"
+lv_fermenter: "[c/AAAAAA:Fermenting Fluids]"
+lv_fluid_heater: "[c/AAAAAA:Heating up your Fluids]"
+lv_fluid_solidifier: "[c/AAAAAA:Cools Fluids down to form Solids]"
+lv_forge_hammer: "[c/AAAAAA:Stop, Hammertime!]"
+lv_forming_press: "[c/AAAAAA:Imprinting Images into things]"
+lv_gas_collector: "[c/AAAAAA:Collects Gas from the air depending on the dimension]"
+lv_laser_engraver: "[c/AAAAAA:Don't look directly at the Laser]"
+lv_lathe: "[c/AAAAAA:Produces Rods more efficiently]"
+lv_macerator: "[c/AAAAAA:Shredding your Ores without Byproducts]"
+lv_mass_fabricator: "[c/AAAAAA:UUM Matter * Fabrication Squared]"
+lv_mixer: "[c/AAAAAA:Will it Blend?]"
+lv_ore_washer: "[c/AAAAAA:Getting more Byproducts from your Ores]"
+lv_packer: "[c/AAAAAA:Puts things into and Grabs things out of Boxes]"
+lv_polarizer: "[c/AAAAAA:Bipolarising your Magnets]"
+lv_replicator: "[c/AAAAAA:Producing the Purest of Elements]"
+lv_rock_crusher: "[c/AAAAAA:Place Water and Lava horizontally adjacent]"
+lv_scanner: "[c/AAAAAA:Scans Materials and other things]"
+lv_sifter: "[c/AAAAAA:Stay calm and keep sifting]"
+lv_thermal_centrifuge: "[c/AAAAAA:Separating Ores more precisely]"
+lv_wiremill: "[c/AAAAAA:Produces Wires more efficiently]"
+machine_hatch: Specialized Access Bus that only holds valid items
+maintenance_hatch: For maintaining Multiblocks
+maintenance_hatch_cleanroom_auto_0: For automatically maintaining Multiblocks with Cleaning!
+maintenance_hatch_cleanroom_auto_1: Cleans as:
+maintenance_hatch_configurable_0: For finer control over Multiblocks
+maintenance_hatch_configurable_1: Starts with no Maintenance problems!
+maintenance_hatch_full_auto: For automatically maintaining Multiblocks
+maintenance_hatch_tape_slot: Insert Tape to prevent problems
+maintenance_hatch_tool_slot: Click slot with empty hand when required tools are in inventory to solve problems
+miner: "[c/AAAAAA:Mines ores below the Miner! Starts as][c/FFFFFF:%sx%s][c/AAAAAA:area]"
+muffler_hatch_0: Recovers waste from machines
+muffler_hatch_1: DO NOT OBSTRUCT THE OUTPUT!
+multi_furnace: Just like the Oven at Home
+mv_alloy_smelter: "[c/AAAAAA:HighTech combination Smelter]"
+mv_arc_furnace: "[c/AAAAAA:Who needs a Blast Furnace?]"
+mv_assembler: "[c/AAAAAA:Avengers, Assemble!]"
+mv_autoclave: "[c/AAAAAA:Crystallizing your Dusts]"
+mv_bender: "[c/AAAAAA:Boo, he's bad! We want BENDER!!!]"
+mv_brewery: "[c/AAAAAA:Compact and efficient potion brewing]"
+mv_canner: "[c/AAAAAA:Puts things into and out of Containers]"
+mv_centrifuge: "[c/AAAAAA:Separating Molecules]"
+mv_chemical_bath: "[c/AAAAAA:Bathing Ores in Chemicals to separate them]"
+mv_chemical_reactor: "[c/AAAAAA:Letting Chemicals react with each other]"
+mv_circuit_assembler: "[c/AAAAAA:Pick-n-Place all over the place]"
+mv_compressor: "[c/AAAAAA:Compress-O-Matic C77]"
+mv_cutter: "[c/AAAAAA:Slice'N Dice]"
+mv_distillery: "[c/AAAAAA:Extracting most relevant Parts of Fluids]"
+mv_electric_furnace: "[c/AAAAAA:Not like using a Commodore 64]"
+mv_electrolyzer: "[c/AAAAAA:Electrolyzing Molecules]"
+mv_electromagnetic_separator: "[c/AAAAAA:Separating the magnetic Ores from the rest]"
+mv_extractor: "[c/AAAAAA:Dejuicer-Device of Doom - D123]"
+mv_extruder: "[c/AAAAAA:Universal Machine for Metal Working]"
+mv_fermenter: "[c/AAAAAA:Fermenting Fluids]"
+mv_fluid_drilling_rig: Oil Extraction Pump
+mv_fluid_heater: "[c/AAAAAA:Heating up your Fluids]"
+mv_fluid_solidifier: "[c/AAAAAA:Cools Fluids down to form Solids]"
+mv_forge_hammer: "[c/AAAAAA:Stop, Hammertime!]"
+mv_forming_press: "[c/AAAAAA:Imprinting Images into things]"
+mv_gas_collector: "[c/AAAAAA:Collects Gas from the air depending on the dimension]"
+mv_laser_engraver: "[c/AAAAAA:Don't look directly at the Laser]"
+mv_lathe: "[c/AAAAAA:Produces Rods more efficiently]"
+mv_macerator: "[c/AAAAAA:Shredding your Ores without Byproducts]"
+mv_mass_fabricator: "[c/AAAAAA:UUM Matter * Fabrication Squared]"
+mv_mixer: "[c/AAAAAA:Will it Blend?]"
+mv_ore_washer: "[c/AAAAAA:Getting more Byproducts from your Ores]"
+mv_packer: "[c/AAAAAA:Puts things into and Grabs things out of Boxes]"
+mv_polarizer: "[c/AAAAAA:Bipolarising your Magnets]"
+mv_replicator: "[c/AAAAAA:Producing the Purest of Elements]"
+mv_rock_crusher: "[c/AAAAAA:Place Water and Lava horizontally adjacent]"
+mv_scanner: "[c/AAAAAA:Scans Materials and other things]"
+mv_sifter: "[c/AAAAAA:Stay calm and keep sifting]"
+mv_thermal_centrifuge: "[c/AAAAAA:Separating Ores more precisely]"
+mv_wiremill: "[c/AAAAAA:Produces Wires more efficiently]"
+network_switch_0: Ethernet Hub
+network_switch_1: Used to route and distribute [c/FFFFFF:Computation][c/AAAAAA:.]
+network_switch_2: Can combine any number of Computation [c/FFFFFF:Receivers][c/AAAAAA: into any number of Computation][c/FFFFFF:Transmitters][c/AAAAAA:.]
+network_switch_3: Uses [c/FFFFFF:%s EU/t][c/AAAAAA: per Computation Data Hatch.]
+object_holder: Advanced Holding Mechanism for Research Station
+opv_gas_collector: "[c/AAAAAA:Collects Gas from the universe depending on the dimension]"
+opv_rock_crusher: "[c/AAAAAA:Volcanic Formation Chamber]"
+parallel_hatch_mk5: Allows to run up to 4 recipes in parallel.
+parallel_hatch_mk6: Allows to run up to 16 recipes in parallel.
+parallel_hatch_mk7: Allows to run up to 64 recipes in parallel.
+parallel_hatch_mk8: Allows to run up to 256 recipes in parallel.
+passthrough_hatch_fluid: Sends Fluids from one Side to the other
+passthrough_hatch_item: Sends Items from one Side to the other
+power_substation_0: The heart of a centralized power grid
+power_substation_1: "[c/FFFFFF:Capacitors][c/AAAAAA: do not need to be all the same tier.]"
+power_substation_2: Allows up to [c/FFFFFF:%d Capacitor Layers][c/AAAAAA:.]
+power_substation_3: Loses energy equal to [c/FFFFFF:1%%][c/AAAAAA: of total capacity every][c/FFFFFF:24 hours][c/AAAAAA:.]
+power_substation_4: Capped at [c/FFFFFF:%d kEU/t][c/AAAAAA: passive loss per Capacitor Block.]
+power_substation_5: Can use
+power_substation_6: Laser Hatches[c/AAAAAA:.]
+primitive_water_pump: Endervoir at Home
+processing_array: When a few Machines just doesn't cut it
+pump: "[c/AAAAAA:The best way to empty Oceans!]"
+pump_hatch: Primitive Fluid Output for Water Pump
+pyrolyse_oven: Electric Coke Oven
+pyrolyse_oven_1: "[c/FFAA00:Cupronickel][c/AAAAAA:coils are][c/FFFFFF:25%%][c/AAAAAA: slower. Every coil after][c/55FFFF:Kanthal][c/AAAAAA: increases speed by][c/FFFFFF:50%%][c/AAAAAA:.]"
+quantum_chest: "[c/AAAAAA:Better than Storage Drawers]"
+quantum_tank: "[c/AAAAAA:Compact place to store all your fluids]"
+research_station_0: More than just a Multiblock Scanner
+research_station_1: Used to scan onto [c/FFFFFF:Data Orbs][c/AAAAAA: and][c/FFFFFF:Data Modules][c/AAAAAA:.]
+research_station_2: Requires [c/FFFFFF:Computation][c/AAAAAA: to work.]
+research_station_3: Providing more Computation allows the recipe to run faster.
+rotor_holder_0: Rotor Holder for Multiblocks
+rotor_holder_1: Holds Rotor in place so it will not fly away
+steam_bus: Does not work with non-steam multiblocks
+steam_grinder: A multiblock Macerator without the Byproducts
+steam_miner: "[c/AAAAAA:Mines ores below the Miner!]"
+steam_oven: Not to be confused with Multi-Smelter
+steam_turbine: "[c/AAAAAA:Converts Steam into EU]"
+tank_valve: Use to fill and drain multiblock tanks. Auto outputs when facing down.
+uev_gas_collector: "[c/AAAAAA:Collects Gas from the solar system depending on the dimension]"
+uev_rock_crusher: "[c/AAAAAA:Volcanic Formation Chamber]"
+uhv_gas_collector: "[c/AAAAAA:Collects Gas from the solar system depending on the dimension]"
+uhv_rock_crusher: "[c/AAAAAA:Volcanic Formation Chamber]"
+uiv_gas_collector: "[c/AAAAAA:Collects Gas from the solar system depending on the dimension]"
+uiv_rock_crusher: "[c/AAAAAA:Volcanic Formation Chamber]"
+uv_alloy_smelter: "[c/AAAAAA:Metal Amalgamator]"
+uv_arc_furnace: "[c/AAAAAA:Short Circuit Heater]"
+uv_assembler: "[c/AAAAAA:Assembly Constructor]"
+uv_autoclave: "[c/AAAAAA:Encumbrance Unit]"
+uv_bender: "[c/AAAAAA:Matter Deformer]"
+uv_brewery: "[c/AAAAAA:Brew Rusher]"
+uv_canner: "[c/AAAAAA:Can Actuator]"
+uv_centrifuge: "[c/AAAAAA:Molecular Tornado]"
+uv_chemical_bath: "[c/AAAAAA:Chemical Dunktron]"
+uv_chemical_reactor: "[c/AAAAAA:Reaction Catalyzer]"
+uv_circuit_assembler: "[c/AAAAAA:Computation Factory]"
+uv_compressor: "[c/AAAAAA:Matter Constrictor]"
+uv_cutter: "[c/AAAAAA:Object Divider]"
+uv_distillery: "[c/AAAAAA:Fraction Splitter]"
+uv_electric_furnace: "[c/AAAAAA:Atom Stimulator]"
+uv_electrolyzer: "[c/AAAAAA:Atomic Ionizer]"
+uv_electromagnetic_separator: "[c/AAAAAA:EMF Dispeller]"
+uv_extractor: "[c/AAAAAA:Liquefying Sucker]"
+uv_extruder: "[c/AAAAAA:Shape Driver]"
+uv_fermenter: "[c/AAAAAA:Respiration Controller]"
+uv_fluid_heater: "[c/AAAAAA:Thermal Imbuer]"
+uv_fluid_solidifier: "[c/AAAAAA:Fluid Petrificator]"
+uv_forge_hammer: "[c/AAAAAA:Impact Modulator]"
+uv_forming_press: "[c/AAAAAA:Surface Shifter]"
+uv_gas_collector: "[c/AAAAAA:Collects Gas from the solar system depending on the dimension]"
+uv_laser_engraver: "[c/AAAAAA:Exact Photon Cannon]"
+uv_lathe: "[c/AAAAAA:Rotation Grinder]"
+uv_macerator: "[c/AAAAAA:Shape Eliminator]"
+uv_mass_fabricator: "[c/AAAAAA:Existence Initiator]"
+uv_mixer: "[c/AAAAAA:Material Homogenizer]"
+uv_ore_washer: "[c/AAAAAA:Miniature Car Wash]"
+uv_packer: "[c/AAAAAA:Amazon Warehouse]"
+uv_polarizer: "[c/AAAAAA:Magnetic Field Rearranger]"
+uv_replicator: "[c/AAAAAA:Elemental Composer]"
+uv_rock_crusher: "[c/AAAAAA:Volcanic Formation Chamber]"
+uv_scanner: "[c/AAAAAA:Electron Microscope]"
+uv_sifter: "[c/AAAAAA:Pulsation Filter]"
+uv_thermal_centrifuge: "[c/AAAAAA:Fire Cyclone]"
+uv_wiremill: "[c/AAAAAA:Wire Transfigurator]"
+uxv_gas_collector: "[c/AAAAAA:Collects Gas from the solar system depending on the dimension]"
+uxv_rock_crusher: "[c/AAAAAA:Volcanic Formation Chamber]"
+vacuum_freezer: Aluminium Ice Box
+workbench_0: Better than Forestry
+workbench_1: Has Item Storage, Tool Storage, pulls from adjacent Inventories, and saves Recipes.
+zpm_alloy_smelter: "[c/AAAAAA:Alloy Integrator]"
+zpm_arc_furnace: "[c/AAAAAA:Discharge Heater]"
+zpm_assembler: "[c/AAAAAA:NOT a Crafting Table]"
+zpm_autoclave: "[c/AAAAAA:Pressure Cooker]"
+zpm_bender: "[c/AAAAAA:Shape Distorter]"
+zpm_brewery: "[c/AAAAAA:Brewing your Drinks]"
+zpm_canner: "[c/AAAAAA:Can Operator]"
+zpm_centrifuge: "[c/AAAAAA:Molecular Cyclone]"
+zpm_chemical_bath: "[c/AAAAAA:Chemical Soaker]"
+zpm_chemical_reactor: "[c/AAAAAA:Chemical Performer]"
+zpm_circuit_assembler: "[c/AAAAAA:Electronics Manufacturer]"
+zpm_compressor: "[c/AAAAAA:Singularity Condenser]"
+zpm_cutter: "[c/AAAAAA:Matter Cleaver]"
+zpm_distillery: "[c/AAAAAA:Condensation Separator]"
+zpm_electric_furnace: "[c/AAAAAA:Electron Excitement Processor]"
+zpm_electrolyzer: "[c/AAAAAA:Molecular Disintegrator E-4908]"
+zpm_electromagnetic_separator: "[c/AAAAAA:EM Categorizer]"
+zpm_extractor: "[c/AAAAAA:Vacuum Extractinator]"
+zpm_extruder: "[c/AAAAAA:Material Displacer]"
+zpm_fermenter: "[c/AAAAAA:Fermentation Hastener]"
+zpm_fluid_heater: "[c/AAAAAA:Heat Infuser]"
+zpm_fluid_solidifier: "[c/AAAAAA:Not an Ice Machine]"
+zpm_forge_hammer: "[c/AAAAAA:Plate Forger]"
+zpm_forming_press: "[c/AAAAAA:Object Layerer]"
+zpm_gas_collector: "[c/AAAAAA:Collects Gas from the atmosphere depending on the dimension]"
+zpm_laser_engraver: "[c/AAAAAA:With the Power of 32.64 MW]"
+zpm_lathe: "[c/AAAAAA:Turn-O-Matic L-5908]"
+zpm_macerator: "[c/AAAAAA:Blend-O-Matic 9003]"
+zpm_mass_fabricator: "[c/AAAAAA:Genesis Factory]"
+zpm_mixer: "[c/AAAAAA:Matter Organizer]"
+zpm_ore_washer: "[c/AAAAAA:Repurposed Laundry-Washer I-362]"
+zpm_packer: "[c/AAAAAA:Boxinator]"
+zpm_polarizer: "[c/AAAAAA:Magnetism Inducer]"
+zpm_replicator: "[c/AAAAAA:Matter Paster]"
+zpm_rock_crusher: "[c/AAAAAA:Cryogenic Magma Solidifier R-10200]"
+zpm_scanner: "[c/AAAAAA:Anomaly Detector]"
+zpm_sifter: "[c/AAAAAA:Sponsored by TFC]"
+zpm_thermal_centrifuge: "[c/AAAAAA:Blaze Sweatshop T-6352]"
+zpm_wiremill: "[c/AAAAAA:Ingot Elongator]"
+long_distance_item_pipeline_endpoint_0: "[c/AAFFAA:Endpoint for a Long Distance Item Pipeline.]"
+long_distance_item_pipeline_endpoint_1: "[c/AAFFAA:Teleports items to a far-away partner endpoint.]"
+long_distance_item_pipeline_endpoint_2: "[c/AAAAAA:1. Connect to the end of a long-distance pipe run.]"
+long_distance_item_pipeline_endpoint_3: "[c/AAAAAA:2. Place a matching endpoint at the far end.]"
+long_distance_item_pipeline_endpoint_4: "[c/AAAAAA:3. Screwdriver one to Input, the other to Output.]"
+long_distance_item_pipeline_endpoint_5: "[c/888888:Feed the Input from any side; it exits into a chest next to the Output.]"
+long_distance_item_pipeline_endpoint_6: "[c/888888:Endpoints must be at least 50 blocks apart.]"
+long_distance_fluid_pipeline_endpoint_0: "[c/AAFFAA:Endpoint for a Long Distance Fluid Pipeline.]"
+long_distance_fluid_pipeline_endpoint_1: "[c/AAFFAA:Teleports fluids to a far-away partner endpoint.]"
+long_distance_fluid_pipeline_endpoint_2: "[c/AAAAAA:1. Connect to the end of a long-distance pipe run.]"
+long_distance_fluid_pipeline_endpoint_3: "[c/AAAAAA:2. Place a matching endpoint at the far end.]"
+long_distance_fluid_pipeline_endpoint_4: "[c/AAAAAA:3. Screwdriver one to Input, the other to Output.]"
+long_distance_fluid_pipeline_endpoint_5: "[c/888888:Feed the Input from any side; it exits into a chest next to the Output.]"
+long_distance_fluid_pipeline_endpoint_6: "[c/888888:Endpoints must be at least 50 blocks apart.]"

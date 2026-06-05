@@ -1,0 +1,35 @@
+circuit_mismatch: Circuit setting mismatch
+coil_temperature_too_low: Coil Temperature Too Low
+condition: Conditions not met
+condition_fails: Condition Fails
+default_fail: Recipe Modifier Fail
+eu_buffer_full: Energy buffer full
+eu_too_high: Recipe voltage too high for this machine
+fluid_output_full: Output tank full
+fusion_capacitor_charging: Capacitor charging - waiting for startup energy
+fusion_capacity_too_small: Capacitor too small - install more energy hatches
+fusion_tier_too_low: Reactor tier too low for this recipe
+insufficient_eu: Not enough power
+insufficient_eu_to_start_fusion: Recipe missing eu_to_start data
+insufficient_fuel: Insufficient Fuel
+insufficient_in: Insufficient Inputs
+insufficient_out: Insufficient Outputs
+insufficient_voltage: Voltage Tier Too Low
+no_capabilities: Machine has no Capabilities
+no_capabilities_any_in: No input handler
+no_capabilities_any_out: No output handler
+no_capabilities_eu_in: No energy input hatch
+no_capabilities_eu_out: No energy output hatch
+no_capabilities_fluid_in: No fluid input hatch
+no_capabilities_fluid_out: No fluid output hatch
+no_capabilities_item_in: No item input bus
+no_capabilities_item_out: No item output bus
+no_contents: Recipe has no Contents
+no_fluid: Missing input fluid
+no_input: Missing input items
+no_lubricant: Out of lubricant
+no_rotor: Install a rotor in the rotor holder
+output_full: Output slots full
+recipe_waiting: Recipe Waiting:
+setup_fail: Fail to setup recipe:
+turbine_voltage_too_low: Rotor too weak for this recipe's voltage

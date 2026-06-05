@@ -1,0 +1,479 @@
+active_transformer_0: "[c/AAAAAA:变形金刚：伪装的激光]"
+active_transformer_1: "[c/AAAAAA:可以将任意数量的能量][c/FFFFFF:输入][c/AAAAAA:整合为任意数量的能量][c/FFFFFF:输出][c/AAAAAA:。]"
+active_transformer_2: "[c/AAAAAA:当你使用][c/FF55FF:激光][c/AAAAAA:进行能量传输时，拥有惊人的传输距离。]"
+active_transformer_3: ""
+advanced_processing_array: 这个世界需要更多并行
+assembly_line: 真不是什么多方块组装机！
+available_recipe_map_1: 可用配方类型：%s
+available_recipe_map_2: 可用配方类型：%s，%s
+available_recipe_map_3: 可用配方类型：%s，%s，%s
+available_recipe_map_4: 可用配方类型：%s，%s，%s，%s
+block_breaker: "[c/AAAAAA:挖掘正面的方块并收集掉落物]"
+buffer: 存储物品和流体的小小缓冲器
+central_monitor: 但它能运行《毁灭战士》吗？
+charcoal_pile: 不烤面包烤燃料的地下面包房
+charcoal_pile_0: "[c/FF5555:点火后][c/AAAAAA:将原木烧制成][c/55FF55:木炭][c/AAAAAA:。]"
+charcoal_pile_1: 使用可点火的物品右击即可启动。
+charcoal_pile_2: 热解发生在下方至多[c/55FFFF:9x4x9][c/AAAAAA:的空间内。]
+charcoal_pile_3: 原木不可暴露在[c/FFFF55:空气][c/AAAAAA:中！]
+cleanroom: 将那些讨厌的灰尘拒之门外
+cleanroom_0: 将机器放在内部运行超净间配方。
+cleanroom_1: 清理污染时耗能为[c/FFFFFF:30EU/t][c/AAAAAA:，洁净状态耗能为][c/FFFFFF:4EU/t][c/AAAAAA:。]
+cleanroom_2: 超频可提升每个周期的清洁度。
+cleanroom_3: "[c/55FFFF:大小：][c/FFFFFF:5x5x5到15x15x15]"
+cleanroom_4: 天花板需要[c/FFFFFF:过滤器机械方块][c/AAAAAA:，不包含天花板的边缘。]
+cleanroom_5: 接受最多[c/FFFFFF:四扇门][c/AAAAAA:！门处于打开状态时不会影响洁净度。]
+cleanroom_6: 发电机、消声仓、采矿机和原始机器对于超净间来说太脏了！
+cleanroom_7: 通过墙壁上的[c/FFFFFF:机器外壳][c/AAAAAA:或][c/FFFFFF:二极管][c/AAAAAA:向内部输入能量。]
+coke_oven: 为炼钢和发电提供更优质的燃料
+coke_oven_hatch: "[c/AAAAAA:允许自动化焦炉的物品吞吐。]"
+combustion: "[c/AAAAAA:需要液体燃料]"
+computation_receiver_hatch: 为多方块结构输入算力数据
+computation_transmitter_hatch: 从多方块结构输出算力数据
+cracker: 有它，石油才有用
+cracker_1: 使用[c/FFAA00:白铜][c/AAAAAA:后的每个线圈等级可以减少][c/FFFFFF:10%%][c/AAAAAA:的能源消耗。]
+data_access_hatch_0: 令多方块结构得以访问数据
+data_access_hatch_1: 添加了[c/55FF55:%s][c/AAAAAA:个数据容器（闪存等）插槽]
+data_bank_0: 你的个人网络存储器
+data_bank_1: 大容量数据存储，使用光缆传输。
+data_bank_2: 数据库间可以相互连接。
+data_bank_3: 通常，每个数据/光学仓耗能为[c/FFFFFF:%s EU/t][c/AAAAAA:。]
+data_bank_4: 安装了靶仓时，每个数据/光学仓耗能为[c/FFFFFF:%s EU/t][c/AAAAAA:。]
+data_receiver_hatch: 为多方块结构输入研究数据
+data_transmitter_hatch: 从多方块结构输出研究数据
+distillation_tower: 流体精炼厂
+electric_blast_furnace: 电力高炉有了，那电力烟熏炉呢？
+electric_blast_furnace_0: 每超过配方温度[c/FFFFFF:900K][c/AAAAAA:，耗能均将乘以][c/FFFFFF:95%%][c/AAAAAA:（不计超频）。]
+electric_blast_furnace_1: 每超过配方温度[c/FFFFFF:1800K][c/AAAAAA:，将一次超频的效率变为][c/FFFFFF:100%%][c/AAAAAA:（无损超频）。]
+electric_blast_furnace_2: 超过[c/FFFFFF:MV][c/AAAAAA:后的每一级电压，都会将温度提高][c/FFFFFF:100K][c/AAAAAA:。]
+endpoint_0: 使用[c/FFFFFF:长距离管道][c/AAAAAA:方块连接管道接口以创建管路。]
+endpoint_1: 管路必须有且仅有一个[c/FFFFFF:1输入][c/AAAAAA:接口和一个][c/FFFFFF:1输出][c/AAAAAA:接口。]
+endpoint_2: 只有管道接口需要被[c/FFFFFF:区块加载][c/AAAAAA:。]
+ev_alloy_smelter: "[c/AAAAAA:高科技融合冶炼炉]"
+ev_arc_furnace: "[c/AAAAAA:谁需要高炉？]"
+ev_assembler: "[c/AAAAAA:复仇者，集结！]"
+ev_autoclave: "[c/AAAAAA:使粉末结晶]"
+ev_bender: "[c/AAAAAA:吁，他不行！我们要的是BENDER！！！]"
+ev_brewery: "[c/AAAAAA:紧凑高效的药剂酿造]"
+ev_canner: "[c/AAAAAA:为容器填入或从中倒出物品及流体]"
+ev_centrifuge: "[c/AAAAAA:分子分离机]"
+ev_chemical_bath: "[c/AAAAAA:用化学品浸渍以分离矿物]"
+ev_chemical_reactor: "[c/AAAAAA:让化学品相互反应]"
+ev_circuit_assembler: "[c/AAAAAA:一拿一放，东拣西装]"
+ev_compressor: "[c/AAAAAA:全自动压缩机 C77]"
+ev_cutter: "[c/AAAAAA:切片，切块]"
+ev_distillery: "[c/AAAAAA:提取流体精华]"
+ev_electric_furnace: "[c/AAAAAA:别把它当成 Commodore 64 了]"
+ev_electrolyzer: "[c/AAAAAA:电离分子]"
+ev_electromagnetic_separator: "[c/AAAAAA:分离出磁性矿物]"
+ev_extractor: "[c/AAAAAA:毁灭级榨汁机 - D123]"
+ev_extruder: "[c/AAAAAA:通用型金属加工器]"
+ev_fermenter: "[c/AAAAAA:发酵流体]"
+ev_fluid_drilling_rig: 甚至可以抽空整个油田
+ev_fluid_heater: "[c/AAAAAA:加热你的流体]"
+ev_fluid_solidifier: "[c/AAAAAA:冷却液体形成固体]"
+ev_forge_hammer: "[c/AAAAAA:停，抡锤时间到！]"
+ev_forming_press: "[c/AAAAAA:图像拓印者]"
+ev_gas_collector: "[c/AAAAAA:依照维度从空气中收集种类各异的气体]"
+ev_laser_engraver: "[c/AAAAAA:请勿直视激光]"
+ev_lathe: "[c/AAAAAA:以更高的效率生产杆]"
+ev_macerator: "[c/AAAAAA:粉碎矿石并获得副产物]"
+ev_mass_fabricator: "[c/AAAAAA:UU物质 = “质量” * “发生”的平方]"
+ev_mixer: "[c/AAAAAA:它能被搅碎吗？]"
+ev_ore_washer: "[c/AAAAAA:清洗矿石以获得更多副产物]"
+ev_packer: "[c/AAAAAA:取出盒外，放入盒中]"
+ev_polarizer: "[c/AAAAAA:将你的磁体极化]"
+ev_replicator: "[c/AAAAAA:生产最纯净的元素]"
+ev_rock_crusher: "[c/AAAAAA:在水平相邻处放置熔岩和水]"
+ev_scanner: "[c/AAAAAA:扫描材料及其它物质]"
+ev_sifter: "[c/AAAAAA:保持冷静，继续筛选]"
+ev_thermal_centrifuge: "[c/AAAAAA:更精确地分离矿石]"
+ev_wiremill: "[c/AAAAAA:更高效地生产导线]"
+extreme_combustion_engine: 极限化学能释放者
+fisher: 每次消耗一根线捕鱼
+gas_turbine: "[c/AAAAAA:需要气体燃料]"
+high_performance_computation_array_0: 只是普通的超级计算机
+high_performance_computation_array_1: 用于生产[c/FFFFFF:算力][c/AAAAAA:（同时会产生热量）。]
+high_performance_computation_array_2: 需要HPCA组件来生产[c/FFFFFF:CWU/t][c/AAAAAA:（计算工作单元）。]
+hp_steam_alloy_smelter: "[c/AAAAAA:融合冶炼炉]"
+hp_steam_compressor: "[c/AAAAAA:压缩物品]"
+hp_steam_extractor: "[c/AAAAAA:提取你的第一块橡胶]"
+hp_steam_forge_hammer: "[c/AAAAAA:锻造锤]"
+hp_steam_furnace: "[c/AAAAAA:利用蒸汽冶炼物品]"
+hp_steam_liquid_boiler: "[c/AAAAAA:比小型液体燃料锅炉更快]"
+hp_steam_macerator: "[c/AAAAAA:粉碎你的矿石，但没有副产物]"
+hp_steam_rock_crusher: "[c/AAAAAA:在水平相邻处放置熔岩和水]"
+hp_steam_solar_boiler: "[c/AAAAAA:来自太阳的蒸汽能源]"
+hp_steam_solid_boiler: "[c/AAAAAA:比小型固体燃料锅炉更快]"
+hull: "[c/AAAAAA:你需要][c/AA00AA:绝][c/FF55FF:对][c/AA0000:天][c/FF5555:马][c/FFFF55:行][c/55FF55:空][c/55FFFF:的][c/00AAAA:想][c/5555FF:象][c/0000AA:能][c/AA00AA:力][c/AAAAAA:来使用它]"
+hv_alloy_smelter: "[c/AAAAAA:高科技融合冶炼炉]"
+hv_arc_furnace: "[c/AAAAAA:谁需要高炉？]"
+hv_assembler: "[c/AAAAAA:复仇者，集结！]"
+hv_autoclave: "[c/AAAAAA:使粉末结晶]"
+hv_bender: "[c/AAAAAA:吁，他不行！我们要的是BENDER！！！]"
+hv_brewery: "[c/AAAAAA:紧凑高效的药剂酿造]"
+hv_canner: "[c/AAAAAA:为容器填入或从中倒出物品及流体]"
+hv_centrifuge: "[c/AAAAAA:分离分子]"
+hv_chemical_bath: "[c/AAAAAA:用化学品浸渍以分离矿物]"
+hv_chemical_reactor: "[c/AAAAAA:让化学品相互反应]"
+hv_circuit_assembler: "[c/AAAAAA:一拿一放，东拣西装]"
+hv_compressor: "[c/AAAAAA:全自动压缩机 C77]"
+hv_cutter: "[c/AAAAAA:切片，切块]"
+hv_distillery: "[c/AAAAAA:提取流体精华]"
+hv_electric_furnace: "[c/AAAAAA:别把它当成 Commodore 64 了]"
+hv_electrolyzer: "[c/AAAAAA:电离分子]"
+hv_electromagnetic_separator: "[c/AAAAAA:分离出磁性矿物]"
+hv_extractor: "[c/AAAAAA:毁灭级榨汁机 - D123]"
+hv_extruder: "[c/AAAAAA:通用型金属加工器]"
+hv_fermenter: "[c/AAAAAA:发酵流体]"
+hv_fluid_drilling_rig: 并不能用来液压破碎
+hv_fluid_heater: "[c/AAAAAA:加热你的流体]"
+hv_fluid_solidifier: "[c/AAAAAA:冷却液体形成固体]"
+hv_forge_hammer: "[c/AAAAAA:停，抡锤时间到！]"
+hv_forming_press: "[c/AAAAAA:图像拓印者]"
+hv_gas_collector: "[c/AAAAAA:依照维度从空气中收集种类各异的气体]"
+hv_laser_engraver: "[c/AAAAAA:请勿直视激光]"
+hv_lathe: "[c/AAAAAA:以更高的效率生产杆]"
+hv_macerator: "[c/AAAAAA:粉碎矿石并获得副产物]"
+hv_mass_fabricator: "[c/AAAAAA:UU物质 = “质量” * “发生”的平方]"
+hv_mixer: "[c/AAAAAA:它能被搅碎吗？]"
+hv_ore_washer: "[c/AAAAAA:清洗矿石以获得更多副产物]"
+hv_packer: "[c/AAAAAA:取出盒外，放入盒中]"
+hv_polarizer: "[c/AAAAAA:将你的磁体极化]"
+hv_replicator: "[c/AAAAAA:生产最纯净的元素]"
+hv_rock_crusher: "[c/AAAAAA:在水平相邻处放置熔岩和水]"
+hv_scanner: "[c/AAAAAA:扫描材料及其它物质]"
+hv_sifter: "[c/AAAAAA:保持冷静，继续筛选]"
+hv_thermal_centrifuge: "[c/AAAAAA:更精确地分离矿石]"
+hv_wiremill: "[c/AAAAAA:更高效地生产导线]"
+implosion_compressor: 唯一一台你想要爆一爆的机器
+item_collector: 吸取它周围的掉落物
+iv_alloy_smelter: "[c/AAAAAA:合金集聚器]"
+iv_arc_furnace: "[c/AAAAAA:放电加热器]"
+iv_assembler: 不是[c/AAAAAA:工作台]
+iv_autoclave: "[c/AAAAAA:高压锅]"
+iv_bender: "[c/AAAAAA:形态扭曲器]"
+iv_brewery: "[c/AAAAAA:酿酒好手]"
+iv_canner: "[c/AAAAAA:罐作机]"
+iv_centrifuge: "[c/AAAAAA:分子旋风]"
+iv_chemical_bath: "[c/AAAAAA:化学品浸润器]"
+iv_chemical_reactor: "[c/AAAAAA:化学表演艺术家]"
+iv_circuit_assembler: "[c/AAAAAA:电子厂]"
+iv_compressor: "[c/AAAAAA:奇点凝缩机]"
+iv_cutter: "[c/AAAAAA:物质切削器]"
+iv_distillery: "[c/AAAAAA:凝结物质分离器]"
+iv_electric_furnace: "[c/AAAAAA:电子激发处理器]"
+iv_electrolyzer: "[c/AAAAAA:分子崩解机 E-4906]"
+iv_electromagnetic_separator: "[c/AAAAAA:电磁分类器]"
+iv_extractor: "[c/AAAAAA:真空提取机]"
+iv_extruder: "[c/AAAAAA:材料压出器]"
+iv_fermenter: "[c/AAAAAA:发酵加速器]"
+iv_fluid_heater: "[c/AAAAAA:热量灌注器]"
+iv_fluid_solidifier: "[c/AAAAAA:并不是制冰机]"
+iv_forge_hammer: "[c/AAAAAA:锻板机]"
+iv_forming_press: "[c/AAAAAA:对象层化机]"
+iv_gas_collector: "[c/AAAAAA:依照维度从大气层中收集种类各异的气体]"
+iv_laser_engraver: "[c/AAAAAA:功率高达两百零四万瓦]"
+iv_lathe: "[c/AAAAAA:全自动旋转车削机 L-5906]"
+iv_macerator: "[c/AAAAAA:全自动破壁机 9001]"
+iv_mass_fabricator: "[c/AAAAAA:创世纪工厂]"
+iv_mixer: "[c/AAAAAA:物质组织器]"
+iv_ore_washer: "[c/AAAAAA:全新用途滚筒洗衣机 I-360]"
+iv_packer: "[c/AAAAAA:装箱者]"
+iv_polarizer: "[c/AAAAAA:磁性引入机]"
+iv_replicator: "[c/AAAAAA:物质粘贴机]"
+iv_rock_crusher: "[c/AAAAAA:岩浆冷却固化器 R-8200]"
+iv_scanner: "[c/AAAAAA:异常探测仪]"
+iv_sifter: "[c/AAAAAA:由群峦传说赞助提供]"
+iv_thermal_centrifuge: "[c/AAAAAA:烈焰血汗工厂 T-6350]"
+iv_wiremill: "[c/AAAAAA:锭材拉伸机]"
+large_chemical_reactor: 黑盒反应器
+large_combustion_engine: 燃料点火室
+laser_source_hatch_0: 远距离发射能量
+laser_source_hatch_1: "[c/FF5555:激光传导线缆必须直线摆放！]"
+laser_target_hatch_0: 远距离接收能量
+laser_target_hatch_1: "[c/FF5555:激光传导线缆必须直线摆放！]"
+lp_steam_alloy_smelter: "[c/AAAAAA:融合冶炼炉]"
+lp_steam_compressor: "[c/AAAAAA:压缩物品]"
+lp_steam_extractor: "[c/AAAAAA:提取你的第一块橡胶]"
+lp_steam_forge_hammer: "[c/AAAAAA:锻造锤]"
+lp_steam_furnace: "[c/AAAAAA:利用蒸汽冶炼物品]"
+lp_steam_liquid_boiler: "[c/AAAAAA:消耗液体的锅炉]"
+lp_steam_macerator: "[c/AAAAAA:粉碎你的矿石，但没有副产物]"
+lp_steam_rock_crusher: "[c/AAAAAA:在水平相邻处放置熔岩和水]"
+lp_steam_solar_boiler: "[c/AAAAAA:来自太阳的蒸汽能源]"
+lp_steam_solid_boiler: "[c/AAAAAA:获取蒸汽能源的早期手段]"
+luv_alloy_smelter: "[c/AAAAAA:合金集聚器]"
+luv_arc_furnace: "[c/AAAAAA:放电加热器]"
+luv_assembler: 不是[c/AAAAAA:工作台]
+luv_autoclave: "[c/AAAAAA:高压锅]"
+luv_bender: "[c/AAAAAA:形态扭曲器]"
+luv_brewery: "[c/AAAAAA:酿酒好手]"
+luv_canner: "[c/AAAAAA:罐作机]"
+luv_centrifuge: "[c/AAAAAA:分子旋风]"
+luv_chemical_bath: "[c/AAAAAA:化学品浸润器]"
+luv_chemical_reactor: "[c/AAAAAA:化学表演艺术家]"
+luv_circuit_assembler: "[c/AAAAAA:电子厂]"
+luv_compressor: "[c/AAAAAA:奇点凝缩机]"
+luv_cutter: "[c/AAAAAA:物质切削器]"
+luv_distillery: "[c/AAAAAA:凝结物质分离器]"
+luv_electric_furnace: "[c/AAAAAA:电子激发处理器]"
+luv_electrolyzer: "[c/AAAAAA:分子崩解机 E-4907]"
+luv_electromagnetic_separator: "[c/AAAAAA:电磁分类器]"
+luv_extractor: "[c/AAAAAA:真空提取机]"
+luv_extruder: "[c/AAAAAA:材料压出器]"
+luv_fermenter: "[c/AAAAAA:发酵加速器]"
+luv_fluid_heater: "[c/AAAAAA:热量灌注器]"
+luv_fluid_solidifier: "[c/AAAAAA:并不是制冰机]"
+luv_forge_hammer: "[c/AAAAAA:锻板机]"
+luv_forming_press: "[c/AAAAAA:对象层化机]"
+luv_gas_collector: "[c/AAAAAA:依照维度从大气层中收集种类各异的气体]"
+luv_laser_engraver: "[c/AAAAAA:功率高达八百一十六万瓦]"
+luv_lathe: "[c/AAAAAA:全自动旋转车削机 L-5907]"
+luv_macerator: "[c/AAAAAA:全自动破壁机 9002]"
+luv_mass_fabricator: "[c/AAAAAA:创世纪工厂]"
+luv_mixer: "[c/AAAAAA:物质组织器]"
+luv_ore_washer: "[c/AAAAAA:全新用途滚筒洗衣机 I-361]"
+luv_packer: "[c/AAAAAA:装箱者]"
+luv_polarizer: "[c/AAAAAA:磁性引入机]"
+luv_replicator: "[c/AAAAAA:物质粘贴机]"
+luv_rock_crusher: "[c/AAAAAA:岩浆冷却固化器 R-9200]"
+luv_scanner: "[c/AAAAAA:异常探测仪]"
+luv_sifter: "[c/AAAAAA:由群峦传说赞助提供]"
+luv_thermal_centrifuge: "[c/AAAAAA:烈焰血汗工厂 T-6351]"
+luv_wiremill: "[c/AAAAAA:锭材拉伸机]"
+lv_alloy_smelter: "[c/AAAAAA:高科技融合冶炼炉]"
+lv_arc_furnace: "[c/AAAAAA:谁需要高炉？]"
+lv_assembler: "[c/AAAAAA:复仇者，集结！]"
+lv_autoclave: "[c/AAAAAA:使粉末结晶]"
+lv_bender: "[c/AAAAAA:吁，他不行！我们要的是BENDER！！！]"
+lv_brewery: "[c/AAAAAA:紧凑高效的药剂酿造]"
+lv_canner: "[c/AAAAAA:为容器填入或从中倒出物品及流体]"
+lv_centrifuge: "[c/AAAAAA:分离分子]"
+lv_chemical_bath: "[c/AAAAAA:用化学品浸渍以分离矿物]"
+lv_chemical_reactor: "[c/AAAAAA:让化学品相互反应]"
+lv_circuit_assembler: "[c/AAAAAA:一拿一放，东拣西装]"
+lv_compressor: "[c/AAAAAA:全自动压缩机 C77]"
+lv_cutter: "[c/AAAAAA:切片，切块]"
+lv_distillery: "[c/AAAAAA:提取流体精华]"
+lv_electric_furnace: "[c/AAAAAA:别把它当成 Commodore 64 了]"
+lv_electrolyzer: "[c/AAAAAA:电离分子]"
+lv_electromagnetic_separator: "[c/AAAAAA:分离出磁性矿物]"
+lv_extractor: "[c/AAAAAA:毁灭级榨汁机 - D123]"
+lv_extruder: "[c/AAAAAA:通用型金属加工器]"
+lv_fermenter: "[c/AAAAAA:发酵流体]"
+lv_fluid_heater: "[c/AAAAAA:加热你的流体]"
+lv_fluid_solidifier: "[c/AAAAAA:冷却液体形成固体]"
+lv_forge_hammer: "[c/AAAAAA:停，抡锤时间到！]"
+lv_forming_press: "[c/AAAAAA:图像拓印者]"
+lv_gas_collector: "[c/AAAAAA:依照维度从空气中收集种类各异的气体]"
+lv_laser_engraver: "[c/AAAAAA:请勿直视激光]"
+lv_lathe: "[c/AAAAAA:以更高的效率生产杆]"
+lv_macerator: "[c/AAAAAA:粉碎矿石，但没有副产物]"
+lv_mass_fabricator: "[c/AAAAAA:UU物质 = “质量” * “发生”的平方]"
+lv_mixer: "[c/AAAAAA:它能被搅碎吗？]"
+lv_ore_washer: "[c/AAAAAA:清洗矿石以获得更多副产物]"
+lv_packer: "[c/AAAAAA:取出盒外，放入盒中]"
+lv_polarizer: "[c/AAAAAA:将你的磁体极化]"
+lv_replicator: "[c/AAAAAA:生产最纯净的元素]"
+lv_rock_crusher: "[c/AAAAAA:在水平相邻处放置熔岩和水]"
+lv_scanner: "[c/AAAAAA:扫描材料及其它物质]"
+lv_sifter: "[c/AAAAAA:保持冷静，继续筛选]"
+lv_thermal_centrifuge: "[c/AAAAAA:更精确地分离矿石]"
+lv_wiremill: "[c/AAAAAA:更高效地生产导线]"
+machine_hatch: 仅可容纳有效物品的特型访问总线
+maintenance_hatch: 用于维护多方块结构
+maintenance_hatch_cleanroom_auto_0: 可以自动维护多方块结构，附带清洁功能！
+maintenance_hatch_cleanroom_auto_1: 清洁方式：
+maintenance_hatch_configurable_0: 更精细的维护多方块结构
+maintenance_hatch_configurable_1: 起手无需维护！
+maintenance_hatch_full_auto: 可以自动维护多方块结构
+maintenance_hatch_tape_slot: 放入胶带以防止出现故障
+maintenance_hatch_tool_slot: 所需工具处于物品栏时空手点击该槽位来维护
+miner: "[c/AAAAAA:只挖掘机器下方的矿石！工作范围默认为][c/FFFFFF:%sx%s][c/AAAAAA:。]"
+muffler_hatch_0: 从机器中回收废料
+muffler_hatch_1: 切 勿 阻 隔 输 出 口！
+multi_furnace: 就像家里的烤箱一样
+mv_alloy_smelter: "[c/AAAAAA:高科技融合冶炼炉]"
+mv_arc_furnace: "[c/AAAAAA:谁需要高炉？]"
+mv_assembler: "[c/AAAAAA:复仇者，集结！]"
+mv_autoclave: "[c/AAAAAA:使粉末结晶]"
+mv_bender: "[c/AAAAAA:吁，他不行！我们要的是BENDER！！！]"
+mv_brewery: "[c/AAAAAA:紧凑高效的药剂酿造]"
+mv_canner: "[c/AAAAAA:为容器填入或从中倒出物品及流体]"
+mv_centrifuge: "[c/AAAAAA:分离分子]"
+mv_chemical_bath: "[c/AAAAAA:用化学品浸渍以分离矿物]"
+mv_chemical_reactor: "[c/AAAAAA:让化学品相互反应]"
+mv_circuit_assembler: "[c/AAAAAA:一拿一放，东拣西装]"
+mv_compressor: "[c/AAAAAA:全自动压缩机 C77]"
+mv_cutter: "[c/AAAAAA:切片，切块]"
+mv_distillery: "[c/AAAAAA:提取流体精华]"
+mv_electric_furnace: "[c/AAAAAA:别把它当成 Commodore 64 了]"
+mv_electrolyzer: "[c/AAAAAA:电离分子]"
+mv_electromagnetic_separator: "[c/AAAAAA:分离出磁性矿物]"
+mv_extractor: "[c/AAAAAA:毁灭级榨汁机 - D123]"
+mv_extruder: "[c/AAAAAA:通用型金属加工器]"
+mv_fermenter: "[c/AAAAAA:发酵流体]"
+mv_fluid_drilling_rig: 我猜你做这个是为了采油
+mv_fluid_heater: "[c/AAAAAA:加热你的流体]"
+mv_fluid_solidifier: "[c/AAAAAA:冷却液体形成固体]"
+mv_forge_hammer: "[c/AAAAAA:停，抡锤时间到！]"
+mv_forming_press: "[c/AAAAAA:图像拓印者]"
+mv_gas_collector: "[c/AAAAAA:依照维度从空气中收集种类各异的气体]"
+mv_laser_engraver: "[c/AAAAAA:请勿直视激光]"
+mv_lathe: "[c/AAAAAA:以更高的效率生产杆]"
+mv_macerator: "[c/AAAAAA:粉碎矿石，但没有副产物]"
+mv_mass_fabricator: "[c/AAAAAA:UU物质 = “质量” * “发生”的平方]"
+mv_mixer: "[c/AAAAAA:它能被搅碎吗？]"
+mv_ore_washer: "[c/AAAAAA:清洗矿石以获得更多副产物]"
+mv_packer: "[c/AAAAAA:取出盒外，放入盒中]"
+mv_polarizer: "[c/AAAAAA:将你的磁体极化]"
+mv_replicator: "[c/AAAAAA:生产最纯净的元素]"
+mv_rock_crusher: "[c/AAAAAA:在水平相邻处放置熔岩和水]"
+mv_scanner: "[c/AAAAAA:扫描材料及其它物质]"
+mv_sifter: "[c/AAAAAA:保持冷静，继续筛选]"
+mv_thermal_centrifuge: "[c/AAAAAA:更精确地分离矿石]"
+mv_wiremill: "[c/AAAAAA:更高效地生产导线]"
+network_switch_0: 以太网集线器
+network_switch_1: 用于路由与分发[c/FFFFFF:算力][c/AAAAAA:。]
+network_switch_2: 可以将任意数量的算力[c/FFFFFF:输入][c/AAAAAA:整合为为任意数量的算力][c/FFFFFF:输出][c/AAAAAA:。]
+network_switch_3: 每个算力数据仓使用[c/FFFFFF:%s EU/t][c/AAAAAA:。]
+object_holder: 研究站的先进支撑机构
+opv_gas_collector: "[c/AAAAAA:依照维度从宇宙中收集种类各异的气体]"
+opv_rock_crusher: "[c/AAAAAA:火山成型室]"
+parallel_hatch_mk5: 允许同时处理至多4个配方。
+parallel_hatch_mk6: 允许同时处理至多16个配方。
+parallel_hatch_mk7: 允许同时处理至多64个配方。
+parallel_hatch_mk8: 允许同时处理至多256个配方。
+passthrough_hatch_fluid: 将流体从一侧输送到另一侧
+passthrough_hatch_item: 将物品从一侧发送到另一侧
+power_substation_0: 集中电网的核心
+power_substation_1: 所有[c/FFFFFF:电容]不需要保持同一电压等级。
+power_substation_2: 最多容许[c/FFFFFF:%d层电容]。
+power_substation_3: 每[c/FFFFFF:24小时][c/AAAAAA:损失相当于总容量的][c/FFFFFF:1%%]的能量。
+power_substation_4: 每个电容的损失上限为[c/FFFFFF:%d kEU/t]。
+power_substation_5: 可以使用
+power_substation_6: 激光仓。
+primitive_water_pump: 末影接口蓄水库-家用款
+processing_array: 当几台机器无法解决问题时
+pump: "[c/AAAAAA:抽干大海的最佳手段！]"
+pump_hatch: 原始水泵专用流体输出口
+pyrolyse_oven: 电力焦炉
+pyrolyse_oven_1: "[c/55FF55:白铜][c/AAAAAA:线圈会使效率降低][c/FFFFFF:25%%][c/AAAAAA:，][c/55FF55:坎塔尔合金][c/AAAAAA:后的每个线圈都会增加][c/FFFFFF:50%%][c/AAAAAA:的速度。]"
+quantum_chest: "[c/AAAAAA:比储物抽屉好]"
+quantum_tank: "[c/AAAAAA:小小身体，大大肚量]"
+research_station_0: 不仅仅是一个多方块扫描仪
+research_station_1: 用于扫描[c/FFFFFF:数据球][c/AAAAAA:和][c/FFFFFF:数据模块][c/AAAAAA:。]
+research_station_2: 需要[c/FFFFFF:算力][c/AAAAAA:来进行工作。]
+research_station_3: 提供更多的算力可以使研究进展的更快。
+rotor_holder_0: 为多方块结构固定转子，
+rotor_holder_1: 使其不能飞走
+steam_bus: 无法作用于非蒸汽驱动的多方块结构
+steam_grinder: 多方块研磨机，但是没有副产物
+steam_miner: "[c/AAAAAA:只挖掘机器下方的矿石！]"
+steam_oven: 不要与工业熔炉混淆
+steam_turbine: "[c/AAAAAA:将蒸汽转化为 EU]"
+tank_valve: 用于吞吐多方块储罐中的流体。正面向下时可自动输出。
+uev_gas_collector: "[c/AAAAAA:依照维度从太阳系中收集种类各异的气体]"
+uev_rock_crusher: "[c/AAAAAA:火山成型室]"
+uhv_gas_collector: "[c/AAAAAA:根据维度从太阳系中收集气体]"
+uhv_rock_crusher: "[c/AAAAAA:火山成型室]"
+uiv_gas_collector: "[c/AAAAAA:根据维度从太阳系中收集气体]"
+uiv_rock_crusher: "[c/AAAAAA:火山成型室]"
+uv_alloy_smelter: "[c/AAAAAA:金属混合调制装置]"
+uv_arc_furnace: "[c/AAAAAA:短路加热器]"
+uv_assembler: "[c/AAAAAA:装配构建者]"
+uv_autoclave: "[c/AAAAAA:重压单元]"
+uv_bender: "[c/AAAAAA:物质畸变者]"
+uv_brewery: "[c/AAAAAA:强劲酿制者]"
+uv_canner: "[c/AAAAAA:罐子致动器]"
+uv_centrifuge: "[c/AAAAAA:分子龙卷风]"
+uv_chemical_bath: "[c/AAAAAA:化学沉浸洗涤者]"
+uv_chemical_reactor: "[c/AAAAAA:反应催化器]"
+uv_circuit_assembler: "[c/AAAAAA:计算机工厂]"
+uv_compressor: "[c/AAAAAA:物质约束器]"
+uv_cutter: "[c/AAAAAA:对象分割者]"
+uv_distillery: "[c/AAAAAA:馏分分离器]"
+uv_electric_furnace: "[c/AAAAAA:原子激发器]"
+uv_electrolyzer: "[c/AAAAAA:原子离子化装置]"
+uv_electromagnetic_separator: "[c/AAAAAA:电磁场驱离装置]"
+uv_extractor: "[c/AAAAAA:液化吸取者]"
+uv_extruder: "[c/AAAAAA:形制驱动者]"
+uv_fermenter: "[c/AAAAAA:呼吸控制器]"
+uv_fluid_heater: "[c/AAAAAA:热量灌输器]"
+uv_fluid_solidifier: "[c/AAAAAA:流体硬化器]"
+uv_forge_hammer: "[c/AAAAAA:冲击调制器]"
+uv_forming_press: "[c/AAAAAA:表面移相器]"
+uv_gas_collector: "[c/AAAAAA:根据维度从太阳系中收集气体]"
+uv_laser_engraver: "[c/AAAAAA:高精度光子加农炮]"
+uv_lathe: "[c/AAAAAA:飞旋磨轮]"
+uv_macerator: "[c/AAAAAA:形态毁灭者]"
+uv_mass_fabricator: "[c/AAAAAA:存在之源]"
+uv_mixer: "[c/AAAAAA:材料均质机]"
+uv_ore_washer: "[c/AAAAAA:微型洗车房]"
+uv_packer: "[c/AAAAAA:亚马逊仓库]"
+uv_polarizer: "[c/AAAAAA:磁场重置设备]"
+uv_replicator: "[c/AAAAAA:元素创制者]"
+uv_rock_crusher: "[c/AAAAAA:火山成型室]"
+uv_scanner: "[c/AAAAAA:电子显微镜]"
+uv_sifter: "[c/AAAAAA:脉冲过滤器]"
+uv_thermal_centrifuge: "[c/AAAAAA:腾焰旋风]"
+uv_wiremill: "[c/AAAAAA:导线易形者]"
+uxv_gas_collector: "[c/AAAAAA:根据维度从太阳系中收集气体]"
+uxv_rock_crusher: "[c/AAAAAA:火山成型室]"
+vacuum_freezer: 啊哈我的大冰箱！
+workbench_0: 比林业的好
+workbench_1: 具有物品存储、工具存储、从相邻的存储容器中读取物品和保存配方功能。
+zpm_alloy_smelter: "[c/AAAAAA:合金集聚器]"
+zpm_arc_furnace: "[c/AAAAAA:放电加热器]"
+zpm_assembler: 不是[c/AAAAAA:工作台]
+zpm_autoclave: "[c/AAAAAA:高压锅]"
+zpm_bender: "[c/AAAAAA:形态扭曲器]"
+zpm_brewery: "[c/AAAAAA:酿酒好手]"
+zpm_canner: "[c/AAAAAA:罐作机]"
+zpm_centrifuge: "[c/AAAAAA:分子旋风]"
+zpm_chemical_bath: "[c/AAAAAA:化学品浸润器]"
+zpm_chemical_reactor: "[c/AAAAAA:化学表演艺术家]"
+zpm_circuit_assembler: "[c/AAAAAA:电子厂]"
+zpm_compressor: "[c/AAAAAA:奇点凝缩机]"
+zpm_cutter: "[c/AAAAAA:物质切削器]"
+zpm_distillery: "[c/AAAAAA:凝结物质分离器]"
+zpm_electric_furnace: "[c/AAAAAA:电子激发处理器]"
+zpm_electrolyzer: "[c/AAAAAA:分子崩解机 E-4908]"
+zpm_electromagnetic_separator: "[c/AAAAAA:电磁分类器]"
+zpm_extractor: "[c/AAAAAA:真空提取机]"
+zpm_extruder: "[c/AAAAAA:材料压出器]"
+zpm_fermenter: "[c/AAAAAA:发酵加速器]"
+zpm_fluid_heater: "[c/AAAAAA:热量灌注器]"
+zpm_fluid_solidifier: "[c/AAAAAA:并不是制冰机]"
+zpm_forge_hammer: "[c/AAAAAA:锻板机]"
+zpm_forming_press: "[c/AAAAAA:对象层化机]"
+zpm_gas_collector: "[c/AAAAAA:收集不同维度的大气中种类各异的气体]"
+zpm_laser_engraver: "[c/AAAAAA:功率高达三千两百六十四万瓦]"
+zpm_lathe: "[c/AAAAAA:全自动旋转车削机 L-5908]"
+zpm_macerator: "[c/AAAAAA:全自动破壁机 9003]"
+zpm_mass_fabricator: "[c/AAAAAA:创世纪工厂]"
+zpm_mixer: "[c/AAAAAA:物质组织器]"
+zpm_ore_washer: "[c/AAAAAA:全新用途滚筒洗衣机 I-362]"
+zpm_packer: "[c/AAAAAA:装箱者]"
+zpm_polarizer: "[c/AAAAAA:磁性引入机]"
+zpm_replicator: "[c/AAAAAA:物质粘贴机]"
+zpm_rock_crusher: "[c/AAAAAA:岩浆冷却固化器 R-10200]"
+zpm_scanner: "[c/AAAAAA:异常探测仪]"
+zpm_sifter: "[c/AAAAAA:由群峦传说赞助提供]"
+zpm_thermal_centrifuge: "[c/AAAAAA:烈焰血汗工厂 T-6352]"
+zpm_wiremill: "[c/AAAAAA:锭材拉伸机]"
+// long_distance_item_pipeline_endpoint_0: "[c/AAFFAA:Endpoint for a Long Distance Item Pipeline.]"
+// long_distance_item_pipeline_endpoint_1: "[c/AAFFAA:Teleports items to a far-away partner endpoint.]"
+// long_distance_item_pipeline_endpoint_2: "[c/AAAAAA:1. Connect to the end of a long-distance pipe run.]"
+// long_distance_item_pipeline_endpoint_3: "[c/AAAAAA:2. Place a matching endpoint at the far end.]"
+// long_distance_item_pipeline_endpoint_4: "[c/AAAAAA:3. Screwdriver one to Input, the other to Output.]"
+// long_distance_item_pipeline_endpoint_5: "[c/888888:Feed the Input from any side; it exits into a chest next to the Output.]"
+// long_distance_item_pipeline_endpoint_6: "[c/888888:Endpoints must be at least 50 blocks apart.]"
+// long_distance_fluid_pipeline_endpoint_0: "[c/AAFFAA:Endpoint for a Long Distance Fluid Pipeline.]"
+// long_distance_fluid_pipeline_endpoint_1: "[c/AAFFAA:Teleports fluids to a far-away partner endpoint.]"
+// long_distance_fluid_pipeline_endpoint_2: "[c/AAAAAA:1. Connect to the end of a long-distance pipe run.]"
+// long_distance_fluid_pipeline_endpoint_3: "[c/AAAAAA:2. Place a matching endpoint at the far end.]"
+// long_distance_fluid_pipeline_endpoint_4: "[c/AAAAAA:3. Screwdriver one to Input, the other to Output.]"
+// long_distance_fluid_pipeline_endpoint_5: "[c/888888:Feed the Input from any side; it exits into a chest next to the Output.]"
+// long_distance_fluid_pipeline_endpoint_6: "[c/888888:Endpoints must be at least 50 blocks apart.]"

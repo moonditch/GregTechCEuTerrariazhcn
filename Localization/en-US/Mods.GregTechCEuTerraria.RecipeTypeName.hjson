@@ -1,0 +1,58 @@
+air_scrubber: Air Scrubber
+alloy_blast_smelter: Alloy Blast Smelter
+alloy_smelter: Alloy Smelter
+arc_furnace: Arc Furnace
+assembler: Assembler
+assembly_line: Assembly Line
+autoclave: Autoclave
+bender: Bender
+brewery: Brewery
+canner: Canner
+centrifuge: Centrifuge
+chemical_bath: Chemical Bath
+chemical_reactor: Chemical Reactor
+circuit_assembler: Circuit Assembler
+coke_oven: Coke Oven
+combustion_generator: Combustion Generator
+compressor: Compressor
+cracker: Cracker
+cutter: Cutter
+distillation_tower: Distillation Tower
+distillery: Distillery
+dummy: Dummy
+electric_blast_furnace: Electric Blast Furnace
+electric_furnace: Electric Furnace
+electrolyzer: Electrolyzer
+electromagnetic_separator: Electromagnetic Separator
+extractor: Extractor
+extruder: Extruder
+fermenter: Fermenter
+fluid_heater: Fluid Heater
+fluid_solidifier: Fluid Solidifier
+forge_hammer: Forge Hammer
+forming_press: Forming Press
+fusion_reactor: Fusion Reactor
+gas_collector: Gas Collector
+gas_turbine: Gas Turbine
+implosion_compressor: Implosion Compressor
+large_boiler: Large Boiler
+large_chemical_reactor: Large Chemical Reactor
+laser_engraver: Laser Engraver
+lathe: Lathe
+macerator: Macerator
+mixer: Mixer
+ore_washer: Ore Washer
+packer: Packer
+plasma_generator: Plasma Generator
+polarizer: Polarizer
+primitive_blast_furnace: Primitive Blast Furnace
+pyrolyse_oven: Pyrolyse Oven
+research_station: Research Station
+rock_breaker: Rock Breaker
+scanner: Scanner
+sifter: Sifter
+steam_boiler: Steam Boiler
+steam_turbine: Steam Turbine
+thermal_centrifuge: Thermal Centrifuge
+vacuum_freezer: Vacuum Freezer
+wiremill: Wiremill

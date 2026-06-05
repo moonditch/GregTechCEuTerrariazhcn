@@ -1,0 +1,99 @@
+invalid_structure: {
+	$parentVal: "[c/FF5555:Invalid Structure!]"
+	tooltip: Make sure the structure is built correctly.
+}
+
+max_energy_per_tick: Max Energy: [c/55FF55:{0}] EU/t [c/55FFFF:({1})]
+max_recipe_tier: Recipe Tier: [c/55FF55:{0}]
+energy_consumption: Energy: [c/55FF55:{0}] EU/t [c/55FFFF:({1})]
+max_energy_per_tick_amps: Max Energy: [c/55FF55:{0}] EU/t [c/55FF55:{1}] A [c/55FFFF:({2})]
+
+computation: {
+	max: Max Computation: [c/55FF55:{0}] CWU/t
+	usage: Computation: [c/55FF55:{0}]
+	not_enough_computation: "[c/FF5555:Not Enough Computation!]"
+}
+
+idling: "[c/FFFF55:Idling]"
+work_paused: "[c/FFFF55:Work Paused]"
+running: "[c/55FF55:Running Perfectly]"
+data_bank.providing: "[c/55FF55:Providing]"
+research_station.researching: "[c/55FF55:Researching]"
+progress: Progress: [c/FFAA00:{0} s] / [c/FFAA00:{1} s] [c/55FF55:({2}%)]
+progress_percent: Progress: [c/FFAA00:{0}%]
+batch_enabled: Batch Size: [c/55FF55:{0}]
+subtick_parallels: Subtick Parallels: [c/55FF55:{0}]
+total_runs: Recipe Output Multiplier: [c/55FF55:{0}]x
+
+parallel: {
+	$parentVal: Parallel: [c/FFAA00:{0}]
+	exact: Parallel: [c/FFAA00:{0}x]
+}
+
+not_enough_energy: "[c/FF5555:Not Enough Energy!]"
+not_enough_energy_output: "[c/FF5555:Dynamo Tier Too Low!]"
+
+universal: {
+	has_problems: "[c/FF5555:Machine has problems!]"
+
+	problem: {
+		wrench: "  [c/FFAA00:Loose pipes and screws.]"
+		screwdriver: "  [c/FFAA00:Things are not in place.]"
+		soft_mallet: "  [c/FFAA00:Something is stuck.]"
+		hard_hammer: "  [c/FFAA00:Mechanical parts need adjustment.]"
+		wire_cutter: "  [c/FFAA00:Wires need to be reconnected.]"
+		crowbar: "  [c/FFAA00:Rotors need maintenance.]"
+	}
+
+	muffler_obstructed: {
+		$parentVal: "[c/FF5555:Muffler Hatch is obstructed!]"
+		tooltip: Ensure the muffler has air space above.
+	}
+}
+
+turbine: {
+	fuel_needed: Needs [c/55FF55:{0}] every [c/55FF55:{1}] ticks
+	energy_per_tick_maxed: Producing [c/55FF55:{0}] EU/t
+}
+
+output_line: {
+	0: Outputs [c/55FF55:{0}] [c/55FFFF:{1}] every [c/FFAA00:{2}] sec
+	1: Outputs [c/55FF55:{0}] [c/55FFFF:{1}] [c/FFAA00:{2}]x per sec
+	2: Outputs ~[c/55FF55:{0}] [c/55FFFF:{1}] every [c/FFAA00:{2}] sec
+	3: Outputs ~[c/55FF55:{0}] [c/55FFFF:{1}] [c/FFAA00:{2}]x per sec
+}
+
+blast_furnace.max_temperature: Heat Capacity: {0}
+pyrolyse_oven.speed: Speed: [c/55FF55:{0}]%
+
+multi_furnace: {
+	heating_coil_level: Heating Coil Level: [c/55FF55:{0}]
+	heating_coil_discount: Energy Discount: [c/55FF55:{0}]x
+}
+
+cracking_unit.energy: Energy: [c/55FF55:{0}]%
+
+steam: {
+	steam_stored: Stored Steam: [c/55FF55:{0}] / [c/55FF55:{1}] L
+	low_steam: "[c/FF5555:Not Enough Steam!]"
+}
+
+large_boiler: {
+	temperature: Temperature: [c/55FF55:{0}] K / [c/55FF55:{1}] K
+	steam_output: Steam Output: [c/55FF55:{0}] L/t
+	throttle: Throttle: {0}
+	throttle_modify: Adjust Throttle:
+}
+
+waiting: "[c/FF5555:Waiting]"
+
+cleanroom: {
+	clean_state: "[c/55FF55:Clean]"
+	dirty_state: "[c/FF5555:Dirty]"
+	clean_amount: Cleanliness: [c/55FF55:{0}]%
+}
+
+dimensions: {
+	0: Dimensions:
+	1.2d: "[c/55FF55:{0}]x[c/55FF55:{1}]"
+}

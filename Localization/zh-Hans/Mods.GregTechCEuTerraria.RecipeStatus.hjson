@@ -1,0 +1,35 @@
+// circuit_mismatch: Circuit setting mismatch
+coil_temperature_too_low: 线圈温度不足
+// condition: Conditions not met
+condition_fails: 条件不足
+default_fail: 配方修改失败
+// eu_buffer_full: Energy buffer full
+// eu_too_high: Recipe voltage too high for this machine
+// fluid_output_full: Output tank full
+// fusion_capacitor_charging: Capacitor charging - waiting for startup energy
+// fusion_capacity_too_small: Capacitor too small - install more energy hatches
+// fusion_tier_too_low: Reactor tier too low for this recipe
+// insufficient_eu: Not enough power
+insufficient_eu_to_start_fusion: 能量不足以启动聚变反应
+insufficient_fuel: 燃料不足
+insufficient_in: 需要输入
+insufficient_out: 输出堵塞
+insufficient_voltage: 电压等级不足
+no_capabilities: 机器无功能
+// no_capabilities_any_in: No input handler
+// no_capabilities_any_out: No output handler
+// no_capabilities_eu_in: No energy input hatch
+// no_capabilities_eu_out: No energy output hatch
+// no_capabilities_fluid_in: No fluid input hatch
+// no_capabilities_fluid_out: No fluid output hatch
+// no_capabilities_item_in: No item input bus
+// no_capabilities_item_out: No item output bus
+no_contents: 配方无内容
+// no_fluid: Missing input fluid
+// no_input: Missing input items
+// no_lubricant: Out of lubricant
+// no_rotor: Install a rotor in the rotor holder
+// output_full: Output slots full
+recipe_waiting: 配方等待中：
+setup_fail: 配方设置失败：
+// turbine_voltage_too_low: Rotor too weak for this recipe's voltage

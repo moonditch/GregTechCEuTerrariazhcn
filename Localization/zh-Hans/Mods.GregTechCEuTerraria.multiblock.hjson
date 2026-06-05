@@ -1,0 +1,99 @@
+invalid_structure: {
+	$parentVal: 结构无效。
+	tooltip: 该方块是多方块结构的控制器，请查看该方块的JEI界面以获取搭建图示。
+}
+
+max_energy_per_tick: 最大功率：[c/55FF55:{0} EU/t（{1}]）
+max_recipe_tier: 最大配方等级：{0}
+energy_consumption: 能量消耗：{0} EU/t（{1}）
+max_energy_per_tick_amps: 最大功率：{0}（{1}A {2}）
+
+computation: {
+	max: 最大算力：{0}
+	usage: 使用：{0}
+	not_enough_computation: 机器需要更多算力！
+}
+
+idling: "[c/FFAA00:待机。]"
+work_paused: 暂停。
+running: 运行正常。
+data_bank.providing: 提供数据。
+research_station.researching: "[c/FFAA00:研究中…]"
+progress: 进度：{0}s / {1}s（{2}%%）
+progress_percent: 进度：{0}%%
+batch_enabled: - {0}x 来自批处理
+subtick_parallels: - {0}x 来自超频
+total_runs: 同时处理{0}个配方
+
+parallel: {
+	$parentVal: 同时处理至多{0}个配方
+	exact: - {0}x 来自并行
+}
+
+not_enough_energy: 警告：能量不足。
+not_enough_energy_output: 警告：能源/动力仓等级过低！
+
+universal: {
+	has_problems: 存在故障！
+
+	problem: {
+		wrench: "[c/AAAAAA:管道松动了。（][c/55FF55:扳手][c/AAAAAA:）]"
+		screwdriver: "[c/AAAAAA:螺丝没拧紧。（][c/55FF55:螺丝刀][c/AAAAAA:）]"
+		soft_mallet: "[c/AAAAAA:有什么东西卡住了。（][c/55FF55:软锤][c/AAAAAA:）]"
+		hard_hammer: "[c/AAAAAA:外壳有些凹痕。（][c/55FF55:锻造锤][c/AAAAAA:）]"
+		wire_cutter: "[c/AAAAAA:有几根线烧焦了（][c/55FF55:剪线钳][c/AAAAAA:）]"
+		crowbar: "[c/AAAAAA:这东西不属于这儿。（][c/55FF55:撬棍][c/AAAAAA:）]"
+	}
+
+	muffler_obstructed: {
+		$parentVal: 消声仓受阻！
+		tooltip: 消音仓口前方必须有一格空气。
+	}
+}
+
+turbine: {
+	fuel_needed: 消耗量：{0} / {1} ticks
+	energy_per_tick_maxed: 能量输出：{0} EU/t
+}
+
+output_line: {
+	0: "{0} x [c/FFFF55:{1}]（{2}s/ea）"
+	1: "{0} x [c/FFFF55:{1}]（{2}/s）"
+	2: "{0} ≈ [c/FFFF55:{1}]（{2}s/ea）"
+	3: "{0} ≈ [c/FFFF55:{1}] （{2}/s）"
+}
+
+blast_furnace.max_temperature: 热容：{0}
+pyrolyse_oven.speed: 处理速度：{0}%%
+
+multi_furnace: {
+	heating_coil_level: 加热线圈等级：{0}
+	heating_coil_discount: 加热线圈增幅：{0}x
+}
+
+cracking_unit.energy: 耗能：{0}%%
+
+steam: {
+	steam_stored: 蒸汽：{0} / {1} mB
+	low_steam: 蒸汽不足，无法运行！
+}
+
+large_boiler: {
+	temperature: 温度：{0}K / {1}K
+	steam_output: 蒸汽输出：{0} mB/t
+	throttle: 节流：{0}
+	throttle_modify: 修改节流：
+}
+
+waiting: 警告：机器待机
+
+cleanroom: {
+	clean_state: 状态：[c/55FF55:洁净]
+	dirty_state: 状态：[c/AA0000:污染]
+	clean_amount: 洁净度：[c/55FF55:{0}%%]
+}
+
+dimensions: {
+	0: 尺寸：
+	// 1.2d: "[c/55FF55:{0}]x[c/55FF55:{1}]"
+}
