@@ -1,35 +1,35 @@
-// circuit_mismatch: Circuit setting mismatch
-coil_temperature_too_low: 线圈温度不足
-// condition: Conditions not met
-condition_fails: 条件不足
-default_fail: 配方修改失败
-// eu_buffer_full: Energy buffer full
-// eu_too_high: Recipe voltage too high for this machine
-// fluid_output_full: Output tank full
-// fusion_capacitor_charging: Capacitor charging - waiting for startup energy
-// fusion_capacity_too_small: Capacitor too small - install more energy hatches
-// fusion_tier_too_low: Reactor tier too low for this recipe
-// insufficient_eu: Not enough power
-insufficient_eu_to_start_fusion: 能量不足以启动聚变反应
+circuit_mismatch: 虚拟电路配置不匹配
+coil_temperature_too_low: 线圈温度过低
+condition: 条件未满足
+condition_fails: 条件不满足
+default_fail: 配方修改器失败
+eu_buffer_full: 能量缓存已满
+eu_too_high: 配方电压对此机器过高
+fluid_output_full: 输出储罐已满
+fusion_capacitor_charging: 电容充电中 - 等待启动能量
+fusion_capacity_too_small: 电容过小 - 请安装更多能源仓
+fusion_tier_too_low: 反应堆等级不足以运行此配方
+insufficient_eu: 能量不足
+insufficient_eu_to_start_fusion: 配方缺少启动能量数据
 insufficient_fuel: 燃料不足
-insufficient_in: 需要输入
-insufficient_out: 输出堵塞
-insufficient_voltage: 电压等级不足
-no_capabilities: 机器无功能
-// no_capabilities_any_in: No input handler
-// no_capabilities_any_out: No output handler
-// no_capabilities_eu_in: No energy input hatch
-// no_capabilities_eu_out: No energy output hatch
-// no_capabilities_fluid_in: No fluid input hatch
-// no_capabilities_fluid_out: No fluid output hatch
-// no_capabilities_item_in: No item input bus
-// no_capabilities_item_out: No item output bus
+insufficient_in: 输入不足
+insufficient_out: 输出不足
+insufficient_voltage: 电压等级过低
+no_capabilities: 机器无功能组件
+no_capabilities_any_in: 无输入处理器
+no_capabilities_any_out: 无输出处理器
+no_capabilities_eu_in: 无能量输入仓
+no_capabilities_eu_out: 无能量输出仓
+no_capabilities_fluid_in: 无流体输入仓
+no_capabilities_fluid_out: 无流体输出仓
+no_capabilities_item_in: 无物品输入总线
+no_capabilities_item_out: 无物品输出总线
 no_contents: 配方无内容
-// no_fluid: Missing input fluid
-// no_input: Missing input items
-// no_lubricant: Out of lubricant
-// no_rotor: Install a rotor in the rotor holder
-// output_full: Output slots full
+no_fluid: 缺少输入流体
+no_input: 缺少输入物品
+no_lubricant: 润滑剂耗尽
+no_rotor: 请在转子支架中安装转子
+output_full: 输出槽已满
 recipe_waiting: 配方等待中：
 setup_fail: 配方设置失败：
-// turbine_voltage_too_low: Rotor too weak for this recipe's voltage
+turbine_voltage_too_low: 转子对于此配方电压过弱

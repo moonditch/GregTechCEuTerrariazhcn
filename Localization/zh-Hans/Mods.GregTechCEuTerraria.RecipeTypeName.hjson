@@ -19,7 +19,7 @@ cracker: 裂化机
 cutter: 切割机
 distillation_tower: 蒸馏塔
 distillery: 蒸馏室
-dummy: 占位符
+dummy: 虚拟配方
 electric_blast_furnace: 电力高炉
 electric_furnace: 电炉
 electrolyzer: 电解机
@@ -31,7 +31,7 @@ fluid_heater: 流体加热器
 fluid_solidifier: 流体固化器
 forge_hammer: 锻造锤
 forming_press: 冲压机床
-fusion_reactor: 核聚变反应堆
+fusion_reactor: 聚变反应堆
 gas_collector: 集气室
 gas_turbine: 燃气轮机
 implosion_compressor: 聚爆压缩机
@@ -43,16 +43,16 @@ macerator: 研磨机
 mixer: 搅拌机
 ore_washer: 洗矿厂
 packer: 打包机
-plasma_generator: 等离子燃料
+plasma_generator: 等离子发电机
 polarizer: 两极磁化机
 primitive_blast_furnace: 土高炉
 pyrolyse_oven: 热解炉
 research_station: 研究站
-rock_breaker: 碎岩机
+rock_breaker: 碎石机
 scanner: 扫描仪
 sifter: 筛选机
 steam_boiler: 蒸汽锅炉
-steam_turbine: 蒸汽涡轮
+steam_turbine: 蒸汽轮机
 thermal_centrifuge: 热力离心机
 vacuum_freezer: 真空冷冻机
 wiremill: 线材轧机

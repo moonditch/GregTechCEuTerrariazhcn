@@ -44,8 +44,8 @@ bastnasite: 氟碳镧铈矿
 battery_alloy: 电池合金
 bauxite: 铝土矿
 bauxite_slag: 铝土矿渣
-bauxite_sludge: 铝土泥渣
-bauxite_slurry: 铝土浆液
+bauxite_sludge: 铝土矿泥
+bauxite_slurry: 铝土矿浆
 bentonite: 膨润土
 benzene: 苯
 berkelium: 锫
@@ -66,7 +66,7 @@ blue_alloy: 蓝色合金
 blue_dye: 蓝色染料
 blue_steel: 蓝钢
 blue_topaz: 蓝黄玉
-bohrium: 𬭛
+bohrium: 钅波
 bone: 骨头
 borax: 硼砂
 bornite: 斑铜矿
@@ -126,9 +126,9 @@ collagen: 胶原
 concrete: 混凝土
 construction_foam: 建筑泡沫
 cooperite: 谢尔顿矿
-copernicium: 鿔
+copernicium: 钅哥
 copper: 铜
-cracked_bauxite_slurry: 裂化铝土浆液
+cracked_bauxite_slurry: 裂化铝土矿浆
 creosote: 杂酚油
 cumene: 异丙苯
 cupric_oxide: 氧化铜
@@ -139,8 +139,8 @@ cyclohexane: 环己烷
 cyclohexanone_oxime: 环己酮肟
 damascus_steel: 大马士革钢
 dark_ash: 黑色灰烬
-darmstadtium: 𫟼
-decalcified_bauxite_sludge: 脱钙铝土泥渣
+darmstadtium: 钅达
+decalcified_bauxite_sludge: 脱钙铝土矿泥
 deepslate: 深板岩
 depleted_uranium_hexafluoride: 枯竭六氟化铀
 deuterium: 氘
@@ -166,7 +166,7 @@ diphenyl_isophthalate: 间苯二甲酸二苯酯
 dissolved_calcium_acetate: 乙酸钙溶液
 distilled_water: 蒸馏水
 drilling_fluid: 钻井液
-dubnium: 𬭊
+dubnium: 钅杜
 duranium: 铿铀
 dysprosium: 镝
 echo_shard: 回响碎片
@@ -182,7 +182,7 @@ enriched_bacterial_sludge: 富集细菌浆液
 enriched_naquadah: 富集硅岩
 enriched_naquadah_solution: 富集硅岩溶液
 enriched_naquadah_sulfate: 硫酸富集硅岩
-enriched_naquadah_trinium_europium_duranide: 富集硅岩凯金铕铿铀合金
+enriched_naquadah_trinium_europium_duranide: 富集硅岩三元铕铿铀合金
 enriched_naquadah_waste: 富集硅岩废液
 enriched_uranium_hexafluoride: 富集六氟化铀
 epichlorohydrin: 环氧氯丙烷
@@ -201,7 +201,7 @@ ferrite_mixture: 铁氧体混合物
 ferrosilite: 铁辉石
 fireclay: 耐火黏土
 fish_oil: 鱼油
-flerovium: 𫓧
+flerovium: 钅夫
 flint: 燧石
 fluorine: 氟
 fluoroantimonic_acid: 氟锑酸
@@ -243,7 +243,7 @@ grossular: 钙铝榴石
 gunpowder: 火药
 gypsum: 石膏
 hafnium: 铪
-hassium: 𬭶
+hassium: 钅黑
 hastelloy_c_276: 哈斯特洛依合金 C-276
 hastelloy_x: 哈斯特洛依合金-X
 heavy_fuel: 重燃油
@@ -280,7 +280,7 @@ indium: 铟
 indium_concentrate: 铟富集溶液
 indium_gallium_phosphide: 磷化铟镓
 indium_phosphide: 磷化铟
-indium_tin_barium_titanium_cuprate: 铟锡钡钛铜氧化物
+indium_tin_barium_titanium_cuprate: 铟锡钡钛铜氧合金
 inert_metal_mixture: 惰性金属混合物
 invar: 殷钢
 iodine: 碘
@@ -320,7 +320,7 @@ liquid_ender_air: 液态末地空气
 liquid_nether_air: 液态下界空气
 lithium: 锂
 lithium_chloride: 氯化锂
-livermorium: 𫟷
+livermorium: 钅立
 lpg: 液化石油气
 lubricant: 润滑油
 lutetium: 镥
@@ -344,7 +344,7 @@ marble: 大理石
 massicot: 铅黄
 mc_guffium_239: 麦高芬-239
 meat: 肉
-meitnerium: 鿏
+meitnerium: 钅麦
 mendelevium: 钔
 mercury: 汞
 mercury_barium_calcium_cuprate: 汞钡钙铜氧化物
@@ -383,7 +383,7 @@ neutronium: 中子素
 nichrome: 镍铬合金
 nickel: 镍
 nickel_zinc_ferrite: 镍锌铁氧体
-nihonium: 鿭
+nihonium: 钅尔
 niobium: 铌
 niobium_nitride: 氮化铌
 niobium_titanium: 铌钛合金
@@ -399,7 +399,7 @@ nitrous_oxide: 一氧化二氮
 nobelium: 锘
 obsidian: 黑曜石
 octane: 辛烷
-oganesson: 鿫
+oganesson: 奥气
 oil: 石油
 oil_heavy: 重油
 oil_light: 轻油
@@ -416,7 +416,7 @@ palladium: 钯
 palladium_raw: 粗钯
 paper: 纸
 paracetamol: 对乙酰氨基酚
-pcb_coolant: "多氯联苯冷却液 "
+pcb_coolant: 多氯联苯冷却液
 pentlandite: 镍黄铁矿
 perlite: 珍珠岩
 phenol: 苯酚
@@ -495,7 +495,7 @@ rhodium_plated_palladium: 镀铑钯
 rhodium_sulfate: 硫酸铑
 rock_salt: 岩盐
 rocket_fuel: 火箭燃料
-roentgenium: 𬬭
+roentgenium: 钅仑
 rose_gold: 玫瑰金
 rtm_alloy: 钌钨钼合金
 rubber: 橡胶
@@ -505,8 +505,8 @@ ruby_slurry: 红宝石浆液
 ruridit: 钌铱合金
 ruthenium: 钌
 ruthenium_tetroxide: 四氧化钌
-ruthenium_trinium_americium_neutronate: 钌凯金镅中子素氧化物
-rutherfordium: 𬬻
+ruthenium_trinium_americium_neutronate: 钌三元镅中子素氧化物
+rutherfordium: 钅卢
 rutile: 金红石
 salt: 盐
 salt_water: 盐水
@@ -518,7 +518,7 @@ sapphire_slurry: 蓝宝石浆液
 scandium: 钪
 scheelite: 白钨矿
 sculk: 幽匿
-seaborgium: 𬭳
+seaborgium: 钅喜
 seed_oil: 种子油
 selenium: 硒
 severely_hydro_cracked_gas: 重度加氢裂化炼油气
@@ -583,7 +583,7 @@ tantalum: 钽
 tantalum_carbide: 碳化钽
 technetium: 锝
 tellurium: 碲
-tennessine: 鿬
+tennessine: 石田
 terbium: 铽
 tetrafluoroethylene: 四氟乙烯
 tetrahedrite: 黝铜矿
@@ -602,8 +602,8 @@ toluene: 甲苯
 topaz: 黄玉
 treated_wood: 防腐木
 tricalcium_phosphate: 磷酸三钙
-trinium: 凯金
-trinium_sulfide: 硫化凯金
+trinium: 三元金属
+trinium_sulfide: 硫化三元
 tritanium: 三钛
 tritium: 氚
 trona: 天然碱
@@ -642,7 +642,7 @@ wulfenite: 钼铅矿
 xenon: 氙
 yellow_dye: 黄色染料
 yellow_garnet: 黄石榴石
-yellow_limonite: 褐铁矿
+yellow_limonite: 黄褐铁矿
 ytterbium: 镱
 yttrium: 钇
 yttrium_barium_cuprate: 钇钡铜氧化物

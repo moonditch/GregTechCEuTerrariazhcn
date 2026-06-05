@@ -1,67 +1,67 @@
 GTConfig: {
-	DisplayName: 格雷科技
+	DisplayName: GregTech
 
 	EnableBossDrops: {
-		Label: 启用 格雷科技的 Boss 掉落
-		Tooltip: 启用后，原版 Boss 会掉落与其等级匹配的格雷科技粗矿、粉和电路元件。
+		Label: 启用 GregTech Boss 掉落
+		Tooltip: 启用后，原版 Boss 会掉落与其等级匹配的 GregTech 粗矿、粉和电路元件。
 	}
 
 	NetworkSyncPeriod: {
 		Label: 网络同步周期
-		// Tooltip: ""
+		Tooltip: ""
 	}
 
 	SimulationSpeed: {
 		Label: 模拟速度
-		// Tooltip: ""
+		Tooltip: ""
 	}
 
 	EnableCleanroom: {
 		Label: 启用超净间
-		// Tooltip: ""
+		Tooltip: ""
 	}
 
 	CleanMultiblocks: {
 		Label: 清洁多方块结构
-		// Tooltip: ""
+		Tooltip: ""
 	}
 
 	DebugMobs: {
 		Label: 调试怪物
-		// Tooltip: ""
+		Tooltip: 在所有弹幕上绘制碰撞框，并在每个活着的自定义Boss上显示屏幕锁定面板（当前攻击、计时器、阶段、生命值百分比、后台生产者倒计时、实时弹幕计数、近期攻击历史）。纯视觉效果——可以在战斗中安全切换。
 	}
 
 	EnableProfiler: {
 		Label: 启用性能分析器
-		// Tooltip: ""
+		Tooltip: ""
 	}
 
 	LdItemPipeMinDistance: {
-		Label: 长距离流体管道最短距离
-		// Tooltip: ""
+		Label: 长距离物品管道最短距离
+		Tooltip: ""
 	}
 
 	LdFluidPipeMinDistance: {
-		Label: 长距离物品管道最短距离
-		// Tooltip: ""
+		Label: 长距离流体管道最短距离
+		Tooltip: ""
 	}
 
 	OrderedAssemblyLineItems: {
 		Label: 有序装配线物品
-		// Tooltip: ""
+		Tooltip: ""
 	}
 
 	OrderedAssemblyLineFluids: {
 		Label: 有序装配线流体
-		// Tooltip: ""
+		Tooltip: ""
 	}
 }
 
 GTClientConfig: {
-	DisplayName: 格雷科技客户端配置
+	DisplayName: GT 客户端配置
 
 	ShowDiscordInvite: {
 		Label: 显示 Discord 邀请
-		// Tooltip: ""
+		Tooltip: ""
 	}
 }
