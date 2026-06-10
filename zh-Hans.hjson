@@ -1,0 +1,98 @@
+Mods: {
+	GregTechCEuTerraria: {
+		Keybinds: {
+			RecipeBrowserHowToObtain.DisplayName: 配方浏览器 - 查看悬停物品的获取方式
+			RecipeBrowserUsedAsIngredient.DisplayName: 配方浏览器 - 查看悬停物品的用途
+		}
+
+		ArmorSet: {
+			Nano: 套装效果：概率闪避攻击，+10%移动速度
+			Quark: 套装效果：减少12%伤害，+6防御力
+		}
+
+		NPCs: {
+			CausticReactor: {
+				DisplayName: 腐蚀反应堆
+				Bestiary: 一台密封的化学反应器破裂了外壳，悬浮在空中，以绽放的几何酸性喷雾排放其试剂。它不追逐——它固守阵地，用腐蚀之光涂染战场，挑衅你寻找空隙。
+			}
+
+			FallenEBF: {
+				DisplayName: 坠落电力高炉
+				Bestiary: 一台电力高炉因过热而撕裂了自身线圈，腾空而起。它通过冶炼进行战斗——并将冶炼产物倾泻在附近的一切物体上。
+			}
+
+			ImplosionPress: {
+				DisplayName: 聚爆压缩机
+				Bestiary: 一台失控的聚爆压缩机，通过消声仓排放过压气体。它不从远处发起攻击——它是聚合者，拖拽空间向内塌缩，直到间隙消失、空气内爆。在最后阶段，它直接从战场中锻造钻石。
+			}
+
+			SoulDistiller: {
+				DisplayName: 灵魂蒸馏机
+				Bestiary: 一座蒸馏塔饮下了太多它提炼的灵魂，蠕动着化为蛇形管道获得了自由。将其斩断，它只会蒸馏成其馏分——而每一部分都将继续战斗。
+			}
+
+			SoulDistillerFraction.DisplayName: 灵魂蒸馏机
+
+			VacuumFreezer: {
+				DisplayName: 真空冷冻机
+				Bestiary: 一台密封的冷冻室挣脱了固定锚，飞升至空中。它并不追逐——而是牵引，用冷却剂弥漫空气，任由寒冷完成杀戮，同时喷吐着瞬间冻结的金属碎片。
+			}
+
+			EBFChanNPC: {
+				DisplayName: 高炉酱NPC
+
+				TownNPCMood: {
+					Content: 我很满足。
+					NoHome: 我讨厌没有家。
+					FarFromHome: 我离家太远了。
+					LoveSpace: 我喜欢拥有这么大的空间。
+					DislikeCrowded: 我不喜欢这么拥挤。
+					HateCrowded: 我讨厌这么拥挤。
+					LikeNPC_Princess: 我喜欢{NPCName}。
+					Princess_LovesNPC: 我喜欢{NPCName}。
+				}
+			}
+
+			EBFChan: {
+				Bestiary: 电力高炉的精灵，在解决了她的"坠落"躯壳后安顿下来，变得友善。她经营着一个小摊，售卖热处理过的食材——而且摸上去总是滚烫的。
+				DeathMessage: "{0} 让她的线圈冷却了……"
+				Chat1: 等一下，你的坎塔尔合金锭还在烧呢……
+				Chat2: 别碰外壳。很烫。什么都很烫。
+				Chat3: 负责任地超频。我见过不这么做的后果。
+			}
+
+			SoulDistillerBody.DisplayName: 灵魂蒸馏机躯体
+			SoulDistillerTail.DisplayName: 灵魂蒸馏机尾部
+		}
+
+		Projectiles: {
+			AcidDropletProjectile.DisplayName: 酸液滴
+			CorrosivePoolProjectile.DisplayName: 腐蚀池
+			HotIngotProjectile.DisplayName: 炽热锭弹
+			CarbonBlockHazard.DisplayName: 碳块危害
+			CarbonShardProjectile.DisplayName: 碳片弹
+			CompressionColumnProjectile.DisplayName: 压缩柱弹
+			CrushZoneProjectile.DisplayName: 粉碎区域
+			DetonatorShockwaveProjectile.DisplayName: 雷管冲击波
+			DiamondForgeProjectile.DisplayName: 钻石锻炉弹
+			FuseChargeProjectile.DisplayName: 导火索炸药
+			FuseFlameProjectile.DisplayName: 导火线火焰
+			HellblastOrbProjectile.DisplayName: 地狱爆破球
+			ImplosionTetherProjectile.DisplayName: 内爆系绳弹
+			MortarShellProjectile.DisplayName: 迫击炮弹
+			PressureRingProjectile.DisplayName: 压力环
+			EmptyBucketProjectile.DisplayName: 空桶弹
+			LiquidGlobProjectile.DisplayName: 液滴弹
+			OilCloudProjectile.DisplayName: 油雾
+			ToxicGasProjectile.DisplayName: 毒气云雾
+			CoolantCloudProjectile.DisplayName: 冷却剂云雾
+			FrostShardProjectile.DisplayName: 霜晶碎片弹
+			SupercooledIngotProjectile.DisplayName: 过冷锭弹
+			ButcheryKnifeProjectile.DisplayName: 屠宰刀弹
+			DrillHeldProjectile.DisplayName: 钻头持握弹
+			ToolPokeProjectile.DisplayName: 工具戳刺弹
+		}
+
+		RecipeConditions.FluidContainer: 需要将流体装入单元或桶中
+	}
+}

@@ -1,0 +1,98 @@
+Mods: {
+	GregTechCEuTerraria: {
+		Keybinds: {
+			RecipeBrowserHowToObtain.DisplayName: Recipe browser - how to obtain hovered item
+			RecipeBrowserUsedAsIngredient.DisplayName: Recipe browser - recipes that use hovered item
+		}
+
+		ArmorSet: {
+			Nano: Set bonus: chance to dodge attacks, +10% movement speed
+			Quark: Set bonus: 12% damage reduction, +6 defense
+		}
+
+		NPCs: {
+			CausticReactor: {
+				DisplayName: Caustic Reactor
+				Bestiary: A sealed chemical reactor that broke containment and now hangs in the air, venting its reagents in blooming geometric sprays of acid. It doesn't give chase - it anchors, paints the arena with corrosive light, and dares you to find the gaps.
+			}
+
+			FallenEBF: {
+				DisplayName: Fallen EBF
+				Bestiary: A blast furnace that overheated, tore itself from its coils, and took flight. It fights by smelting - and pours the results at anything nearby.
+			}
+
+			ImplosionPress: {
+				DisplayName: Implosion Press
+				Bestiary: A runaway implosion compressor venting overpressure through its muffler. It doesn't strike from afar - it CONVERGES, dragging space inward until the gaps close and the air implodes. In its final phase it forges diamonds from the arena itself.
+			}
+
+			SoulDistiller: {
+				DisplayName: Soul Distiller
+				Bestiary: A distillation tower that drank too deep of the souls it refined and crawled free as a serpent of pipework. Cut it down and it simply distills into its fractions - and each one keeps fighting.
+			}
+
+			SoulDistillerFraction.DisplayName: Soul Distiller
+
+			VacuumFreezer: {
+				DisplayName: Vacuum Freezer
+				Bestiary: A sealed freezing chamber that slipped its anchors and took to the air. It doesn't chase - it pulls, fogs the air with coolant, and lets the cold do the work while it vents shards of flash-frozen metal.
+			}
+
+			EBFChanNPC: {
+				DisplayName: EBF-chan
+
+				TownNPCMood: {
+					Content: I'm content.
+					NoHome: I can't stand not having a home.
+					FarFromHome: I'm too far from home.
+					LoveSpace: I love having so much space.
+					DislikeCrowded: I dislike how crowded it is here.
+					HateCrowded: I hate how crowded it is here.
+					LikeNPC_Princess: I like {NPCName}.
+					Princess_LovesNPC: I like {NPCName}.
+				}
+			}
+
+			EBFChan: {
+				Bestiary: The spirit of a Electric Blast Furnace, settled and friendly now that her Fallen shell is dealt with. She runs a little stall of heat-treated ingredients - and is always hot to the touch.
+				DeathMessage: "{0} let her coils go cold..."
+				Chat1: Hold on, I'm still cooking your kanthal ingot...
+				Chat2: Don't touch the casing. It's hot. Everything's hot.
+				Chat3: Overclock responsibly. I've seen what happens when you don't.
+			}
+
+			SoulDistillerBody.DisplayName: Soul Distiller Body
+			SoulDistillerTail.DisplayName: Soul Distiller Tail
+		}
+
+		Projectiles: {
+			AcidDropletProjectile.DisplayName: Acid Droplet Projectile
+			CorrosivePoolProjectile.DisplayName: Corrosive Pool Projectile
+			HotIngotProjectile.DisplayName: Hot Ingot Projectile
+			CarbonBlockHazard.DisplayName: Carbon Block Hazard
+			CarbonShardProjectile.DisplayName: Carbon Shard Projectile
+			CompressionColumnProjectile.DisplayName: Compression Column Projectile
+			CrushZoneProjectile.DisplayName: Crush Zone Projectile
+			DetonatorShockwaveProjectile.DisplayName: Detonator Shockwave Projectile
+			DiamondForgeProjectile.DisplayName: Diamond Forge Projectile
+			FuseChargeProjectile.DisplayName: Fuse Charge Projectile
+			FuseFlameProjectile.DisplayName: Fuse Flame Projectile
+			HellblastOrbProjectile.DisplayName: Hellblast Orb Projectile
+			ImplosionTetherProjectile.DisplayName: Implosion Tether Projectile
+			MortarShellProjectile.DisplayName: Mortar Shell Projectile
+			PressureRingProjectile.DisplayName: Pressure Ring Projectile
+			EmptyBucketProjectile.DisplayName: Empty Bucket Projectile
+			LiquidGlobProjectile.DisplayName: Liquid Glob Projectile
+			OilCloudProjectile.DisplayName: Oil Cloud Projectile
+			ToxicGasProjectile.DisplayName: Toxic Gas Projectile
+			CoolantCloudProjectile.DisplayName: Coolant Cloud Projectile
+			FrostShardProjectile.DisplayName: Frost Shard Projectile
+			SupercooledIngotProjectile.DisplayName: Supercooled Ingot Projectile
+			ButcheryKnifeProjectile.DisplayName: Butchery Knife Projectile
+			DrillHeldProjectile.DisplayName: Drill Held Projectile
+			ToolPokeProjectile.DisplayName: Tool Poke Projectile
+		}
+
+		RecipeConditions.FluidContainer: Requires the fluid held in a cell or bucket
+	}
+}
