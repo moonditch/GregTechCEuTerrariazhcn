@@ -3,6 +3,6 @@ author = moon.ditch & @马达达马达 & xiakkto & 氨苄西林 & TheWorldCreate
 version = 0.0.3.2
 homepage = https://github.com/moonditch/GregTechCEuTerrariazhcn
 modReferences = GregTechCEuTerraria
+dllReferences = TigerForceLocalizationLib
 translationMod = true
 side = NoSync
-sortAfter = GregTechCEuTerraria

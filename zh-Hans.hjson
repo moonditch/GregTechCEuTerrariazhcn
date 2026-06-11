@@ -91,6 +91,7 @@ Mods: {
 			ButcheryKnifeProjectile.DisplayName: 屠宰刀弹
 			DrillHeldProjectile.DisplayName: 钻头持握弹
 			ToolPokeProjectile.DisplayName: 工具戳刺弹
+			// RoundProjectile.DisplayName: Round Projectile
 		}
 
 		RecipeConditions.FluidContainer: 需要将流体装入单元或桶中

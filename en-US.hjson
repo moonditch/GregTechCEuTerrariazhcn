@@ -91,6 +91,7 @@ Mods: {
 			ButcheryKnifeProjectile.DisplayName: Butchery Knife Projectile
 			DrillHeldProjectile.DisplayName: Drill Held Projectile
 			ToolPokeProjectile.DisplayName: Tool Poke Projectile
+			RoundProjectile.DisplayName: Round Projectile
 		}
 
 		RecipeConditions.FluidContainer: Requires the fluid held in a cell or bucket

@@ -9,8 +9,8 @@
 	</PropertyGroup>
 
 	<!-- References -->
-	<ItemGroup>
-		
-	</ItemGroup>
+  <ItemGroup>
+    <Reference Include="lib\*.dll" />
+  </ItemGroup>
 
 </Project>
