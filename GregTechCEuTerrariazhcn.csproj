@@ -1,14 +1,14 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
-	<!-- Import tModLoader mod properties -->
-	<Import Project="..\tModLoader.targets" />
+  <!-- Import tModLoader mod properties -->
+  <Import Project="..\tModLoader.targets" />
 
-	<!-- General -->
-	<PropertyGroup>
-		
-	</PropertyGroup>
+  <!-- General -->
+  <PropertyGroup>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
 
-	<!-- References -->
+  <!-- References -->
   <ItemGroup>
     <Reference Include="lib\*.dll" />
   </ItemGroup>

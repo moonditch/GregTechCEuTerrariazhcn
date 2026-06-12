@@ -39441,3 +39441,43 @@ multiblock_bag_steel_multiblock_tank: {
 	DisplayName: 钢制多方块储罐 多方块结构袋
 	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
 }
+
+simple_item_pipe_small: {
+	// DisplayName: Small Simple Item Pipe
+	// Tooltip: ""
+}
+
+simple_item_pipe_large: {
+	// DisplayName: Large Simple Item Pipe
+	// Tooltip: ""
+}
+
+simple_item_pipe_huge: {
+	// DisplayName: Huge Simple Item Pipe
+	// Tooltip: ""
+}
+
+simple_fluid_pipe_tiny: {
+	// DisplayName: Tiny Simple Fluid Pipe
+	// Tooltip: ""
+}
+
+simple_fluid_pipe_small: {
+	// DisplayName: Small Simple Fluid Pipe
+	// Tooltip: ""
+}
+
+simple_fluid_pipe_large: {
+	// DisplayName: Large Simple Fluid Pipe
+	// Tooltip: ""
+}
+
+simple_fluid_pipe_huge: {
+	// DisplayName: Huge Simple Fluid Pipe
+	// Tooltip: ""
+}
+
+pipe_intersection: {
+	// DisplayName: Pipe Intersection
+	// Tooltip: ""
+}

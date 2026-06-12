@@ -2124,3 +2124,4 @@ max_1024a_laser_target_hatch.MapEntry: 1024A 极限激光靶仓
 max_1024a_laser_source_hatch.MapEntry: 1024A 极限激光源仓
 max_4096a_laser_target_hatch.MapEntry: 4096A 极限激光靶仓
 max_4096a_laser_source_hatch.MapEntry: 4096A 极限激光源仓
+// pipe_intersection.MapEntry: Pipe Intersection

@@ -51,6 +51,13 @@ Mods: {
 					LikeNPC_Princess: 我喜欢{NPCName}。
 					Princess_LovesNPC: 我喜欢{NPCName}。
 				}
+
+				// Bestiary: The spirit of a Electric Blast Furnace, settled and friendly now that her Fallen shell is dealt with. She runs a little stall of heat-treated ingredients - and is always hot to the touch.
+				// DeathMessage: "{0} let her coils go cold..."
+				Census.SpawnCondition: "{$Census.SpawnConditions.Guide}"
+				// Chat1: Hold on, I'm still cooking your kanthal ingot...
+				// Chat2: Don't touch the casing. It's hot. Everything's hot.
+				// Chat3: Overclock responsibly. I've seen what happens when you don't.
 			}
 
 			EBFChan: {
