@@ -1,0 +1,22 @@
+EquipCats: {
+	// Helmet.Name: Helmets
+	// Shirt.Name: Shirts
+	// Pants.Name: Pants
+	// Trinket.Name: Trinkets
+	// Dye.Name: Dyes
+	// Mount.Name: Mounts
+	// Hook.Name: Hooks
+	// Minecart.Name: Minecarts
+	// Pet.Name: Pet
+	// LightPet.Name: Light Pet
+}
+
+PipeSizes: {
+	// Tiny: Tiny
+	// Small: Small
+	// Normal: Normal
+	// Large: Large
+	// Huge: Huge
+	// Quadruple: Quadruple
+	// Nonuple: Nonuple
+}
