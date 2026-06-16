@@ -10509,7 +10509,7 @@ potin_gear: {
 }
 
 potin_huge_fluid_pipe: {
-	DisplayName: 波廷合金巨型流体管道
+	DisplayName: 粗青铜合金巨型流体管道
 	Tooltip: ""
 }
 
@@ -10519,17 +10519,17 @@ potin_ingot: {
 }
 
 potin_large_fluid_pipe: {
-	DisplayName: 波廷合金大型流体管道
+	DisplayName: 粗青铜合金大型流体管道
 	Tooltip: ""
 }
 
 potin_nonuple_fluid_pipe: {
-	DisplayName: 波廷合金九重流体管道
+	DisplayName: 粗青铜合金九重流体管道
 	Tooltip: ""
 }
 
 potin_normal_fluid_pipe: {
-	DisplayName: 波廷合金普通流体管道
+	DisplayName: 粗青铜合金普通流体管道
 	Tooltip: ""
 }
 
@@ -10544,7 +10544,7 @@ potin_plate: {
 }
 
 potin_quadruple_fluid_pipe: {
-	DisplayName: 波廷合金四重流体管道
+	DisplayName: 粗青铜合金四重流体管道
 	Tooltip: ""
 }
 
@@ -10559,12 +10559,12 @@ potin_screw: {
 }
 
 potin_small_fluid_pipe: {
-	DisplayName: 波廷合金小型流体管道
+	DisplayName: 粗青铜合金小型流体管道
 	Tooltip: ""
 }
 
 potin_tiny_fluid_pipe: {
-	DisplayName: 波廷合金微型流体管道
+	DisplayName: 粗青铜合金微型流体管道
 	Tooltip: ""
 }
 
@@ -26799,32 +26799,32 @@ ev_emitter: {
 }
 
 ev_energy_input_hatch: {
-	DisplayName: 进阶能源仓III
+	DisplayName: EV能源仓
 	Tooltip: ""
 }
 
 ev_energy_input_hatch_16a: {
-	DisplayName: 16A 进阶能源仓
+	DisplayName: 16A EV能源仓
 	Tooltip: ""
 }
 
 ev_energy_input_hatch_4a: {
-	DisplayName: 4A 进阶能源仓
+	DisplayName: 4A EV能源仓
 	Tooltip: ""
 }
 
 ev_energy_output_hatch: {
-	DisplayName: 进阶发电机仓III
+	DisplayName: EV动力仓
 	Tooltip: ""
 }
 
 ev_energy_output_hatch_16a: {
-	DisplayName: 16A 进阶发电机仓
+	DisplayName: 16A 进阶动力仓
 	Tooltip: ""
 }
 
 ev_energy_output_hatch_4a: {
-	DisplayName: 4A 进阶发电机仓
+	DisplayName: 4A 进阶动力仓
 	Tooltip: ""
 }
 
@@ -26899,22 +26899,22 @@ ev_hermetic_casing: {
 }
 
 ev_input_bus: {
-	DisplayName: 进阶输入总线III
+	DisplayName: EV输入总线
 	Tooltip: ""
 }
 
 ev_input_hatch: {
-	DisplayName: 进阶输入仓III
+	DisplayName: EV输入仓
 	Tooltip: ""
 }
 
 ev_input_hatch_4x: {
-	DisplayName: 进阶四重输入仓III
+	DisplayName: EV四重输入仓
 	Tooltip: ""
 }
 
 ev_input_hatch_9x: {
-	DisplayName: 进阶九重输入仓III
+	DisplayName: EV九重输入仓
 	Tooltip: ""
 }
 
@@ -26954,12 +26954,12 @@ ev_macerator: {
 }
 
 ev_machine_casing: {
-	DisplayName: EV机器外壳
+	DisplayName: EV机械方块
 	Tooltip: ""
 }
 
 ev_machine_hull: {
-	DisplayName: 进阶机器外壳III
+	DisplayName: EV机器外壳
 	Tooltip: ""
 }
 
@@ -26979,22 +26979,22 @@ ev_ore_washer: {
 }
 
 ev_output_bus: {
-	DisplayName: 进阶输出总线III
+	DisplayName: EV输出总线
 	Tooltip: ""
 }
 
 ev_output_hatch: {
-	DisplayName: 进阶输出仓III
+	DisplayName: EV输出仓
 	Tooltip: ""
 }
 
 ev_output_hatch_4x: {
-	DisplayName: 进阶四重输出仓III
+	DisplayName: EV四重输出仓
 	Tooltip: ""
 }
 
 ev_output_hatch_9x: {
-	DisplayName: 进阶九重输出仓III
+	DisplayName: EV九重输出仓
 	Tooltip: ""
 }
 
@@ -27054,12 +27054,12 @@ ev_solar_panel: {
 }
 
 ev_substation_input_hatch_64a: {
-	DisplayName: 64A 进阶变电站能源仓
+	DisplayName: 64A EV变电站能源仓
 	Tooltip: ""
 }
 
 ev_substation_output_hatch_64a: {
-	DisplayName: 64A 进阶变电站发电机仓
+	DisplayName: 64A 进阶变电站动力仓
 	Tooltip: ""
 }
 
@@ -27079,22 +27079,22 @@ ev_thermal_centrifuge: {
 }
 
 ev_transformer_16a: {
-	DisplayName: 进阶电力变压器III
+	DisplayName: EV高能变压器
 	Tooltip: ""
 }
 
 ev_transformer_1a: {
-	DisplayName: 进阶变压器III
+	DisplayName: EV变压器
 	Tooltip: ""
 }
 
 ev_transformer_2a: {
-	DisplayName: 大电流(2x) 进阶变压器III
+	DisplayName: EV进阶变压器
 	Tooltip: ""
 }
 
 ev_transformer_4a: {
-	DisplayName: 大电流(4x) 进阶变压器III
+	DisplayName: EV高流变压器
 	Tooltip: ""
 }
 
@@ -27219,27 +27219,27 @@ frost_hazard_sign_block: {
 }
 
 frostproof_machine_casing: {
-	DisplayName: Frost Proof Aluminium机器外壳
+	DisplayName: 铝制防冻机械方块
 	Tooltip: ""
 }
 
 fusion_casing: {
-	DisplayName: Fusion机器外壳
+	DisplayName: 聚变机械方块
 	Tooltip: ""
 }
 
 fusion_casing_mk2: {
-	DisplayName: Fusion机器外壳 MK II
+	DisplayName: 聚变机械方块 MK II
 	Tooltip: ""
 }
 
 fusion_casing_mk3: {
-	DisplayName: Fusion机器外壳 MK III
+	DisplayName: 聚变机械方块 MK III
 	Tooltip: ""
 }
 
 fusion_coil: {
-	DisplayName: Fusion线圈方块
+	DisplayName: 聚变线圈方块
 	Tooltip: ""
 }
 
@@ -27409,7 +27409,7 @@ heat_vent: {
 }
 
 heatproof_machine_casing: {
-	DisplayName: Heat Proof Invar机器外壳
+	DisplayName: 殷钢隔热机械方块
 	Tooltip: ""
 }
 
@@ -27559,7 +27559,7 @@ huge_duct_pipe: {
 }
 
 huge_pipe_casting_mold: {
-	DisplayName: 铸造模具(巨型管道)
+	DisplayName: 模具(巨型管道)
 	Tooltip: ""
 }
 
@@ -27759,12 +27759,12 @@ hv_emitter: {
 }
 
 hv_energy_input_hatch: {
-	DisplayName: 进阶能源仓II
+	DisplayName: HV能源仓
 	Tooltip: ""
 }
 
 hv_energy_output_hatch: {
-	DisplayName: 进阶发电机仓II
+	DisplayName: HV动力仓
 	Tooltip: ""
 }
 
@@ -27844,12 +27844,12 @@ hv_hermetic_casing: {
 }
 
 hv_input_bus: {
-	DisplayName: 进阶输入总线II
+	DisplayName: HV输入总线
 	Tooltip: ""
 }
 
 hv_input_hatch: {
-	DisplayName: 进阶输入仓II
+	DisplayName: HV输入仓
 	Tooltip: ""
 }
 
@@ -27889,12 +27889,12 @@ hv_macerator: {
 }
 
 hv_machine_casing: {
-	DisplayName: HV机器外壳
+	DisplayName: HV机械方块
 	Tooltip: ""
 }
 
 hv_machine_hull: {
-	DisplayName: 进阶机器外壳II
+	DisplayName: HV机器外壳
 	Tooltip: ""
 }
 
@@ -27919,12 +27919,12 @@ hv_ore_washer: {
 }
 
 hv_output_bus: {
-	DisplayName: 进阶输出总线II
+	DisplayName: HV输出总线
 	Tooltip: ""
 }
 
 hv_output_hatch: {
-	DisplayName: 进阶输出仓II
+	DisplayName: HV输出仓
 	Tooltip: ""
 }
 
@@ -28009,22 +28009,22 @@ hv_thermal_centrifuge: {
 }
 
 hv_transformer_16a: {
-	DisplayName: 进阶电力变压器II
+	DisplayName: HV高能变压器
 	Tooltip: ""
 }
 
 hv_transformer_1a: {
-	DisplayName: 进阶变压器II
+	DisplayName: HV变压器
 	Tooltip: ""
 }
 
 hv_transformer_2a: {
-	DisplayName: 大电流(2x) 进阶变压器II
+	DisplayName: HV进阶变压器
 	Tooltip: ""
 }
 
 hv_transformer_4a: {
-	DisplayName: 大电流(4x) 进阶变压器II
+	DisplayName: HV高流变压器
 	Tooltip: ""
 }
 
@@ -28079,7 +28079,7 @@ industrial_tnt: {
 }
 
 inert_machine_casing: {
-	DisplayName: Chemically Inert PTFE机器外壳
+	DisplayName: 聚四氟乙烯化学惰性机械方块
 	Tooltip: ""
 }
 
@@ -28324,32 +28324,32 @@ iv_emitter: {
 }
 
 iv_energy_input_hatch: {
-	DisplayName: 精英能源仓
+	DisplayName: IV能源仓
 	Tooltip: ""
 }
 
 iv_energy_input_hatch_16a: {
-	DisplayName: 16A 精英能源仓
+	DisplayName: 16A IV能源仓
 	Tooltip: ""
 }
 
 iv_energy_input_hatch_4a: {
-	DisplayName: 4A 精英能源仓
+	DisplayName: 4A IV能源仓
 	Tooltip: ""
 }
 
 iv_energy_output_hatch: {
-	DisplayName: 精英发电机仓
+	DisplayName: IV动力仓
 	Tooltip: ""
 }
 
 iv_energy_output_hatch_16a: {
-	DisplayName: 16A 精英发电机仓
+	DisplayName: 16A IV动力仓
 	Tooltip: ""
 }
 
 iv_energy_output_hatch_4a: {
-	DisplayName: 4A 精英发电机仓
+	DisplayName: 4A IV动力仓
 	Tooltip: ""
 }
 
@@ -28419,22 +28419,22 @@ iv_hermetic_casing: {
 }
 
 iv_input_bus: {
-	DisplayName: 精英输入总线
+	DisplayName: IV输入总线
 	Tooltip: ""
 }
 
 iv_input_hatch: {
-	DisplayName: 精英输入仓
+	DisplayName: IV输入仓
 	Tooltip: ""
 }
 
 iv_input_hatch_4x: {
-	DisplayName: 精英四重输入仓
+	DisplayName: IV四重输入仓
 	Tooltip: ""
 }
 
 iv_input_hatch_9x: {
-	DisplayName: 精英九重输入仓
+	DisplayName: IV九重输入仓
 	Tooltip: ""
 }
 
@@ -28469,12 +28469,12 @@ iv_macerator: {
 }
 
 iv_machine_casing: {
-	DisplayName: IV机器外壳
+	DisplayName: IV机械方块
 	Tooltip: ""
 }
 
 iv_machine_hull: {
-	DisplayName: 精英机器外壳
+	DisplayName: IV机器外壳
 	Tooltip: ""
 }
 
@@ -28494,22 +28494,22 @@ iv_ore_washer: {
 }
 
 iv_output_bus: {
-	DisplayName: 精英输出总线
+	DisplayName: IV输出总线
 	Tooltip: ""
 }
 
 iv_output_hatch: {
-	DisplayName: 精英输出仓
+	DisplayName: IV输出仓
 	Tooltip: ""
 }
 
 iv_output_hatch_4x: {
-	DisplayName: 精英四重输出仓
+	DisplayName: IV四重输出仓
 	Tooltip: ""
 }
 
 iv_output_hatch_9x: {
-	DisplayName: 精英九重输出仓
+	DisplayName: IV九重输出仓
 	Tooltip: ""
 }
 
@@ -28579,12 +28579,12 @@ iv_solar_panel: {
 }
 
 iv_substation_input_hatch_64a: {
-	DisplayName: 64A 精英变电站能源仓
+	DisplayName: 64A IV变电站能源仓
 	Tooltip: ""
 }
 
 iv_substation_output_hatch_64a: {
-	DisplayName: 64A 精英变电站发电机仓
+	DisplayName: 64A IV变电站动力仓
 	Tooltip: ""
 }
 
@@ -28594,22 +28594,22 @@ iv_thermal_centrifuge: {
 }
 
 iv_transformer_16a: {
-	DisplayName: 精英电力变压器
+	DisplayName: IV高能变压器
 	Tooltip: ""
 }
 
 iv_transformer_1a: {
-	DisplayName: 精英变压器
+	DisplayName: IV变压器
 	Tooltip: ""
 }
 
 iv_transformer_2a: {
-	DisplayName: 大电流(2x) 精英变压器
+	DisplayName: IV进阶变压器
 	Tooltip: ""
 }
 
 iv_transformer_4a: {
-	DisplayName: 大电流(4x) 精英变压器
+	DisplayName: IV高流变压器
 	Tooltip: ""
 }
 
@@ -28764,7 +28764,7 @@ large_packer: {
 }
 
 large_pipe_casting_mold: {
-	DisplayName: 铸造模具(大型管道)
+	DisplayName: 模具(大型管道)
 	Tooltip: ""
 }
 
@@ -29034,12 +29034,12 @@ lpic_wafer: {
 }
 
 luv_1024a_laser_source_hatch: {
-	DisplayName: 1024A 精英激光源仓
+	DisplayName: 1024A LUV激光源仓
 	Tooltip: ""
 }
 
 luv_1024a_laser_target_hatch: {
-	DisplayName: 1024A 精英激光靶仓
+	DisplayName: 1024A LUV激光靶仓
 	Tooltip: ""
 }
 
@@ -29054,22 +29054,22 @@ luv_1a_energy_converter: {
 }
 
 luv_256a_laser_source_hatch: {
-	DisplayName: 256A 精英激光源仓
+	DisplayName: 256A LUV激光源仓
 	Tooltip: ""
 }
 
 luv_256a_laser_target_hatch: {
-	DisplayName: 256A 精英激光靶仓
+	DisplayName: 256A LUV激光靶仓
 	Tooltip: ""
 }
 
 luv_4096a_laser_source_hatch: {
-	DisplayName: 4096A 精英激光源仓
+	DisplayName: 4096A LUV激光源仓
 	Tooltip: ""
 }
 
 luv_4096a_laser_target_hatch: {
-	DisplayName: 4096A 精英激光靶仓
+	DisplayName: 4096A LUV激光靶仓
 	Tooltip: ""
 }
 
@@ -29189,12 +29189,12 @@ luv_distillery: {
 }
 
 luv_dual_input_hatch: {
-	DisplayName: 精英双重输入仓II
+	DisplayName: LUV双重输入仓
 	Tooltip: ""
 }
 
 luv_dual_output_hatch: {
-	DisplayName: 精英双重输出仓II
+	DisplayName: LUV双重输出仓
 	Tooltip: ""
 }
 
@@ -29234,32 +29234,32 @@ luv_emitter: {
 }
 
 luv_energy_input_hatch: {
-	DisplayName: 精英能源仓II
+	DisplayName: LUV能源仓
 	Tooltip: ""
 }
 
 luv_energy_input_hatch_16a: {
-	DisplayName: 16A 精英能源仓
+	DisplayName: 16A LUV能源仓
 	Tooltip: ""
 }
 
 luv_energy_input_hatch_4a: {
-	DisplayName: 4A 精英能源仓
+	DisplayName: 4A LUV能源仓
 	Tooltip: ""
 }
 
 luv_energy_output_hatch: {
-	DisplayName: 精英发电机仓II
+	DisplayName: LUV动力仓
 	Tooltip: ""
 }
 
 luv_energy_output_hatch_16a: {
-	DisplayName: 16A 精英发电机仓
+	DisplayName: 16A LUV动力仓
 	Tooltip: ""
 }
 
 luv_energy_output_hatch_4a: {
-	DisplayName: 4A 精英发电机仓
+	DisplayName: 4A LUV动力仓
 	Tooltip: ""
 }
 
@@ -29334,22 +29334,22 @@ luv_hermetic_casing: {
 }
 
 luv_input_bus: {
-	DisplayName: 精英输入总线II
+	DisplayName: LUV输入总线
 	Tooltip: ""
 }
 
 luv_input_hatch: {
-	DisplayName: 精英输入仓II
+	DisplayName: LUV输入仓
 	Tooltip: ""
 }
 
 luv_input_hatch_4x: {
-	DisplayName: 精英四重输入仓II
+	DisplayName: LUV四重输入仓
 	Tooltip: ""
 }
 
 luv_input_hatch_9x: {
-	DisplayName: 精英九重输入仓II
+	DisplayName: LUV九重输入仓
 	Tooltip: ""
 }
 
@@ -29384,12 +29384,12 @@ luv_macerator: {
 }
 
 luv_machine_casing: {
-	DisplayName: LuV机器外壳
+	DisplayName: LuV机械方块
 	Tooltip: ""
 }
 
 luv_machine_hull: {
-	DisplayName: 精英机器外壳II
+	DisplayName: LUV机器外壳
 	Tooltip: ""
 }
 
@@ -29409,22 +29409,22 @@ luv_ore_washer: {
 }
 
 luv_output_bus: {
-	DisplayName: 精英输出总线II
+	DisplayName: LUV输出总线
 	Tooltip: ""
 }
 
 luv_output_hatch: {
-	DisplayName: 精英输出仓II
+	DisplayName: LUV输出仓
 	Tooltip: ""
 }
 
 luv_output_hatch_4x: {
-	DisplayName: 精英四重输出仓II
+	DisplayName: LUV四重输出仓
 	Tooltip: ""
 }
 
 luv_output_hatch_9x: {
-	DisplayName: 精英九重输出仓II
+	DisplayName: LUV九重输出仓
 	Tooltip: ""
 }
 
@@ -29489,12 +29489,12 @@ luv_solar_panel: {
 }
 
 luv_substation_input_hatch_64a: {
-	DisplayName: 64A 精英变电站能源仓
+	DisplayName: 64A LUV变电站能源仓
 	Tooltip: ""
 }
 
 luv_substation_output_hatch_64a: {
-	DisplayName: 64A 精英变电站发电机仓
+	DisplayName: 64A LUV变电站动力仓
 	Tooltip: ""
 }
 
@@ -29504,22 +29504,22 @@ luv_thermal_centrifuge: {
 }
 
 luv_transformer_16a: {
-	DisplayName: 精英电力变压器II
+	DisplayName: LUV高能变压器
 	Tooltip: ""
 }
 
 luv_transformer_1a: {
-	DisplayName: 精英变压器II
+	DisplayName: LUV变压器
 	Tooltip: ""
 }
 
 luv_transformer_2a: {
-	DisplayName: 大电流(2x) 精英变压器II
+	DisplayName: LUV进阶变压器
 	Tooltip: ""
 }
 
 luv_transformer_4a: {
-	DisplayName: 大电流(4x) 精英变压器II
+	DisplayName: LUV高流变压器
 	Tooltip: ""
 }
 
@@ -29729,12 +29729,12 @@ lv_emitter: {
 }
 
 lv_energy_input_hatch: {
-	DisplayName: 基础能源仓
+	DisplayName: LV能源仓
 	Tooltip: ""
 }
 
 lv_energy_output_hatch: {
-	DisplayName: 基础发电机仓
+	DisplayName: LV动力仓
 	Tooltip: ""
 }
 
@@ -29809,12 +29809,12 @@ lv_hermetic_casing: {
 }
 
 lv_input_bus: {
-	DisplayName: 基础输入总线
+	DisplayName: LV输入总线
 	Tooltip: ""
 }
 
 lv_input_hatch: {
-	DisplayName: 基础输入仓
+	DisplayName: LV输入仓
 	Tooltip: ""
 }
 
@@ -29854,12 +29854,12 @@ lv_macerator: {
 }
 
 lv_machine_casing: {
-	DisplayName: LV机器外壳
+	DisplayName: LV机械方块
 	Tooltip: ""
 }
 
 lv_machine_hull: {
-	DisplayName: 基础机器外壳
+	DisplayName: LV机器外壳
 	Tooltip: ""
 }
 
@@ -29884,12 +29884,12 @@ lv_ore_washer: {
 }
 
 lv_output_bus: {
-	DisplayName: 基础输出总线
+	DisplayName: LV输出总线
 	Tooltip: ""
 }
 
 lv_output_hatch: {
-	DisplayName: 基础输出仓
+	DisplayName: LV输出仓
 	Tooltip: ""
 }
 
@@ -29969,22 +29969,22 @@ lv_thermal_centrifuge: {
 }
 
 lv_transformer_16a: {
-	DisplayName: 基础电力变压器
+	DisplayName: LV高能变压器
 	Tooltip: ""
 }
 
 lv_transformer_1a: {
-	DisplayName: 基础变压器
+	DisplayName: LV变压器
 	Tooltip: ""
 }
 
 lv_transformer_2a: {
-	DisplayName: 大电流(2x) 基础变压器
+	DisplayName: LV进阶变压器
 	Tooltip: ""
 }
 
 lv_transformer_4a: {
-	DisplayName: 大电流(4x) 基础变压器
+	DisplayName: LV高流变压器
 	Tooltip: ""
 }
 
@@ -30164,7 +30164,7 @@ max_charger_4x: {
 }
 
 max_dual_input_hatch: {
-	DisplayName: 极限双重输入仓
+	DisplayName: MAX双重输入仓
 	Tooltip: ""
 }
 
@@ -30174,92 +30174,92 @@ max_dual_output_hatch: {
 }
 
 max_energy_input_hatch: {
-	DisplayName: 极限能源仓
+	DisplayName: MAX能源仓
 	Tooltip: ""
 }
 
 max_energy_input_hatch_16a: {
-	DisplayName: 16A 极限能源仓
+	DisplayName: 16A MAX能源仓
 	Tooltip: ""
 }
 
 max_energy_input_hatch_4a: {
-	DisplayName: 4A 极限能源仓
+	DisplayName: 4A MAX能源仓
 	Tooltip: ""
 }
 
 max_energy_output_hatch: {
-	DisplayName: 极限发电机仓
+	DisplayName: MAX动力仓
 	Tooltip: ""
 }
 
 max_energy_output_hatch_16a: {
-	DisplayName: 16A 极限发电机仓
+	DisplayName: 16A MAX动力仓
 	Tooltip: ""
 }
 
 max_energy_output_hatch_4a: {
-	DisplayName: 4A 极限发电机仓
+	DisplayName: 4A MAX动力仓
 	Tooltip: ""
 }
 
 max_input_bus: {
-	DisplayName: 极限输入总线
+	DisplayName: MAX输入总线
 	Tooltip: ""
 }
 
 max_input_hatch: {
-	DisplayName: 极限输入仓
+	DisplayName: MAX输入仓
 	Tooltip: ""
 }
 
 max_input_hatch_4x: {
-	DisplayName: 极限四重输入仓
+	DisplayName: MAX四重输入仓
 	Tooltip: ""
 }
 
 max_input_hatch_9x: {
-	DisplayName: 极限九重输入仓
+	DisplayName: MAX九重输入仓
 	Tooltip: ""
 }
 
 max_machine_casing: {
-	DisplayName: MAX机器外壳
+	DisplayName: MAX机械方块
 	Tooltip: ""
 }
 
 max_machine_hull: {
-	DisplayName: 极限机器外壳
+	DisplayName: MAX机器外壳
 	Tooltip: ""
 }
 
 max_output_bus: {
-	DisplayName: 极限输出总线
+	DisplayName: MAX输出总线
 	Tooltip: ""
 }
 
 max_output_hatch: {
-	DisplayName: 极限输出仓
+	DisplayName: MAX输出仓
 	Tooltip: ""
 }
 
 max_output_hatch_4x: {
-	DisplayName: 极限四重输出仓
+	DisplayName: MAX四重输出仓
 	Tooltip: ""
 }
 
 max_output_hatch_9x: {
-	DisplayName: 极限九重输出仓
+	DisplayName: MAX九重输出仓
 	Tooltip: ""
 }
 
 max_substation_input_hatch_64a: {
-	DisplayName: 64A 极限变电站能源仓
+	DisplayName: 64A MAX变电站能源仓
 	Tooltip: ""
 }
 
 max_substation_output_hatch_64a: {
-	DisplayName: 64A 极限变电站发电机仓
+	DisplayName: 64A MAX变电站动力仓
 	Tooltip: ""
 }
 
@@ -30614,12 +30614,12 @@ mv_emitter: {
 }
 
 mv_energy_input_hatch: {
-	DisplayName: 进阶能源仓
+	DisplayName: MV能源仓
 	Tooltip: ""
 }
 
 mv_energy_output_hatch: {
-	DisplayName: 进阶发电机仓
+	DisplayName: MV动力仓
 	Tooltip: ""
 }
 
@@ -30699,12 +30699,12 @@ mv_hermetic_casing: {
 }
 
 mv_input_bus: {
-	DisplayName: 进阶输入总线
+	DisplayName: MV输入总线
 	Tooltip: ""
 }
 
 mv_input_hatch: {
-	DisplayName: 进阶输入仓
+	DisplayName: MV输入仓
 	Tooltip: ""
 }
 
@@ -30739,12 +30739,12 @@ mv_macerator: {
 }
 
 mv_machine_casing: {
-	DisplayName: MV机器外壳
+	DisplayName: MV机械方块
 	Tooltip: ""
 }
 
 mv_machine_hull: {
-	DisplayName: 进阶机器外壳
+	DisplayName: MV机器方块
 	Tooltip: ""
 }
 
@@ -30769,12 +30769,12 @@ mv_ore_washer: {
 }
 
 mv_output_bus: {
-	DisplayName: 进阶输出总线
+	DisplayName: MV输出总线
 	Tooltip: ""
 }
 
 mv_output_hatch: {
-	DisplayName: 进阶输出仓
+	DisplayName: MV输出仓
 	Tooltip: ""
 }
 
@@ -30854,22 +30854,22 @@ mv_thermal_centrifuge: {
 }
 
 mv_transformer_16a: {
-	DisplayName: 进阶电力变压器
+	DisplayName: MV高能变压器
 	Tooltip: ""
 }
 
 mv_transformer_1a: {
-	DisplayName: 进阶变压器
+	DisplayName: MV变压器
 	Tooltip: ""
 }
 
 mv_transformer_2a: {
-	DisplayName: 大电流(2x) 进阶变压器
+	DisplayName: MV进阶变压器
 	Tooltip: ""
 }
 
 mv_transformer_4a: {
-	DisplayName: 大电流(4x) 进阶变压器
+	DisplayName: MV高流变压器
 	Tooltip: ""
 }
 
@@ -31054,7 +31054,7 @@ normal_optical_pipe: {
 }
 
 normal_pipe_casting_mold: {
-	DisplayName: 铸造模具(普通管道)
+	DisplayName: 模具(普通管道)
 	Tooltip: ""
 }
 
@@ -31224,7 +31224,7 @@ opv_distillery: {
 }
 
 opv_dual_input_hatch: {
-	DisplayName: 传奇双重输入仓
+	DisplayName: OpV双重输入仓
 	Tooltip: ""
 }
 
@@ -31284,7 +31284,7 @@ opv_energy_input_hatch_4a: {
 }
 
 opv_energy_output_hatch: {
-	DisplayName: 传奇发电机仓
+	DisplayName: 传奇动力仓
 	Tooltip: ""
 }
 
@@ -31354,12 +31354,12 @@ opv_gas_collector: {
 }
 
 opv_input_bus: {
-	DisplayName: 传奇输入总线
+	DisplayName: OpV输入总线
 	Tooltip: ""
 }
 
 opv_input_hatch: {
-	DisplayName: 传奇输入仓
+	DisplayName: OpV输入仓
 	Tooltip: ""
 }
 
@@ -31394,12 +31394,12 @@ opv_macerator: {
 }
 
 opv_machine_casing: {
-	DisplayName: OpV机器外壳
+	DisplayName: OpV机械方块
 	Tooltip: ""
 }
 
 opv_machine_hull: {
-	DisplayName: 传奇机器外壳
+	DisplayName: OpV机器外壳
 	Tooltip: ""
 }
 
@@ -31419,12 +31419,12 @@ opv_ore_washer: {
 }
 
 opv_output_bus: {
-	DisplayName: 传奇输出总线
+	DisplayName: OpV输出总线
 	Tooltip: ""
 }
 
 opv_output_hatch: {
-	DisplayName: 传奇输出仓
+	DisplayName: OpV输出仓
 	Tooltip: ""
 }
 
@@ -31504,22 +31504,22 @@ opv_thermal_centrifuge: {
 }
 
 opv_transformer_16a: {
-	DisplayName: 传奇电力变压器
+	DisplayName: OpV高能变压器
 	Tooltip: ""
 }
 
 opv_transformer_1a: {
-	DisplayName: 传奇变压器
+	DisplayName: OpV变压器
 	Tooltip: ""
 }
 
 opv_transformer_2a: {
-	DisplayName: 大电流(2x) 传奇变压器
+	DisplayName: OpV进阶变压器
 	Tooltip: ""
 }
 
 opv_transformer_4a: {
-	DisplayName: 大电流(4x) 传奇变压器
+	DisplayName: OpV高流变压器
 	Tooltip: ""
 }
 
@@ -32031,7 +32031,7 @@ ring_extruder_mold: {
 }
 
 robust_machine_casing: {
-	DisplayName: Robust Tungstensteel机器外壳
+	DisplayName: 强化钨钢机械方块
 	Tooltip: ""
 }
 
@@ -32216,7 +32216,7 @@ small_marble_bricks: {
 }
 
 small_pipe_casting_mold: {
-	DisplayName: 铸造模具(小型管道)
+	DisplayName: 模具(小型管道)
 	Tooltip: ""
 }
 
@@ -32271,7 +32271,7 @@ solar_panel: {
 }
 
 solid_machine_casing: {
-	DisplayName: Solid机器外壳
+	DisplayName: 脱氧机械方块
 	Tooltip: ""
 }
 
@@ -32306,7 +32306,7 @@ square_red_granite_bricks: {
 }
 
 stable_machine_casing: {
-	DisplayName: Stable Titanium机器外壳
+	DisplayName: 加强钛机械方块
 	Tooltip: ""
 }
 
@@ -32356,7 +32356,7 @@ steam_large_turbine: {
 }
 
 steam_machine_casing: {
-	DisplayName: 蒸汽机器外壳
+	DisplayName: 蒸汽机械方块
 	Tooltip: ""
 }
 
@@ -32406,7 +32406,7 @@ steel_large_boiler: {
 }
 
 steel_machine_casing: {
-	DisplayName: Solid Steel机器外壳
+	DisplayName: 脱氧钢机械方块
 	Tooltip: ""
 }
 
@@ -32471,12 +32471,12 @@ stripped_rubber_wood: {
 }
 
 sturdy_machine_casing: {
-	DisplayName: Sturdy HSS-E机器外壳
+	DisplayName: 坚固高速钢-E机械方块
 	Tooltip: ""
 }
 
 superconducting_coil: {
-	DisplayName: Superconducting线圈方块
+	DisplayName: 超导线圈方块
 	Tooltip: ""
 }
 
@@ -32516,7 +32516,7 @@ the_nether_marker: {
 }
 
 tiny_pipe_casting_mold: {
-	DisplayName: 铸造模具(微型管道)
+	DisplayName: 模具(微型管道)
 	Tooltip: ""
 }
 
@@ -32851,12 +32851,12 @@ uev_distillery: {
 }
 
 uev_dual_input_hatch: {
-	DisplayName: 史诗双重输入仓II
+	DisplayName: UEV双重输入仓
 	Tooltip: ""
 }
 
 uev_dual_output_hatch: {
-	DisplayName: 史诗双重输出仓II
+	DisplayName: UEV双重输出仓
 	Tooltip: ""
 }
 
@@ -32896,32 +32896,32 @@ uev_emitter: {
 }
 
 uev_energy_input_hatch: {
-	DisplayName: 史诗能源仓II
+	DisplayName: UEV能源仓II
 	Tooltip: ""
 }
 
 uev_energy_input_hatch_16a: {
-	DisplayName: 16A 史诗能源仓
+	DisplayName: 16A UEV能源仓
 	Tooltip: ""
 }
 
 uev_energy_input_hatch_4a: {
-	DisplayName: 4A 史诗能源仓
+	DisplayName: 4A UEV能源仓
 	Tooltip: ""
 }
 
 uev_energy_output_hatch: {
-	DisplayName: 史诗发电机仓II
+	DisplayName: UEV动力仓II
 	Tooltip: ""
 }
 
 uev_energy_output_hatch_16a: {
-	DisplayName: 16A 史诗发电机仓
+	DisplayName: 16A UEV动力仓
 	Tooltip: ""
 }
 
 uev_energy_output_hatch_4a: {
-	DisplayName: 4A 史诗发电机仓
+	DisplayName: 4A UEV动力仓
 	Tooltip: ""
 }
 
@@ -32981,22 +32981,22 @@ uev_gas_collector: {
 }
 
 uev_input_bus: {
-	DisplayName: 史诗输入总线II
+	DisplayName: UEV输入总线
 	Tooltip: ""
 }
 
 uev_input_hatch: {
-	DisplayName: 史诗输入仓II
+	DisplayName: UEV输入仓
 	Tooltip: ""
 }
 
 uev_input_hatch_4x: {
-	DisplayName: 史诗四重输入仓II
+	DisplayName: UEV四重输入仓
 	Tooltip: ""
 }
 
 uev_input_hatch_9x: {
-	DisplayName: 史诗九重输入仓II
+	DisplayName: UEV九重输入仓
 	Tooltip: ""
 }
 
@@ -33021,12 +33021,12 @@ uev_macerator: {
 }
 
 uev_machine_casing: {
-	DisplayName: UEV机器外壳
+	DisplayName: UEV机械方块
 	Tooltip: ""
 }
 
 uev_machine_hull: {
-	DisplayName: 史诗机器外壳II
+	DisplayName: UEV机器外壳
 	Tooltip: ""
 }
 
@@ -33046,22 +33046,22 @@ uev_ore_washer: {
 }
 
 uev_output_bus: {
-	DisplayName: 史诗输出总线II
+	DisplayName: UEV输出总线
 	Tooltip: ""
 }
 
 uev_output_hatch: {
-	DisplayName: 史诗输出仓II
+	DisplayName: UEV输出仓II
 	Tooltip: ""
 }
 
 uev_output_hatch_4x: {
-	DisplayName: 史诗四重输出仓II
+	DisplayName: UEV四重输出仓
 	Tooltip: ""
 }
 
 uev_output_hatch_9x: {
-	DisplayName: 史诗九重输出仓II
+	DisplayName: UEV九重输出仓
 	Tooltip: ""
 }
 
@@ -33116,12 +33116,12 @@ uev_sifter: {
 }
 
 uev_substation_input_hatch_64a: {
-	DisplayName: 64A 史诗变电站能源仓
+	DisplayName: 64A UEV变电站能源仓
 	Tooltip: ""
 }
 
 uev_substation_output_hatch_64a: {
-	DisplayName: 64A 史诗变电站发电机仓
+	DisplayName: 64A UEV变电站动力仓
 	Tooltip: ""
 }
 
@@ -33131,22 +33131,22 @@ uev_thermal_centrifuge: {
 }
 
 uev_transformer_16a: {
-	DisplayName: 史诗电力变压器II
+	DisplayName: UEV高能变压器
 	Tooltip: ""
 }
 
 uev_transformer_1a: {
-	DisplayName: 史诗变压器II
+	DisplayName: UEV变压器
 	Tooltip: ""
 }
 
 uev_transformer_2a: {
-	DisplayName: 大电流(2x) 史诗变压器II
+	DisplayName: UEV进阶变压器
 	Tooltip: ""
 }
 
 uev_transformer_4a: {
-	DisplayName: 大电流(4x) 史诗变压器II
+	DisplayName: UEV高流变压器
 	Tooltip: ""
 }
 
@@ -33316,12 +33316,12 @@ uhv_distillery: {
 }
 
 uhv_dual_input_hatch: {
-	DisplayName: 史诗双重输入仓
+	DisplayName: UHV双重输入仓
 	Tooltip: ""
 }
 
 uhv_dual_output_hatch: {
-	DisplayName: 史诗双重输出仓
+	DisplayName: UHV双重输出仓
 	Tooltip: ""
 }
 
@@ -33361,32 +33361,32 @@ uhv_emitter: {
 }
 
 uhv_energy_input_hatch: {
-	DisplayName: 史诗能源仓
+	DisplayName: UHV能源仓
 	Tooltip: ""
 }
 
 uhv_energy_input_hatch_16a: {
-	DisplayName: 16A 史诗能源仓
+	DisplayName: 16A UHV能源仓
 	Tooltip: ""
 }
 
 uhv_energy_input_hatch_4a: {
-	DisplayName: 4A 史诗能源仓
+	DisplayName: 4A UHV能源仓
 	Tooltip: ""
 }
 
 uhv_energy_output_hatch: {
-	DisplayName: 史诗发电机仓
+	DisplayName: UHV动力仓
 	Tooltip: ""
 }
 
 uhv_energy_output_hatch_16a: {
-	DisplayName: 16A 史诗发电机仓
+	DisplayName: 16A UHV动力仓
 	Tooltip: ""
 }
 
 uhv_energy_output_hatch_4a: {
-	DisplayName: 4A 史诗发电机仓
+	DisplayName: 4A UHV动力仓
 	Tooltip: ""
 }
 
@@ -33451,22 +33451,22 @@ uhv_hermetic_casing: {
 }
 
 uhv_input_bus: {
-	DisplayName: 史诗输入总线
+	DisplayName: UHV输入总线
 	Tooltip: ""
 }
 
 uhv_input_hatch: {
-	DisplayName: 史诗输入仓
+	DisplayName: UHV输入仓
 	Tooltip: ""
 }
 
 uhv_input_hatch_4x: {
-	DisplayName: 史诗四重输入仓
+	DisplayName: UHV四重输入仓
 	Tooltip: ""
 }
 
 uhv_input_hatch_9x: {
-	DisplayName: 史诗九重输入仓
+	DisplayName: UHV九重输入仓
 	Tooltip: ""
 }
 
@@ -33491,12 +33491,12 @@ uhv_macerator: {
 }
 
 uhv_machine_casing: {
-	DisplayName: UHV机器外壳
+	DisplayName: UHV机械方块
 	Tooltip: ""
 }
 
 uhv_machine_hull: {
-	DisplayName: 史诗机器外壳
+	DisplayName: UHV机器外壳
 	Tooltip: ""
 }
 
@@ -33516,22 +33516,22 @@ uhv_ore_washer: {
 }
 
 uhv_output_bus: {
-	DisplayName: 史诗输出总线
+	DisplayName: UHV输出总线
 	Tooltip: ""
 }
 
 uhv_output_hatch: {
-	DisplayName: 史诗输出仓
+	DisplayName: UHV输出仓
 	Tooltip: ""
 }
 
 uhv_output_hatch_4x: {
-	DisplayName: 史诗四重输出仓
+	DisplayName: UHV四重输出仓
 	Tooltip: ""
 }
 
 uhv_output_hatch_9x: {
-	DisplayName: 史诗九重输出仓
+	DisplayName: UHV九重输出仓
 	Tooltip: ""
 }
 
@@ -33586,12 +33586,12 @@ uhv_sifter: {
 }
 
 uhv_substation_input_hatch_64a: {
-	DisplayName: 64A 史诗变电站能源仓
+	DisplayName: 64A UHV变电站能源仓
 	Tooltip: ""
 }
 
 uhv_substation_output_hatch_64a: {
-	DisplayName: 64A 史诗变电站发电机仓
+	DisplayName: 64A UHV变电站动力仓
 	Tooltip: ""
 }
 
@@ -33601,22 +33601,22 @@ uhv_thermal_centrifuge: {
 }
 
 uhv_transformer_16a: {
-	DisplayName: 史诗电力变压器
+	DisplayName: UHV高能变压器
 	Tooltip: ""
 }
 
 uhv_transformer_1a: {
-	DisplayName: 史诗变压器
+	DisplayName: UHV变压器
 	Tooltip: ""
 }
 
 uhv_transformer_2a: {
-	DisplayName: 大电流(2x) 史诗变压器
+	DisplayName: UHV进阶变压器
 	Tooltip: ""
 }
 
 uhv_transformer_4a: {
-	DisplayName: 大电流(4x) 史诗变压器
+	DisplayName: UHV高流变压器
 	Tooltip: ""
 }
 
@@ -33631,12 +33631,12 @@ uhv_wiremill: {
 }
 
 uiv_1024a_laser_source_hatch: {
-	DisplayName: 1024A 史诗激光源仓
+	DisplayName: 1024A UIV激光源仓
 	Tooltip: ""
 }
 
 uiv_1024a_laser_target_hatch: {
-	DisplayName: 1024A 史诗激光靶仓
+	DisplayName: 1024A UIV激光靶仓
 	Tooltip: ""
 }
 
@@ -33651,22 +33651,22 @@ uiv_1a_energy_converter: {
 }
 
 uiv_256a_laser_source_hatch: {
-	DisplayName: 256A 史诗激光源仓
+	DisplayName: 256A UIV激光源仓
 	Tooltip: ""
 }
 
 uiv_256a_laser_target_hatch: {
-	DisplayName: 256A 史诗激光靶仓
+	DisplayName: 256A UIV激光靶仓
 	Tooltip: ""
 }
 
 uiv_4096a_laser_source_hatch: {
-	DisplayName: 4096A 史诗激光源仓
+	DisplayName: 4096A UIV激光源仓
 	Tooltip: ""
 }
 
 uiv_4096a_laser_target_hatch: {
-	DisplayName: 4096A 史诗激光靶仓
+	DisplayName: 4096A UIV激光靶仓
 	Tooltip: ""
 }
 
@@ -33781,12 +33781,12 @@ uiv_distillery: {
 }
 
 uiv_dual_input_hatch: {
-	DisplayName: 史诗双重输入仓III
+	DisplayName: UIV双重输入仓
 	Tooltip: ""
 }
 
 uiv_dual_output_hatch: {
-	DisplayName: 史诗双重输出仓III
+	DisplayName: UIV双重输出仓
 	Tooltip: ""
 }
 
@@ -33826,32 +33826,32 @@ uiv_emitter: {
 }
 
 uiv_energy_input_hatch: {
-	DisplayName: 史诗能源仓III
+	DisplayName: UIV能源仓
 	Tooltip: ""
 }
 
 uiv_energy_input_hatch_16a: {
-	DisplayName: 16A 史诗能源仓
+	DisplayName: 16A UIV能源仓
 	Tooltip: ""
 }
 
 uiv_energy_input_hatch_4a: {
-	DisplayName: 4A 史诗能源仓
+	DisplayName: 4A UIV能源仓
 	Tooltip: ""
 }
 
 uiv_energy_output_hatch: {
-	DisplayName: 史诗发电机仓III
+	DisplayName: UIV动力仓
 	Tooltip: ""
 }
 
 uiv_energy_output_hatch_16a: {
-	DisplayName: 16A 史诗发电机仓
+	DisplayName: 16A UIV动力仓
 	Tooltip: ""
 }
 
 uiv_energy_output_hatch_4a: {
-	DisplayName: 4A 史诗发电机仓
+	DisplayName: 4A UIV动力仓
 	Tooltip: ""
 }
 
@@ -33911,22 +33911,22 @@ uiv_gas_collector: {
 }
 
 uiv_input_bus: {
-	DisplayName: 史诗输入总线III
+	DisplayName: UIV输入总线
 	Tooltip: ""
 }
 
 uiv_input_hatch: {
-	DisplayName: 史诗输入仓III
+	DisplayName: UIV输入仓
 	Tooltip: ""
 }
 
 uiv_input_hatch_4x: {
-	DisplayName: 史诗四重输入仓III
+	DisplayName: UIV四重输入仓
 	Tooltip: ""
 }
 
 uiv_input_hatch_9x: {
-	DisplayName: 史诗九重输入仓III
+	DisplayName: UIV九重输入仓
 	Tooltip: ""
 }
 
@@ -33951,12 +33951,12 @@ uiv_macerator: {
 }
 
 uiv_machine_casing: {
-	DisplayName: UIV机器外壳
+	DisplayName: UIV机械方块
 	Tooltip: ""
 }
 
 uiv_machine_hull: {
-	DisplayName: 史诗机器外壳III
+	DisplayName: UIV机器外壳
 	Tooltip: ""
 }
 
@@ -33966,7 +33966,7 @@ uiv_mixer: {
 }
 
 uiv_muffler_hatch: {
-	DisplayName: 史诗消声仓III
+	DisplayName: UIV消声仓
 	Tooltip: ""
 }
 
@@ -33976,22 +33976,22 @@ uiv_ore_washer: {
 }
 
 uiv_output_bus: {
-	DisplayName: 史诗输出总线III
+	DisplayName: UIV输出总线
 	Tooltip: ""
 }
 
 uiv_output_hatch: {
-	DisplayName: 史诗输出仓III
+	DisplayName: UIV输出仓
 	Tooltip: ""
 }
 
 uiv_output_hatch_4x: {
-	DisplayName: 史诗四重输出仓III
+	DisplayName: UIV四重输出仓
 	Tooltip: ""
 }
 
 uiv_output_hatch_9x: {
-	DisplayName: 史诗九重输出仓III
+	DisplayName: UIV九重输出仓
 	Tooltip: ""
 }
 
@@ -34046,12 +34046,12 @@ uiv_sifter: {
 }
 
 uiv_substation_input_hatch_64a: {
-	DisplayName: 64A 史诗变电站能源仓
+	DisplayName: 64A UIV变电站能源仓
 	Tooltip: ""
 }
 
 uiv_substation_output_hatch_64a: {
-	DisplayName: 64A 史诗变电站发电机仓
+	DisplayName: 64A UIV变电站动力仓
 	Tooltip: ""
 }
 
@@ -34061,22 +34061,22 @@ uiv_thermal_centrifuge: {
 }
 
 uiv_transformer_16a: {
-	DisplayName: 史诗电力变压器III
+	DisplayName: UIV高能变压器
 	Tooltip: ""
 }
 
 uiv_transformer_1a: {
-	DisplayName: 史诗变压器III
+	DisplayName: UIV变压器
 	Tooltip: ""
 }
 
 uiv_transformer_2a: {
-	DisplayName: 大电流(2x) 史诗变压器III
+	DisplayName: UIV进阶变压器
 	Tooltip: ""
 }
 
 uiv_transformer_4a: {
-	DisplayName: 大电流(4x) 史诗变压器III
+	DisplayName: UIV高流变压器
 	Tooltip: ""
 }
 
@@ -34136,42 +34136,42 @@ ulv_charger_4x: {
 }
 
 ulv_energy_input_hatch: {
-	DisplayName: 原始能源仓
+	DisplayName: ULV能源仓
 	Tooltip: ""
 }
 
 ulv_energy_output_hatch: {
-	DisplayName: 原始发电机仓
+	DisplayName: ULV动力仓
 	Tooltip: ""
 }
 
 ulv_input_bus: {
-	DisplayName: 原始输入总线
+	DisplayName: ULV输入总线
 	Tooltip: ""
 }
 
 ulv_input_hatch: {
-	DisplayName: 原始输入仓
+	DisplayName: ULV输入仓
 	Tooltip: ""
 }
 
 ulv_machine_casing: {
-	DisplayName: ULV机器外壳
+	DisplayName: ULV机械方块
 	Tooltip: ""
 }
 
 ulv_machine_hull: {
-	DisplayName: 原始机器外壳
+	DisplayName: ULV机器外壳
 	Tooltip: ""
 }
 
 ulv_output_bus: {
-	DisplayName: 原始输出总线
+	DisplayName: ULV输出总线
 	Tooltip: ""
 }
 
 ulv_output_hatch: {
-	DisplayName: 原始输出仓
+	DisplayName: ULV输出仓
 	Tooltip: ""
 }
 
@@ -34181,22 +34181,22 @@ ulv_solar_panel: {
 }
 
 ulv_transformer_16a: {
-	DisplayName: 原始电力变压器
+	DisplayName: ULV高能变压器
 	Tooltip: ""
 }
 
 ulv_transformer_1a: {
-	DisplayName: 原始变压器
+	DisplayName: ULV变压器
 	Tooltip: ""
 }
 
 ulv_transformer_2a: {
-	DisplayName: 大电流(2x) 原始变压器
+	DisplayName: ULV进阶变压器
 	Tooltip: ""
 }
 
 ulv_transformer_4a: {
-	DisplayName: 大电流(4x) 原始变压器
+	DisplayName: ULV高流变压器
 	Tooltip: ""
 }
 
@@ -34211,12 +34211,12 @@ universal_fluid_cell: {
 }
 
 uv_1024a_laser_source_hatch: {
-	DisplayName: 1024A 终极激光源仓
+	DisplayName: 1024A UV激光源仓
 	Tooltip: ""
 }
 
 uv_1024a_laser_target_hatch: {
-	DisplayName: 1024A 终极激光靶仓
+	DisplayName: 1024A UV激光靶仓
 	Tooltip: ""
 }
 
@@ -34231,22 +34231,22 @@ uv_1a_energy_converter: {
 }
 
 uv_256a_laser_source_hatch: {
-	DisplayName: 256A 终极激光源仓
+	DisplayName: 256A UV激光源仓
 	Tooltip: ""
 }
 
 uv_256a_laser_target_hatch: {
-	DisplayName: 256A 终极激光靶仓
+	DisplayName: 256A UV激光靶仓
 	Tooltip: ""
 }
 
 uv_4096a_laser_source_hatch: {
-	DisplayName: 4096A 终极激光源仓
+	DisplayName: 4096A UV激光源仓
 	Tooltip: ""
 }
 
 uv_4096a_laser_target_hatch: {
-	DisplayName: 4096A 终极激光靶仓
+	DisplayName: 4096A UV激光靶仓
 	Tooltip: ""
 }
 
@@ -34366,12 +34366,12 @@ uv_distillery: {
 }
 
 uv_dual_input_hatch: {
-	DisplayName: 终极双重输入仓
+	DisplayName: UV双重输入仓
 	Tooltip: ""
 }
 
 uv_dual_output_hatch: {
-	DisplayName: 终极双重输出仓
+	DisplayName: UV双重输出仓
 	Tooltip: ""
 }
 
@@ -34411,32 +34411,32 @@ uv_emitter: {
 }
 
 uv_energy_input_hatch: {
-	DisplayName: 终极能源仓
+	DisplayName: UV能源仓
 	Tooltip: ""
 }
 
 uv_energy_input_hatch_16a: {
-	DisplayName: 16A 终极能源仓
+	DisplayName: 16A UV能源仓
 	Tooltip: ""
 }
 
 uv_energy_input_hatch_4a: {
-	DisplayName: 4A 终极能源仓
+	DisplayName: 4A UV能源仓
 	Tooltip: ""
 }
 
 uv_energy_output_hatch: {
-	DisplayName: 终极发电机仓
+	DisplayName: UV动力仓
 	Tooltip: ""
 }
 
 uv_energy_output_hatch_16a: {
-	DisplayName: 16A 终极发电机仓
+	DisplayName: 16A UV动力仓
 	Tooltip: ""
 }
 
 uv_energy_output_hatch_4a: {
-	DisplayName: 4A 终极发电机仓
+	DisplayName: 4A 终极动力仓
 	Tooltip: ""
 }
 
@@ -34506,22 +34506,22 @@ uv_hermetic_casing: {
 }
 
 uv_input_bus: {
-	DisplayName: 终极输入总线
+	DisplayName: UV输入总线
 	Tooltip: ""
 }
 
 uv_input_hatch: {
-	DisplayName: 终极输入仓
+	DisplayName: UV输入仓
 	Tooltip: ""
 }
 
 uv_input_hatch_4x: {
-	DisplayName: 终极四重输入仓
+	DisplayName: UV四重输入仓
 	Tooltip: ""
 }
 
 uv_input_hatch_9x: {
-	DisplayName: 终极九重输入仓
+	DisplayName: UV九重输入仓
 	Tooltip: ""
 }
 
@@ -34551,12 +34551,12 @@ uv_macerator: {
 }
 
 uv_machine_casing: {
-	DisplayName: UV机器外壳
+	DisplayName: UV机械方块
 	Tooltip: ""
 }
 
 uv_machine_hull: {
-	DisplayName: 终极机器外壳
+	DisplayName: UV机器外壳
 	Tooltip: ""
 }
 
@@ -34566,7 +34566,7 @@ uv_mixer: {
 }
 
 uv_muffler_hatch: {
-	DisplayName: 终极消声仓
+	DisplayName: UV消声仓
 	Tooltip: ""
 }
 
@@ -34581,22 +34581,22 @@ uv_ore_washer: {
 }
 
 uv_output_bus: {
-	DisplayName: 终极输出总线
+	DisplayName: UV输出总线
 	Tooltip: ""
 }
 
 uv_output_hatch: {
-	DisplayName: 终极输出仓
+	DisplayName: UV输出仓
 	Tooltip: ""
 }
 
 uv_output_hatch_4x: {
-	DisplayName: 终极四重输出仓
+	DisplayName: UV四重输出仓
 	Tooltip: ""
 }
 
 uv_output_hatch_9x: {
-	DisplayName: 终极九重输出仓
+	DisplayName: UV九重输出仓
 	Tooltip: ""
 }
 
@@ -34661,12 +34661,12 @@ uv_solar_panel: {
 }
 
 uv_substation_input_hatch_64a: {
-	DisplayName: 64A 终极变电站能源仓
+	DisplayName: 64A UV变电站能源仓
 	Tooltip: ""
 }
 
 uv_substation_output_hatch_64a: {
-	DisplayName: 64A 终极变电站发电机仓
+	DisplayName: 64A UV变电站动力仓
 	Tooltip: ""
 }
 
@@ -34676,22 +34676,22 @@ uv_thermal_centrifuge: {
 }
 
 uv_transformer_16a: {
-	DisplayName: 终极电力变压器
+	DisplayName: UV高能变压器
 	Tooltip: ""
 }
 
 uv_transformer_1a: {
-	DisplayName: 终极变压器
+	DisplayName: UV变压器
 	Tooltip: ""
 }
 
 uv_transformer_2a: {
-	DisplayName: 大电流(2x) 终极变压器
+	DisplayName: UV进阶变压器
 	Tooltip: ""
 }
 
 uv_transformer_4a: {
-	DisplayName: 大电流(4x) 终极变压器
+	DisplayName: UV高流变压器
 	Tooltip: ""
 }
 
@@ -34711,12 +34711,12 @@ uv_world_accelerator: {
 }
 
 uxv_1024a_laser_source_hatch: {
-	DisplayName: 1024A 史诗激光源仓
+	DisplayName: 1024A UXV激光源仓
 	Tooltip: ""
 }
 
 uxv_1024a_laser_target_hatch: {
-	DisplayName: 1024A 史诗激光靶仓
+	DisplayName: 1024A UXV激光靶仓
 	Tooltip: ""
 }
 
@@ -34731,22 +34731,22 @@ uxv_1a_energy_converter: {
 }
 
 uxv_256a_laser_source_hatch: {
-	DisplayName: 256A 史诗激光源仓
+	DisplayName: 256A UXV激光源仓
 	Tooltip: ""
 }
 
 uxv_256a_laser_target_hatch: {
-	DisplayName: 256A 史诗激光靶仓
+	DisplayName: 256A UXV激光靶仓
 	Tooltip: ""
 }
 
 uxv_4096a_laser_source_hatch: {
-	DisplayName: 4096A 史诗激光源仓
+	DisplayName: 4096A UXV激光源仓
 	Tooltip: ""
 }
 
 uxv_4096a_laser_target_hatch: {
-	DisplayName: 4096A 史诗激光靶仓
+	DisplayName: 4096A UXV激光靶仓
 	Tooltip: ""
 }
 
@@ -34861,12 +34861,12 @@ uxv_distillery: {
 }
 
 uxv_dual_input_hatch: {
-	DisplayName: 史诗双重输入仓IV
+	DisplayName: UXV双重输入仓
 	Tooltip: ""
 }
 
 uxv_dual_output_hatch: {
-	DisplayName: 史诗双重输出仓IV
+	DisplayName: UXV双重输出仓
 	Tooltip: ""
 }
 
@@ -34906,32 +34906,32 @@ uxv_emitter: {
 }
 
 uxv_energy_input_hatch: {
-	DisplayName: 史诗能源仓IV
+	DisplayName: UXV能源仓IV
 	Tooltip: ""
 }
 
 uxv_energy_input_hatch_16a: {
-	DisplayName: 16A 史诗能源仓
+	DisplayName: 16A UXV能源仓
 	Tooltip: ""
 }
 
 uxv_energy_input_hatch_4a: {
-	DisplayName: 4A 史诗能源仓
+	DisplayName: 4A UXV能源仓
 	Tooltip: ""
 }
 
 uxv_energy_output_hatch: {
-	DisplayName: 史诗发电机仓IV
+	DisplayName: UXV动力仓
 	Tooltip: ""
 }
 
 uxv_energy_output_hatch_16a: {
-	DisplayName: 16A 史诗发电机仓
+	DisplayName: 16A UXV动力仓
 	Tooltip: ""
 }
 
 uxv_energy_output_hatch_4a: {
-	DisplayName: 4A 史诗发电机仓
+	DisplayName: 4A UXV动力仓
 	Tooltip: ""
 }
 
@@ -34991,22 +34991,22 @@ uxv_gas_collector: {
 }
 
 uxv_input_bus: {
-	DisplayName: 史诗输入总线IV
+	DisplayName: UXV输入总线
 	Tooltip: ""
 }
 
 uxv_input_hatch: {
-	DisplayName: 史诗输入仓IV
+	DisplayName: UXV输入仓
 	Tooltip: ""
 }
 
 uxv_input_hatch_4x: {
-	DisplayName: 史诗四重输入仓IV
+	DisplayName: UXV四重输入仓
 	Tooltip: ""
 }
 
 uxv_input_hatch_9x: {
-	DisplayName: 史诗九重输入仓IV
+	DisplayName: UXV九重输入仓
 	Tooltip: ""
 }
 
@@ -35031,12 +35031,12 @@ uxv_macerator: {
 }
 
 uxv_machine_casing: {
-	DisplayName: UXV机器外壳
+	DisplayName: UXV机械方块
 	Tooltip: ""
 }
 
 uxv_machine_hull: {
-	DisplayName: 史诗机器外壳IV
+	DisplayName: UXV机器外壳
 	Tooltip: ""
 }
 
@@ -35056,22 +35056,22 @@ uxv_ore_washer: {
 }
 
 uxv_output_bus: {
-	DisplayName: 史诗输出总线IV
+	DisplayName: UXV输出总线
 	Tooltip: ""
 }
 
 uxv_output_hatch: {
-	DisplayName: 史诗输出仓IV
+	DisplayName: UXV输出仓
 	Tooltip: ""
 }
 
 uxv_output_hatch_4x: {
-	DisplayName: 史诗四重输出仓IV
+	DisplayName: UXV四重输出仓
 	Tooltip: ""
 }
 
 uxv_output_hatch_9x: {
-	DisplayName: 史诗九重输出仓IV
+	DisplayName: UXV九重输出仓
 	Tooltip: ""
 }
 
@@ -35126,12 +35126,12 @@ uxv_sifter: {
 }
 
 uxv_substation_input_hatch_64a: {
-	DisplayName: 64A 史诗变电站能源仓
+	DisplayName: 64A UXV变电站能源仓
 	Tooltip: ""
 }
 
 uxv_substation_output_hatch_64a: {
-	DisplayName: 64A 史诗变电站发电机仓
+	DisplayName: 64A UXV变电站动力仓
 	Tooltip: ""
 }
 
@@ -35141,22 +35141,22 @@ uxv_thermal_centrifuge: {
 }
 
 uxv_transformer_16a: {
-	DisplayName: 史诗电力变压器IV
+	DisplayName: UXV高能变压器
 	Tooltip: ""
 }
 
 uxv_transformer_1a: {
-	DisplayName: 史诗变压器IV
+	DisplayName: UXV变压器
 	Tooltip: ""
 }
 
 uxv_transformer_2a: {
-	DisplayName: 大电流(2x) 史诗变压器IV
+	DisplayName: UXV进阶变压器
 	Tooltip: ""
 }
 
 uxv_transformer_4a: {
-	DisplayName: 大电流(4x) 史诗变压器IV
+	DisplayName: UXV高流变压器
 	Tooltip: ""
 }
 
@@ -35491,12 +35491,12 @@ zpm_distillery: {
 }
 
 zpm_dual_input_hatch: {
-	DisplayName: 精英双重输入仓III
+	DisplayName: ZPM双重输入仓
 	Tooltip: ""
 }
 
 zpm_dual_output_hatch: {
-	DisplayName: 精英双重输出仓III
+	DisplayName: ZPM双重输出仓
 	Tooltip: ""
 }
 
@@ -35536,32 +35536,32 @@ zpm_emitter: {
 }
 
 zpm_energy_input_hatch: {
-	DisplayName: 精英能源仓III
+	DisplayName: ZPM能源仓
 	Tooltip: ""
 }
 
 zpm_energy_input_hatch_16a: {
-	DisplayName: 16A 精英能源仓
+	DisplayName: 16A ZPM能源仓
 	Tooltip: ""
 }
 
 zpm_energy_input_hatch_4a: {
-	DisplayName: 4A 精英能源仓
+	DisplayName: 4A ZPM能源仓
 	Tooltip: ""
 }
 
 zpm_energy_output_hatch: {
-	DisplayName: 精英发电机仓III
+	DisplayName: ZPM动力仓
 	Tooltip: ""
 }
 
 zpm_energy_output_hatch_16a: {
-	DisplayName: 16A 精英发电机仓
+	DisplayName: 16A ZPM动力仓
 	Tooltip: ""
 }
 
 zpm_energy_output_hatch_4a: {
-	DisplayName: 4A 精英发电机仓
+	DisplayName: 4A ZPM动力仓
 	Tooltip: ""
 }
 
@@ -35631,22 +35631,22 @@ zpm_hermetic_casing: {
 }
 
 zpm_input_bus: {
-	DisplayName: 精英输入总线III
+	DisplayName: ZPM输入总线
 	Tooltip: ""
 }
 
 zpm_input_hatch: {
-	DisplayName: 精英输入仓III
+	DisplayName: ZPM输入仓
 	Tooltip: ""
 }
 
 zpm_input_hatch_4x: {
-	DisplayName: 精英四重输入仓III
+	DisplayName: ZPM四重输入仓
 	Tooltip: ""
 }
 
 zpm_input_hatch_9x: {
-	DisplayName: 精英九重输入仓III
+	DisplayName: ZPM九重输入仓
 	Tooltip: ""
 }
 
@@ -35676,12 +35676,12 @@ zpm_macerator: {
 }
 
 zpm_machine_casing: {
-	DisplayName: ZPM机器外壳
+	DisplayName: ZPM机械方块
 	Tooltip: ""
 }
 
 zpm_machine_hull: {
-	DisplayName: 精英机器外壳III
+	DisplayName: ZPM机器外壳
 	Tooltip: ""
 }
 
@@ -35706,22 +35706,22 @@ zpm_ore_washer: {
 }
 
 zpm_output_bus: {
-	DisplayName: 精英输出总线III
+	DisplayName: ZPM输出总线
 	Tooltip: ""
 }
 
 zpm_output_hatch: {
-	DisplayName: 精英输出仓III
+	DisplayName: ZPM输出仓
 	Tooltip: ""
 }
 
 zpm_output_hatch_4x: {
-	DisplayName: 精英四重输出仓III
+	DisplayName: ZPM四重输出仓
 	Tooltip: ""
 }
 
 zpm_output_hatch_9x: {
-	DisplayName: 精英九重输出仓III
+	DisplayName: ZPM九重输出仓
 	Tooltip: ""
 }
 
@@ -35786,12 +35786,12 @@ zpm_solar_panel: {
 }
 
 zpm_substation_input_hatch_64a: {
-	DisplayName: 64A 精英变电站能源仓
+	DisplayName: 64A ZPM变电站能源仓
 	Tooltip: ""
 }
 
 zpm_substation_output_hatch_64a: {
-	DisplayName: 64A 精英变电站发电机仓
+	DisplayName: 64A ZPM变电站动力仓
 	Tooltip: ""
 }
 
@@ -35801,22 +35801,22 @@ zpm_thermal_centrifuge: {
 }
 
 zpm_transformer_16a: {
-	DisplayName: 精英电力变压器III
+	DisplayName: ZPM高能变压器
 	Tooltip: ""
 }
 
 zpm_transformer_1a: {
-	DisplayName: 精英变压器III
+	DisplayName: ZPM变压器
 	Tooltip: ""
 }
 
 zpm_transformer_2a: {
-	DisplayName: 大电流(2x) 精英变压器III
+	DisplayName: ZPM进阶变压器
 	Tooltip: ""
 }
 
 zpm_transformer_4a: {
-	DisplayName: 大电流(4x) 精英变压器III
+	DisplayName: ZPM高流变压器
 	Tooltip: ""
 }
 
@@ -37166,7 +37166,7 @@ potassium_bucket: {
 }
 
 potin_bucket: {
-	DisplayName: 波廷合金桶
+	DisplayName: 粗青铜合金桶
 	Tooltip: ""
 }
 
@@ -37795,7 +37795,7 @@ SteamAgeSkipBag: {
 		'''
 		右击打开，投出LV级别启动套件，助你跳过青铜/蒸汽时代：
 		4x LV太阳能板 + 4x LV灯 + LV 4x电池箱 + 1个钠电池、
-		4个LV机器外壳 + 电路 + 板 + 杆 + 导线用于组装LV机器、
+		4个LV机械方块 + 电路 + 板 + 杆 + 导线用于组装LV机器、
 		以及一组简易物品+流体管道。
 		'''
 }
@@ -39443,41 +39443,41 @@ multiblock_bag_steel_multiblock_tank: {
 }
 
 simple_item_pipe_small: {
-	// DisplayName: Small Simple Item Pipe
+	// DisplayName: 小型简易物品管道
 	// Tooltip: ""
 }
 
 simple_item_pipe_large: {
-	// DisplayName: Large Simple Item Pipe
+	// DisplayName: 大型简易物品管道
 	// Tooltip: ""
 }
 
 simple_item_pipe_huge: {
-	// DisplayName: Huge Simple Item Pipe
+	// DisplayName: 巨型简易物品管道
 	// Tooltip: ""
 }
 
 simple_fluid_pipe_tiny: {
-	// DisplayName: Tiny Simple Fluid Pipe
+	// DisplayName: 微型简易流体管道
 	// Tooltip: ""
 }
 
 simple_fluid_pipe_small: {
-	// DisplayName: Small Simple Fluid Pipe
+	// DisplayName: 小型简易流体管道
 	// Tooltip: ""
 }
 
 simple_fluid_pipe_large: {
-	// DisplayName: Large Simple Fluid Pipe
+	// DisplayName: 大型简易流体管道
 	// Tooltip: ""
 }
 
 simple_fluid_pipe_huge: {
-	// DisplayName: Huge Simple Fluid Pipe
+	// DisplayName: 巨型简易流体管道
 	// Tooltip: ""
 }
 
 pipe_intersection: {
-	// DisplayName: Pipe Intersection
+	// DisplayName: 管道交叉器
 	// Tooltip: ""
 }
