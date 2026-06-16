@@ -26819,12 +26819,12 @@ ev_energy_output_hatch: {
 }
 
 ev_energy_output_hatch_16a: {
-	DisplayName: 16A 进阶动力仓
+	DisplayName: 16A EV动力仓
 	Tooltip: ""
 }
 
 ev_energy_output_hatch_4a: {
-	DisplayName: 4A 进阶动力仓
+	DisplayName: 4A EV动力仓
 	Tooltip: ""
 }
 
