@@ -445,7 +445,7 @@ ev_laser_engraver.MapEntry: "[c/AA00AA:Advanced Laser Engraver III]"
 ev_lathe.MapEntry: "[c/AA00AA:Advanced Lathe III]"
 ev_macerator.MapEntry: "[c/AA00AA:Advanced Macerator III]"
 ev_machine_casing.MapEntry: EV Machine Casing
-ev_machine_hull.MapEntry: "[c/AA00AA:EV][c/FFFFFF:Machine Hull]"
+ev_machine_hull.MapEntry: "[c/AA00AA:EV] [c/FFFFFF:Machine Hull]"
 ev_mixer.MapEntry: "[c/AA00AA:Advanced Mixer III]"
 ev_muffler_hatch.MapEntry: Muffler Hatch [c/AA00AA:EV]
 ev_ore_washer.MapEntry: "[c/AA00AA:Advanced Ore Washer III]"
@@ -580,7 +580,7 @@ hv_laser_engraver.MapEntry: "[c/FFAA00:Advanced Laser Engraver II]"
 hv_lathe.MapEntry: "[c/FFAA00:Advanced Lathe II]"
 hv_macerator.MapEntry: "[c/FFAA00:Advanced Macerator II]"
 hv_machine_casing.MapEntry: HV Machine Casing
-hv_machine_hull.MapEntry: "[c/FFAA00:HV][c/FFFFFF:Machine Hull]"
+hv_machine_hull.MapEntry: "[c/FFAA00:HV] [c/FFFFFF:Machine Hull]"
 hv_miner.MapEntry: "[c/FFAA00:Advanced Miner II]"
 hv_mixer.MapEntry: "[c/FFAA00:Advanced Mixer II]"
 hv_muffler_hatch.MapEntry: Muffler Hatch [c/FFAA00:HV]
@@ -668,7 +668,7 @@ iv_laser_engraver.MapEntry: "[c/5555FF:Elite Laser Engraver]"
 iv_lathe.MapEntry: "[c/5555FF:Elite Lathe]"
 iv_macerator.MapEntry: "[c/5555FF:Elite Macerator]"
 iv_machine_casing.MapEntry: IV Machine Casing
-iv_machine_hull.MapEntry: "[c/5555FF:IV][c/FFFFFF:Machine Hull]"
+iv_machine_hull.MapEntry: "[c/5555FF:IV] [c/FFFFFF:Machine Hull]"
 iv_mixer.MapEntry: "[c/5555FF:Elite Mixer]"
 iv_muffler_hatch.MapEntry: Muffler Hatch [c/5555FF:IV]
 iv_ore_washer.MapEntry: "[c/5555FF:Elite Ore Washer]"
@@ -823,7 +823,7 @@ luv_laser_engraver.MapEntry: "[c/FF55FF:Elite Laser Engraver II]"
 luv_lathe.MapEntry: "[c/FF55FF:Elite Lathe II]"
 luv_macerator.MapEntry: "[c/FF55FF:Elite Macerator II]"
 luv_machine_casing.MapEntry: LuV Machine Casing
-luv_machine_hull.MapEntry: "[c/FF55FF:LuV][c/FFFFFF:Machine Hull]"
+luv_machine_hull.MapEntry: "[c/FF55FF:LuV] [c/FFFFFF:Machine Hull]"
 luv_mixer.MapEntry: "[c/FF55FF:Elite Mixer II]"
 luv_muffler_hatch.MapEntry: Muffler Hatch [c/FF55FF:LuV]
 luv_ore_washer.MapEntry: "[c/FF55FF:Elite Ore Washer II]"
@@ -901,7 +901,7 @@ lv_laser_engraver.MapEntry: Basic Laser Engraver
 lv_lathe.MapEntry: Basic Lathe
 lv_macerator.MapEntry: Basic Macerator
 lv_machine_casing.MapEntry: LV Machine Casing
-lv_machine_hull.MapEntry: "[c/AAAAAA:LV][c/FFFFFF:Machine Hull]"
+lv_machine_hull.MapEntry: "[c/AAAAAA:LV] [c/FFFFFF:Machine Hull]"
 lv_miner.MapEntry: Basic Miner
 lv_mixer.MapEntry: Basic Mixer
 lv_muffler_hatch.MapEntry: Muffler Hatch [c/AAAAAA:LV]
@@ -1044,7 +1044,7 @@ mv_laser_engraver.MapEntry: "[c/55FFFF:Advanced Laser Engraver]"
 mv_lathe.MapEntry: "[c/55FFFF:Advanced Lathe]"
 mv_macerator.MapEntry: "[c/55FFFF:Advanced Macerator]"
 mv_machine_casing.MapEntry: MV Machine Casing
-mv_machine_hull.MapEntry: "[c/55FFFF:MV][c/FFFFFF:Machine Hull]"
+mv_machine_hull.MapEntry: "[c/55FFFF:MV] [c/FFFFFF:Machine Hull]"
 mv_miner.MapEntry: "[c/55FFFF:Advanced Miner]"
 mv_mixer.MapEntry: "[c/55FFFF:Advanced Mixer]"
 mv_muffler_hatch.MapEntry: Muffler Hatch [c/55FFFF:MV]
@@ -1357,7 +1357,7 @@ uev_laser_engraver.MapEntry: "[c/55FF55:Epic Laser Engraver II]"
 uev_lathe.MapEntry: "[c/55FF55:Epic Lathe II]"
 uev_macerator.MapEntry: "[c/55FF55:Epic Macerator II]"
 uev_machine_casing.MapEntry: UEV Machine Casing
-uev_machine_hull.MapEntry: "[c/55FF55:UEV][c/FFFFFF:Machine Hull]"
+uev_machine_hull.MapEntry: "[c/55FF55:UEV] [c/FFFFFF:Machine Hull]"
 uev_mixer.MapEntry: "[c/55FF55:Epic Mixer II]"
 uev_muffler_hatch.MapEntry: Muffler Hatch [c/55FF55:UEV]
 uev_ore_washer.MapEntry: "[c/55FF55:Epic Ore Washer II]"
@@ -1440,7 +1440,7 @@ uhv_laser_engraver.MapEntry: "[c/AA0000:Epic Laser Engraver]"
 uhv_lathe.MapEntry: "[c/AA0000:Epic Lathe]"
 uhv_macerator.MapEntry: "[c/AA0000:Epic Macerator]"
 uhv_machine_casing.MapEntry: UHV Machine Casing
-uhv_machine_hull.MapEntry: "[c/AA0000:UHV][c/FFFFFF:Machine Hull]"
+uhv_machine_hull.MapEntry: "[c/AA0000:UHV] [c/FFFFFF:Machine Hull]"
 uhv_mixer.MapEntry: "[c/AA0000:Epic Mixer]"
 uhv_muffler_hatch.MapEntry: Muffler Hatch [c/AA0000:UHV]
 uhv_ore_washer.MapEntry: "[c/AA0000:Epic Ore Washer]"
@@ -1523,7 +1523,7 @@ uiv_laser_engraver.MapEntry: "[c/00AA00:Epic Laser Engraver III]"
 uiv_lathe.MapEntry: "[c/00AA00:Epic Lathe III]"
 uiv_macerator.MapEntry: "[c/00AA00:Epic Macerator III]"
 uiv_machine_casing.MapEntry: UIV Machine Casing
-uiv_machine_hull.MapEntry: "[c/00AA00:UIV][c/FFFFFF:Machine Hull]"
+uiv_machine_hull.MapEntry: "[c/00AA00:UIV] [c/FFFFFF:Machine Hull]"
 uiv_mixer.MapEntry: "[c/00AA00:Epic Mixer III]"
 uiv_muffler_hatch.MapEntry: Muffler Hatch [c/00AA00:UIV]
 uiv_ore_washer.MapEntry: "[c/00AA00:Epic Ore Washer III]"
@@ -1560,7 +1560,7 @@ ulv_energy_output_hatch.MapEntry: "[c/555555:ULV Dynamo Hatch]"
 ulv_input_bus.MapEntry: "[c/555555:ULV Input Bus]"
 ulv_input_hatch.MapEntry: "[c/555555:ULV Input Hatch]"
 ulv_machine_casing.MapEntry: ULV Machine Casing
-ulv_machine_hull.MapEntry: "[c/555555:ULV][c/FFFFFF:Machine Hull]"
+ulv_machine_hull.MapEntry: "[c/555555:ULV] [c/FFFFFF:Machine Hull]"
 ulv_output_bus.MapEntry: "[c/555555:ULV Output Bus]"
 ulv_output_hatch.MapEntry: "[c/555555:ULV Output Hatch]"
 ulv_transformer_16a.MapEntry: "[c/555555:Ultra Low Voltage] Power Transformer"
@@ -1628,7 +1628,7 @@ uv_laser_engraver.MapEntry: "[c/00AAAA:Ultimate Laser Engraver]"
 uv_lathe.MapEntry: "[c/00AAAA:Ultimate Lathe]"
 uv_macerator.MapEntry: "[c/00AAAA:Ultimate Macerator]"
 uv_machine_casing.MapEntry: UV Machine Casing
-uv_machine_hull.MapEntry: "[c/00AAAA:UV][c/FFFFFF:Machine Hull]"
+uv_machine_hull.MapEntry: "[c/00AAAA:UV] [c/FFFFFF:Machine Hull]"
 uv_mixer.MapEntry: "[c/00AAAA:Ultimate Mixer]"
 uv_muffler_hatch.MapEntry: Muffler Hatch [c/00AAAA:UV]
 uv_ore_washer.MapEntry: "[c/00AAAA:Ultimate Ore Washer]"
@@ -1712,7 +1712,7 @@ uxv_laser_engraver.MapEntry: "[c/FFFF55:Epic Laser Engraver IV]"
 uxv_lathe.MapEntry: "[c/FFFF55:Epic Lathe IV]"
 uxv_macerator.MapEntry: "[c/FFFF55:Epic Macerator IV]"
 uxv_machine_casing.MapEntry: UXV Machine Casing
-uxv_machine_hull.MapEntry: "[c/FFFF55:UXV][c/FFFFFF:Machine Hull]"
+uxv_machine_hull.MapEntry: "[c/FFFF55:UXV] [c/FFFFFF:Machine Hull]"
 uxv_mixer.MapEntry: "[c/FFFF55:Epic Mixer IV]"
 uxv_muffler_hatch.MapEntry: Muffler Hatch [c/FFFF55:UXV]
 uxv_ore_washer.MapEntry: "[c/FFFF55:Epic Ore Washer IV]"
@@ -1818,7 +1818,7 @@ zpm_laser_engraver.MapEntry: "[c/FF5555:Elite Laser Engraver III]"
 zpm_lathe.MapEntry: "[c/FF5555:Elite Lathe III]"
 zpm_macerator.MapEntry: "[c/FF5555:Elite Macerator III]"
 zpm_machine_casing.MapEntry: ZPM Machine Casing
-zpm_machine_hull.MapEntry: "[c/FF5555:ZPM][c/FFFFFF:Machine Hull]"
+zpm_machine_hull.MapEntry: "[c/FF5555:ZPM] [c/FFFFFF:Machine Hull]"
 zpm_mixer.MapEntry: "[c/FF5555:Elite Mixer III]"
 zpm_muffler_hatch.MapEntry: Muffler Hatch [c/FF5555:ZPM]
 zpm_ore_washer.MapEntry: "[c/FF5555:Elite Ore Washer III]"
@@ -1844,284 +1844,295 @@ zpm_transformer_2a.MapEntry: "[c/FF5555:ZPM Voltage] Hi-Amp (2x) Transformer"
 zpm_transformer_4a.MapEntry: "[c/FF5555:ZPM Voltage] Hi-Amp (4x) Transformer"
 zpm_wiremill.MapEntry: "[c/FF5555:Elite Wiremill III]"
 zpm_world_accelerator.MapEntry: "[c/FF5555:Elite World Accelerator III]"
-TooManyItemsTile.MapEntry: Too Many Items
-aluminium_frame.MapEntry: Aluminium Frame
-black_steel_frame.MapEntry: Black Steel Frame
-blue_steel_frame.MapEntry: Blue Steel Frame
-bronze_frame.MapEntry: Bronze Frame
-europium_frame.MapEntry: Europium Frame
-glowstone_block.MapEntry: Glowstone Block
-hastelloy_c_276_frame.MapEntry: Hastelloy C 276 Frame
-hastelloy_x_frame.MapEntry: Hastelloy X Frame
-hsla_steel_frame.MapEntry: Hsla Steel Frame
-hsse_frame.MapEntry: Hsse Frame
-hssg_frame.MapEntry: Hssg Frame
-hsss_frame.MapEntry: Hsss Frame
-incoloy_ma_956_frame.MapEntry: Incoloy Ma 956 Frame
-invar_frame.MapEntry: Invar Frame
-iridium_frame.MapEntry: Iridium Frame
-maraging_steel_300_frame.MapEntry: Maraging Steel 300 Frame
-naquadah_alloy_frame.MapEntry: Naquadah Alloy Frame
-neutronium_frame.MapEntry: Neutronium Frame
-polytetrafluoroethylene_frame.MapEntry: Polytetrafluoroethylene Frame
-raw_almandine_block.MapEntry: Raw Almandine Block
-raw_aluminium_block.MapEntry: Raw Aluminium Block
-raw_alunite_block.MapEntry: Raw Alunite Block
-raw_amethyst_block.MapEntry: Raw Amethyst Block
-raw_apatite_block.MapEntry: Raw Apatite Block
-raw_asbestos_block.MapEntry: Raw Asbestos Block
-raw_barite_block.MapEntry: Raw Barite Block
-raw_basaltic_mineral_sand_block.MapEntry: Raw Basaltic Mineral Sand Block
-raw_bastnasite_block.MapEntry: Raw Bastnasite Block
-raw_bauxite_block.MapEntry: Raw Bauxite Block
-raw_bentonite_block.MapEntry: Raw Bentonite Block
-raw_beryllium_block.MapEntry: Raw Beryllium Block
-raw_blue_topaz_block.MapEntry: Raw Blue Topaz Block
-raw_bornite_block.MapEntry: Raw Bornite Block
-raw_calcite_block.MapEntry: Raw Calcite Block
-raw_cassiterite_block.MapEntry: Raw Cassiterite Block
-raw_cassiterite_sand_block.MapEntry: Raw Cassiterite Sand Block
-raw_certus_quartz_block.MapEntry: Raw Certus Quartz Block
-raw_chalcocite_block.MapEntry: Raw Chalcocite Block
-raw_chalcopyrite_block.MapEntry: Raw Chalcopyrite Block
-raw_chromite_block.MapEntry: Raw Chromite Block
-raw_cinnabar_block.MapEntry: Raw Cinnabar Block
-raw_coal_block.MapEntry: Raw Coal Block
-raw_cobalt_block.MapEntry: Raw Cobalt Block
-raw_cobaltite_block.MapEntry: Raw Cobaltite Block
-raw_cooperite_block.MapEntry: Raw Cooperite Block
-raw_copper_block.MapEntry: Raw Copper Block
-raw_diamond_block.MapEntry: Raw Diamond Block
-raw_diatomite_block.MapEntry: Raw Diatomite Block
-raw_electrotine_block.MapEntry: Raw Electrotine Block
-raw_emerald_block.MapEntry: Raw Emerald Block
-raw_fullers_earth_block.MapEntry: Raw Fullers Earth Block
-raw_galena_block.MapEntry: Raw Galena Block
-raw_garnet_sand_block.MapEntry: Raw Garnet Sand Block
-raw_garnierite_block.MapEntry: Raw Garnierite Block
-raw_glauconite_sand_block.MapEntry: Raw Glauconite Sand Block
-raw_goethite_block.MapEntry: Raw Goethite Block
-raw_gold_block.MapEntry: Raw Gold Block
-raw_granitic_mineral_sand_block.MapEntry: Raw Granitic Mineral Sand Block
-raw_graphite_block.MapEntry: Raw Graphite Block
-raw_green_sapphire_block.MapEntry: Raw Green Sapphire Block
-raw_grossular_block.MapEntry: Raw Grossular Block
-raw_gypsum_block.MapEntry: Raw Gypsum Block
-raw_hematite_block.MapEntry: Raw Hematite Block
-raw_ilmenite_block.MapEntry: Raw Ilmenite Block
-raw_iron_block.MapEntry: Raw Iron Block
-raw_kyanite_block.MapEntry: Raw Kyanite Block
-raw_lapis_block.MapEntry: Raw Lapis Block
-raw_lazurite_block.MapEntry: Raw Lazurite Block
-raw_lead_block.MapEntry: Raw Lead Block
-raw_lepidolite_block.MapEntry: Raw Lepidolite Block
-raw_lithium_block.MapEntry: Raw Lithium Block
-raw_magnesite_block.MapEntry: Raw Magnesite Block
-raw_magnetite_block.MapEntry: Raw Magnetite Block
-raw_malachite_block.MapEntry: Raw Malachite Block
-raw_mica_block.MapEntry: Raw Mica Block
-raw_molybdenite_block.MapEntry: Raw Molybdenite Block
-raw_molybdenum_block.MapEntry: Raw Molybdenum Block
-raw_monazite_block.MapEntry: Raw Monazite Block
-raw_naquadah_block.MapEntry: Raw Naquadah Block
-raw_neodymium_block.MapEntry: Raw Neodymium Block
-raw_nether_quartz_block.MapEntry: Raw Nether Quartz Block
-raw_nickel_block.MapEntry: Raw Nickel Block
-raw_oilsands_block.MapEntry: Raw Oilsands Block
-raw_olivine_block.MapEntry: Raw Olivine Block
-raw_opal_block.MapEntry: Raw Opal Block
-raw_palladium_block.MapEntry: Raw Palladium Block
-raw_pentlandite_block.MapEntry: Raw Pentlandite Block
-raw_pitchblende_block.MapEntry: Raw Pitchblende Block
-raw_platinum_block.MapEntry: Raw Platinum Block
-raw_plutonium_block.MapEntry: Raw Plutonium Block
-raw_pollucite_block.MapEntry: Raw Pollucite Block
-raw_powellite_block.MapEntry: Raw Powellite Block
-raw_pyrite_block.MapEntry: Raw Pyrite Block
-raw_pyrochlore_block.MapEntry: Raw Pyrochlore Block
-raw_pyrolusite_block.MapEntry: Raw Pyrolusite Block
-raw_pyrope_block.MapEntry: Raw Pyrope Block
-raw_quartzite_block.MapEntry: Raw Quartzite Block
-raw_realgar_block.MapEntry: Raw Realgar Block
-raw_red_garnet_block.MapEntry: Raw Red Garnet Block
-raw_redstone_block.MapEntry: Raw Redstone Block
-raw_rock_salt_block.MapEntry: Raw Rock Salt Block
-raw_ruby_block.MapEntry: Raw Ruby Block
-raw_salt_block.MapEntry: Raw Salt Block
-raw_saltpeter_block.MapEntry: Raw Saltpeter Block
-raw_sapphire_block.MapEntry: Raw Sapphire Block
-raw_scheelite_block.MapEntry: Raw Scheelite Block
-raw_silver_block.MapEntry: Raw Silver Block
-raw_soapstone_block.MapEntry: Raw Soapstone Block
-raw_sodalite_block.MapEntry: Raw Sodalite Block
-raw_spessartine_block.MapEntry: Raw Spessartine Block
-raw_sphalerite_block.MapEntry: Raw Sphalerite Block
-raw_spodumene_block.MapEntry: Raw Spodumene Block
-raw_stibnite_block.MapEntry: Raw Stibnite Block
-raw_sulfur_block.MapEntry: Raw Sulfur Block
-raw_talc_block.MapEntry: Raw Talc Block
-raw_tantalite_block.MapEntry: Raw Tantalite Block
-raw_tetrahedrite_block.MapEntry: Raw Tetrahedrite Block
-raw_thorium_block.MapEntry: Raw Thorium Block
-raw_tin_block.MapEntry: Raw Tin Block
-raw_topaz_block.MapEntry: Raw Topaz Block
-raw_tricalcium_phosphate_block.MapEntry: Raw Tricalcium Phosphate Block
-raw_trona_block.MapEntry: Raw Trona Block
-raw_tungstate_block.MapEntry: Raw Tungstate Block
-raw_uraninite_block.MapEntry: Raw Uraninite Block
-raw_vanadium_magnetite_block.MapEntry: Raw Vanadium Magnetite Block
-raw_wulfenite_block.MapEntry: Raw Wulfenite Block
-raw_yellow_garnet_block.MapEntry: Raw Yellow Garnet Block
-raw_yellow_limonite_block.MapEntry: Raw Yellow Limonite Block
-raw_zeolite_block.MapEntry: Raw Zeolite Block
-redstone_block.MapEntry: Redstone Block
-ruridit_frame.MapEntry: Ruridit Frame
-stainless_steel_frame.MapEntry: Stainless Steel Frame
-steel_frame.MapEntry: Steel Frame
-titanium_frame.MapEntry: Titanium Frame
-treated_wood_frame.MapEntry: Treated Wood Frame
-tritanium_frame.MapEntry: Tritanium Frame
-tungsten_carbide_frame.MapEntry: Tungsten Carbide Frame
-tungsten_frame.MapEntry: Tungsten Frame
-tungsten_steel_frame.MapEntry: Tungsten Steel Frame
-ultimet_frame.MapEntry: Ultimet Frame
-watertight_steel_frame.MapEntry: Watertight Steel Frame
-wood_frame.MapEntry: Wood Frame
-ulv_macerator.MapEntry: ULV Macerator
-max_macerator.MapEntry: MAX Macerator
-ulv_alloy_smelter.MapEntry: ULV Alloy Smelter
-max_alloy_smelter.MapEntry: MAX Alloy Smelter
-ulv_brewery.MapEntry: ULV Brewery
-max_brewery.MapEntry: MAX Brewery
-ulv_compressor.MapEntry: ULV Compressor
-max_compressor.MapEntry: MAX Compressor
-ulv_extractor.MapEntry: ULV Extractor
-max_extractor.MapEntry: MAX Extractor
-ulv_forge_hammer.MapEntry: ULV Forge Hammer
-max_forge_hammer.MapEntry: MAX Forge Hammer
-ulv_bender.MapEntry: ULV Bender
-max_bender.MapEntry: MAX Bender
-ulv_lathe.MapEntry: ULV Lathe
-max_lathe.MapEntry: MAX Lathe
-ulv_polarizer.MapEntry: ULV Polarizer
-max_polarizer.MapEntry: MAX Polarizer
-ulv_wiremill.MapEntry: ULV Wiremill
-max_wiremill.MapEntry: MAX Wiremill
-ulv_electromagnetic_separator.MapEntry: ULV Electromagnetic Separator
-max_electromagnetic_separator.MapEntry: MAX Electromagnetic Separator
-ulv_packer.MapEntry: ULV Packer
-max_packer.MapEntry: MAX Packer
-ulv_fluid_solidifier.MapEntry: ULV Fluid Solidifier
-max_fluid_solidifier.MapEntry: MAX Fluid Solidifier
-ulv_chemical_reactor.MapEntry: ULV Chemical Reactor
-max_chemical_reactor.MapEntry: MAX Chemical Reactor
-ulv_electrolyzer.MapEntry: ULV Electrolyzer
-max_electrolyzer.MapEntry: MAX Electrolyzer
-ulv_centrifuge.MapEntry: ULV Centrifuge
-max_centrifuge.MapEntry: MAX Centrifuge
-ulv_arc_furnace.MapEntry: ULV Arc Furnace
-max_arc_furnace.MapEntry: MAX Arc Furnace
-ulv_cutter.MapEntry: ULV Cutter
-max_cutter.MapEntry: MAX Cutter
-ulv_extruder.MapEntry: ULV Extruder
-max_extruder.MapEntry: MAX Extruder
-ulv_scanner.MapEntry: ULV Scanner
-max_scanner.MapEntry: MAX Scanner
-ulv_laser_engraver.MapEntry: ULV Laser Engraver
-max_laser_engraver.MapEntry: MAX Laser Engraver
-ulv_sifter.MapEntry: ULV Sifter
-max_sifter.MapEntry: MAX Sifter
-ulv_thermal_centrifuge.MapEntry: ULV Thermal Centrifuge
-max_thermal_centrifuge.MapEntry: MAX Thermal Centrifuge
-ulv_gas_collector.MapEntry: ULV Gas Collector
-max_gas_collector.MapEntry: MAX Gas Collector
-ulv_air_scrubber.MapEntry: ULV Air Scrubber
-iv_air_scrubber.MapEntry: IV Air Scrubber
-luv_air_scrubber.MapEntry: LuV Air Scrubber
-zpm_air_scrubber.MapEntry: ZPM Air Scrubber
-uv_air_scrubber.MapEntry: UV Air Scrubber
-uhv_air_scrubber.MapEntry: UHV Air Scrubber
-uev_air_scrubber.MapEntry: UEV Air Scrubber
-uiv_air_scrubber.MapEntry: UIV Air Scrubber
-uxv_air_scrubber.MapEntry: UXV Air Scrubber
-opv_air_scrubber.MapEntry: OpV Air Scrubber
-max_air_scrubber.MapEntry: MAX Air Scrubber
-ulv_electric_furnace.MapEntry: ULV Electric Furnace
-max_electric_furnace.MapEntry: MAX Electric Furnace
-ulv_rock_crusher.MapEntry: ULV Rock Crusher
-max_rock_crusher.MapEntry: MAX Rock Crusher
-ulv_distillery.MapEntry: ULV Distillery
-max_distillery.MapEntry: MAX Distillery
-ulv_mixer.MapEntry: ULV Mixer
-max_mixer.MapEntry: MAX Mixer
-ulv_autoclave.MapEntry: ULV Autoclave
-max_autoclave.MapEntry: MAX Autoclave
-ulv_ore_washer.MapEntry: ULV Ore Washer
-max_ore_washer.MapEntry: MAX Ore Washer
-ulv_chemical_bath.MapEntry: ULV Chemical Bath
-max_chemical_bath.MapEntry: MAX Chemical Bath
-ulv_fluid_heater.MapEntry: ULV Fluid Heater
-max_fluid_heater.MapEntry: MAX Fluid Heater
-ulv_fermenter.MapEntry: ULV Fermenter
-max_fermenter.MapEntry: MAX Fermenter
-ulv_canner.MapEntry: ULV Canner
-max_canner.MapEntry: MAX Canner
-ulv_assembler.MapEntry: ULV Assembler
-max_assembler.MapEntry: MAX Assembler
-ulv_forming_press.MapEntry: ULV Forming Press
-max_forming_press.MapEntry: MAX Forming Press
-ulv_circuit_assembler.MapEntry: ULV Circuit Assembler
-max_circuit_assembler.MapEntry: MAX Circuit Assembler
-ulv_steam_turbine.MapEntry: ULV Steam Turbine
-ev_steam_turbine.MapEntry: EV Steam Turbine
-iv_steam_turbine.MapEntry: IV Steam Turbine
-luv_steam_turbine.MapEntry: LuV Steam Turbine
-zpm_steam_turbine.MapEntry: ZPM Steam Turbine
-uv_steam_turbine.MapEntry: UV Steam Turbine
-uhv_steam_turbine.MapEntry: UHV Steam Turbine
-uev_steam_turbine.MapEntry: UEV Steam Turbine
-uiv_steam_turbine.MapEntry: UIV Steam Turbine
-uxv_steam_turbine.MapEntry: UXV Steam Turbine
-opv_steam_turbine.MapEntry: OpV Steam Turbine
-max_steam_turbine.MapEntry: MAX Steam Turbine
-ulv_solar_panel_machine.MapEntry: ULV Solar Panel
-lv_solar_panel_machine.MapEntry: LV Solar Panel
-mv_solar_panel_machine.MapEntry: MV Solar Panel
-hv_solar_panel_machine.MapEntry: HV Solar Panel
-ev_solar_panel_machine.MapEntry: EV Solar Panel
-iv_solar_panel_machine.MapEntry: IV Solar Panel
-luv_solar_panel_machine.MapEntry: LuV Solar Panel
-zpm_solar_panel_machine.MapEntry: ZPM Solar Panel
-uv_solar_panel_machine.MapEntry: UV Solar Panel
-uhv_solar_panel_machine.MapEntry: UHV Solar Panel
-uev_solar_panel_machine.MapEntry: UEV Solar Panel
-uiv_solar_panel_machine.MapEntry: UIV Solar Panel
-uxv_solar_panel_machine.MapEntry: UXV Solar Panel
-opv_solar_panel_machine.MapEntry: OpV Solar Panel
-max_solar_panel_machine.MapEntry: MAX Solar Panel
-ulv_lamp.MapEntry: ULV Lamp
-lv_lamp.MapEntry: LV Lamp
-mv_lamp.MapEntry: MV Lamp
-hv_lamp.MapEntry: HV Lamp
-ev_lamp.MapEntry: EV Lamp
-iv_lamp.MapEntry: IV Lamp
-luv_lamp.MapEntry: LuV Lamp
-zpm_lamp.MapEntry: ZPM Lamp
-uv_lamp.MapEntry: UV Lamp
-uhv_lamp.MapEntry: UHV Lamp
-uev_lamp.MapEntry: UEV Lamp
-uiv_lamp.MapEntry: UIV Lamp
-uxv_lamp.MapEntry: UXV Lamp
-opv_lamp.MapEntry: OpV Lamp
-max_lamp.MapEntry: MAX Lamp
-iv_block_breaker.MapEntry: IV Block Breaker
-luv_block_breaker.MapEntry: LuV Block Breaker
-zpm_block_breaker.MapEntry: ZPM Block Breaker
-ev_miner.MapEntry: EV Miner
-max_256a_laser_target_hatch.MapEntry: MAX 256A Laser Target Hatch
-max_256a_laser_source_hatch.MapEntry: MAX 256A Laser Source Hatch
-max_1024a_laser_target_hatch.MapEntry: MAX 1024A Laser Target Hatch
-max_1024a_laser_source_hatch.MapEntry: MAX 1024A Laser Source Hatch
-max_4096a_laser_target_hatch.MapEntry: MAX 4096A Laser Target Hatch
+ultimate_manual.MapEntry: Ultimate Manual Crafting Station
+manual_crowbar.MapEntry: Manual Crowbar Crafting Station
+manual_mortar.MapEntry: Manual Mortar Crafting Station
+manual_wire_cutter.MapEntry: Manual Wire Cutter Crafting Station
+manual_screwdriver.MapEntry: Manual Screwdriver Crafting Station
+manual_wrench.MapEntry: Manual Wrench Crafting Station
+manual_saw.MapEntry: Manual Saw Crafting Station
+manual_file.MapEntry: Manual File Crafting Station
+manual_knife.MapEntry: Manual Knife Crafting Station
+manual_mallet.MapEntry: Manual Mallet Crafting Station
+manual_hammer.MapEntry: Manual Hammer Crafting Station
 max_4096a_laser_source_hatch.MapEntry: MAX 4096A Laser Source Hatch
+max_4096a_laser_target_hatch.MapEntry: MAX 4096A Laser Target Hatch
+max_1024a_laser_source_hatch.MapEntry: MAX 1024A Laser Source Hatch
+max_1024a_laser_target_hatch.MapEntry: MAX 1024A Laser Target Hatch
+max_256a_laser_source_hatch.MapEntry: MAX 256A Laser Source Hatch
+max_256a_laser_target_hatch.MapEntry: MAX 256A Laser Target Hatch
+ev_miner.MapEntry: EV Miner
+zpm_block_breaker.MapEntry: ZPM Block Breaker
+luv_block_breaker.MapEntry: LuV Block Breaker
+iv_block_breaker.MapEntry: IV Block Breaker
+max_lamp.MapEntry: MAX Lamp
+opv_lamp.MapEntry: OpV Lamp
+uxv_lamp.MapEntry: UXV Lamp
+uiv_lamp.MapEntry: UIV Lamp
+uev_lamp.MapEntry: UEV Lamp
+uhv_lamp.MapEntry: UHV Lamp
+uv_lamp.MapEntry: UV Lamp
+zpm_lamp.MapEntry: ZPM Lamp
+luv_lamp.MapEntry: LuV Lamp
+iv_lamp.MapEntry: IV Lamp
+ev_lamp.MapEntry: EV Lamp
+hv_lamp.MapEntry: HV Lamp
+mv_lamp.MapEntry: MV Lamp
+lv_lamp.MapEntry: LV Lamp
+ulv_lamp.MapEntry: ULV Lamp
+max_solar_panel_machine.MapEntry: MAX Solar Panel
+opv_solar_panel_machine.MapEntry: OpV Solar Panel
+uxv_solar_panel_machine.MapEntry: UXV Solar Panel
+uiv_solar_panel_machine.MapEntry: UIV Solar Panel
+uev_solar_panel_machine.MapEntry: UEV Solar Panel
+uhv_solar_panel_machine.MapEntry: UHV Solar Panel
+uv_solar_panel_machine.MapEntry: UV Solar Panel
+zpm_solar_panel_machine.MapEntry: ZPM Solar Panel
+luv_solar_panel_machine.MapEntry: LuV Solar Panel
+iv_solar_panel_machine.MapEntry: IV Solar Panel
+ev_solar_panel_machine.MapEntry: EV Solar Panel
+hv_solar_panel_machine.MapEntry: HV Solar Panel
+mv_solar_panel_machine.MapEntry: MV Solar Panel
+lv_solar_panel_machine.MapEntry: LV Solar Panel
+ulv_solar_panel_machine.MapEntry: ULV Solar Panel
+max_steam_turbine.MapEntry: MAX Steam Turbine
+opv_steam_turbine.MapEntry: OpV Steam Turbine
+uxv_steam_turbine.MapEntry: UXV Steam Turbine
+uiv_steam_turbine.MapEntry: UIV Steam Turbine
+uev_steam_turbine.MapEntry: UEV Steam Turbine
+uhv_steam_turbine.MapEntry: UHV Steam Turbine
+uv_steam_turbine.MapEntry: UV Steam Turbine
+zpm_steam_turbine.MapEntry: ZPM Steam Turbine
+luv_steam_turbine.MapEntry: LuV Steam Turbine
+iv_steam_turbine.MapEntry: IV Steam Turbine
+ev_steam_turbine.MapEntry: EV Steam Turbine
+ulv_steam_turbine.MapEntry: ULV Steam Turbine
+max_circuit_assembler.MapEntry: MAX Circuit Assembler
+ulv_circuit_assembler.MapEntry: ULV Circuit Assembler
+max_forming_press.MapEntry: MAX Forming Press
+ulv_forming_press.MapEntry: ULV Forming Press
+max_assembler.MapEntry: MAX Assembler
+ulv_assembler.MapEntry: ULV Assembler
+max_canner.MapEntry: MAX Canner
+ulv_canner.MapEntry: ULV Canner
+max_fermenter.MapEntry: MAX Fermenter
+ulv_fermenter.MapEntry: ULV Fermenter
+max_fluid_heater.MapEntry: MAX Fluid Heater
+ulv_fluid_heater.MapEntry: ULV Fluid Heater
+max_chemical_bath.MapEntry: MAX Chemical Bath
+ulv_chemical_bath.MapEntry: ULV Chemical Bath
+max_ore_washer.MapEntry: MAX Ore Washer
+ulv_ore_washer.MapEntry: ULV Ore Washer
+max_autoclave.MapEntry: MAX Autoclave
+ulv_autoclave.MapEntry: ULV Autoclave
+max_mixer.MapEntry: MAX Mixer
+ulv_mixer.MapEntry: ULV Mixer
+max_distillery.MapEntry: MAX Distillery
+ulv_distillery.MapEntry: ULV Distillery
+max_rock_crusher.MapEntry: MAX Rock Crusher
+ulv_rock_crusher.MapEntry: ULV Rock Crusher
+max_electric_furnace.MapEntry: MAX Electric Furnace
+ulv_electric_furnace.MapEntry: ULV Electric Furnace
+max_air_scrubber.MapEntry: MAX Air Scrubber
+opv_air_scrubber.MapEntry: OpV Air Scrubber
+uxv_air_scrubber.MapEntry: UXV Air Scrubber
+uiv_air_scrubber.MapEntry: UIV Air Scrubber
+uev_air_scrubber.MapEntry: UEV Air Scrubber
+uhv_air_scrubber.MapEntry: UHV Air Scrubber
+uv_air_scrubber.MapEntry: UV Air Scrubber
+zpm_air_scrubber.MapEntry: ZPM Air Scrubber
+luv_air_scrubber.MapEntry: LuV Air Scrubber
+iv_air_scrubber.MapEntry: IV Air Scrubber
+ulv_air_scrubber.MapEntry: ULV Air Scrubber
+max_gas_collector.MapEntry: MAX Gas Collector
+ulv_gas_collector.MapEntry: ULV Gas Collector
+max_thermal_centrifuge.MapEntry: MAX Thermal Centrifuge
+ulv_thermal_centrifuge.MapEntry: ULV Thermal Centrifuge
+max_sifter.MapEntry: MAX Sifter
+ulv_sifter.MapEntry: ULV Sifter
+max_laser_engraver.MapEntry: MAX Laser Engraver
+ulv_laser_engraver.MapEntry: ULV Laser Engraver
+max_scanner.MapEntry: MAX Scanner
+ulv_scanner.MapEntry: ULV Scanner
+max_extruder.MapEntry: MAX Extruder
+ulv_extruder.MapEntry: ULV Extruder
+max_cutter.MapEntry: MAX Cutter
+ulv_cutter.MapEntry: ULV Cutter
+max_arc_furnace.MapEntry: MAX Arc Furnace
+ulv_arc_furnace.MapEntry: ULV Arc Furnace
+max_centrifuge.MapEntry: MAX Centrifuge
+ulv_centrifuge.MapEntry: ULV Centrifuge
+max_electrolyzer.MapEntry: MAX Electrolyzer
+ulv_electrolyzer.MapEntry: ULV Electrolyzer
+max_chemical_reactor.MapEntry: MAX Chemical Reactor
+ulv_chemical_reactor.MapEntry: ULV Chemical Reactor
+max_fluid_solidifier.MapEntry: MAX Fluid Solidifier
+ulv_fluid_solidifier.MapEntry: ULV Fluid Solidifier
+max_packer.MapEntry: MAX Packer
+ulv_packer.MapEntry: ULV Packer
+max_electromagnetic_separator.MapEntry: MAX Electromagnetic Separator
+ulv_electromagnetic_separator.MapEntry: ULV Electromagnetic Separator
+max_wiremill.MapEntry: MAX Wiremill
+ulv_wiremill.MapEntry: ULV Wiremill
+max_polarizer.MapEntry: MAX Polarizer
+ulv_polarizer.MapEntry: ULV Polarizer
+max_lathe.MapEntry: MAX Lathe
+ulv_lathe.MapEntry: ULV Lathe
+max_bender.MapEntry: MAX Bender
+ulv_bender.MapEntry: ULV Bender
+max_forge_hammer.MapEntry: MAX Forge Hammer
+ulv_forge_hammer.MapEntry: ULV Forge Hammer
+max_extractor.MapEntry: MAX Extractor
+ulv_extractor.MapEntry: ULV Extractor
+max_compressor.MapEntry: MAX Compressor
+ulv_compressor.MapEntry: ULV Compressor
+max_brewery.MapEntry: MAX Brewery
+ulv_brewery.MapEntry: ULV Brewery
+max_alloy_smelter.MapEntry: MAX Alloy Smelter
+ulv_alloy_smelter.MapEntry: ULV Alloy Smelter
+max_macerator.MapEntry: MAX Macerator
+ulv_macerator.MapEntry: ULV Macerator
+wood_frame.MapEntry: Wood Frame
+watertight_steel_frame.MapEntry: Watertight Steel Frame
+ultimet_frame.MapEntry: Ultimet Frame
+tungsten_steel_frame.MapEntry: Tungsten Steel Frame
+tungsten_frame.MapEntry: Tungsten Frame
+tungsten_carbide_frame.MapEntry: Tungsten Carbide Frame
+tritanium_frame.MapEntry: Tritanium Frame
+treated_wood_frame.MapEntry: Treated Wood Frame
+titanium_frame.MapEntry: Titanium Frame
+steel_frame.MapEntry: Steel Frame
+stainless_steel_frame.MapEntry: Stainless Steel Frame
+ruridit_frame.MapEntry: Ruridit Frame
+redstone_block.MapEntry: Redstone Block
+raw_zeolite_block.MapEntry: Raw Zeolite Block
+raw_yellow_limonite_block.MapEntry: Raw Yellow Limonite Block
+raw_yellow_garnet_block.MapEntry: Raw Yellow Garnet Block
+raw_wulfenite_block.MapEntry: Raw Wulfenite Block
+raw_vanadium_magnetite_block.MapEntry: Raw Vanadium Magnetite Block
+raw_uraninite_block.MapEntry: Raw Uraninite Block
+raw_tungstate_block.MapEntry: Raw Tungstate Block
+raw_trona_block.MapEntry: Raw Trona Block
+raw_tricalcium_phosphate_block.MapEntry: Raw Tricalcium Phosphate Block
+raw_topaz_block.MapEntry: Raw Topaz Block
+raw_tin_block.MapEntry: Raw Tin Block
+raw_thorium_block.MapEntry: Raw Thorium Block
+raw_tetrahedrite_block.MapEntry: Raw Tetrahedrite Block
+raw_tantalite_block.MapEntry: Raw Tantalite Block
+raw_talc_block.MapEntry: Raw Talc Block
+raw_sulfur_block.MapEntry: Raw Sulfur Block
+raw_stibnite_block.MapEntry: Raw Stibnite Block
+raw_spodumene_block.MapEntry: Raw Spodumene Block
+raw_sphalerite_block.MapEntry: Raw Sphalerite Block
+raw_spessartine_block.MapEntry: Raw Spessartine Block
+raw_sodalite_block.MapEntry: Raw Sodalite Block
+raw_soapstone_block.MapEntry: Raw Soapstone Block
+raw_silver_block.MapEntry: Raw Silver Block
+raw_scheelite_block.MapEntry: Raw Scheelite Block
+raw_sapphire_block.MapEntry: Raw Sapphire Block
+raw_saltpeter_block.MapEntry: Raw Saltpeter Block
+raw_salt_block.MapEntry: Raw Salt Block
+raw_ruby_block.MapEntry: Raw Ruby Block
+raw_rock_salt_block.MapEntry: Raw Rock Salt Block
+raw_redstone_block.MapEntry: Raw Redstone Block
+raw_red_garnet_block.MapEntry: Raw Red Garnet Block
+raw_realgar_block.MapEntry: Raw Realgar Block
+raw_quartzite_block.MapEntry: Raw Quartzite Block
+raw_pyrope_block.MapEntry: Raw Pyrope Block
+raw_pyrolusite_block.MapEntry: Raw Pyrolusite Block
+raw_pyrochlore_block.MapEntry: Raw Pyrochlore Block
+raw_pyrite_block.MapEntry: Raw Pyrite Block
+raw_powellite_block.MapEntry: Raw Powellite Block
+raw_pollucite_block.MapEntry: Raw Pollucite Block
+raw_plutonium_block.MapEntry: Raw Plutonium Block
+raw_platinum_block.MapEntry: Raw Platinum Block
+raw_pitchblende_block.MapEntry: Raw Pitchblende Block
+raw_pentlandite_block.MapEntry: Raw Pentlandite Block
+raw_palladium_block.MapEntry: Raw Palladium Block
+raw_opal_block.MapEntry: Raw Opal Block
+raw_olivine_block.MapEntry: Raw Olivine Block
+raw_oilsands_block.MapEntry: Raw Oilsands Block
+raw_nickel_block.MapEntry: Raw Nickel Block
+raw_nether_quartz_block.MapEntry: Raw Nether Quartz Block
+raw_neodymium_block.MapEntry: Raw Neodymium Block
+raw_naquadah_block.MapEntry: Raw Naquadah Block
+raw_monazite_block.MapEntry: Raw Monazite Block
+raw_molybdenum_block.MapEntry: Raw Molybdenum Block
+raw_molybdenite_block.MapEntry: Raw Molybdenite Block
+raw_mica_block.MapEntry: Raw Mica Block
+raw_malachite_block.MapEntry: Raw Malachite Block
+raw_magnetite_block.MapEntry: Raw Magnetite Block
+raw_magnesite_block.MapEntry: Raw Magnesite Block
+raw_lithium_block.MapEntry: Raw Lithium Block
+raw_lepidolite_block.MapEntry: Raw Lepidolite Block
+raw_lead_block.MapEntry: Raw Lead Block
+raw_lazurite_block.MapEntry: Raw Lazurite Block
+raw_lapis_block.MapEntry: Raw Lapis Block
+raw_kyanite_block.MapEntry: Raw Kyanite Block
+raw_iron_block.MapEntry: Raw Iron Block
+raw_ilmenite_block.MapEntry: Raw Ilmenite Block
+raw_hematite_block.MapEntry: Raw Hematite Block
+raw_gypsum_block.MapEntry: Raw Gypsum Block
+raw_grossular_block.MapEntry: Raw Grossular Block
+raw_green_sapphire_block.MapEntry: Raw Green Sapphire Block
+raw_graphite_block.MapEntry: Raw Graphite Block
+raw_granitic_mineral_sand_block.MapEntry: Raw Granitic Mineral Sand Block
+raw_gold_block.MapEntry: Raw Gold Block
+raw_goethite_block.MapEntry: Raw Goethite Block
+raw_glauconite_sand_block.MapEntry: Raw Glauconite Sand Block
+raw_garnierite_block.MapEntry: Raw Garnierite Block
+raw_garnet_sand_block.MapEntry: Raw Garnet Sand Block
+raw_galena_block.MapEntry: Raw Galena Block
+raw_fullers_earth_block.MapEntry: Raw Fullers Earth Block
+raw_emerald_block.MapEntry: Raw Emerald Block
+raw_electrotine_block.MapEntry: Raw Electrotine Block
+raw_diatomite_block.MapEntry: Raw Diatomite Block
+raw_diamond_block.MapEntry: Raw Diamond Block
+raw_copper_block.MapEntry: Raw Copper Block
+raw_cooperite_block.MapEntry: Raw Cooperite Block
+raw_cobaltite_block.MapEntry: Raw Cobaltite Block
+raw_cobalt_block.MapEntry: Raw Cobalt Block
+raw_coal_block.MapEntry: Raw Coal Block
+raw_cinnabar_block.MapEntry: Raw Cinnabar Block
+raw_chromite_block.MapEntry: Raw Chromite Block
+raw_chalcopyrite_block.MapEntry: Raw Chalcopyrite Block
+raw_chalcocite_block.MapEntry: Raw Chalcocite Block
+raw_certus_quartz_block.MapEntry: Raw Certus Quartz Block
+raw_cassiterite_sand_block.MapEntry: Raw Cassiterite Sand Block
+raw_cassiterite_block.MapEntry: Raw Cassiterite Block
+raw_calcite_block.MapEntry: Raw Calcite Block
+raw_bornite_block.MapEntry: Raw Bornite Block
+raw_blue_topaz_block.MapEntry: Raw Blue Topaz Block
+raw_beryllium_block.MapEntry: Raw Beryllium Block
+raw_bentonite_block.MapEntry: Raw Bentonite Block
+raw_bauxite_block.MapEntry: Raw Bauxite Block
+raw_bastnasite_block.MapEntry: Raw Bastnasite Block
+raw_basaltic_mineral_sand_block.MapEntry: Raw Basaltic Mineral Sand Block
+raw_barite_block.MapEntry: Raw Barite Block
+raw_asbestos_block.MapEntry: Raw Asbestos Block
+raw_apatite_block.MapEntry: Raw Apatite Block
+raw_amethyst_block.MapEntry: Raw Amethyst Block
+raw_alunite_block.MapEntry: Raw Alunite Block
+raw_aluminium_block.MapEntry: Raw Aluminium Block
+raw_almandine_block.MapEntry: Raw Almandine Block
+polytetrafluoroethylene_frame.MapEntry: Polytetrafluoroethylene Frame
+neutronium_frame.MapEntry: Neutronium Frame
+naquadah_alloy_frame.MapEntry: Naquadah Alloy Frame
+maraging_steel_300_frame.MapEntry: Maraging Steel 300 Frame
+iridium_frame.MapEntry: Iridium Frame
+invar_frame.MapEntry: Invar Frame
+incoloy_ma_956_frame.MapEntry: Incoloy Ma 956 Frame
+hsss_frame.MapEntry: Hsss Frame
+hssg_frame.MapEntry: Hssg Frame
+hsse_frame.MapEntry: Hsse Frame
+hsla_steel_frame.MapEntry: Hsla Steel Frame
+hastelloy_x_frame.MapEntry: Hastelloy X Frame
+hastelloy_c_276_frame.MapEntry: Hastelloy C 276 Frame
+glowstone_block.MapEntry: Glowstone Block
+europium_frame.MapEntry: Europium Frame
+bronze_frame.MapEntry: Bronze Frame
+blue_steel_frame.MapEntry: Blue Steel Frame
+black_steel_frame.MapEntry: Black Steel Frame
+aluminium_frame.MapEntry: Aluminium Frame
+TooManyItemsTile.MapEntry: Too Many Items
 pipe_intersection.MapEntry: Pipe Intersection

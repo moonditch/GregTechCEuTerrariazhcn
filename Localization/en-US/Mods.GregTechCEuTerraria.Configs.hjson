@@ -16,52 +16,62 @@ GTConfig: {
 		Tooltip: ""
 	}
 
-	EnableCleanroom: {
-		Label: Enable Cleanroom
+	OrderedAssemblyLineFluids: {
 		Tooltip: ""
-	}
-
-	CleanMultiblocks: {
-		Label: Clean Multiblocks
-		Tooltip: ""
-	}
-
-	DebugMobs: {
-		Label: Debug Mobs
-		Tooltip: ""
-	}
-
-	EnableProfiler: {
-		Label: Enable Profiler
-		Tooltip: ""
-	}
-
-	LdItemPipeMinDistance: {
-		Label: Ld Item Pipe Min Distance
-		Tooltip: ""
-	}
-
-	LdFluidPipeMinDistance: {
-		Label: Ld Fluid Pipe Min Distance
-		Tooltip: ""
+		Label: Ordered Assembly Line Fluids
 	}
 
 	OrderedAssemblyLineItems: {
-		Label: Ordered Assembly Line Items
 		Tooltip: ""
+		Label: Ordered Assembly Line Items
 	}
 
-	OrderedAssemblyLineFluids: {
-		Label: Ordered Assembly Line Fluids
+	LdFluidPipeMinDistance: {
 		Tooltip: ""
+		Label: Ld Fluid Pipe Min Distance
+	}
+
+	LdItemPipeMinDistance: {
+		Tooltip: ""
+		Label: Ld Item Pipe Min Distance
+	}
+
+	EnableProfiler: {
+		Tooltip: ""
+		Label: Enable Profiler
+	}
+
+	DebugMobs: {
+		Tooltip: ""
+		Label: Debug Mobs
+	}
+
+	CleanMultiblocks: {
+		Tooltip: ""
+		Label: Clean Multiblocks
+	}
+
+	EnableCleanroom: {
+		Tooltip: ""
+		Label: Enable Cleanroom
+	}
+
+	AllowShimmerDupes: {
+		Tooltip: ""
+		Label: Allow Shimmer Dupes
 	}
 }
 
 GTClientConfig: {
-	DisplayName: G T Client Config
+	QuestbookEditMode: {
+		Tooltip: ""
+		Label: Questbook Edit Mode
+	}
 
 	ShowDiscordInvite: {
-		Label: Show Discord Invite
 		Tooltip: ""
+		Label: Show Discord Invite
 	}
+
+	DisplayName: G T Client Config
 }

@@ -1,5 +1,5 @@
 active_transformer_0: "[c/AAAAAA:Transformers: Lasers in Disguise]"
-active_transformer_1: "[c/AAAAAA:Can combine any number of Energy][c/FFFFFF:Inputs][c/AAAAAA: into any number of Energy][c/FFFFFF:Outputs][c/AAAAAA:.]"
+active_transformer_1: "[c/AAAAAA:Can combine any number of Energy] [c/FFFFFF:Inputs][c/AAAAAA: into any number of Energy] [c/FFFFFF:Outputs][c/AAAAAA:.]"
 active_transformer_2: "[c/AAAAAA:Can transmit power at incredible distance with]"
 active_transformer_3: Lasers[c/AAAAAA:.]
 advanced_processing_array: Parallelize the World
@@ -12,26 +12,26 @@ block_breaker: "[c/AAAAAA:Mines block on front face and collects its drops]"
 buffer: A Small Buffer to store Items and Fluids
 central_monitor: But can it run Doom?
 charcoal_pile: Underground fuel bakery
-charcoal_pile_0: Turns Logs into [c/55FF55:Charcoal][c/AAAAAA: when][c/FF5555:ignited][c/AAAAAA:.]
+charcoal_pile_0: Turns Logs into [c/55FF55:Charcoal][c/AAAAAA: when] [c/FF5555:ignited][c/AAAAAA:.]
 charcoal_pile_1: Right Click with fire-starting items to start.
 charcoal_pile_2: Pyrolysis occurs in up to a [c/55FFFF:9x4x9][c/AAAAAA: space beneath.]
 charcoal_pile_3: Logs must be not be exposed to [c/FFFF55:Air][c/AAAAAA:!]
 cleanroom: Keeping those pesky particles out
 cleanroom_0: Place machines inside to run cleanroom recipes.
-cleanroom_1: Uses [c/FFFFFF:30 EU/t][c/AAAAAA: when dirty,][c/FFFFFF:4 EU/t][c/AAAAAA: when clean.]
+cleanroom_1: Uses [c/FFFFFF:30 EU/t][c/AAAAAA: when dirty,] [c/FFFFFF:4 EU/t][c/AAAAAA: when clean.]
 cleanroom_2: Overclocking increases cleaning per cycle.
-cleanroom_3: "[c/55FFFF:Size:][c/FFFFFF:5x5x5 to 15x15x15]"
-cleanroom_4: Requires [c/FFFFFF:Filter Casings][c/AAAAAA:in the ceiling, excluding the edges.]
+cleanroom_3: "[c/55FFFF:Size:] [c/FFFFFF:5x5x5 to 15x15x15]"
+cleanroom_4: Requires [c/FFFFFF:Filter Casings] [c/AAAAAA:in the ceiling, excluding the edges.]
 cleanroom_5: Accepts up to [c/FFFFFF:4 Doors][c/AAAAAA:! Remains clean when the door is open.]
 cleanroom_6: Generators, Mufflers, Drills, and Primitive Machines are too dirty for the cleanroom!
-cleanroom_7: Send power through [c/FFFFFF:Hulls][c/AAAAAA:or][c/FFFFFF:Diodes][c/AAAAAA:in the walls.]
+cleanroom_7: Send power through [c/FFFFFF:Hulls] [c/AAAAAA:or] [c/FFFFFF:Diodes] [c/AAAAAA:in the walls.]
 coke_oven: Making better fuels for Steel and Power
 coke_oven_hatch: "[c/AAAAAA:Allows automation access for the Coke Oven.]"
 combustion: "[c/AAAAAA:Requires flammable Liquids]"
 computation_receiver_hatch: Computation Data Input for Multiblocks
 computation_transmitter_hatch: Computation Data Output for Multiblocks
 cracker: Makes Oil useful
-cracker_1: Every coil after [c/FFAA00:Cupronickel][c/AAAAAA: reduces energy usage by][c/FFFFFF:10%%][c/AAAAAA:.]
+cracker_1: Every coil after [c/FFAA00:Cupronickel][c/AAAAAA: reduces energy usage by] [c/FFFFFF:10%%][c/AAAAAA:.]
 data_access_hatch_0: Data Access for Multiblocks
 data_access_hatch_1: Adds [c/55FF55:%s][c/AAAAAA: slots for Data Items]
 data_bank_0: Your Personal NAS
@@ -43,11 +43,11 @@ data_receiver_hatch: Research Data Input for Multiblocks
 data_transmitter_hatch: Research Data Output for Multiblocks
 distillation_tower: Fluid Refinery
 electric_blast_furnace: Where's the electric smoker?
-electric_blast_furnace_0: For every [c/FFFFFF:900K][c/AAAAAA: above the recipe temperature, a multiplicative][c/FFFFFF:95%%][c/AAAAAA: energy multiplier is applied pre-overclocking.]
-electric_blast_furnace_1: For every [c/FFFFFF:1800K][c/AAAAAA: above the recipe temperature, one overclock becomes][c/FFFFFF:100%% efficient][c/AAAAAA: (perfect overclock).]
-electric_blast_furnace_2: For every voltage tier above [c/55FFFF:MV][c/AAAAAA:, temperature is increased by][c/FFFFFF:100K][c/AAAAAA:.]
+electric_blast_furnace_0: For every [c/FFFFFF:900K][c/AAAAAA: above the recipe temperature, a multiplicative] [c/FFFFFF:95%%][c/AAAAAA: energy multiplier is applied pre-overclocking.]
+electric_blast_furnace_1: For every [c/FFFFFF:1800K][c/AAAAAA: above the recipe temperature, one overclock becomes] [c/FFFFFF:100%% efficient][c/AAAAAA: (perfect overclock).]
+electric_blast_furnace_2: For every voltage tier above [c/55FFFF:MV][c/AAAAAA:, temperature is increased by] [c/FFFFFF:100K][c/AAAAAA:.]
 endpoint_0: Connect with [c/FFFFFF:Long Distance Pipe][c/AAAAAA: blocks to create a pipeline.]
-endpoint_1: Pipelines must have exactly [c/FFFFFF:1 Input][c/AAAAAA: and][c/FFFFFF:1 Output][c/AAAAAA: endpoint.]
+endpoint_1: Pipelines must have exactly [c/FFFFFF:1 Input][c/AAAAAA: and] [c/FFFFFF:1 Output][c/AAAAAA: endpoint.]
 endpoint_2: Only pipeline endpoints need to be [c/FFFFFF:chunk-loaded][c/AAAAAA:.]
 ev_alloy_smelter: "[c/AAAAAA:HighTech combination Smelter]"
 ev_arc_furnace: "[c/AAAAAA:Who needs a Blast Furnace?]"
@@ -105,7 +105,7 @@ hp_steam_macerator: "[c/AAAAAA:Macerating your Ores without Byproducts]"
 hp_steam_rock_crusher: "[c/AAAAAA:Place Water and Lava horizontally adjacent]"
 hp_steam_solar_boiler: "[c/AAAAAA:Steam Power by Sun]"
 hp_steam_solid_boiler: "[c/AAAAAA:Faster than the Small Steam Solid Fuel Boiler]"
-hull: "[c/AAAAAA:You just need][c/AA00AA:I][c/FF55FF:m][c/AA0000:a][c/FF5555:g][c/FFFF55:i][c/55FF55:n][c/55FFFF:a][c/00AAAA:t][c/AAAAAA:i][c/0000AA:o][c/AA00AA:n][c/AAAAAA: to use this]"
+hull: "[c/AAAAAA:You just need] [c/AA00AA:I][c/FF55FF:m][c/AA0000:a][c/FF5555:g][c/FFFF55:i][c/55FF55:n][c/55FFFF:a][c/00AAAA:t][c/AAAAAA:i][c/0000AA:o][c/AA00AA:n][c/AAAAAA: to use this]"
 hv_alloy_smelter: "[c/AAAAAA:HighTech combination Smelter]"
 hv_arc_furnace: "[c/AAAAAA:Who needs a Blast Furnace?]"
 hv_assembler: "[c/AAAAAA:Avengers, Assemble!]"
@@ -290,7 +290,7 @@ maintenance_hatch_configurable_1: Starts with no Maintenance problems!
 maintenance_hatch_full_auto: For automatically maintaining Multiblocks
 maintenance_hatch_tape_slot: Insert Tape to prevent problems
 maintenance_hatch_tool_slot: Click slot with empty hand when required tools are in inventory to solve problems
-miner: "[c/AAAAAA:Mines ores below the Miner! Starts as][c/FFFFFF:%sx%s][c/AAAAAA:area]"
+miner: "[c/AAAAAA:Mines ores below the Miner! Starts as] [c/FFFFFF:%sx%s] [c/AAAAAA:area]"
 muffler_hatch_0: Recovers waste from machines
 muffler_hatch_1: DO NOT OBSTRUCT THE OUTPUT!
 multi_furnace: Just like the Oven at Home
@@ -336,7 +336,7 @@ mv_thermal_centrifuge: "[c/AAAAAA:Separating Ores more precisely]"
 mv_wiremill: "[c/AAAAAA:Produces Wires more efficiently]"
 network_switch_0: Ethernet Hub
 network_switch_1: Used to route and distribute [c/FFFFFF:Computation][c/AAAAAA:.]
-network_switch_2: Can combine any number of Computation [c/FFFFFF:Receivers][c/AAAAAA: into any number of Computation][c/FFFFFF:Transmitters][c/AAAAAA:.]
+network_switch_2: Can combine any number of Computation [c/FFFFFF:Receivers][c/AAAAAA: into any number of Computation] [c/FFFFFF:Transmitters][c/AAAAAA:.]
 network_switch_3: Uses [c/FFFFFF:%s EU/t][c/AAAAAA: per Computation Data Hatch.]
 object_holder: Advanced Holding Mechanism for Research Station
 opv_gas_collector: "[c/AAAAAA:Collects Gas from the universe depending on the dimension]"
@@ -350,7 +350,7 @@ passthrough_hatch_item: Sends Items from one Side to the other
 power_substation_0: The heart of a centralized power grid
 power_substation_1: "[c/FFFFFF:Capacitors][c/AAAAAA: do not need to be all the same tier.]"
 power_substation_2: Allows up to [c/FFFFFF:%d Capacitor Layers][c/AAAAAA:.]
-power_substation_3: Loses energy equal to [c/FFFFFF:1%%][c/AAAAAA: of total capacity every][c/FFFFFF:24 hours][c/AAAAAA:.]
+power_substation_3: Loses energy equal to [c/FFFFFF:1%%][c/AAAAAA: of total capacity every] [c/FFFFFF:24 hours][c/AAAAAA:.]
 power_substation_4: Capped at [c/FFFFFF:%d kEU/t][c/AAAAAA: passive loss per Capacitor Block.]
 power_substation_5: Can use
 power_substation_6: Laser Hatches[c/AAAAAA:.]
@@ -359,11 +359,11 @@ processing_array: When a few Machines just doesn't cut it
 pump: "[c/AAAAAA:The best way to empty Oceans!]"
 pump_hatch: Primitive Fluid Output for Water Pump
 pyrolyse_oven: Electric Coke Oven
-pyrolyse_oven_1: "[c/FFAA00:Cupronickel][c/AAAAAA:coils are][c/FFFFFF:25%%][c/AAAAAA: slower. Every coil after][c/55FFFF:Kanthal][c/AAAAAA: increases speed by][c/FFFFFF:50%%][c/AAAAAA:.]"
+pyrolyse_oven_1: "[c/FFAA00:Cupronickel] [c/AAAAAA:coils are] [c/FFFFFF:25%%][c/AAAAAA: slower. Every coil after] [c/55FFFF:Kanthal][c/AAAAAA: increases speed by] [c/FFFFFF:50%%][c/AAAAAA:.]"
 quantum_chest: "[c/AAAAAA:Better than Storage Drawers]"
 quantum_tank: "[c/AAAAAA:Compact place to store all your fluids]"
 research_station_0: More than just a Multiblock Scanner
-research_station_1: Used to scan onto [c/FFFFFF:Data Orbs][c/AAAAAA: and][c/FFFFFF:Data Modules][c/AAAAAA:.]
+research_station_1: Used to scan onto [c/FFFFFF:Data Orbs][c/AAAAAA: and] [c/FFFFFF:Data Modules][c/AAAAAA:.]
 research_station_2: Requires [c/FFFFFF:Computation][c/AAAAAA: to work.]
 research_station_3: Providing more Computation allows the recipe to run faster.
 rotor_holder_0: Rotor Holder for Multiblocks
@@ -463,17 +463,17 @@ zpm_scanner: "[c/AAAAAA:Anomaly Detector]"
 zpm_sifter: "[c/AAAAAA:Sponsored by TFC]"
 zpm_thermal_centrifuge: "[c/AAAAAA:Blaze Sweatshop T-6352]"
 zpm_wiremill: "[c/AAAAAA:Ingot Elongator]"
-long_distance_item_pipeline_endpoint_0: "[c/AAFFAA:Endpoint for a Long Distance Item Pipeline.]"
-long_distance_item_pipeline_endpoint_1: "[c/AAFFAA:Teleports items to a far-away partner endpoint.]"
-long_distance_item_pipeline_endpoint_2: "[c/AAAAAA:1. Connect to the end of a long-distance pipe run.]"
-long_distance_item_pipeline_endpoint_3: "[c/AAAAAA:2. Place a matching endpoint at the far end.]"
-long_distance_item_pipeline_endpoint_4: "[c/AAAAAA:3. Screwdriver one to Input, the other to Output.]"
-long_distance_item_pipeline_endpoint_5: "[c/888888:Feed the Input from any side; it exits into a chest next to the Output.]"
-long_distance_item_pipeline_endpoint_6: "[c/888888:Endpoints must be at least 50 blocks apart.]"
-long_distance_fluid_pipeline_endpoint_0: "[c/AAFFAA:Endpoint for a Long Distance Fluid Pipeline.]"
-long_distance_fluid_pipeline_endpoint_1: "[c/AAFFAA:Teleports fluids to a far-away partner endpoint.]"
-long_distance_fluid_pipeline_endpoint_2: "[c/AAAAAA:1. Connect to the end of a long-distance pipe run.]"
-long_distance_fluid_pipeline_endpoint_3: "[c/AAAAAA:2. Place a matching endpoint at the far end.]"
-long_distance_fluid_pipeline_endpoint_4: "[c/AAAAAA:3. Screwdriver one to Input, the other to Output.]"
-long_distance_fluid_pipeline_endpoint_5: "[c/888888:Feed the Input from any side; it exits into a chest next to the Output.]"
 long_distance_fluid_pipeline_endpoint_6: "[c/888888:Endpoints must be at least 50 blocks apart.]"
+long_distance_fluid_pipeline_endpoint_5: "[c/888888:Feed the Input from any side; it exits into a chest next to the Output.]"
+long_distance_fluid_pipeline_endpoint_4: "[c/AAAAAA:3. Screwdriver one to Input, the other to Output.]"
+long_distance_fluid_pipeline_endpoint_3: "[c/AAAAAA:2. Place a matching endpoint at the far end.]"
+long_distance_fluid_pipeline_endpoint_2: "[c/AAAAAA:1. Connect to the end of a long-distance pipe run.]"
+long_distance_fluid_pipeline_endpoint_1: "[c/AAFFAA:Teleports fluids to a far-away partner endpoint.]"
+long_distance_fluid_pipeline_endpoint_0: "[c/AAFFAA:Endpoint for a Long Distance Fluid Pipeline.]"
+long_distance_item_pipeline_endpoint_6: "[c/888888:Endpoints must be at least 50 blocks apart.]"
+long_distance_item_pipeline_endpoint_5: "[c/888888:Feed the Input from any side; it exits into a chest next to the Output.]"
+long_distance_item_pipeline_endpoint_4: "[c/AAAAAA:3. Screwdriver one to Input, the other to Output.]"
+long_distance_item_pipeline_endpoint_3: "[c/AAAAAA:2. Place a matching endpoint at the far end.]"
+long_distance_item_pipeline_endpoint_2: "[c/AAAAAA:1. Connect to the end of a long-distance pipe run.]"
+long_distance_item_pipeline_endpoint_1: "[c/AAFFAA:Teleports items to a far-away partner endpoint.]"
+long_distance_item_pipeline_endpoint_0: "[c/AAFFAA:Endpoint for a Long Distance Item Pipeline.]"

@@ -39443,32 +39443,32 @@ multiblock_bag_steel_multiblock_tank: {
 }
 
 simple_item_pipe_small: {
-	// DisplayName: 小型简易物品管道
+	DisplayName: 小型简易物品管道
 	// Tooltip: ""
 }
 
 simple_item_pipe_large: {
-	// DisplayName: 大型简易物品管道
+	DisplayName: 大型简易物品管道
 	// Tooltip: ""
 }
 
 simple_item_pipe_huge: {
-	// DisplayName: 巨型简易物品管道
+	DisplayName: 巨型简易物品管道
 	// Tooltip: ""
 }
 
 simple_fluid_pipe_tiny: {
-	// DisplayName: 微型简易流体管道
+	DisplayName: 微型简易流体管道
 	// Tooltip: ""
 }
 
 simple_fluid_pipe_small: {
-	// DisplayName: 小型简易流体管道
+	DisplayName: 小型简易流体管道
 	// Tooltip: ""
 }
 
 simple_fluid_pipe_large: {
-	// DisplayName: 大型简易流体管道
+	DisplayName: 大型简易流体管道
 	// Tooltip: ""
 }
 
@@ -39480,4 +39480,274 @@ simple_fluid_pipe_huge: {
 pipe_intersection: {
 	// DisplayName: 管道交叉器
 	// Tooltip: ""
+}
+
+ultimate_manual: {
+	// Tooltip: ""
+	// DisplayName: Ultimate Manual Crafting Station
+}
+
+manual_crowbar: {
+	// Tooltip: ""
+	// DisplayName: Manual Crowbar Crafting Station
+}
+
+manual_mortar: {
+	// Tooltip: ""
+	// DisplayName: Manual Mortar Crafting Station
+}
+
+manual_wire_cutter: {
+	// Tooltip: ""
+	// DisplayName: Manual Wire Cutter Crafting Station
+}
+
+manual_screwdriver: {
+	// Tooltip: ""
+	// DisplayName: Manual Screwdriver Crafting Station
+}
+
+manual_wrench: {
+	// Tooltip: ""
+	// DisplayName: Manual Wrench Crafting Station
+}
+
+manual_saw: {
+	// Tooltip: ""
+	// DisplayName: Manual Saw Crafting Station
+}
+
+manual_file: {
+	// Tooltip: ""
+	// DisplayName: Manual File Crafting Station
+}
+
+manual_knife: {
+	// Tooltip: ""
+	// DisplayName: Manual Knife Crafting Station
+}
+
+manual_mallet: {
+	// Tooltip: ""
+	// DisplayName: Manual Mallet Crafting Station
+}
+
+manual_hammer: {
+	// Tooltip: ""
+	// DisplayName: Manual Hammer Crafting Station
+}
+
+luminite_superconductor_hex: {
+	// Tooltip: ""
+	// DisplayName: UV Luminite Superconductor Hex Wire
+}
+
+luminite_superconductor_octal: {
+	// Tooltip: ""
+	// DisplayName: UV Luminite Superconductor Octal Wire
+}
+
+luminite_superconductor_quadruple: {
+	// Tooltip: ""
+	// DisplayName: UV Luminite Superconductor Quadruple Wire
+}
+
+luminite_superconductor_double: {
+	// Tooltip: ""
+	// DisplayName: UV Luminite Superconductor Double Wire
+}
+
+luminite_superconductor_single: {
+	// Tooltip: ""
+	// DisplayName: UV Luminite Superconductor Wire
+}
+
+shroomite_superconductor_hex: {
+	// Tooltip: ""
+	// DisplayName: ZPM Shroomite Superconductor Hex Wire
+}
+
+shroomite_superconductor_octal: {
+	// Tooltip: ""
+	// DisplayName: ZPM Shroomite Superconductor Octal Wire
+}
+
+shroomite_superconductor_quadruple: {
+	// Tooltip: ""
+	// DisplayName: ZPM Shroomite Superconductor Quadruple Wire
+}
+
+shroomite_superconductor_double: {
+	// Tooltip: ""
+	// DisplayName: ZPM Shroomite Superconductor Double Wire
+}
+
+shroomite_superconductor_single: {
+	// Tooltip: ""
+	// DisplayName: ZPM Shroomite Superconductor Wire
+}
+
+spectre_superconductor_hex: {
+	// Tooltip: ""
+	// DisplayName: LuV Spectre Superconductor Hex Wire
+}
+
+spectre_superconductor_octal: {
+	// Tooltip: ""
+	// DisplayName: LuV Spectre Superconductor Octal Wire
+}
+
+spectre_superconductor_quadruple: {
+	// Tooltip: ""
+	// DisplayName: LuV Spectre Superconductor Quadruple Wire
+}
+
+spectre_superconductor_double: {
+	// Tooltip: ""
+	// DisplayName: LuV Spectre Superconductor Double Wire
+}
+
+spectre_superconductor_single: {
+	// Tooltip: ""
+	// DisplayName: LuV Spectre Superconductor Wire
+}
+
+chlorophyte_superconductor_hex: {
+	// Tooltip: ""
+	// DisplayName: IV Chlorophyte Superconductor Hex Wire
+}
+
+chlorophyte_superconductor_octal: {
+	// Tooltip: ""
+	// DisplayName: IV Chlorophyte Superconductor Octal Wire
+}
+
+chlorophyte_superconductor_quadruple: {
+	// Tooltip: ""
+	// DisplayName: IV Chlorophyte Superconductor Quadruple Wire
+}
+
+chlorophyte_superconductor_double: {
+	// Tooltip: ""
+	// DisplayName: IV Chlorophyte Superconductor Double Wire
+}
+
+chlorophyte_superconductor_single: {
+	// Tooltip: ""
+	// DisplayName: IV Chlorophyte Superconductor Wire
+}
+
+hallowed_superconductor_hex: {
+	// Tooltip: ""
+	// DisplayName: EV Hallowed Superconductor Hex Wire
+}
+
+hallowed_superconductor_octal: {
+	// Tooltip: ""
+	// DisplayName: EV Hallowed Superconductor Octal Wire
+}
+
+hallowed_superconductor_quadruple: {
+	// Tooltip: ""
+	// DisplayName: EV Hallowed Superconductor Quadruple Wire
+}
+
+hallowed_superconductor_double: {
+	// Tooltip: ""
+	// DisplayName: EV Hallowed Superconductor Double Wire
+}
+
+hallowed_superconductor_single: {
+	// Tooltip: ""
+	// DisplayName: EV Hallowed Superconductor Wire
+}
+
+hellstone_superconductor_hex: {
+	// Tooltip: ""
+	// DisplayName: HV Hellstone Superconductor Hex Wire
+}
+
+hellstone_superconductor_octal: {
+	// Tooltip: ""
+	// DisplayName: HV Hellstone Superconductor Octal Wire
+}
+
+hellstone_superconductor_quadruple: {
+	// Tooltip: ""
+	// DisplayName: HV Hellstone Superconductor Quadruple Wire
+}
+
+hellstone_superconductor_double: {
+	// Tooltip: ""
+	// DisplayName: HV Hellstone Superconductor Double Wire
+}
+
+hellstone_superconductor_single: {
+	// Tooltip: ""
+	// DisplayName: HV Hellstone Superconductor Wire
+}
+
+meteorite_superconductor_hex: {
+	// Tooltip: ""
+	// DisplayName: MV Meteorite Superconductor Hex Wire
+}
+
+meteorite_superconductor_octal: {
+	// Tooltip: ""
+	// DisplayName: MV Meteorite Superconductor Octal Wire
+}
+
+meteorite_superconductor_quadruple: {
+	// Tooltip: ""
+	// DisplayName: MV Meteorite Superconductor Quadruple Wire
+}
+
+meteorite_superconductor_double: {
+	// Tooltip: ""
+	// DisplayName: MV Meteorite Superconductor Double Wire
+}
+
+meteorite_superconductor_single: {
+	// Tooltip: ""
+	// DisplayName: MV Meteorite Superconductor Wire
+}
+
+evil_superconductor_hex: {
+	// Tooltip: ""
+	// DisplayName: LV Evil Superconductor Hex Wire
+}
+
+evil_superconductor_octal: {
+	// Tooltip: ""
+	// DisplayName: LV Evil Superconductor Octal Wire
+}
+
+evil_superconductor_quadruple: {
+	// Tooltip: ""
+	// DisplayName: LV Evil Superconductor Quadruple Wire
+}
+
+evil_superconductor_double: {
+	// Tooltip: ""
+	// DisplayName: LV Evil Superconductor Double Wire
+}
+
+evil_superconductor_single: {
+	// Tooltip: ""
+	// DisplayName: LV Evil Superconductor Wire
+}
+
+shimmer_bucket: {
+	// Tooltip: ""
+	// DisplayName: Shimmer Bucket
+}
+
+honey_bucket: {
+	// Tooltip: ""
+	// DisplayName: Honey Bucket
+}
+
+GregTechMultitool: {
+	// Tooltip: ""
+	// DisplayName: Greg Multitool
 }

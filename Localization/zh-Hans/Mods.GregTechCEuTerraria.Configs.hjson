@@ -55,6 +55,11 @@ GTConfig: {
 		Label: 有序装配线流体
 		Tooltip: ""
 	}
+
+	AllowShimmerDupes: {
+		// Tooltip: ""
+		// Label: Allow Shimmer Dupes
+	}
 }
 
 GTClientConfig: {
@@ -63,5 +68,10 @@ GTClientConfig: {
 	ShowDiscordInvite: {
 		Label: 显示 Discord 邀请
 		Tooltip: ""
+	}
+
+	QuestbookEditMode: {
+		// Tooltip: ""
+		// Label: Questbook Edit Mode
 	}
 }
