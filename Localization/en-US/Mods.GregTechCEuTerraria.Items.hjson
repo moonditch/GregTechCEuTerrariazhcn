@@ -25843,15 +25843,6 @@ basic_integrated_circuit: {
 		'''
 }
 
-basic_tape: {
-	DisplayName: Tape
-	Tooltip:
-		'''
-		[c/AAAAAA:Not strong enough for mechanical issues]
-		Can be used to pick up crates without dropping their items
-		'''
-}
-
 bio_chaff: {
 	DisplayName: Bio Chaff
 	Tooltip: ""
@@ -26536,11 +26527,6 @@ distillation_tower: {
 dough: {
 	DisplayName: Dough
 	Tooltip: ""
-}
-
-duct_tape: {
-	DisplayName: BrainTech Aerospace Advanced Reinforced Duct Tape FAL-84
-	Tooltip: "[c/AAAAAA:If you can't fix it with this, use more of it!]"
 }
 
 dynamite: {
@@ -28112,11 +28098,6 @@ ilc_wafer: {
 	Tooltip: "[c/AAAAAA:Raw Integrated Circuit]"
 }
 
-image_module: {
-	DisplayName: Image Module
-	Tooltip: ""
-}
-
 implosion_compressor: {
 	DisplayName: Implosion Compressor
 	Tooltip: ""
@@ -28155,11 +28136,6 @@ ingot_casting_mold: {
 ingot_extruder_mold: {
 	DisplayName: Extruder Mold (Ingot)
 	Tooltip: "[c/AAAAAA:Extruder Shape for, wait, can't we just use a Furnace?]"
-}
-
-invar_lighter: {
-	DisplayName: Invar Lighter
-	Tooltip: ""
 }
 
 iron_minecart_wheels: {
@@ -30183,16 +30159,6 @@ mask_filter: {
 	Tooltip: ""
 }
 
-matchbox: {
-	DisplayName: Matchbox
-	Tooltip: ""
-}
-
-matches: {
-	DisplayName: Matches
-	Tooltip: ""
-}
-
 max_16a_energy_converter: {
 	DisplayName: MAX 16[c/FFFF55:A] Energy Converter
 	Tooltip: ""
@@ -31798,11 +31764,6 @@ plate_extruder_mold: {
 	Tooltip: "[c/AAAAAA:Extruder Shape for making Plates]"
 }
 
-platinum_lighter: {
-	DisplayName: Platinum Lighter
-	Tooltip: ""
-}
-
 polished_dark_concrete: {
 	DisplayName: Polished Dark Concrete
 	Tooltip: ""
@@ -32277,11 +32238,6 @@ rubber_trapdoor: {
 	Tooltip: ""
 }
 
-rubber_wood: {
-	DisplayName: Rubber Wood
-	Tooltip: ""
-}
-
 secure_maceration_casing: {
 	DisplayName: Secure Maceration Casing
 	Tooltip: ""
@@ -32639,11 +32595,6 @@ tempered_glass: {
 terminal: {
 	DisplayName: Terminal
 	Tooltip: Shift + R-Click on a controller to automatically build a multiblock with items from your inventory
-}
-
-text_module: {
-	DisplayName: Text Module
-	Tooltip: ""
 }
 
 the_end_marker: {
@@ -38106,6 +38057,11 @@ manual_hammer: {
 	DisplayName: Manual Hammer Crafting Station
 }
 
+rubber_wood: {
+	Tooltip: ""
+	DisplayName: rubber_wood
+}
+
 max_4096a_laser_source_hatch: {
 	Tooltip: ""
 	DisplayName: MAX 4096A Laser Source Hatch
@@ -38134,6 +38090,31 @@ max_256a_laser_source_hatch: {
 max_256a_laser_target_hatch: {
 	Tooltip: ""
 	DisplayName: MAX 256A Laser Target Hatch
+}
+
+me_interface: {
+	Tooltip: ""
+	DisplayName: ME Interface
+}
+
+me_pattern_provider: {
+	Tooltip: ""
+	DisplayName: ME Pattern Provider
+}
+
+me_modular_terminal: {
+	Tooltip: ""
+	DisplayName: ME Terminal
+}
+
+quantum_computer: {
+	Tooltip: ""
+	DisplayName: Quantum Computer
+}
+
+me_storage: {
+	Tooltip: ""
+	DisplayName: ME Storage
 }
 
 ev_miner: {
@@ -38856,11 +38837,6 @@ neutronium_gregith: {
 	DisplayName: Neutronium Gregith
 }
 
-netherite_gregith: {
-	Tooltip: ""
-	DisplayName: Netherite Gregith
-}
-
 naquadah_alloy_gregith: {
 	Tooltip: ""
 	DisplayName: Naquadah Alloy Gregith
@@ -38916,6 +38892,26 @@ aluminium_gregith: {
 	DisplayName: Aluminium Gregith
 }
 
+me_pattern_encoding_card: {
+	Tooltip: ""
+	DisplayName: Pattern Encoding Terminal Card
+}
+
+me_pattern_access_card: {
+	Tooltip: ""
+	DisplayName: Pattern Access Terminal Card
+}
+
+me_crafting_status_card: {
+	Tooltip: ""
+	DisplayName: Crafting Status Terminal Card
+}
+
+me_crafting_card: {
+	Tooltip: ""
+	DisplayName: Crafting Terminal Card
+}
+
 simple_fluid_pipe_huge: {
 	Tooltip: ""
 	DisplayName: Huge Simple Fluid Pipe
@@ -38959,6 +38955,91 @@ simple_item_pipe: {
 simple_item_pipe_small: {
 	Tooltip: ""
 	DisplayName: Small Simple Item Pipe
+}
+
+me_cable_fluix: {
+	Tooltip: ""
+	DisplayName: ME Fluix Cable
+}
+
+me_cable_black: {
+	Tooltip: ""
+	DisplayName: ME Black Cable
+}
+
+me_cable_red: {
+	Tooltip: ""
+	DisplayName: ME Red Cable
+}
+
+me_cable_green: {
+	Tooltip: ""
+	DisplayName: ME Green Cable
+}
+
+me_cable_brown: {
+	Tooltip: ""
+	DisplayName: ME Brown Cable
+}
+
+me_cable_blue: {
+	Tooltip: ""
+	DisplayName: ME Blue Cable
+}
+
+me_cable_purple: {
+	Tooltip: ""
+	DisplayName: ME Purple Cable
+}
+
+me_cable_cyan: {
+	Tooltip: ""
+	DisplayName: ME Cyan Cable
+}
+
+me_cable_light_gray: {
+	Tooltip: ""
+	DisplayName: ME Light Gray Cable
+}
+
+me_cable_gray: {
+	Tooltip: ""
+	DisplayName: ME Gray Cable
+}
+
+me_cable_pink: {
+	Tooltip: ""
+	DisplayName: ME Pink Cable
+}
+
+me_cable_lime: {
+	Tooltip: ""
+	DisplayName: ME Lime Cable
+}
+
+me_cable_yellow: {
+	Tooltip: ""
+	DisplayName: ME Yellow Cable
+}
+
+me_cable_light_blue: {
+	Tooltip: ""
+	DisplayName: ME Light Blue Cable
+}
+
+me_cable_magenta: {
+	Tooltip: ""
+	DisplayName: ME Magenta Cable
+}
+
+me_cable_orange: {
+	Tooltip: ""
+	DisplayName: ME Orange Cable
+}
+
+me_cable_white: {
+	Tooltip: ""
+	DisplayName: ME White Cable
 }
 
 luminite_superconductor_hex: {
@@ -39288,7 +39369,7 @@ oxygen_plasma_bucket: {
 
 liquid_oxygen_bucket: {
 	Tooltip: ""
-	DisplayName: Liquid Oxygen Bucket
+	DisplayName: Oxygen Bucket
 }
 
 molten_osmiridium_bucket: {
@@ -39403,7 +39484,7 @@ helium_plasma_bucket: {
 
 liquid_helium_bucket: {
 	Tooltip: ""
-	DisplayName: Liquid Helium Bucket
+	DisplayName: Helium Bucket
 }
 
 molten_hastelloy_x_bucket: {
@@ -39456,6 +39537,11 @@ americium_plasma_bucket: {
 	DisplayName: Americium Plasma Bucket
 }
 
+money_bucket: {
+	Tooltip: ""
+	DisplayName: Liquid Money Bucket
+}
+
 shimmer_bucket: {
 	Tooltip: ""
 	DisplayName: Shimmer Bucket
@@ -39476,6 +39562,11 @@ water_bucket: {
 	DisplayName: Water Bucket
 }
 
+WrappedGenericStack: {
+	Tooltip: ""
+	DisplayName: Wrapped Stack
+}
+
 GregTechMultitool: {
 	Tooltip: ""
 	DisplayName: Greg Multitool
@@ -39484,6 +39575,21 @@ GregTechMultitool: {
 pipe_intersection: {
 	Tooltip: ""
 	DisplayName: Pipe Intersection
+}
+
+EncodedPatternItem: {
+	Tooltip: ""
+	DisplayName: ME Pattern
+}
+
+BlankPatternItem: {
+	Tooltip: ""
+	DisplayName: Blank Pattern
+}
+
+neon_sign: {
+	Tooltip: ""
+	DisplayName: Neon Sign
 }
 
 multiblock_bag_steel_multiblock_tank: {
@@ -39816,26 +39922,9 @@ multiblock_bag_coke_oven: {
 	DisplayName: Coke Oven Multiblock Bag
 }
 
-TooManyItemsItem: {
-	Tooltip:
-		'''
-		Place anywhere * right-click to open the global recipe browser.
-
-		[c/FFE68C:Search syntax]
-		  iron rod        - recipes containing 'iron' AND 'rod' (substring match)
-		  platform        - finds Terraria item-name matches (e.g. plank-substituted)
-		  @bender         - only bender recipes
-		  @assemb         - assembler AND assembly_line (substring on station)
-		  @bend ir pla    - bender recipes that also reference iron plate
-
-		[c/FFE68C:Controls]
-		  LMB on bar      - focus, start typing
-		  RMB on bar      - clear search
-		  LMB outside bar - unfocus
-		  Esc / X         - close browser
-		  Hover ingredient cell - tooltip with chance / tool info
-		'''
-	DisplayName: Too Many Items
+SuperStorageSystemBag: {
+	Tooltip: Will give you everything to setup full autocrafting. Normally fully available at around LV age
+	DisplayName: Super Storage System Startup Bag
 }
 
 SteamAgeSkipBag: {
@@ -39846,6 +39935,67 @@ SteamAgeSkipBag: {
 SkipStoneAgeBag: {
 	Tooltip: Right-click to open. A steam-age auto-mining setup so you can skip manual mining.
 	DisplayName: Starter Bag: Skip Stone Age
+}
+
+the_history_of_logistics: {
+	Lore:
+		'''
+		I want people to know the history of logistics mods because those people throughout all these years have been literally changing how we approach to factory games gamedesign overall (and basically invented factory games as a genre if you think about it).
+
+		(I checked stuff through forums/wikis/etc, but there still can be minor mistakes)
+
+		In early versions of Minecraft, there were no logistics options besides minecarts with chests
+
+		In April 2011 (MC Beta1.4), [c/FFC94A:SpaceToad] has created BuildCraft that added item pipes, filtering and two months later added autocrafting workbench. That allowed making full passive factory setups but required manual routing setups for everything
+
+		In October 2011 (MC Beta1.8.1), [c/FFC94A:Eloraam] has updated RedPower to version 2 and added pneumatic tubes which worked by different principles - they were aware of filtered destinations, and that approach is mostly used in logistical mods nowadays because it allows more control over the whole pipe network
+
+		In November 2011 (MC Beta1.8.1), [c/FFC94A:Krapht] has created Logistics Pipes, an addon for BuildCraft that first added storage buses concept and storage terminal with ondemand crafting requests, this concept mostly stays the same even nowadays but most people think its AE that introduced it, Stigler's law in action...
+
+		In May 2012 (MC 1.2.5) [c/FFC94A:Technic team] has created Tekkit Classic modpack which was one of the first modpacks that popularized putting many tech mods together and the demand on truly universal logistics solution of massive scale started to grow. Developer of this port has started playing modded minecraft specifically from this version of Tekkit by the way
+
+		In December 2012 (MC 1.4.7) [c/FFC94A:AlgorithmX2] has created Applied Energistics, it standartized storage terminal and pattern encoding/pattern providers and it didnt change much after that point. Adding new recipe autocraft has become a process that took a couple of clicks and allowed complex microcrafting-centered mods to appear
+
+		In March 2013 (MC 1.5) hoppers were added to minecraft (probably inspired by hoppers from Better Than Wolves mod by [c/FFC94A:FlowerChild])
+
+		In August 2013 (MC 1.6.4) [c/FFC94A:CrazyPants] has created Ender IO which allowed more compact setups as you can put several pipes, and (alongside AE) was one of the first mods to get rid of calculating actual item transport and connect input and outputs directly on a logical level. Til this days it stays as one of the most convenient ways of handling local subsystems automation
+
+		In March 2014 (MC 1.7.2) [c/FFC94A:AlgorithmX2] has released Applied Energistics 2 which was a full rewrite and added channels, p2p, crafting plans, AE2 has became the ultimate storage mod that's integrated to 95% of tech modpacks at this point. In september [c/FFC94A:AlgorithmX2] has open sourced it and left and after that [c/FFC94A:yueh], [c/FFC94A:thatsIch] and others has continued to develop the mod to the newer versions
+
+		Its 2026 now, and its completely obvious that AE2 has won the logistics arms race and emerged into its own style of gameplay and consistently stays popular and some mods explicitly design their gameplay around features AE2 provides (hi GT Stocking Bus). These 10 years have shown that AE/Logistical Pipes is a wonderful thing as a concept and doesnt really have any alternatives that are as powerful and universal
+
+
+		There are other things that have affected Minecraft logistics in some way, like:
+
+		MineFactory by [c/FFC94A:Feanorith] (2011) and Immersive Engineering by [c/FFC94A:BluSunrize] (2015) introduces conveyors which moved physical entities but haven't really become popular in minecraft until Create came out
+
+		Mekanism by [c/FFC94A:aidancbrady] (2012) was one of the earliest mods to properly unify the inter-mod transport of all the 3 main matter types
+
+		Steve's Factory Manager by [c/FFC94A:Vswe] (2013) allowed node graph programmable logistics
+
+		Thermal Expansion by [c/FFC94A:Team CoFH] (2013) has lead to standardization of many modded concepts and interactions
+
+		Forge Capability system by [c/FFC94A:Forge team] (2016) allowed to completely unify inter-mod logistics
+
+		Refined Storage by [c/FFC94A:raoulvdberge] (2016) provided a casual alternative to AE2 while keeping its basic functionality
+
+		XNet by [c/FFC94A:McJty] (2016) took the idea of p2p transport of EnderIO to extreme, and centralized IO setup
+
+		Integrated Dynamics/Tunnels by [c/FFC94A:kroeser] (2016) allowed doing arbitrary execution with complex card expressions
+
+		Tom's Simple Storage Mod by [c/FFC94A:tom5454] (2019) and Ars Nouveau Storage by [c/FFC94A:baileyholl] (2022) added even more casual storage with terminal which fits the early game gap where AE2 is too expensive
+
+		Create by [c/FFC94A:simibubi] (2019) allowed more immersive and vanilla-friendly transport solutions. Later on Create Frogports allowed making complex passive automation setups
+
+		Laser IO by [c/FFC94A:Direwolf20] (2022) allowed compact local logistics experience similar to EnderIO but taking even less space
+		'''
+	Tooltip: Right-click to read
+	DisplayName: The History of Logistics
+}
+
+gregtech_toilet: {
+	Tooltip: The Final Overclock.
+	DisplayName: Gregtech Toilet
 }
 
 GregTechIronToolsBag: {
@@ -39901,4 +40051,76 @@ acid_etched_inert_casing: {
 		Use on the surface to summon the Caustic Reactor
 		'''
 	DisplayName: Acid-Etched Inert Casing
+}
+
+treated_wood_plate: {
+	DisplayName: Treated Wood Plate
+	Tooltip: ""
+}
+
+basic_tape: {
+	DisplayName: Tape
+	Tooltip: ""
+}
+
+duct_tape: {
+	DisplayName: BrainTech Aerospace Advanced Reinforced Duct Tape FAL-84
+	Tooltip: ""
+}
+
+image_module: {
+	DisplayName: Image Module
+	Tooltip: ""
+}
+
+invar_lighter: {
+	DisplayName: Invar Lighter
+	Tooltip: ""
+}
+
+matchbox: {
+	DisplayName: Matchbox
+	Tooltip: ""
+}
+
+matches: {
+	DisplayName: Matches
+	Tooltip: ""
+}
+
+platinum_lighter: {
+	DisplayName: Platinum Lighter
+	Tooltip: ""
+}
+
+text_module: {
+	DisplayName: Text Module
+	Tooltip: ""
+}
+
+TooManyItemsItem: {
+	DisplayName: Too Many Items
+	Tooltip:
+		'''
+		Place anywhere * right-click to open the global recipe browser.
+
+		[c/FFE68C:Search syntax]
+		  iron rod        - recipes containing 'iron' AND 'rod' (substring match)
+		  platform        - finds Terraria item-name matches (e.g. plank-substituted)
+		  @bender         - only bender recipes
+		  @assemb         - assembler AND assembly_line (substring on station)
+		  @bend ir pla    - bender recipes that also reference iron plate
+
+		[c/FFE68C:Controls]
+		  LMB on bar      - focus, start typing
+		  RMB on bar      - clear search
+		  LMB outside bar - unfocus
+		  Esc / X         - close browser
+		  Hover ingredient cell - tooltip with chance / tool info
+		'''
+}
+
+netherite_gregith: {
+	DisplayName: Netherite Gregith
+	Tooltip: ""
 }

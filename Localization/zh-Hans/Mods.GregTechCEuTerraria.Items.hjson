@@ -3704,7 +3704,7 @@ duranium_gear: {
 }
 
 duranium_huge_fluid_pipe: {
-	DisplayName: 耐铝巨型流体管道
+	DisplayName: 铿铀巨型流体管道
 	Tooltip: ""
 }
 
@@ -3714,17 +3714,17 @@ duranium_ingot: {
 }
 
 duranium_large_fluid_pipe: {
-	DisplayName: 耐铝大型流体管道
+	DisplayName: 铿铀大型流体管道
 	Tooltip: ""
 }
 
 duranium_nonuple_fluid_pipe: {
-	DisplayName: 耐铝九重流体管道
+	DisplayName: 铿铀九重流体管道
 	Tooltip: ""
 }
 
 duranium_normal_fluid_pipe: {
-	DisplayName: 耐铝普通流体管道
+	DisplayName: 铿铀普通流体管道
 	Tooltip: ""
 }
 
@@ -3739,7 +3739,7 @@ duranium_plate: {
 }
 
 duranium_quadruple_fluid_pipe: {
-	DisplayName: 耐铝四重流体管道
+	DisplayName: 铿铀四重流体管道
 	Tooltip: ""
 }
 
@@ -3759,12 +3759,12 @@ duranium_screwdriver_tip: {
 }
 
 duranium_small_fluid_pipe: {
-	DisplayName: 耐铝小型流体管道
+	DisplayName: 铿铀小型流体管道
 	Tooltip: ""
 }
 
 duranium_tiny_fluid_pipe: {
-	DisplayName: 耐铝微型流体管道
+	DisplayName: 铿铀微型流体管道
 	Tooltip: ""
 }
 
@@ -25640,12 +25640,12 @@ active_transformer: {
 
 activity_detector_cover: {
 	DisplayName: 活跃探测覆盖板
-	Tooltip: 作覆盖板时依照机器活跃状态发出红石信号。
+	Tooltip: "[c/AAAAAA:作][c/FFFFFF:覆盖板][c/AAAAAA:时依照][c/FFFFFF:机器活跃状态][c/AAAAAA:发出红石信号。]"
 }
 
 advanced_activity_detector_cover: {
 	DisplayName: 进阶活跃状态探测器
-	Tooltip: 作覆盖板时依照机器处理进度发出红石信号。
+	Tooltip: "[c/AAAAAA:作][c/FFFFFF:覆盖板][c/AAAAAA:时依照][c/FFFFFF:机器处理进度][c/AAAAAA:发出红石信号。]"
 }
 
 advanced_computer_casing: {
@@ -25665,32 +25665,44 @@ advanced_electric_jetpack: {
 
 advanced_energy_detector_cover: {
 	DisplayName: 进阶能量探测覆盖板
-	Tooltip: 作覆盖板时依照由RS锁存器控制的能量状态发出红石信号。
+	Tooltip: "[c/AAAAAA:作][c/FFFFFF:覆盖板][c/AAAAAA:时依照由][c/FFFFFF:RS锁存器][c/AAAAAA:控制的][c/FFFFFF:能量状态][c/AAAAAA:发出红石信号。]"
 }
 
 advanced_fluid_detector_cover: {
 	DisplayName: 进阶流体探测器
-	Tooltip: 作覆盖板时依照由RS锁存器控制的流体存储状态发出红石信号。
+	Tooltip: 作[c/FFFFFF:覆盖板][c/AAAAAA:时依照由][c/FFFFFF:RS锁存器][c/AAAAAA:控制的][c/FFFFFF:流体存储状态][c/AAAAAA:发出红石信号。]
 }
 
 advanced_fluid_voiding_cover: {
 	DisplayName: 进阶流体销毁覆盖板
-	Tooltip: 作覆盖板时允许按数量销毁流体。
+	Tooltip:
+		'''
+		[c/AAAAAA:作][c/FFFFFF:覆盖板][c/AAAAAA:时允许按数量销毁][c/FFFFFF:流体][c/AAAAAA:。]
+		加装后使用[c/FFFFFF:软锤][c/AAAAAA:激活]
+		'''
 }
 
 advanced_integrated_circuit: {
 	DisplayName: 进阶集成电路
-	Tooltip: 更小也更强
+	Tooltip:
+		'''
+		[c/AAAAAA:更小也更强]
+		[c/FFAA00:HV级电路]
+		'''
 }
 
 advanced_item_detector_cover: {
 	DisplayName: 进阶物品探测器
-	Tooltip: 作覆盖板时依照由RS锁存器控制的物品存储状态发出红石信号。
+	Tooltip: 作[c/FFFFFF:覆盖板][c/AAAAAA:时依照由][c/FFFFFF:RS锁存器][c/AAAAAA:控制的][c/FFFFFF:物品存储状态][c/AAAAAA:发出红石信号。]
 }
 
 advanced_item_voiding_cover: {
 	DisplayName: 进阶物品销毁覆盖板
-	Tooltip: 作覆盖板时销毁物品。
+	Tooltip:
+		'''
+		[c/AAAAAA:作][c/FFFFFF:覆盖板][c/AAAAAA:时销毁物品。]
+		加装后使用[c/FFFFFF:软锤][c/AAAAAA:激活]
+		'''
 }
 
 advanced_monitor: {
@@ -25715,37 +25727,37 @@ advanced_quarktech_chestplate: {
 
 advanced_smd_capacitor: {
 	DisplayName: 高级贴片电容
-	Tooltip: 高级电子元件
+	Tooltip: "[c/AAAAAA:高级电子元件]"
 }
 
 advanced_smd_diode: {
 	DisplayName: 高级贴片二极管
-	Tooltip: 高级电子元件
+	Tooltip: "[c/AAAAAA:高级电子元件]"
 }
 
 advanced_smd_inductor: {
 	DisplayName: 高级贴片电感
-	Tooltip: 高级电子元件
+	Tooltip: "[c/AAAAAA:高级电子元件]"
 }
 
 advanced_smd_resistor: {
 	DisplayName: 高级贴片电阻
-	Tooltip: 高级电子元件
+	Tooltip: "[c/AAAAAA:高级电子元件]"
 }
 
 advanced_smd_transistor: {
 	DisplayName: 高级贴片晶体管
-	Tooltip: 高级电子元件
+	Tooltip: "[c/AAAAAA:高级电子元件]"
 }
 
 advanced_soc: {
 	DisplayName: ASoC
-	Tooltip: 先进系统级芯片
+	Tooltip: "[c/AAAAAA:先进系统级芯片]"
 }
 
 advanced_soc_wafer: {
 	DisplayName: ASoC晶圆
-	Tooltip: 高级电路原料
+	Tooltip: "[c/AAAAAA:先进电路原料]"
 }
 
 alloy_blast_smelter: {
@@ -25775,7 +25787,7 @@ antimatter_hazard_sign_block: {
 
 anvil_casting_mold: {
 	DisplayName: 模具（砧）
-	Tooltip: 用来制作砧的模具
+	Tooltip: "[c/AAAAAA:用来制作砧的模具]"
 }
 
 assembly_line: {
@@ -25810,7 +25822,7 @@ auto_maintenance_hatch: {
 
 ball_casting_mold: {
 	DisplayName: 模具（球）
-	Tooltip: 用来制作球的模具
+	Tooltip: "[c/AAAAAA:用来制作球的模具]"
 }
 
 basic_data_access_hatch: {
@@ -25820,17 +25832,20 @@ basic_data_access_hatch: {
 
 basic_electronic_circuit: {
 	DisplayName: 基础电子电路
-	Tooltip: 你的第一块电路
+	Tooltip:
+		'''
+		[c/AAAAAA:你的第一块电路]
+		[c/FF5555:LV级电路]
+		'''
 }
 
 basic_integrated_circuit: {
 	DisplayName: 基础集成电路
-	Tooltip: 更小也更强
-}
-
-basic_tape: {
-	DisplayName: 胶带
-	Tooltip: 强度不足，无法解决机械故障
+	Tooltip:
+		'''
+		[c/AAAAAA:更小也更强]
+		[c/FFAA00:LV级电路]
+		'''
 }
 
 bio_chaff: {
@@ -25880,17 +25895,17 @@ black_studs: {
 
 blacklight: {
 	DisplayName: 黑光灯
-	Tooltip: 长波紫外线光源
+	Tooltip: "[c/AAAAAA:长波][c/FF55FF:紫外线][c/AAAAAA:光源]"
 }
 
 block_casting_mold: {
 	DisplayName: 模具（块）
-	Tooltip: 用来制作块的模具
+	Tooltip: "[c/AAAAAA:用来制作块的模具]"
 }
 
 block_extruder_mold: {
 	DisplayName: 模头（块）
-	Tooltip: 用来制作块的模头
+	Tooltip: "[c/AAAAAA:用来制作块的模头]"
 }
 
 blue_borderless_lamp: {
@@ -25930,7 +25945,7 @@ blue_studs: {
 
 bolt_extruder_mold: {
 	DisplayName: 模头（螺栓）
-	Tooltip: 用来制作螺栓的模头
+	Tooltip: "[c/AAAAAA:用来制作螺栓的模头]"
 }
 
 boss_hazard_sign_block: {
@@ -25940,12 +25955,12 @@ boss_hazard_sign_block: {
 
 bottle_casting_mold: {
 	DisplayName: 模具（瓶子）
-	Tooltip: 用来制作瓶的模具
+	Tooltip: "[c/AAAAAA:用来制作瓶的模具]"
 }
 
 bottle_extruder_mold: {
 	DisplayName: 模头（瓶子）
-	Tooltip: 用来制作瓶子的模头
+	Tooltip: "[c/AAAAAA:用来制作瓶子的模头]"
 }
 
 brick_wooden_form: {
@@ -26045,7 +26060,7 @@ brown_studs: {
 
 capacitor: {
 	DisplayName: 电容
-	Tooltip: 基础电子元件
+	Tooltip: "[c/AAAAAA:基础电子元件]"
 }
 
 carbon_fiber_mesh: {
@@ -26070,7 +26085,7 @@ causality_hazard_sign_block: {
 
 cell_extruder_mold: {
 	DisplayName: 模头（单元）
-	Tooltip: 用来制作单元的模头
+	Tooltip: "[c/AAAAAA:用来制作单元的模头]"
 }
 
 central_monitor: {
@@ -26260,7 +26275,7 @@ computer_heat_vent: {
 
 computer_monitor_cover: {
 	DisplayName: 电脑屏幕覆盖板
-	Tooltip: 作覆盖板时显示数据。
+	Tooltip: "[c/AAAAAA:作][c/FFFFFF:覆盖板][c/AAAAAA:时显示][c/FFFFFF:数据][c/AAAAAA:。]"
 }
 
 configurable_maintenance_hatch: {
@@ -26275,12 +26290,12 @@ corrosion_proof_casing: {
 
 cpu_chip: {
 	DisplayName: CPU芯片
-	Tooltip: 中央处理器
+	Tooltip: "[c/AAAAAA:中央处理器]"
 }
 
 cpu_wafer: {
 	DisplayName: CPU晶圆
-	Tooltip: 中央处理器原料
+	Tooltip: "[c/AAAAAA:中央处理器原料]"
 }
 
 cracked_dark_concrete_bricks: {
@@ -26340,32 +26355,48 @@ crushing_wheels: {
 
 crystal_cpu: {
 	DisplayName: 晶体CPU
-	Tooltip: 晶体处理器
+	Tooltip: "[c/AAAAAA:晶体处理器]"
 }
 
 crystal_processor: {
 	DisplayName: 晶体处理器
-	Tooltip: 得益于晶体蚀刻技术
+	Tooltip:
+		'''
+		[c/AAAAAA:得益于晶体蚀刻技术]
+		[c/5555FF:IV级电路]
+		'''
 }
 
 crystal_processor_assembly: {
 	DisplayName: 晶体处理器集群
-	Tooltip: 得益于晶体蚀刻技术
+	Tooltip:
+		'''
+		[c/AAAAAA:得益于晶体蚀刻技术]
+		[c/5555FF:LuV级电路]
+		'''
 }
 
 crystal_processor_computer: {
 	DisplayName: 晶体处理器超级计算机
-	Tooltip: 得益于晶体蚀刻技术
+	Tooltip:
+		'''
+		[c/AAAAAA:得益于晶体蚀刻技术]
+		[c/5555FF:ZPM级电路]
+		'''
 }
 
 crystal_processor_mainframe: {
 	DisplayName: 晶体处理器主机
-	Tooltip: 得益于晶体蚀刻技术
+	Tooltip:
+		'''
+		[c/AAAAAA:得益于晶体蚀刻技术]
+		[c/5555FF:UV级电路]
+		'''
 }
 
 crystal_soc: {
 	DisplayName: 晶体SoC
-	Tooltip: 晶体系统级芯片
+	Tooltip: "[c/AAAAAA:晶体系统级芯片]"
 }
 
 cupronickel_coil_block: {
@@ -26410,7 +26441,7 @@ cyan_studs: {
 
 cylinder_casting_mold: {
 	DisplayName: 模具（圆柱）
-	Tooltip: 用来制作圆柱的模具
+	Tooltip: "[c/AAAAAA:用来制作圆柱的模具]"
 }
 
 dark_concrete: {
@@ -26465,7 +26496,7 @@ data_module: {
 
 data_orb: {
 	DisplayName: 数据球
-	Tooltip: 大容量的数据存储器
+	Tooltip: "[c/AAAAAA:大容量的数据容器]"
 }
 
 data_receiver_hatch: {
@@ -26475,7 +26506,7 @@ data_receiver_hatch: {
 
 data_stick: {
 	DisplayName: 闪存
-	Tooltip: 小容量的数据存储器
+	Tooltip: "[c/AAAAAA:小容量的数据容器]"
 }
 
 data_transmitter_hatch: {
@@ -26490,7 +26521,7 @@ diamond_grinding_head: {
 
 diode: {
 	DisplayName: 二极管
-	Tooltip: 基础电子元件
+	Tooltip: "[c/AAAAAA:基础电子元件]"
 }
 
 distillation_tower: {
@@ -26501,11 +26532,6 @@ distillation_tower: {
 dough: {
 	DisplayName: 面团
 	Tooltip: ""
-}
-
-duct_tape: {
-	DisplayName: 布莱恩科技航空专用强化胶带FAL-84型
-	Tooltip: 如果一卷修不好，那就再来一卷！
 }
 
 dynamite: {
@@ -26530,12 +26556,12 @@ electrolytic_cell: {
 
 empty_mold: {
 	DisplayName: 空模板
-	Tooltip: 用以制作模具与压模器的模头
+	Tooltip: "[c/AAAAAA:用以制作模具与压模器的模头]"
 }
 
 empty_spray_can: {
 	DisplayName: 空喷漆罐
-	Tooltip: 可充入各种颜色的喷剂
+	Tooltip: "[c/AAAAAA:可充入各种颜色的喷剂]"
 }
 
 empty_tier_i_battery: {
@@ -26560,7 +26586,7 @@ empty_wooden_form: {
 
 ender_fluid_link_cover: {
 	DisplayName: 末影流体连接
-	Tooltip: 作覆盖板时利用无线末影连接传输流体。
+	Tooltip: "[c/AAAAAA:作][c/FFFFFF:覆盖板][c/AAAAAA:时利用][c/FFFFFF:无线][c/FF55FF:末影][c/FFFFFF:连接][c/AAAAAA:传输][c/FFFFFF:流体][c/AAAAAA:。]"
 }
 
 ender_item_link_cover: {
@@ -26580,22 +26606,22 @@ energium_dust: {
 
 energy_cluster: {
 	DisplayName: 能量簇
-	Tooltip: 可充电电池
+	Tooltip: "[c/AAAAAA:可充电电池]"
 }
 
 energy_crystal: {
 	DisplayName: 能量水晶
-	Tooltip: 可充电电池
+	Tooltip: "[c/AAAAAA:可充电电池]"
 }
 
 energy_detector_cover: {
 	DisplayName: 能量探测覆盖板
-	Tooltip: 作覆盖板时依照能量储量发出红石信号。
+	Tooltip: "[c/AAAAAA:作][c/FFFFFF:覆盖板][c/AAAAAA:时依照][c/FFFFFF:能量储量][c/AAAAAA:发出红石信号。]"
 }
 
 energy_module: {
 	DisplayName: 能量模块
-	Tooltip: 可充电电池
+	Tooltip: "[c/AAAAAA:可充电电池]"
 }
 
 engine_intake_casing: {
@@ -26605,7 +26631,7 @@ engine_intake_casing: {
 
 engraved_crystal_chip: {
 	DisplayName: 刻蚀水晶芯片
-	Tooltip: 晶体电路所需
+	Tooltip: "[c/AAAAAA:晶体电路所需]"
 }
 
 engraved_lapotron_crystal_chip: {
@@ -26615,12 +26641,12 @@ engraved_lapotron_crystal_chip: {
 
 epoxy_circuit_board: {
 	DisplayName: 环氧树脂基板
-	Tooltip: 进阶电路基板
+	Tooltip: "[c/AAAAAA:进阶电路基板]"
 }
 
 epoxy_printed_circuit_board: {
 	DisplayName: 环氧树脂印刷电路基板
-	Tooltip: 更高级的电路基板
+	Tooltip: "[c/AAAAAA:更高级的电路基板]"
 }
 
 ev_16a_energy_converter: {
@@ -26644,27 +26670,27 @@ ev_8a_energy_converter: {
 }
 
 ev_air_scrubber: {
-	DisplayName: 进阶空气净化器III
+	DisplayName: "进阶空气净化器III"
 	Tooltip: ""
 }
 
 ev_alloy_smelter: {
-	DisplayName: 进阶合金炉III
+	DisplayName: "进阶合金炉III"
 	Tooltip: ""
 }
 
 ev_arc_furnace: {
-	DisplayName: 进阶电弧炉III
+	DisplayName: "进阶电弧炉III"
 	Tooltip: ""
 }
 
 ev_assembler: {
-	DisplayName: 进阶组装机III
+	DisplayName: "进阶组装机III"
 	Tooltip: ""
 }
 
 ev_autoclave: {
-	DisplayName: 进阶高压釜III
+	DisplayName: "进阶高压釜III"
 	Tooltip: ""
 }
 
@@ -26685,7 +26711,7 @@ ev_battery_buffer_8x: {
 
 ev_battery_hull: {
 	DisplayName: 小型钒电池外壳
-	Tooltip: 一个空的EV电池外壳
+	Tooltip: "[c/AAAAAA:一个空的][c/AA00AA:EV][c/AAAAAA:电池外壳]"
 }
 
 ev_bedrock_ore_miner: {
@@ -26694,27 +26720,27 @@ ev_bedrock_ore_miner: {
 }
 
 ev_bender: {
-	DisplayName: 进阶卷板机III
+	DisplayName: "进阶卷板机III"
 	Tooltip: ""
 }
 
 ev_block_breaker: {
-	DisplayName: 进阶方块破坏器III
+	DisplayName: "进阶方块破坏器III"
 	Tooltip: ""
 }
 
 ev_brewery: {
-	DisplayName: 进阶酿造室III
+	DisplayName: "进阶酿造室III"
 	Tooltip: ""
 }
 
 ev_canner: {
-	DisplayName: 进阶装罐机III
+	DisplayName: "进阶装罐机III"
 	Tooltip: ""
 }
 
 ev_centrifuge: {
-	DisplayName: 进阶离心机III
+	DisplayName: "进阶离心机III"
 	Tooltip: ""
 }
 
@@ -26724,82 +26750,82 @@ ev_charger_4x: {
 }
 
 ev_chemical_bath: {
-	DisplayName: 进阶化学浸洗机III
+	DisplayName: "进阶化学浸洗机III"
 	Tooltip: ""
 }
 
 ev_chemical_reactor: {
-	DisplayName: 进阶化学反应釜III
+	DisplayName: "进阶化学反应釜III"
 	Tooltip: ""
 }
 
 ev_circuit_assembler: {
-	DisplayName: 进阶电路组装机III
+	DisplayName: "进阶电路组装机III"
 	Tooltip: ""
 }
 
 ev_compressor: {
-	DisplayName: 进阶压缩机III
+	DisplayName: "进阶压缩机III"
 	Tooltip: ""
 }
 
 ev_conveyor_module: {
-	DisplayName: EV传送带
+	DisplayName: "EV传送带"
 	Tooltip: ""
 }
 
 ev_cutter: {
-	DisplayName: 进阶切割机III
+	DisplayName: "进阶切割机III"
 	Tooltip: ""
 }
 
 ev_diode: {
-	DisplayName: 进阶二极管III
+	DisplayName: "进阶二极管III"
 	Tooltip: ""
 }
 
 ev_distillery: {
-	DisplayName: 进阶蒸馏室III
+	DisplayName: "进阶蒸馏室III"
 	Tooltip: ""
 }
 
 ev_electric_furnace: {
-	DisplayName: 进阶电炉III
+	DisplayName: "进阶电炉III"
 	Tooltip: ""
 }
 
 ev_electric_motor: {
-	DisplayName: EV电动马达
+	DisplayName: "EV电动马达"
 	Tooltip: ""
 }
 
 ev_electric_piston: {
-	DisplayName: EV电力活塞
+	DisplayName: "EV电力活塞"
 	Tooltip: ""
 }
 
 ev_electric_pump: {
-	DisplayName: EV电动泵
+	DisplayName: "EV电动泵"
 	Tooltip: ""
 }
 
 ev_electrolyzer: {
-	DisplayName: 进阶电解机III
+	DisplayName: "进阶电解机III"
 	Tooltip: ""
 }
 
 ev_electromagnetic_separator: {
-	DisplayName: 进阶电磁选矿机III
+	DisplayName: "进阶电磁选矿机III"
 	Tooltip: ""
 }
 
 ev_emitter: {
-	DisplayName: EV发射器
+	DisplayName: "EV发射器"
 	Tooltip: ""
 }
 
 ev_energy_input_hatch: {
-	DisplayName: EV能源仓
+	DisplayName: "EV能源仓"
 	Tooltip: ""
 }
 
@@ -26814,7 +26840,7 @@ ev_energy_input_hatch_4a: {
 }
 
 ev_energy_output_hatch: {
-	DisplayName: EV动力仓
+	DisplayName: "EV动力仓"
 	Tooltip: ""
 }
 
@@ -26829,37 +26855,37 @@ ev_energy_output_hatch_4a: {
 }
 
 ev_extractor: {
-	DisplayName: 进阶提取机III
+	DisplayName: "进阶提取机III"
 	Tooltip: ""
 }
 
 ev_extruder: {
-	DisplayName: 进阶压模器III
+	DisplayName: "进阶压模器III"
 	Tooltip: ""
 }
 
 ev_fermenter: {
-	DisplayName: 进阶发酵槽III
+	DisplayName: "进阶发酵槽III"
 	Tooltip: ""
 }
 
 ev_field_generator: {
-	DisplayName: EV力场发生器
+	DisplayName: "EV力场发生器"
 	Tooltip: ""
 }
 
 ev_fisher: {
-	DisplayName: 进阶捕鱼器III
+	DisplayName: "进阶捕鱼器III"
 	Tooltip: ""
 }
 
 ev_fluid_drilling_rig: {
-	DisplayName: 进阶流体钻机 II
+	DisplayName: "进阶流体钻机 II"
 	Tooltip: ""
 }
 
 ev_fluid_heater: {
-	DisplayName: 进阶流体加热器III
+	DisplayName: "进阶流体加热器III"
 	Tooltip: ""
 }
 
@@ -26869,27 +26895,27 @@ ev_fluid_passthrough_hatch: {
 }
 
 ev_fluid_regulator: {
-	DisplayName: EV流体校准器
+	DisplayName: "EV流体校准器"
 	Tooltip: ""
 }
 
 ev_fluid_solidifier: {
-	DisplayName: 进阶流体固化器III
+	DisplayName: "进阶流体固化器III"
 	Tooltip: ""
 }
 
 ev_forge_hammer: {
-	DisplayName: 进阶锻造锤III
+	DisplayName: "进阶锻造锤III"
 	Tooltip: ""
 }
 
 ev_forming_press: {
-	DisplayName: 进阶冲压机床III
+	DisplayName: "进阶冲压机床III"
 	Tooltip: ""
 }
 
 ev_gas_collector: {
-	DisplayName: 进阶集气室III
+	DisplayName: "进阶集气室III"
 	Tooltip: ""
 }
 
@@ -26899,27 +26925,27 @@ ev_hermetic_casing: {
 }
 
 ev_input_bus: {
-	DisplayName: EV输入总线
+	DisplayName: "EV输入总线"
 	Tooltip: ""
 }
 
 ev_input_hatch: {
-	DisplayName: EV输入仓
+	DisplayName: "EV输入仓"
 	Tooltip: ""
 }
 
 ev_input_hatch_4x: {
-	DisplayName: EV四重输入仓
+	DisplayName: "EV四重输入仓"
 	Tooltip: ""
 }
 
 ev_input_hatch_9x: {
-	DisplayName: EV九重输入仓
+	DisplayName: "EV九重输入仓"
 	Tooltip: ""
 }
 
 ev_item_collector: {
-	DisplayName: 进阶物品收集器III
+	DisplayName: "进阶物品收集器III"
 	Tooltip: ""
 }
 
@@ -26934,117 +26960,117 @@ ev_lapotronic_battery: {
 }
 
 ev_large_miner: {
-	DisplayName: 大型采矿机
+	DisplayName: "大型采矿机"
 	Tooltip: ""
 }
 
 ev_laser_engraver: {
-	DisplayName: 进阶激光蚀刻机III
+	DisplayName: "进阶激光蚀刻机III"
 	Tooltip: ""
 }
 
 ev_lathe: {
-	DisplayName: 进阶车床III
+	DisplayName: "进阶车床III"
 	Tooltip: ""
 }
 
 ev_macerator: {
-	DisplayName: 进阶研磨机III
+	DisplayName: "进阶研磨机III"
 	Tooltip: ""
 }
 
 ev_machine_casing: {
-	DisplayName: EV机械方块
+	DisplayName: "EV机械方块"
 	Tooltip: ""
 }
 
 ev_machine_hull: {
-	DisplayName: EV机器外壳
+	DisplayName: "EV机器外壳"
 	Tooltip: ""
 }
 
 ev_mixer: {
-	DisplayName: 进阶搅拌机III
+	DisplayName: "进阶搅拌机III"
 	Tooltip: ""
 }
 
 ev_muffler_hatch: {
-	DisplayName: 进阶消声仓III
+	DisplayName: "进阶消声仓III"
 	Tooltip: ""
 }
 
 ev_ore_washer: {
-	DisplayName: 进阶洗矿厂III
+	DisplayName: "进阶洗矿厂III"
 	Tooltip: ""
 }
 
 ev_output_bus: {
-	DisplayName: EV输出总线
+	DisplayName: "EV输出总线"
 	Tooltip: ""
 }
 
 ev_output_hatch: {
-	DisplayName: EV输出仓
+	DisplayName: "EV输出仓"
 	Tooltip: ""
 }
 
 ev_output_hatch_4x: {
-	DisplayName: EV四重输出仓
+	DisplayName: "EV四重输出仓"
 	Tooltip: ""
 }
 
 ev_output_hatch_9x: {
-	DisplayName: EV九重输出仓
+	DisplayName: "EV九重输出仓"
 	Tooltip: ""
 }
 
 ev_packer: {
-	DisplayName: 进阶打包机III
+	DisplayName: "进阶打包机III"
 	Tooltip: ""
 }
 
 ev_polarizer: {
-	DisplayName: 进阶两极磁化机III
+	DisplayName: "进阶两极磁化机III"
 	Tooltip: ""
 }
 
 ev_power_unit: {
-	DisplayName: EV能量单元
+	DisplayName: "EV能量单元"
 	Tooltip: ""
 }
 
 ev_pump: {
-	DisplayName: 进阶水泵III
+	DisplayName: "进阶水泵III"
 	Tooltip: ""
 }
 
 ev_robot_arm: {
-	DisplayName: EV机械臂
+	DisplayName: "EV机械臂"
 	Tooltip: ""
 }
 
 ev_rock_crusher: {
-	DisplayName: 进阶碎岩机III
+	DisplayName: "进阶碎岩机III"
 	Tooltip: ""
 }
 
 ev_rotor_holder: {
-	DisplayName: 进阶转子支架III
+	DisplayName: "进阶转子支架III"
 	Tooltip: ""
 }
 
 ev_scanner: {
-	DisplayName: 进阶扫描仪III
+	DisplayName: "进阶扫描仪III"
 	Tooltip: ""
 }
 
 ev_sensor: {
-	DisplayName: EV传感器
+	DisplayName: "EV传感器"
 	Tooltip: ""
 }
 
 ev_sifter: {
-	DisplayName: 进阶筛选机III
+	DisplayName: "进阶筛选机III"
 	Tooltip: ""
 }
 
@@ -27074,33 +27100,33 @@ ev_super_tank: {
 }
 
 ev_thermal_centrifuge: {
-	DisplayName: 进阶热力离心机III
+	DisplayName: "进阶热力离心机III"
 	Tooltip: ""
 }
 
 ev_transformer_16a: {
-	DisplayName: EV高能变压器
+	DisplayName: "EV高能变压器"
 	Tooltip: ""
 }
 
 ev_transformer_1a: {
-	DisplayName: EV变压器
+	DisplayName: "EV变压器"
 	Tooltip: ""
 }
 
 ev_transformer_2a: {
-	DisplayName: EV进阶变压器
+	DisplayName: "EV进阶变压器"
 	Tooltip: ""
 }
 
 ev_transformer_4a: {
-	DisplayName: EV高流变压器
+	DisplayName: "EV高流变压器"
 	Tooltip: ""
 }
 
 ev_vanadium_battery: {
 	DisplayName: 小型钒电池
-	Tooltip: 可充电电池
+	Tooltip: "[c/AAAAAA:可充电电池]"
 }
 
 ev_voltage_coil: {
@@ -27109,12 +27135,12 @@ ev_voltage_coil: {
 }
 
 ev_wiremill: {
-	DisplayName: 进阶线材轧机III
+	DisplayName: "进阶线材轧机III"
 	Tooltip: ""
 }
 
 ev_world_accelerator: {
-	DisplayName: 进阶世界加速器III
+	DisplayName: "进阶世界加速器III"
 	Tooltip: ""
 }
 
@@ -27135,7 +27161,11 @@ extreme_engine_intake_casing: {
 
 facade_cover: {
 	DisplayName: %s覆盖伪装板
-	Tooltip: ""
+	Tooltip:
+		'''
+		[c/AAAAAA:可作为][c/FFFFFF:覆盖板][c/AAAAAA:加装的装饰性外壳。]
+		[c/AAAAAA:使用铁板与任意方块合成]
+		'''
 }
 
 face_mask: {
@@ -27150,12 +27180,12 @@ fertilizer: {
 
 fiber_reinforced_circuit_board: {
 	DisplayName: 纤维强化电路基板
-	Tooltip: 超级电路基板
+	Tooltip: "[c/AAAAAA:超级电路基板]"
 }
 
 fiber_reinforced_printed_circuit_board: {
 	DisplayName: 纤维强化印刷电路基板
-	Tooltip: 更高级的电路基板
+	Tooltip: "[c/AAAAAA:更高级的电路基板]"
 }
 
 filter_casing: {
@@ -27170,7 +27200,7 @@ fire_hazard_sign_block: {
 
 firebrick: {
 	DisplayName: 耐火砖
-	Tooltip: 耐热
+	Tooltip: "[c/AAAAAA:耐热]"
 }
 
 firebricks: {
@@ -27185,22 +27215,34 @@ fluid_cell: {
 
 fluid_detector_cover: {
 	DisplayName: 流体探测覆盖板
-	Tooltip: 作覆盖板时依照流体储量发出红石信号。
+	Tooltip: "[c/AAAAAA:作][c/FFFFFF:覆盖板][c/AAAAAA:时依照][c/FFFFFF:流体储量][c/AAAAAA:发出红石信号。]"
 }
 
 fluid_filter: {
 	DisplayName: 流体过滤卡
-	Tooltip: 作覆盖板时过滤流体的输入/输出。
+	Tooltip:
+		'''
+		[c/AAAAAA:作][c/FFFFFF:覆盖板][c/AAAAAA:时过滤]体[c/AAAAAA:的输入/输出。]
+		亦可为[c/FFFFFF:电动泵][c/AAAAAA:和][c/FFFFFF:流体校准器][c/AAAAAA:提供此功能。]
+		'''
 }
 
 fluid_tag_filter: {
 	DisplayName: 流体标签过滤卡
-	Tooltip: 作覆盖板时过滤流体标签的流体的输入/输出。
+	Tooltip:
+		'''
+		[c/AAAAAA:作][c/FFFFFF:覆盖板][c/AAAAAA:时以][c/FFFFFF:流体标签][c/AAAAAA:过滤][c/FFFFFF:流体][c/AAAAAA:的输入/输出。]
+		[c/AAAAAA:可用于升级][c/FFFFFF:电动泵][c/AAAAAA:与][c/FFFFFF:流体校准器][c/AAAAAA:。]
+		'''
 }
 
 fluid_voiding_cover: {
 	DisplayName: 流体销毁覆盖板
-	Tooltip: 作覆盖板时允许销毁流体。
+	Tooltip:
+		'''
+		[c/AAAAAA:作][c/FFFFFF:覆盖板][c/AAAAAA:时允许销毁][c/FFFFFF:流体][c/AAAAAA:。]
+		[c/AAAAAA:加装后使用][c/FFFFFF:软锤][c/AAAAAA:激活]
+		'''
 }
 
 foam: {
@@ -27210,7 +27252,7 @@ foam: {
 
 foil_extruder_mold: {
 	DisplayName: 模头（箔）
-	Tooltip: 用来制作箔的模头
+	Tooltip: "[c/AAAAAA:用来制作箔的模头]"
 }
 
 frost_hazard_sign_block: {
@@ -27255,17 +27297,17 @@ gas_large_turbine: {
 
 gear_casting_mold: {
 	DisplayName: 模具（齿轮）
-	Tooltip: 用来制作齿轮的模具
+	Tooltip: "[c/AAAAAA:用来制作齿轮的模具]"
 }
 
 gear_extruder_mold: {
 	DisplayName: 模头（齿轮）
-	Tooltip: 用来制作齿轮的模头
+	Tooltip: "[c/AAAAAA:用来制作齿轮的模头]"
 }
 
 gelled_toluene: {
 	DisplayName: 胶凝甲苯
-	Tooltip: 炸药原料
+	Tooltip: "[c/AAAAAA:炸药原料]"
 }
 
 generic_hazard_sign_block: {
@@ -27290,17 +27332,25 @@ gold_drum: {
 
 good_electronic_circuit: {
 	DisplayName: 优质电子电路
-	Tooltip: 你的第二块电路
+	Tooltip:
+		'''
+		[c/AAAAAA:你的第二块电路]
+		[c/FF5555:MV级电路]
+		'''
 }
 
 good_integrated_circuit: {
 	DisplayName: 优质集成电路
-	Tooltip: 更小也更强
+	Tooltip:
+		'''
+		[c/AAAAAA:更小也更强]
+		[c/FFAA00:MV级电路]
+		'''
 }
 
 gravi_star: {
 	DisplayName: 重力之星
-	Tooltip: 终极下界之星
+	Tooltip: "[c/AAAAAA:终极下界之星]"
 }
 
 gravitation_engine_unit: {
@@ -27445,12 +27495,12 @@ high_voltage_hazard_sign_block: {
 
 highly_advanced_soc: {
 	DisplayName: ASoC
-	Tooltip: 高度先进的系统级芯片
+	Tooltip: "[c/AAAAAA:高度先进的系统级芯片]"
 }
 
 highly_advanced_soc_wafer: {
 	DisplayName: HASoC晶圆
-	Tooltip: 高度先进的电路原料
+	Tooltip: "[c/AAAAAA:高度先进的电路原料]"
 }
 
 hp_steam_alloy_smelter: {
@@ -27540,12 +27590,12 @@ hpca_heat_sink_component: {
 
 hpic_chip: {
 	DisplayName: HPIC芯片
-	Tooltip: 高功率集成电路
+	Tooltip: "[c/AAAAAA:高功率集成电路]"
 }
 
 hpic_wafer: {
 	DisplayName: HPIC晶圆
-	Tooltip: 高功率集成电路原料
+	Tooltip: "[c/AAAAAA:高功率集成电路原料]"
 }
 
 hssg_coil_block: {
@@ -27589,27 +27639,27 @@ hv_8a_energy_converter: {
 }
 
 hv_air_scrubber: {
-	DisplayName: 进阶空气净化器II
+	DisplayName: "进阶空气净化器II"
 	Tooltip: ""
 }
 
 hv_alloy_smelter: {
-	DisplayName: 进阶合金炉II
+	DisplayName: "进阶合金炉II"
 	Tooltip: ""
 }
 
 hv_arc_furnace: {
-	DisplayName: 进阶电弧炉II
+	DisplayName: "进阶电弧炉II"
 	Tooltip: ""
 }
 
 hv_assembler: {
-	DisplayName: 进阶组装机II
+	DisplayName: "进阶组装机II"
 	Tooltip: ""
 }
 
 hv_autoclave: {
-	DisplayName: 进阶高压釜II
+	DisplayName: "进阶高压釜II"
 	Tooltip: ""
 }
 
@@ -27630,7 +27680,7 @@ hv_battery_buffer_8x: {
 
 hv_battery_hull: {
 	DisplayName: 大型电池外壳
-	Tooltip: 一个空的HV电池外壳
+	Tooltip: "[c/AAAAAA:一个空的][c/FFAA00:HV][c/AAAAAA:电池外壳]"
 }
 
 hv_bedrock_ore_miner: {
@@ -27639,17 +27689,17 @@ hv_bedrock_ore_miner: {
 }
 
 hv_bender: {
-	DisplayName: 进阶卷板机II
+	DisplayName: "进阶卷板机II"
 	Tooltip: ""
 }
 
 hv_block_breaker: {
-	DisplayName: 进阶方块破坏器II
+	DisplayName: "进阶方块破坏器II"
 	Tooltip: ""
 }
 
 hv_brewery: {
-	DisplayName: 进阶酿造室II
+	DisplayName: "进阶酿造室II"
 	Tooltip: ""
 }
 
@@ -27660,16 +27710,16 @@ hv_buffer: {
 
 hv_cadmium_battery: {
 	DisplayName: 大型镉电池
-	Tooltip: 可充电电池
+	Tooltip: "[c/AAAAAA:可充电电池]"
 }
 
 hv_canner: {
-	DisplayName: 进阶装罐机II
+	DisplayName: "进阶装罐机II"
 	Tooltip: ""
 }
 
 hv_centrifuge: {
-	DisplayName: 进阶离心机II
+	DisplayName: "进阶离心机II"
 	Tooltip: ""
 }
 
@@ -27679,127 +27729,127 @@ hv_charger_4x: {
 }
 
 hv_chemical_bath: {
-	DisplayName: 进阶化学浸洗机II
+	DisplayName: "进阶化学浸洗机II"
 	Tooltip: ""
 }
 
 hv_chemical_reactor: {
-	DisplayName: 进阶化学反应釜II
+	DisplayName: "进阶化学反应釜II"
 	Tooltip: ""
 }
 
 hv_circuit_assembler: {
-	DisplayName: 进阶电路组装机II
+	DisplayName: "进阶电路组装机II"
 	Tooltip: ""
 }
 
 hv_combustion: {
-	DisplayName: HV 内燃发电机
+	DisplayName: "HV 内燃发电机"
 	Tooltip: ""
 }
 
 hv_compressor: {
-	DisplayName: 进阶压缩机II
+	DisplayName: "进阶压缩机II"
 	Tooltip: ""
 }
 
 hv_conveyor_module: {
-	DisplayName: HV传送带
+	DisplayName: "HV传送带"
 	Tooltip: ""
 }
 
 hv_cutter: {
-	DisplayName: 进阶切割机II
+	DisplayName: "进阶切割机II"
 	Tooltip: ""
 }
 
 hv_diode: {
-	DisplayName: 进阶二极管II
+	DisplayName: "进阶二极管II"
 	Tooltip: ""
 }
 
 hv_distillery: {
-	DisplayName: 进阶蒸馏室II
+	DisplayName: "进阶蒸馏室II"
 	Tooltip: ""
 }
 
 hv_electric_furnace: {
-	DisplayName: 进阶电炉II
+	DisplayName: "进阶电炉II"
 	Tooltip: ""
 }
 
 hv_electric_motor: {
-	DisplayName: HV电动马达
+	DisplayName: "HV电动马达"
 	Tooltip: ""
 }
 
 hv_electric_piston: {
-	DisplayName: HV电力活塞
+	DisplayName: "HV电力活塞"
 	Tooltip: ""
 }
 
 hv_electric_pump: {
-	DisplayName: HV电动泵
+	DisplayName: "HV电动泵"
 	Tooltip: ""
 }
 
 hv_electrolyzer: {
-	DisplayName: 进阶电解机II
+	DisplayName: "进阶电解机II"
 	Tooltip: ""
 }
 
 hv_electromagnetic_separator: {
-	DisplayName: 进阶电磁选矿机II
+	DisplayName: "进阶电磁选矿机II"
 	Tooltip: ""
 }
 
 hv_emitter: {
-	DisplayName: HV发射器
+	DisplayName: "HV发射器"
 	Tooltip: ""
 }
 
 hv_energy_input_hatch: {
-	DisplayName: HV能源仓
+	DisplayName: "HV能源仓"
 	Tooltip: ""
 }
 
 hv_energy_output_hatch: {
-	DisplayName: HV动力仓
+	DisplayName: "HV动力仓"
 	Tooltip: ""
 }
 
 hv_extractor: {
-	DisplayName: 进阶提取机II
+	DisplayName: "进阶提取机II"
 	Tooltip: ""
 }
 
 hv_extruder: {
-	DisplayName: 进阶压模器II
+	DisplayName: "进阶压模器II"
 	Tooltip: ""
 }
 
 hv_fermenter: {
-	DisplayName: 进阶发酵槽II
+	DisplayName: "进阶发酵槽II"
 	Tooltip: ""
 }
 
 hv_field_generator: {
-	DisplayName: HV力场发生器
+	DisplayName: "HV力场发生器"
 	Tooltip: ""
 }
 
 hv_fisher: {
-	DisplayName: 进阶捕鱼器II
+	DisplayName: "进阶捕鱼器II"
 	Tooltip: ""
 }
 
 hv_fluid_drilling_rig: {
-	DisplayName: 进阶流体钻机
+	DisplayName: "进阶流体钻机"
 	Tooltip: ""
 }
 
 hv_fluid_heater: {
-	DisplayName: 进阶流体加热器II
+	DisplayName: "进阶流体加热器II"
 	Tooltip: ""
 }
 
@@ -27809,32 +27859,32 @@ hv_fluid_passthrough_hatch: {
 }
 
 hv_fluid_regulator: {
-	DisplayName: HV流体校准器
+	DisplayName: "HV流体校准器"
 	Tooltip: ""
 }
 
 hv_fluid_solidifier: {
-	DisplayName: 进阶流体固化器II
+	DisplayName: "进阶流体固化器II"
 	Tooltip: ""
 }
 
 hv_forge_hammer: {
-	DisplayName: 进阶锻造锤II
+	DisplayName: "进阶锻造锤II"
 	Tooltip: ""
 }
 
 hv_forming_press: {
-	DisplayName: 进阶冲压机床II
+	DisplayName: "进阶冲压机床II"
 	Tooltip: ""
 }
 
 hv_gas_collector: {
-	DisplayName: 进阶集气室II
+	DisplayName: "进阶集气室II"
 	Tooltip: ""
 }
 
 hv_gas_turbine: {
-	DisplayName: HV 燃气轮机
+	DisplayName: "HV 燃气轮机"
 	Tooltip: ""
 }
 
@@ -27844,22 +27894,22 @@ hv_hermetic_casing: {
 }
 
 hv_input_bus: {
-	DisplayName: HV输入总线
+	DisplayName: "HV输入总线"
 	Tooltip: ""
 }
 
 hv_input_hatch: {
-	DisplayName: HV输入仓
+	DisplayName: "HV输入仓"
 	Tooltip: ""
 }
 
 hv_item_collector: {
-	DisplayName: 进阶物品收集器II
+	DisplayName: "进阶物品收集器II"
 	Tooltip: ""
 }
 
 hv_item_magnet: {
-	DisplayName: HV物品磁铁
+	DisplayName: "HV物品磁铁"
 	Tooltip: ""
 }
 
@@ -27869,118 +27919,118 @@ hv_item_passthrough_hatch: {
 }
 
 hv_laser_engraver: {
-	DisplayName: 进阶激光蚀刻机II
+	DisplayName: "进阶激光蚀刻机II"
 	Tooltip: ""
 }
 
 hv_lathe: {
-	DisplayName: 进阶车床II
+	DisplayName: "进阶车床II"
 	Tooltip: ""
 }
 
 hv_lithium_battery: {
 	DisplayName: 大型锂电池
-	Tooltip: 可充电电池
+	Tooltip: "[c/AAAAAA:可充电电池]"
 }
 
 hv_macerator: {
-	DisplayName: 进阶研磨机II
+	DisplayName: "进阶研磨机II"
 	Tooltip: ""
 }
 
 hv_machine_casing: {
-	DisplayName: HV机械方块
+	DisplayName: "HV机械方块"
 	Tooltip: ""
 }
 
 hv_machine_hull: {
-	DisplayName: HV机器外壳
+	DisplayName: "HV机器外壳"
 	Tooltip: ""
 }
 
 hv_miner: {
-	DisplayName: HV 采矿机
+	DisplayName: "HV 采矿机"
 	Tooltip: ""
 }
 
 hv_mixer: {
-	DisplayName: 进阶搅拌机II
+	DisplayName: "进阶搅拌机II"
 	Tooltip: ""
 }
 
 hv_muffler_hatch: {
-	DisplayName: 进阶消声仓II
+	DisplayName: "进阶消声仓II"
 	Tooltip: ""
 }
 
 hv_ore_washer: {
-	DisplayName: 进阶洗矿厂II
+	DisplayName: "进阶洗矿厂II"
 	Tooltip: ""
 }
 
 hv_output_bus: {
-	DisplayName: HV输出总线
+	DisplayName: "HV输出总线"
 	Tooltip: ""
 }
 
 hv_output_hatch: {
-	DisplayName: HV输出仓
+	DisplayName: "HV输出仓"
 	Tooltip: ""
 }
 
 hv_packer: {
-	DisplayName: 进阶打包机II
+	DisplayName: "进阶打包机II"
 	Tooltip: ""
 }
 
 hv_polarizer: {
-	DisplayName: 进阶两极磁化机II
+	DisplayName: "进阶两极磁化机II"
 	Tooltip: ""
 }
 
 hv_power_unit: {
-	DisplayName: HV能量单元
+	DisplayName: "HV能量单元"
 	Tooltip: ""
 }
 
 hv_pump: {
-	DisplayName: 进阶水泵II
+	DisplayName: "进阶水泵II"
 	Tooltip: ""
 }
 
 hv_robot_arm: {
-	DisplayName: HV机械臂
+	DisplayName: "HV机械臂"
 	Tooltip: ""
 }
 
 hv_rock_crusher: {
-	DisplayName: 进阶碎岩机II
+	DisplayName: "进阶碎岩机II"
 	Tooltip: ""
 }
 
 hv_rotor_holder: {
-	DisplayName: 进阶转子支架II
+	DisplayName: "进阶转子支架II"
 	Tooltip: ""
 }
 
 hv_scanner: {
-	DisplayName: 进阶扫描仪II
+	DisplayName: "进阶扫描仪II"
 	Tooltip: ""
 }
 
 hv_sensor: {
-	DisplayName: HV传感器
+	DisplayName: "HV传感器"
 	Tooltip: ""
 }
 
 hv_sifter: {
-	DisplayName: 进阶筛选机II
+	DisplayName: "进阶筛选机II"
 	Tooltip: ""
 }
 
 hv_sodium_battery: {
 	DisplayName: 大型钠电池
-	Tooltip: 可充电电池
+	Tooltip: "[c/AAAAAA:可充电电池]"
 }
 
 hv_solar_panel: {
@@ -27989,7 +28039,7 @@ hv_solar_panel: {
 }
 
 hv_steam_turbine: {
-	DisplayName: 进阶蒸汽轮机II
+	DisplayName: "进阶蒸汽轮机II"
 	Tooltip: ""
 }
 
@@ -28004,27 +28054,27 @@ hv_super_tank: {
 }
 
 hv_thermal_centrifuge: {
-	DisplayName: 进阶热力离心机II
+	DisplayName: "进阶热力离心机II"
 	Tooltip: ""
 }
 
 hv_transformer_16a: {
-	DisplayName: HV高能变压器
+	DisplayName: "HV高能变压器"
 	Tooltip: ""
 }
 
 hv_transformer_1a: {
-	DisplayName: HV变压器
+	DisplayName: "HV变压器"
 	Tooltip: ""
 }
 
 hv_transformer_2a: {
-	DisplayName: HV进阶变压器
+	DisplayName: "HV进阶变压器"
 	Tooltip: ""
 }
 
 hv_transformer_4a: {
-	DisplayName: HV高流变压器
+	DisplayName: "HV高流变压器"
 	Tooltip: ""
 }
 
@@ -28034,28 +28084,23 @@ hv_voltage_coil: {
 }
 
 hv_wiremill: {
-	DisplayName: 进阶线材轧机II
+	DisplayName: "进阶线材轧机II"
 	Tooltip: ""
 }
 
 hv_world_accelerator: {
-	DisplayName: 进阶世界加速器II
+	DisplayName: "进阶世界加速器II"
 	Tooltip: ""
 }
 
 ilc_chip: {
 	DisplayName: IC芯片
-	Tooltip: 集成逻辑电路
+	Tooltip: "[c/AAAAAA:集成逻辑电路]"
 }
 
 ilc_wafer: {
 	DisplayName: ILC晶圆
-	Tooltip: 集成电路原料
-}
-
-image_module: {
-	DisplayName: 图像模块
-	Tooltip: ""
+	Tooltip: "[c/AAAAAA:集成电路原料]"
 }
 
 implosion_compressor: {
@@ -28065,7 +28110,7 @@ implosion_compressor: {
 
 inductor: {
 	DisplayName: 电感
-	Tooltip: 一个小线圈
+	Tooltip: "[c/AAAAAA:一个小线圈]"
 }
 
 industrial_steam_casing: {
@@ -28085,22 +28130,17 @@ inert_machine_casing: {
 
 infinite_water_cover: {
 	DisplayName: 无限水覆盖板
-	Tooltip: 作覆盖板时为所附着的容器供水。
+	Tooltip: "[c/AAAAAA:作][c/FFFFFF:覆盖板][c/AAAAAA:时为所附着的容器供][c/5555FF:水][c/AAAAAA:。]"
 }
 
 ingot_casting_mold: {
 	DisplayName: 模具（锭）
-	Tooltip: 用来制作锭的模具
+	Tooltip: "[c/AAAAAA:用来制作锭的模具]"
 }
 
 ingot_extruder_mold: {
 	DisplayName: 模头（锭）
-	Tooltip: 用来……等会，用熔炉不好吗？
-}
-
-invar_lighter: {
-	DisplayName: 殷钢打火机
-	Tooltip: ""
+	Tooltip: "[c/AAAAAA:用来……等会，用熔炉不好吗？]"
 }
 
 iron_minecart_wheels: {
@@ -28110,27 +28150,43 @@ iron_minecart_wheels: {
 
 item_detector_cover: {
 	DisplayName: 物品探测覆盖板
-	Tooltip: 作覆盖板时依照物品储量发出红石信号。
+	Tooltip: "[c/AAAAAA:作][c/FFFFFF:覆盖板][c/AAAAAA:时依照][c/FFFFFF:物品储量][c/AAAAAA:发出红石信号。]"
 }
 
 item_filter: {
 	DisplayName: 物品过滤卡
-	Tooltip: 作覆盖板时过滤物品的输入/输出。
+	Tooltip:
+		'''
+		[c/AAAAAA:作][c/FFFFFF:覆盖板][c/AAAAAA:时过滤][c/FFFFFF:物品][c/AAAAAA:的输入/输出。]
+		亦可为[c/FFFFFF:传送带][c/AAAAAA:和][c/FFFFFF:机械臂][c/AAAAAA:提供此功能。]
+		'''
 }
 
 item_smart_filter: {
 	DisplayName: 智能物品过滤覆盖板
-	Tooltip: ""
+	Tooltip:
+		'''
+		[c/AAAAAA:作][c/FFFFFF:覆盖板][c/AAAAAA:时以][c/FFFFFF:机器的配方][c/AAAAAA:过滤][c/FFFFFF:物品][c/AAAAAA:的输入/输出。]
+		亦可为[c/FFFFFF:传送带][c/AAAAAA:和][c/FFFFFF:机械臂][c/AAAAAA:提供此功能。]
+		'''
 }
 
 item_tag_filter: {
 	DisplayName: 物品标签过滤卡
-	Tooltip: 作覆盖板时过滤物品标签的物品的输入/输出。
+	Tooltip:
+		'''
+		[c/AAAAAA:作][c/FFFFFF:覆盖板][c/AAAAAA:时以][c/FFFFFF:物品标签][c/AAAAAA:过滤][c/FFFFFF:物品][c/AAAAAA:的输入/输出。]
+		亦可为[c/FFFFFF:传送带][c/AAAAAA:和][c/FFFFFF:机械臂][c/AAAAAA:提供此功能。]
+		'''
 }
 
 item_voiding_cover: {
 	DisplayName: 物品销毁覆盖板
-	Tooltip: 作覆盖板时销毁物品。
+	Tooltip:
+		'''
+		[c/AAAAAA:作][c/FFFFFF:覆盖板][c/AAAAAA:时销毁物品。]
+		[c/AAAAAA:加装后使用][c/FFFFFF:软锤][c/AAAAAA:激活]
+		'''
 }
 
 iv_1024a_laser_source_hatch: {
@@ -28184,22 +28240,22 @@ iv_8a_energy_converter: {
 }
 
 iv_alloy_smelter: {
-	DisplayName: 精英合金炉
+	DisplayName: "精英合金炉"
 	Tooltip: ""
 }
 
 iv_arc_furnace: {
-	DisplayName: 精英电弧炉
+	DisplayName: "精英电弧炉"
 	Tooltip: ""
 }
 
 iv_assembler: {
-	DisplayName: 精英组装机
+	DisplayName: "精英组装机"
 	Tooltip: ""
 }
 
 iv_autoclave: {
-	DisplayName: 精英高压釜
+	DisplayName: "精英高压釜"
 	Tooltip: ""
 }
 
@@ -28220,26 +28276,26 @@ iv_battery_buffer_8x: {
 
 iv_battery_hull: {
 	DisplayName: 中型钒电池外壳
-	Tooltip: 一个空的IV电池外壳
+	Tooltip: "[c/AAAAAA:一个空的][c/0000AA:IV][c/AAAAAA:电池外壳]"
 }
 
 iv_bender: {
-	DisplayName: 精英卷板机
+	DisplayName: "精英卷板机"
 	Tooltip: ""
 }
 
 iv_brewery: {
-	DisplayName: 精英酿造室
+	DisplayName: "精英酿造室"
 	Tooltip: ""
 }
 
 iv_canner: {
-	DisplayName: 精英装罐机
+	DisplayName: "精英装罐机"
 	Tooltip: ""
 }
 
 iv_centrifuge: {
-	DisplayName: 精英离心机
+	DisplayName: "精英离心机"
 	Tooltip: ""
 }
 
@@ -28249,82 +28305,82 @@ iv_charger_4x: {
 }
 
 iv_chemical_bath: {
-	DisplayName: 精英化学浸洗机
+	DisplayName: "精英化学浸洗机"
 	Tooltip: ""
 }
 
 iv_chemical_reactor: {
-	DisplayName: 精英化学反应釜
+	DisplayName: "精英化学反应釜"
 	Tooltip: ""
 }
 
 iv_circuit_assembler: {
-	DisplayName: 精英电路组装机
+	DisplayName: "精英电路组装机"
 	Tooltip: ""
 }
 
 iv_compressor: {
-	DisplayName: 精英压缩机
+	DisplayName: "精英压缩机"
 	Tooltip: ""
 }
 
 iv_conveyor_module: {
-	DisplayName: IV传送带
+	DisplayName: "IV传送带"
 	Tooltip: ""
 }
 
 iv_cutter: {
-	DisplayName: 精英切割机
+	DisplayName: "精英切割机"
 	Tooltip: ""
 }
 
 iv_diode: {
-	DisplayName: 精英二极管
+	DisplayName: "精英二极管"
 	Tooltip: ""
 }
 
 iv_distillery: {
-	DisplayName: 精英蒸馏室
+	DisplayName: "精英蒸馏室"
 	Tooltip: ""
 }
 
 iv_electric_furnace: {
-	DisplayName: 精英电炉
+	DisplayName: "精英电炉"
 	Tooltip: ""
 }
 
 iv_electric_motor: {
-	DisplayName: IV电动马达
+	DisplayName: "IV电动马达"
 	Tooltip: ""
 }
 
 iv_electric_piston: {
-	DisplayName: IV电力活塞
+	DisplayName: "IV电力活塞"
 	Tooltip: ""
 }
 
 iv_electric_pump: {
-	DisplayName: IV电动泵
+	DisplayName: "IV电动泵"
 	Tooltip: ""
 }
 
 iv_electrolyzer: {
-	DisplayName: 精英电解机
+	DisplayName: "精英电解机"
 	Tooltip: ""
 }
 
 iv_electromagnetic_separator: {
-	DisplayName: 精英电磁选矿机
+	DisplayName: "精英电磁选矿机"
 	Tooltip: ""
 }
 
 iv_emitter: {
-	DisplayName: IV发射器
+	DisplayName: "IV发射器"
 	Tooltip: ""
 }
 
 iv_energy_input_hatch: {
-	DisplayName: IV能源仓
+	DisplayName: "IV能源仓"
 	Tooltip: ""
 }
 
@@ -28339,7 +28395,7 @@ iv_energy_input_hatch_4a: {
 }
 
 iv_energy_output_hatch: {
-	DisplayName: IV动力仓
+	DisplayName: "IV动力仓"
 	Tooltip: ""
 }
 
@@ -28354,32 +28410,32 @@ iv_energy_output_hatch_4a: {
 }
 
 iv_extractor: {
-	DisplayName: 精英提取机
+	DisplayName: "精英提取机"
 	Tooltip: ""
 }
 
 iv_extruder: {
-	DisplayName: 精英压模器
+	DisplayName: "精英压模器"
 	Tooltip: ""
 }
 
 iv_fermenter: {
-	DisplayName: 精英发酵槽
+	DisplayName: "精英发酵槽"
 	Tooltip: ""
 }
 
 iv_field_generator: {
-	DisplayName: IV力场发生器
+	DisplayName: "IV力场发生器"
 	Tooltip: ""
 }
 
 iv_fisher: {
-	DisplayName: 精英捕鱼器
+	DisplayName: "精英捕鱼器"
 	Tooltip: ""
 }
 
 iv_fluid_heater: {
-	DisplayName: 精英流体加热器
+	DisplayName: "精英流体加热器"
 	Tooltip: ""
 }
 
@@ -28389,27 +28445,27 @@ iv_fluid_passthrough_hatch: {
 }
 
 iv_fluid_regulator: {
-	DisplayName: IV流体校准器
+	DisplayName: "IV流体校准器"
 	Tooltip: ""
 }
 
 iv_fluid_solidifier: {
-	DisplayName: 精英流体固化器
+	DisplayName: "精英流体固化器"
 	Tooltip: ""
 }
 
 iv_forge_hammer: {
-	DisplayName: 精英锻造锤
+	DisplayName: "精英锻造锤"
 	Tooltip: ""
 }
 
 iv_forming_press: {
-	DisplayName: 精英冲压机床
+	DisplayName: "精英冲压机床"
 	Tooltip: ""
 }
 
 iv_gas_collector: {
-	DisplayName: 精英集气室
+	DisplayName: "精英集气室"
 	Tooltip: ""
 }
 
@@ -28419,22 +28475,22 @@ iv_hermetic_casing: {
 }
 
 iv_input_bus: {
-	DisplayName: IV输入总线
+	DisplayName: "IV输入总线"
 	Tooltip: ""
 }
 
 iv_input_hatch: {
-	DisplayName: IV输入仓
+	DisplayName: "IV输入仓"
 	Tooltip: ""
 }
 
 iv_input_hatch_4x: {
-	DisplayName: IV四重输入仓
+	DisplayName: "IV四重输入仓"
 	Tooltip: ""
 }
 
 iv_input_hatch_9x: {
-	DisplayName: IV九重输入仓
+	DisplayName: "IV九重输入仓"
 	Tooltip: ""
 }
 
@@ -28449,87 +28505,87 @@ iv_lapotronic_battery: {
 }
 
 iv_large_miner: {
-	DisplayName: 进阶大型采矿机
+	DisplayName: "进阶大型采矿机"
 	Tooltip: ""
 }
 
 iv_laser_engraver: {
-	DisplayName: 精英激光蚀刻机
+	DisplayName: "精英激光蚀刻机"
 	Tooltip: ""
 }
 
 iv_lathe: {
-	DisplayName: 精英车床
+	DisplayName: "精英车床"
 	Tooltip: ""
 }
 
 iv_macerator: {
-	DisplayName: 精英研磨机
+	DisplayName: "精英研磨机"
 	Tooltip: ""
 }
 
 iv_machine_casing: {
-	DisplayName: IV机械方块
+	DisplayName: "IV机械方块"
 	Tooltip: ""
 }
 
 iv_machine_hull: {
-	DisplayName: IV机器外壳
+	DisplayName: "IV机器外壳"
 	Tooltip: ""
 }
 
 iv_mixer: {
-	DisplayName: 精英搅拌机
+	DisplayName: "精英搅拌机"
 	Tooltip: ""
 }
 
 iv_muffler_hatch: {
-	DisplayName: 精英消声仓
+	DisplayName: "精英消声仓"
 	Tooltip: ""
 }
 
 iv_ore_washer: {
-	DisplayName: 精英洗矿厂
+	DisplayName: "精英洗矿厂"
 	Tooltip: ""
 }
 
 iv_output_bus: {
-	DisplayName: IV输出总线
+	DisplayName: "IV输出总线"
 	Tooltip: ""
 }
 
 iv_output_hatch: {
-	DisplayName: IV输出仓
+	DisplayName: "IV输出仓"
 	Tooltip: ""
 }
 
 iv_output_hatch_4x: {
-	DisplayName: IV四重输出仓
+	DisplayName: "IV四重输出仓"
 	Tooltip: ""
 }
 
 iv_output_hatch_9x: {
-	DisplayName: IV九重输出仓
+	DisplayName: "IV九重输出仓"
 	Tooltip: ""
 }
 
 iv_packer: {
-	DisplayName: 精英打包机
+	DisplayName: "精英打包机"
 	Tooltip: ""
 }
 
 iv_parallel_hatch: {
-	DisplayName: LuV 并行控制仓
+	DisplayName: "LuV 并行控制仓"
 	Tooltip: ""
 }
 
 iv_polarizer: {
-	DisplayName: 精英两极磁化机
+	DisplayName: "精英两极磁化机"
 	Tooltip: ""
 }
 
 iv_power_unit: {
-	DisplayName: IV能量单元
+	DisplayName: "IV能量单元"
 	Tooltip: ""
 }
 
@@ -28544,32 +28600,32 @@ iv_quantum_tank: {
 }
 
 iv_robot_arm: {
-	DisplayName: IV机械臂
+	DisplayName: "IV机械臂"
 	Tooltip: ""
 }
 
 iv_rock_crusher: {
-	DisplayName: 精英碎岩机
+	DisplayName: "精英碎岩机"
 	Tooltip: ""
 }
 
 iv_rotor_holder: {
-	DisplayName: 精英转子支架
+	DisplayName: "精英转子支架"
 	Tooltip: ""
 }
 
 iv_scanner: {
-	DisplayName: 精英扫描仪
+	DisplayName: "精英扫描仪"
 	Tooltip: ""
 }
 
 iv_sensor: {
-	DisplayName: IV传感器
+	DisplayName: "IV传感器"
 	Tooltip: ""
 }
 
 iv_sifter: {
-	DisplayName: 精英筛选机
+	DisplayName: "精英筛选机"
 	Tooltip: ""
 }
 
@@ -28589,33 +28645,33 @@ iv_substation_output_hatch_64a: {
 }
 
 iv_thermal_centrifuge: {
-	DisplayName: 精英热力离心机
+	DisplayName: "精英热力离心机"
 	Tooltip: ""
 }
 
 iv_transformer_16a: {
-	DisplayName: IV高能变压器
+	DisplayName: "IV高能变压器"
 	Tooltip: ""
 }
 
 iv_transformer_1a: {
-	DisplayName: IV变压器
+	DisplayName: "IV变压器"
 	Tooltip: ""
 }
 
 iv_transformer_2a: {
-	DisplayName: IV进阶变压器
+	DisplayName: "IV进阶变压器"
 	Tooltip: ""
 }
 
 iv_transformer_4a: {
-	DisplayName: IV高流变压器
+	DisplayName: "IV高流变压器"
 	Tooltip: ""
 }
 
 iv_vanadium_battery: {
 	DisplayName: 中型钒电池
-	Tooltip: 可充电电池
+	Tooltip: "[c/AAAAAA:可充电电池]"
 }
 
 iv_voltage_coil: {
@@ -28624,12 +28680,12 @@ iv_voltage_coil: {
 }
 
 iv_wiremill: {
-	DisplayName: 精英线材轧机
+	DisplayName: "精英线材轧机"
 	Tooltip: ""
 }
 
 iv_world_accelerator: {
-	DisplayName: 精英世界加速器
+	DisplayName: "精英世界加速器"
 	Tooltip: ""
 }
 
@@ -28645,17 +28701,17 @@ laminated_glass: {
 
 lapotron_crystal: {
 	DisplayName: 兰波顿水晶
-	Tooltip: 可充电电池
+	Tooltip: "[c/AAAAAA:可充电电池]"
 }
 
 lapotronic_energy_orb: {
 	DisplayName: 兰波顿能量球
-	Tooltip: 可充电电池
+	Tooltip: "[c/AAAAAA:可充电电池]"
 }
 
 lapotronic_energy_orb_cluster: {
 	DisplayName: 兰波顿能量球簇
-	Tooltip: 可充电电池
+	Tooltip: "[c/AAAAAA:可充电电池]"
 }
 
 large_arc_smelter: {
@@ -29025,12 +29081,12 @@ lp_steam_solid_boiler: {
 
 lpic_chip: {
 	DisplayName: LPIC芯片
-	Tooltip: 低功率集成电路
+	Tooltip: "[c/AAAAAA:低功率集成电路]"
 }
 
 lpic_wafer: {
 	DisplayName: LPIC晶圆
-	Tooltip: 低功率集成电路原料
+	Tooltip: "[c/AAAAAA:低功率集成电路原料]"
 }
 
 luv_1024a_laser_source_hatch: {
@@ -29084,22 +29140,22 @@ luv_8a_energy_converter: {
 }
 
 luv_alloy_smelter: {
-	DisplayName: 精英合金炉II
+	DisplayName: "精英合金炉II"
 	Tooltip: ""
 }
 
 luv_arc_furnace: {
-	DisplayName: 精英电弧炉II
+	DisplayName: "精英电弧炉II"
 	Tooltip: ""
 }
 
 luv_assembler: {
-	DisplayName: 精英组装机II
+	DisplayName: "精英组装机II"
 	Tooltip: ""
 }
 
 luv_autoclave: {
-	DisplayName: 精英高压釜II
+	DisplayName: "精英高压釜II"
 	Tooltip: ""
 }
 
@@ -29120,26 +29176,26 @@ luv_battery_buffer_8x: {
 
 luv_battery_hull: {
 	DisplayName: 大型钒电池外壳
-	Tooltip: 一个空的LuV电池外壳
+	Tooltip: "[c/AAAAAA:一个空的][c/FF55FF:LuV]电池外壳"
 }
 
 luv_bender: {
-	DisplayName: 精英卷板机II
+	DisplayName: "精英卷板机II"
 	Tooltip: ""
 }
 
 luv_brewery: {
-	DisplayName: 精英酿造室II
+	DisplayName: "精英酿造室II"
 	Tooltip: ""
 }
 
 luv_canner: {
-	DisplayName: 精英装罐机II
+	DisplayName: "精英装罐机II"
 	Tooltip: ""
 }
 
 luv_centrifuge: {
-	DisplayName: 精英离心机II
+	DisplayName: "精英离心机II"
 	Tooltip: ""
 }
 
@@ -29149,92 +29205,92 @@ luv_charger_4x: {
 }
 
 luv_chemical_bath: {
-	DisplayName: 精英化学浸洗机II
+	DisplayName: "精英化学浸洗机II"
 	Tooltip: ""
 }
 
 luv_chemical_reactor: {
-	DisplayName: 精英化学反应釜II
+	DisplayName: "精英化学反应釜II"
 	Tooltip: ""
 }
 
 luv_circuit_assembler: {
-	DisplayName: 精英电路组装机II
+	DisplayName: "精英电路组装机II"
 	Tooltip: ""
 }
 
 luv_compressor: {
-	DisplayName: 精英压缩机II
+	DisplayName: "精英压缩机II"
 	Tooltip: ""
 }
 
 luv_conveyor_module: {
-	DisplayName: LuV传送带
+	DisplayName: "LuV传送带"
 	Tooltip: ""
 }
 
 luv_cutter: {
-	DisplayName: 精英切割机II
+	DisplayName: "精英切割机II"
 	Tooltip: ""
 }
 
 luv_diode: {
-	DisplayName: 精英二极管II
+	DisplayName: "精英二极管II"
 	Tooltip: ""
 }
 
 luv_distillery: {
-	DisplayName: 精英蒸馏室II
+	DisplayName: "精英蒸馏室II"
 	Tooltip: ""
 }
 
 luv_dual_input_hatch: {
-	DisplayName: LUV双重输入仓
+	DisplayName: "LUV双重输入仓"
 	Tooltip: ""
 }
 
 luv_dual_output_hatch: {
-	DisplayName: LUV双重输出仓
+	DisplayName: "LUV双重输出仓"
 	Tooltip: ""
 }
 
 luv_electric_furnace: {
-	DisplayName: 精英电炉II
+	DisplayName: "精英电炉II"
 	Tooltip: ""
 }
 
 luv_electric_motor: {
-	DisplayName: LuV电动马达
+	DisplayName: "LuV电动马达"
 	Tooltip: ""
 }
 
 luv_electric_piston: {
-	DisplayName: LuV电力活塞
+	DisplayName: "LuV电力活塞"
 	Tooltip: ""
 }
 
 luv_electric_pump: {
-	DisplayName: LuV电动泵
+	DisplayName: "LuV电动泵"
 	Tooltip: ""
 }
 
 luv_electrolyzer: {
-	DisplayName: 精英电解机II
+	DisplayName: "精英电解机II"
 	Tooltip: ""
 }
 
 luv_electromagnetic_separator: {
-	DisplayName: 精英电磁选矿机II
+	DisplayName: "精英电磁选矿机II"
 	Tooltip: ""
 }
 
 luv_emitter: {
-	DisplayName: LuV发射器
+	DisplayName: "LuV发射器"
 	Tooltip: ""
 }
 
 luv_energy_input_hatch: {
-	DisplayName: LUV能源仓
+	DisplayName: "LUV能源仓"
 	Tooltip: ""
 }
 
@@ -29249,7 +29305,7 @@ luv_energy_input_hatch_4a: {
 }
 
 luv_energy_output_hatch: {
-	DisplayName: LUV动力仓
+	DisplayName: "LUV动力仓"
 	Tooltip: ""
 }
 
@@ -29264,32 +29320,32 @@ luv_energy_output_hatch_4a: {
 }
 
 luv_extractor: {
-	DisplayName: 精英提取机II
+	DisplayName: "精英提取机II"
 	Tooltip: ""
 }
 
 luv_extruder: {
-	DisplayName: 精英压模器II
+	DisplayName: "精英压模器II"
 	Tooltip: ""
 }
 
 luv_fermenter: {
-	DisplayName: 精英发酵槽II
+	DisplayName: "精英发酵槽II"
 	Tooltip: ""
 }
 
 luv_field_generator: {
-	DisplayName: LuV力场发生器
+	DisplayName: "LuV力场发生器"
 	Tooltip: ""
 }
 
 luv_fisher: {
-	DisplayName: 精英捕鱼器II
+	DisplayName: "精英捕鱼器II"
 	Tooltip: ""
 }
 
 luv_fluid_heater: {
-	DisplayName: 精英流体加热器II
+	DisplayName: "精英流体加热器II"
 	Tooltip: ""
 }
 
@@ -29299,22 +29355,22 @@ luv_fluid_passthrough_hatch: {
 }
 
 luv_fluid_regulator: {
-	DisplayName: LuV流体校准器
+	DisplayName: "LuV流体校准器"
 	Tooltip: ""
 }
 
 luv_fluid_solidifier: {
-	DisplayName: 精英流体固化器II
+	DisplayName: "精英流体固化器II"
 	Tooltip: ""
 }
 
 luv_forge_hammer: {
-	DisplayName: 精英锻造锤II
+	DisplayName: "精英锻造锤II"
 	Tooltip: ""
 }
 
 luv_forming_press: {
-	DisplayName: 精英冲压机床II
+	DisplayName: "精英冲压机床II"
 	Tooltip: ""
 }
 
@@ -29324,7 +29380,7 @@ luv_fusion_reactor: {
 }
 
 luv_gas_collector: {
-	DisplayName: 精英集气室II
+	DisplayName: "精英集气室II"
 	Tooltip: ""
 }
 
@@ -29334,22 +29390,22 @@ luv_hermetic_casing: {
 }
 
 luv_input_bus: {
-	DisplayName: LUV输入总线
+	DisplayName: "LUV输入总线"
 	Tooltip: ""
 }
 
 luv_input_hatch: {
-	DisplayName: LUV输入仓
+	DisplayName: "LUV输入仓"
 	Tooltip: ""
 }
 
 luv_input_hatch_4x: {
-	DisplayName: LUV四重输入仓
+	DisplayName: "LUV四重输入仓"
 	Tooltip: ""
 }
 
 luv_input_hatch_9x: {
-	DisplayName: LUV九重输入仓
+	DisplayName: "LUV九重输入仓"
 	Tooltip: ""
 }
 
@@ -29364,82 +29420,82 @@ luv_lapotronic_battery: {
 }
 
 luv_large_miner: {
-	DisplayName: 进阶大型采矿机 II
+	DisplayName: "进阶大型采矿机 II"
 	Tooltip: ""
 }
 
 luv_laser_engraver: {
-	DisplayName: 精英激光蚀刻机II
+	DisplayName: "精英激光蚀刻机II"
 	Tooltip: ""
 }
 
 luv_lathe: {
-	DisplayName: 精英车床II
+	DisplayName: "精英车床II"
 	Tooltip: ""
 }
 
 luv_macerator: {
-	DisplayName: 精英研磨机II
+	DisplayName: "精英研磨机II"
 	Tooltip: ""
 }
 
 luv_machine_casing: {
-	DisplayName: LuV机械方块
+	DisplayName: "LuV机械方块"
 	Tooltip: ""
 }
 
 luv_machine_hull: {
-	DisplayName: LUV机器外壳
+	DisplayName: "LUV机器外壳"
 	Tooltip: ""
 }
 
 luv_mixer: {
-	DisplayName: 精英搅拌机II
+	DisplayName: "精英搅拌机II"
 	Tooltip: ""
 }
 
 luv_muffler_hatch: {
-	DisplayName: 精英消声仓II
+	DisplayName: "精英消声仓II"
 	Tooltip: ""
 }
 
 luv_ore_washer: {
-	DisplayName: 精英洗矿厂II
+	DisplayName: "精英洗矿厂II"
 	Tooltip: ""
 }
 
 luv_output_bus: {
-	DisplayName: LUV输出总线
+	DisplayName: "LUV输出总线"
 	Tooltip: ""
 }
 
 luv_output_hatch: {
-	DisplayName: LUV输出仓
+	DisplayName: "LUV输出仓"
 	Tooltip: ""
 }
 
 luv_output_hatch_4x: {
-	DisplayName: LUV四重输出仓
+	DisplayName: "LUV四重输出仓"
 	Tooltip: ""
 }
 
 luv_output_hatch_9x: {
-	DisplayName: LUV九重输出仓
+	DisplayName: "LUV九重输出仓"
 	Tooltip: ""
 }
 
 luv_packer: {
-	DisplayName: 精英打包机II
+	DisplayName: "精英打包机II"
 	Tooltip: ""
 }
 
 luv_parallel_hatch: {
-	DisplayName: UV 并行控制仓
+	DisplayName: "UV 并行控制仓"
 	Tooltip: ""
 }
 
 luv_polarizer: {
-	DisplayName: 精英两极磁化机II
+	DisplayName: "精英两极磁化机II"
 	Tooltip: ""
 }
 
@@ -29454,32 +29510,32 @@ luv_quantum_tank: {
 }
 
 luv_robot_arm: {
-	DisplayName: LuV机械臂
+	DisplayName: "LuV机械臂"
 	Tooltip: ""
 }
 
 luv_rock_crusher: {
-	DisplayName: 精英碎岩机II
+	DisplayName: "精英碎岩机II"
 	Tooltip: ""
 }
 
 luv_rotor_holder: {
-	DisplayName: 精英转子支架II
+	DisplayName: "精英转子支架II"
 	Tooltip: ""
 }
 
 luv_scanner: {
-	DisplayName: 精英扫描仪II
+	DisplayName: "精英扫描仪II"
 	Tooltip: ""
 }
 
 luv_sensor: {
-	DisplayName: LuV传感器
+	DisplayName: "LuV传感器"
 	Tooltip: ""
 }
 
 luv_sifter: {
-	DisplayName: 精英筛选机II
+	DisplayName: "精英筛选机II"
 	Tooltip: ""
 }
 
@@ -29499,33 +29555,33 @@ luv_substation_output_hatch_64a: {
 }
 
 luv_thermal_centrifuge: {
-	DisplayName: 精英热力离心机II
+	DisplayName: "精英热力离心机II"
 	Tooltip: ""
 }
 
 luv_transformer_16a: {
-	DisplayName: LUV高能变压器
+	DisplayName: "LUV高能变压器"
 	Tooltip: ""
 }
 
 luv_transformer_1a: {
-	DisplayName: LUV变压器
+	DisplayName: "LUV变压器"
 	Tooltip: ""
 }
 
 luv_transformer_2a: {
-	DisplayName: LUV进阶变压器
+	DisplayName: "LUV进阶变压器"
 	Tooltip: ""
 }
 
 luv_transformer_4a: {
-	DisplayName: LUV高流变压器
+	DisplayName: "LUV高流变压器"
 	Tooltip: ""
 }
 
 luv_vanadium_battery: {
 	DisplayName: 大型钒电池
-	Tooltip: 可充电电池
+	Tooltip: "[c/AAAAAA:可充电电池]"
 }
 
 luv_voltage_coil: {
@@ -29534,12 +29590,12 @@ luv_voltage_coil: {
 }
 
 luv_wiremill: {
-	DisplayName: 精英线材轧机II
+	DisplayName: "精英线材轧机II"
 	Tooltip: ""
 }
 
 luv_world_accelerator: {
-	DisplayName: 精英世界加速器II
+	DisplayName: "精英世界加速器II"
 	Tooltip: ""
 }
 
@@ -29605,7 +29661,7 @@ lv_battery_buffer_8x: {
 
 lv_battery_hull: {
 	DisplayName: 小型电池外壳
-	Tooltip: 一个空的LV电池外壳
+	Tooltip: "[c/AAAAAA:一个空的][c/AAAAAA:LV][c/AAAAAA:电池外壳]"
 }
 
 lv_bender: {
@@ -29630,7 +29686,7 @@ lv_buffer: {
 
 lv_cadmium_battery: {
 	DisplayName: 小型镉电池
-	Tooltip: 可充电电池
+	Tooltip: "[c/AAAAAA:可充电电池]"
 }
 
 lv_canner: {
@@ -29674,7 +29730,7 @@ lv_compressor: {
 }
 
 lv_conveyor_module: {
-	DisplayName: LV传送带
+	DisplayName: "LV传送带"
 	Tooltip: ""
 }
 
@@ -29684,7 +29740,7 @@ lv_cutter: {
 }
 
 lv_diode: {
-	DisplayName: 基础二极管
+	DisplayName: "基础二极管"
 	Tooltip: ""
 }
 
@@ -29699,17 +29755,17 @@ lv_electric_furnace: {
 }
 
 lv_electric_motor: {
-	DisplayName: LV电动马达
+	DisplayName: "LV电动马达"
 	Tooltip: ""
 }
 
 lv_electric_piston: {
-	DisplayName: LV电力活塞
+	DisplayName: "LV电力活塞"
 	Tooltip: ""
 }
 
 lv_electric_pump: {
-	DisplayName: LV电动泵
+	DisplayName: "LV电动泵"
 	Tooltip: ""
 }
 
@@ -29724,17 +29780,17 @@ lv_electromagnetic_separator: {
 }
 
 lv_emitter: {
-	DisplayName: LV发射器
+	DisplayName: "LV发射器"
 	Tooltip: ""
 }
 
 lv_energy_input_hatch: {
-	DisplayName: LV能源仓
+	DisplayName: "LV能源仓"
 	Tooltip: ""
 }
 
 lv_energy_output_hatch: {
-	DisplayName: LV动力仓
+	DisplayName: "LV动力仓"
 	Tooltip: ""
 }
 
@@ -29754,7 +29810,7 @@ lv_fermenter: {
 }
 
 lv_field_generator: {
-	DisplayName: LV力场发生器
+	DisplayName: "LV力场发生器"
 	Tooltip: ""
 }
 
@@ -29774,7 +29830,7 @@ lv_fluid_passthrough_hatch: {
 }
 
 lv_fluid_regulator: {
-	DisplayName: LV流体校准器
+	DisplayName: "LV流体校准器"
 	Tooltip: ""
 }
 
@@ -29809,12 +29865,12 @@ lv_hermetic_casing: {
 }
 
 lv_input_bus: {
-	DisplayName: LV输入总线
+	DisplayName: "LV输入总线"
 	Tooltip: ""
 }
 
 lv_input_hatch: {
-	DisplayName: LV输入仓
+	DisplayName: "LV输入仓"
 	Tooltip: ""
 }
 
@@ -29824,7 +29880,7 @@ lv_item_collector: {
 }
 
 lv_item_magnet: {
-	DisplayName: LV物品磁铁
+	DisplayName: "LV物品磁铁"
 	Tooltip: ""
 }
 
@@ -29845,7 +29901,7 @@ lv_lathe: {
 
 lv_lithium_battery: {
 	DisplayName: 小型锂电池
-	Tooltip: 可充电电池
+	Tooltip: "[c/AAAAAA:可充电电池]"
 }
 
 lv_macerator: {
@@ -29854,12 +29910,12 @@ lv_macerator: {
 }
 
 lv_machine_casing: {
-	DisplayName: LV机械方块
+	DisplayName: "LV机械方块"
 	Tooltip: ""
 }
 
 lv_machine_hull: {
-	DisplayName: LV机器外壳
+	DisplayName: "LV机器外壳"
 	Tooltip: ""
 }
 
@@ -29874,7 +29930,7 @@ lv_mixer: {
 }
 
 lv_muffler_hatch: {
-	DisplayName: 基础消声仓
+	DisplayName: "基础消声仓"
 	Tooltip: ""
 }
 
@@ -29884,12 +29940,12 @@ lv_ore_washer: {
 }
 
 lv_output_bus: {
-	DisplayName: LV输出总线
+	DisplayName: "LV输出总线"
 	Tooltip: ""
 }
 
 lv_output_hatch: {
-	DisplayName: LV输出仓
+	DisplayName: "LV输出仓"
 	Tooltip: ""
 }
 
@@ -29904,7 +29960,7 @@ lv_polarizer: {
 }
 
 lv_power_unit: {
-	DisplayName: LV能量单元
+	DisplayName: "LV能量单元"
 	Tooltip: ""
 }
 
@@ -29914,7 +29970,7 @@ lv_pump: {
 }
 
 lv_robot_arm: {
-	DisplayName: LV机械臂
+	DisplayName: "LV机械臂"
 	Tooltip: ""
 }
 
@@ -29929,7 +29985,7 @@ lv_scanner: {
 }
 
 lv_sensor: {
-	DisplayName: LV传感器
+	DisplayName: "LV传感器"
 	Tooltip: ""
 }
 
@@ -29940,7 +29996,7 @@ lv_sifter: {
 
 lv_sodium_battery: {
 	DisplayName: 小型钠电池
-	Tooltip: 可充电电池
+	Tooltip: "[c/AAAAAA:可充电电池]"
 }
 
 lv_solar_panel: {
@@ -29969,22 +30025,22 @@ lv_thermal_centrifuge: {
 }
 
 lv_transformer_16a: {
-	DisplayName: LV高能变压器
+	DisplayName: "LV高能变压器"
 	Tooltip: ""
 }
 
 lv_transformer_1a: {
-	DisplayName: LV变压器
+	DisplayName: "LV变压器"
 	Tooltip: ""
 }
 
 lv_transformer_2a: {
-	DisplayName: LV进阶变压器
+	DisplayName: "LV进阶变压器"
 	Tooltip: ""
 }
 
 lv_transformer_4a: {
-	DisplayName: LV高流变压器
+	DisplayName: "LV高流变压器"
 	Tooltip: ""
 }
 
@@ -30108,16 +30164,6 @@ mask_filter: {
 	Tooltip: ""
 }
 
-matchbox: {
-	DisplayName: 火柴盒
-	Tooltip: ""
-}
-
-matches: {
-	DisplayName: 火柴
-	Tooltip: ""
-}
-
 max_16a_energy_converter: {
 	DisplayName: 16[c/FFFF55:安]MAX能量转换器
 	Tooltip: ""
@@ -30140,7 +30186,7 @@ max_8a_energy_converter: {
 
 max_battery: {
 	DisplayName: 终极电池
-	Tooltip: 填满就能通关Minecraft
+	Tooltip: "[c/AAAAAA:填满就能通关Minecraft]"
 }
 
 max_battery_buffer_16x: {
@@ -30315,27 +30361,47 @@ mega_vacuum_freezer: {
 
 micro_processor: {
 	DisplayName: 微型处理器
-	Tooltip: 运算速度惊人！
+	Tooltip:
+		'''
+		[c/AAAAAA:运算速度惊人！]
+		[c/FFFF55:MV级电路]
+		'''
 }
 
 micro_processor_assembly: {
 	DisplayName: 微型处理器集群
-	Tooltip: 运算速度惊人！
+	Tooltip:
+		'''
+		[c/AAAAAA:运算速度惊人！]
+		[c/FFFF55:HV级电路]
+		'''
 }
 
 micro_processor_computer: {
 	DisplayName: 微型处理器超级计算机
-	Tooltip: 运算速度惊人！
+	Tooltip:
+		'''
+		[c/AAAAAA:运算速度惊人！]
+		[c/FFFF55:EV级电路]
+		'''
 }
 
 micro_processor_mainframe: {
 	DisplayName: 微型处理器主机
-	Tooltip: 运算速度惊人！
+	Tooltip:
+		'''
+		[c/AAAAAA:运算速度惊人！]
+		[c/FFFF55:IV级电路]
+		'''
 }
 
 microchip_processor: {
 	DisplayName: 微芯片处理器
-	Tooltip: 卓越的基础电路
+	Tooltip:
+		'''
+		[c/AAAAAA:卓越的基础电路]
+		[c/FFFF55:LV级电路]
+		'''
 }
 
 mob_infestation_hazard_sign_block: {
@@ -30400,12 +30466,12 @@ mossy_red_granite_cobblestone: {
 
 mpic_chip: {
 	DisplayName: MPIC芯片
-	Tooltip: 功率集成电路
+	Tooltip: "[c/AAAAAA:功率集成电路]"
 }
 
 mpic_wafer: {
 	DisplayName: MPIC晶圆
-	Tooltip: 功率集成电路原料
+	Tooltip: "[c/AAAAAA:功率集成电路原料]"
 }
 
 multi_smelter: {
@@ -30415,12 +30481,12 @@ multi_smelter: {
 
 multilayer_fiber_reinforced_circuit_board: {
 	DisplayName: 多层纤维强化电路基板
-	Tooltip: 精英电路基板
+	Tooltip: "[c/AAAAAA:精英电路基板]"
 }
 
 multilayer_fiber_reinforced_printed_circuit_board: {
 	DisplayName: 多层纤维强化印刷电路基板
-	Tooltip: 精英级电路基板
+	Tooltip: "[c/AAAAAA:精英级电路基板]"
 }
 
 mv_16a_energy_converter: {
@@ -30444,27 +30510,27 @@ mv_8a_energy_converter: {
 }
 
 mv_air_scrubber: {
-	DisplayName: 进阶空气净化器
+	DisplayName: "进阶空气净化器"
 	Tooltip: ""
 }
 
 mv_alloy_smelter: {
-	DisplayName: 进阶合金炉
+	DisplayName: "进阶合金炉"
 	Tooltip: ""
 }
 
 mv_arc_furnace: {
-	DisplayName: 进阶电弧炉
+	DisplayName: "进阶电弧炉"
 	Tooltip: ""
 }
 
 mv_assembler: {
-	DisplayName: 进阶组装机
+	DisplayName: "进阶组装机"
 	Tooltip: ""
 }
 
 mv_autoclave: {
-	DisplayName: 进阶高压釜
+	DisplayName: "进阶高压釜"
 	Tooltip: ""
 }
 
@@ -30485,7 +30551,7 @@ mv_battery_buffer_8x: {
 
 mv_battery_hull: {
 	DisplayName: 中型电池外壳
-	Tooltip: 一个空的MV电池外壳
+	Tooltip: "[c/AAAAAA:一个空的][c/55FFFF:MV][c/AAAAAA:电池外壳]"
 }
 
 mv_bedrock_ore_miner: {
@@ -30494,17 +30560,17 @@ mv_bedrock_ore_miner: {
 }
 
 mv_bender: {
-	DisplayName: 进阶卷板机
+	DisplayName: "进阶卷板机"
 	Tooltip: ""
 }
 
 mv_block_breaker: {
-	DisplayName: 进阶方块破坏器
+	DisplayName: "进阶方块破坏器"
 	Tooltip: ""
 }
 
 mv_brewery: {
-	DisplayName: 进阶酿造室
+	DisplayName: "进阶酿造室"
 	Tooltip: ""
 }
 
@@ -30515,16 +30581,16 @@ mv_buffer: {
 
 mv_cadmium_battery: {
 	DisplayName: 中型镉电池
-	Tooltip: 可充电电池
+	Tooltip: "[c/AAAAAA:可充电电池]"
 }
 
 mv_canner: {
-	DisplayName: 进阶装罐机
+	DisplayName: "进阶装罐机"
 	Tooltip: ""
 }
 
 mv_centrifuge: {
-	DisplayName: 进阶离心机
+	DisplayName: "进阶离心机"
 	Tooltip: ""
 }
 
@@ -30534,127 +30600,127 @@ mv_charger_4x: {
 }
 
 mv_chemical_bath: {
-	DisplayName: 进阶化学浸洗机
+	DisplayName: "进阶化学浸洗机"
 	Tooltip: ""
 }
 
 mv_chemical_reactor: {
-	DisplayName: 进阶化学反应釜
+	DisplayName: "进阶化学反应釜"
 	Tooltip: ""
 }
 
 mv_circuit_assembler: {
-	DisplayName: 进阶电路组装机
+	DisplayName: "进阶电路组装机"
 	Tooltip: ""
 }
 
 mv_combustion: {
-	DisplayName: MV 内燃发电机
+	DisplayName: "MV 内燃发电机"
 	Tooltip: ""
 }
 
 mv_compressor: {
-	DisplayName: 进阶压缩机
+	DisplayName: "进阶压缩机"
 	Tooltip: ""
 }
 
 mv_conveyor_module: {
-	DisplayName: MV传送带
+	DisplayName: "MV传送带"
 	Tooltip: ""
 }
 
 mv_cutter: {
-	DisplayName: 进阶切割机
+	DisplayName: "进阶切割机"
 	Tooltip: ""
 }
 
 mv_diode: {
-	DisplayName: 进阶二极管
+	DisplayName: "进阶二极管"
 	Tooltip: ""
 }
 
 mv_distillery: {
-	DisplayName: 进阶蒸馏室
+	DisplayName: "进阶蒸馏室"
 	Tooltip: ""
 }
 
 mv_electric_furnace: {
-	DisplayName: 进阶电炉
+	DisplayName: "进阶电炉"
 	Tooltip: ""
 }
 
 mv_electric_motor: {
-	DisplayName: MV电动马达
+	DisplayName: "MV电动马达"
 	Tooltip: ""
 }
 
 mv_electric_piston: {
-	DisplayName: MV电力活塞
+	DisplayName: "MV电力活塞"
 	Tooltip: ""
 }
 
 mv_electric_pump: {
-	DisplayName: MV电动泵
+	DisplayName: "MV电动泵"
 	Tooltip: ""
 }
 
 mv_electrolyzer: {
-	DisplayName: 进阶电解机
+	DisplayName: "进阶电解机"
 	Tooltip: ""
 }
 
 mv_electromagnetic_separator: {
-	DisplayName: 进阶电磁选矿机
+	DisplayName: "进阶电磁选矿机"
 	Tooltip: ""
 }
 
 mv_emitter: {
-	DisplayName: MV发射器
+	DisplayName: "MV发射器"
 	Tooltip: ""
 }
 
 mv_energy_input_hatch: {
-	DisplayName: MV能源仓
+	DisplayName: "MV能源仓"
 	Tooltip: ""
 }
 
 mv_energy_output_hatch: {
-	DisplayName: MV动力仓
+	DisplayName: "MV动力仓"
 	Tooltip: ""
 }
 
 mv_extractor: {
-	DisplayName: 进阶提取机
+	DisplayName: "进阶提取机"
 	Tooltip: ""
 }
 
 mv_extruder: {
-	DisplayName: 进阶压模器
+	DisplayName: "进阶压模器"
 	Tooltip: ""
 }
 
 mv_fermenter: {
-	DisplayName: 进阶发酵槽
+	DisplayName: "进阶发酵槽"
 	Tooltip: ""
 }
 
 mv_field_generator: {
-	DisplayName: MV力场发生器
+	DisplayName: "MV力场发生器"
 	Tooltip: ""
 }
 
 mv_fisher: {
-	DisplayName: 进阶捕鱼器
+	DisplayName: "进阶捕鱼器"
 	Tooltip: ""
 }
 
 mv_fluid_drilling_rig: {
-	DisplayName: 流体钻机
+	DisplayName: "流体钻机"
 	Tooltip: ""
 }
 
 mv_fluid_heater: {
-	DisplayName: 进阶流体加热器
+	DisplayName: "进阶流体加热器"
 	Tooltip: ""
 }
 
@@ -30664,32 +30730,32 @@ mv_fluid_passthrough_hatch: {
 }
 
 mv_fluid_regulator: {
-	DisplayName: MV流体校准器
+	DisplayName: "MV流体校准器"
 	Tooltip: ""
 }
 
 mv_fluid_solidifier: {
-	DisplayName: 进阶流体固化器
+	DisplayName: "进阶流体固化器"
 	Tooltip: ""
 }
 
 mv_forge_hammer: {
-	DisplayName: 进阶锻造锤
+	DisplayName: "进阶锻造锤"
 	Tooltip: ""
 }
 
 mv_forming_press: {
-	DisplayName: 进阶冲压机床
+	DisplayName: "进阶冲压机床"
 	Tooltip: ""
 }
 
 mv_gas_collector: {
-	DisplayName: 进阶集气室
+	DisplayName: "进阶集气室"
 	Tooltip: ""
 }
 
 mv_gas_turbine: {
-	DisplayName: MV 燃气轮机
+	DisplayName: "MV 燃气轮机"
 	Tooltip: ""
 }
 
@@ -30699,17 +30765,17 @@ mv_hermetic_casing: {
 }
 
 mv_input_bus: {
-	DisplayName: MV输入总线
+	DisplayName: "MV输入总线"
 	Tooltip: ""
 }
 
 mv_input_hatch: {
-	DisplayName: MV输入仓
+	DisplayName: "MV输入仓"
 	Tooltip: ""
 }
 
 mv_item_collector: {
-	DisplayName: 进阶物品收集器
+	DisplayName: "进阶物品收集器"
 	Tooltip: ""
 }
 
@@ -30719,113 +30785,113 @@ mv_item_passthrough_hatch: {
 }
 
 mv_laser_engraver: {
-	DisplayName: 进阶激光蚀刻机
+	DisplayName: "进阶激光蚀刻机"
 	Tooltip: ""
 }
 
 mv_lathe: {
-	DisplayName: 进阶车床
+	DisplayName: "进阶车床"
 	Tooltip: ""
 }
 
 mv_lithium_battery: {
 	DisplayName: 中型锂电池
-	Tooltip: 可充电电池
+	Tooltip: "[c/AAAAAA:可充电电池]"
 }
 
 mv_macerator: {
-	DisplayName: 进阶研磨机
+	DisplayName: "进阶研磨机"
 	Tooltip: ""
 }
 
 mv_machine_casing: {
-	DisplayName: MV机械方块
+	DisplayName: "MV机械方块"
 	Tooltip: ""
 }
 
 mv_machine_hull: {
-	DisplayName: MV机器方块
+	DisplayName: "MV机器方块"
 	Tooltip: ""
 }
 
 mv_miner: {
-	DisplayName: MV 采矿机
+	DisplayName: "MV 采矿机"
 	Tooltip: ""
 }
 
 mv_mixer: {
-	DisplayName: 进阶搅拌机
+	DisplayName: "进阶搅拌机"
 	Tooltip: ""
 }
 
 mv_muffler_hatch: {
-	DisplayName: 进阶消声仓
+	DisplayName: "进阶消声仓"
 	Tooltip: ""
 }
 
 mv_ore_washer: {
-	DisplayName: 进阶洗矿厂
+	DisplayName: "进阶洗矿厂"
 	Tooltip: ""
 }
 
 mv_output_bus: {
-	DisplayName: MV输出总线
+	DisplayName: "MV输出总线"
 	Tooltip: ""
 }
 
 mv_output_hatch: {
-	DisplayName: MV输出仓
+	DisplayName: "MV输出仓"
 	Tooltip: ""
 }
 
 mv_packer: {
-	DisplayName: 进阶打包机
+	DisplayName: "进阶打包机"
 	Tooltip: ""
 }
 
 mv_polarizer: {
-	DisplayName: 进阶两极磁化机
+	DisplayName: "进阶两极磁化机"
 	Tooltip: ""
 }
 
 mv_power_unit: {
-	DisplayName: MV能量单元
+	DisplayName: "MV能量单元"
 	Tooltip: ""
 }
 
 mv_pump: {
-	DisplayName: 进阶水泵
+	DisplayName: "进阶水泵"
 	Tooltip: ""
 }
 
 mv_robot_arm: {
-	DisplayName: MV机械臂
+	DisplayName: "MV机械臂"
 	Tooltip: ""
 }
 
 mv_rock_crusher: {
-	DisplayName: 进阶碎岩机
+	DisplayName: "进阶碎岩机"
 	Tooltip: ""
 }
 
 mv_scanner: {
-	DisplayName: 进阶扫描仪
+	DisplayName: "进阶扫描仪"
 	Tooltip: ""
 }
 
 mv_sensor: {
-	DisplayName: MV传感器
+	DisplayName: "MV传感器"
 	Tooltip: ""
 }
 
 mv_sifter: {
-	DisplayName: 进阶筛选机
+	DisplayName: "进阶筛选机"
 	Tooltip: ""
 }
 
 mv_sodium_battery: {
 	DisplayName: 中型钠电池
-	Tooltip: 可充电电池
+	Tooltip: "[c/AAAAAA:可充电电池]"
 }
 
 mv_solar_panel: {
@@ -30834,7 +30900,7 @@ mv_solar_panel: {
 }
 
 mv_steam_turbine: {
-	DisplayName: 进阶蒸汽轮机
+	DisplayName: "进阶蒸汽轮机"
 	Tooltip: ""
 }
 
@@ -30849,27 +30915,27 @@ mv_super_tank: {
 }
 
 mv_thermal_centrifuge: {
-	DisplayName: 进阶热力离心机
+	DisplayName: "进阶热力离心机"
 	Tooltip: ""
 }
 
 mv_transformer_16a: {
-	DisplayName: MV高能变压器
+	DisplayName: "MV高能变压器"
 	Tooltip: ""
 }
 
 mv_transformer_1a: {
-	DisplayName: MV变压器
+	DisplayName: "MV变压器"
 	Tooltip: ""
 }
 
 mv_transformer_2a: {
-	DisplayName: MV进阶变压器
+	DisplayName: "MV进阶变压器"
 	Tooltip: ""
 }
 
 mv_transformer_4a: {
-	DisplayName: MV高流变压器
+	DisplayName: "MV高流变压器"
 	Tooltip: ""
 }
 
@@ -30879,18 +30945,18 @@ mv_voltage_coil: {
 }
 
 mv_wiremill: {
-	DisplayName: 进阶线材轧机
+	DisplayName: "进阶线材轧机"
 	Tooltip: ""
 }
 
 mv_world_accelerator: {
-	DisplayName: 进阶世界加速器
+	DisplayName: "进阶世界加速器"
 	Tooltip: ""
 }
 
 name_casting_mold: {
 	DisplayName: 模具（命名）
-	Tooltip: 用来在冲压机床中为物品命名的模具（用铁砧重命名模具）
+	Tooltip: "[c/AAAAAA:用来在冲压机床中为物品命名的模具（用铁砧重命名模具）]"
 }
 
 nan_certificate: {
@@ -30900,52 +30966,72 @@ nan_certificate: {
 
 nand_chip: {
 	DisplayName: NAND芯片
-	Tooltip: 卓越的简单电路
+	Tooltip:
+		'''
+		[c/AAAAAA:卓越的简单电路]
+		[c/FFAA00:ULV级电路]
+		'''
 }
 
 nand_memory_chip: {
 	DisplayName: NAND存储器芯片
-	Tooltip: 与非逻辑门
+	Tooltip: "[c/AAAAAA:与非逻辑门]"
 }
 
 nand_memory_wafer: {
 	DisplayName: NAND存储器晶圆
-	Tooltip: 逻辑门原料
+	Tooltip: "[c/AAAAAA:逻辑门原料]"
 }
 
 nano_cpu_chip: {
 	DisplayName: 纳米CPU芯片
-	Tooltip: 纳米中央处理器
+	Tooltip: "[c/AAAAAA:纳米中央处理器]"
 }
 
 nano_cpu_wafer: {
 	DisplayName: 纳米CPU晶圆
-	Tooltip: 纳米电路原料
+	Tooltip: "[c/AAAAAA:纳米电路原料]"
 }
 
 nano_processor: {
 	DisplayName: 纳米处理器
-	Tooltip: 比小更小
+	Tooltip:
+		'''
+		[c/AAAAAA:比小更小]
+		[c/55FFFF:HV级电路]
+		'''
 }
 
 nano_processor_assembly: {
 	DisplayName: 纳米处理器集群
-	Tooltip: 比小更小
+	Tooltip:
+		'''
+		[c/AAAAAA:比小更小]
+		[c/55FFFF:EV级电路]
+		'''
 }
 
 nano_processor_computer: {
 	DisplayName: 纳米处理器超级计算机
-	Tooltip: 比小更小
+	Tooltip:
+		'''
+		[c/AAAAAA:比小更小]
+		[c/55FFFF:IV级电路]
+		'''
 }
 
 nano_processor_mainframe: {
 	DisplayName: 纳米处理器主机
-	Tooltip: 比小更小
+	Tooltip:
+		'''
+		[c/AAAAAA:比小更小]
+		[c/55FFFF:LuV级电路]
+		'''
 }
 
 nano_saber: {
 	DisplayName: 纳米剑
-	Tooltip: ""
+	Tooltip: "[c/AAAAAA:尝尝龙神之剑！]"
 }
 
 nanomuscle_boots: {
@@ -30970,7 +31056,7 @@ nanomuscle_leggings: {
 
 naquadah_boule: {
 	DisplayName: 硅岩掺杂的单晶硅
-	Tooltip: 电路原料
+	Tooltip: "[c/AAAAAA:电路原料]"
 }
 
 naquadah_coil_block: {
@@ -30980,7 +31066,7 @@ naquadah_coil_block: {
 
 naquadah_wafer: {
 	DisplayName: 硅岩掺杂的晶圆
-	Tooltip: 电路原料
+	Tooltip: "[c/AAAAAA:电路原料]"
 }
 
 network_switch: {
@@ -30990,22 +31076,22 @@ network_switch: {
 
 neuro_processing_unit: {
 	DisplayName: 神经处理单元
-	Tooltip: 神经CPU
+	Tooltip: "[c/AAAAAA:神经CPU]"
 }
 
 neutron_reflector: {
 	DisplayName: 铱中子反射板
-	Tooltip: 坚不可摧
+	Tooltip: "[c/AAAAAA:坚不可摧]"
 }
 
 neutronium_boule: {
 	DisplayName: 中子素掺杂的单晶硅
-	Tooltip: 电路原料
+	Tooltip: "[c/AAAAAA:电路原料]"
 }
 
 neutronium_wafer: {
 	DisplayName: 中子素掺杂的晶圆
-	Tooltip: 电路原料
+	Tooltip: "[c/AAAAAA:电路原料]"
 }
 
 nichrome_coil_block: {
@@ -31030,12 +31116,12 @@ nonconducting_casing: {
 
 nor_memory_chip: {
 	DisplayName: NOR存储器芯片
-	Tooltip: 或非逻辑门
+	Tooltip: "[c/AAAAAA:或非逻辑门]"
 }
 
 nor_memory_wafer: {
 	DisplayName: NOR存储器晶圆
-	Tooltip: 逻辑门原料
+	Tooltip: "[c/AAAAAA:逻辑门原料]"
 }
 
 normal_duct_pipe: {
@@ -31045,12 +31131,12 @@ normal_duct_pipe: {
 
 normal_laser_pipe: {
 	DisplayName: 激光管道
-	Tooltip: ""
+	Tooltip: "[c/FFFFFF:无损][c/AAAAAA:传递能量，仅限直线摆放]"
 }
 
 normal_optical_pipe: {
 	DisplayName: 光纤管道
-	Tooltip: ""
+	Tooltip: "[c/AAAAAA:传递][c/FFFFFF:算力][c/AAAAAA:或][c/FFFFFF:研究数据]"
 }
 
 normal_pipe_casting_mold: {
@@ -31065,7 +31151,7 @@ normal_pipe_extruder_mold: {
 
 nugget_casting_mold: {
 	DisplayName: 模具（粒）
-	Tooltip: 用来制作粒的模具
+	Tooltip: "[c/AAAAAA:用来制作粒的模具]"
 }
 
 object_holder: {
@@ -31264,7 +31350,7 @@ opv_electromagnetic_separator: {
 }
 
 opv_emitter: {
-	DisplayName: OpV发射器
+	DisplayName: "OpV发射器"
 	Tooltip: ""
 }
 
@@ -31504,22 +31590,22 @@ opv_thermal_centrifuge: {
 }
 
 opv_transformer_16a: {
-	DisplayName: OpV高能变压器
+	DisplayName: "OpV高能变压器"
 	Tooltip: ""
 }
 
 opv_transformer_1a: {
-	DisplayName: OpV变压器
+	DisplayName: "OpV变压器"
 	Tooltip: ""
 }
 
 opv_transformer_2a: {
-	DisplayName: OpV进阶变压器
+	DisplayName: "OpV进阶变压器"
 	Tooltip: ""
 }
 
 opv_transformer_4a: {
-	DisplayName: OpV高流变压器
+	DisplayName: "OpV高流变压器"
 	Tooltip: ""
 }
 
@@ -31580,7 +31666,7 @@ paracetamol_pill: {
 
 petri_dish: {
 	DisplayName: 培养皿
-	Tooltip: 用来培育细胞
+	Tooltip: "[c/AAAAAA:用来培育细胞]"
 }
 
 petrified_foam: {
@@ -31590,22 +31676,22 @@ petrified_foam: {
 
 phenolic_circuit_board: {
 	DisplayName: 酚醛树脂电路基板
-	Tooltip: 更好的基板
+	Tooltip: "[c/AAAAAA:更好的基板]"
 }
 
 phenolic_printed_circuit_board: {
 	DisplayName: 酚醛树脂印刷电路基板
-	Tooltip: 优质电路基板
+	Tooltip: "[c/AAAAAA:优质电路基板]"
 }
 
 phosphorus_boule: {
 	DisplayName: 磷掺杂的单晶硅
-	Tooltip: 电路原料
+	Tooltip: "[c/AAAAAA:电路原料]"
 }
 
 phosphorus_wafer: {
 	DisplayName: 磷掺杂的晶圆
-	Tooltip: 电路原料
+	Tooltip: "[c/AAAAAA:电路原料]"
 }
 
 pill_casting_mold: {
@@ -31654,7 +31740,7 @@ plant_ball: {
 }
 
 plascrete: {
-	DisplayName: 等离子混凝土
+	DisplayName: 塑料混凝土
 	Tooltip: ""
 }
 
@@ -31665,27 +31751,22 @@ plasma_large_turbine: {
 
 plastic_circuit_board: {
 	DisplayName: 塑料电路基板
-	Tooltip: 更好的基板
+	Tooltip: "[c/AAAAAA:更好的基板]"
 }
 
 plastic_printed_circuit_board: {
 	DisplayName: 塑料印刷电路基板
-	Tooltip: 优质电路基板
+	Tooltip: "[c/AAAAAA:优质电路基板]"
 }
 
 plate_casting_mold: {
 	DisplayName: 模具（板）
-	Tooltip: 用来制作板的模具
+	Tooltip: "[c/AAAAAA:用来制作板的模具]"
 }
 
 plate_extruder_mold: {
 	DisplayName: 模头（板）
-	Tooltip: 用来制作板的模头
-}
-
-platinum_lighter: {
-	DisplayName: 铂打火机
-	Tooltip: ""
+	Tooltip: "[c/AAAAAA:用来制作板的模头]"
 }
 
 polished_dark_concrete: {
@@ -31745,22 +31826,28 @@ primitive_pump: {
 
 programmed_circuit: {
 	DisplayName: 编程电路
-	Tooltip: 使用以打开配置界面
+	Tooltip:
+		'''
+		右击打开配置页面
+		潜行右击有虚拟电路槽的
+		机器，将其设置为本电路
+		的值。
+		'''
 }
 
 prospector: {
 	hv: {
-		DisplayName: 探矿器(HV)
+		DisplayName: 进阶探矿仪（[c/FFAA00:HV]）
 		Tooltip: ""
 	}
 
 	luv: {
-		DisplayName: 探矿器(LuV)
+		DisplayName: 超级探矿仪（[c/FF55FF:LuV]）
 		Tooltip: ""
 	}
 
 	lv: {
-		DisplayName: 探矿器(LV)
+		DisplayName: 探矿仪（[c/AAAAAA:LV]）
 		Tooltip: ""
 	}
 }
@@ -31827,42 +31914,58 @@ pyrolyse_oven: {
 
 qbit_cpu_chip: {
 	DisplayName: 量子位CPU芯片
-	Tooltip: 量子位中央处理器
+	Tooltip: "[c/AAAAAA:量子位中央处理器]"
 }
 
 qbit_cpu_wafer: {
 	DisplayName: 量子位CPU晶圆
-	Tooltip: 量子位电路原料
+	Tooltip: "[c/AAAAAA:量子位电路原料]"
 }
 
 quantum_eye: {
 	DisplayName: 量子之眼
-	Tooltip: 改良的末影之眼
+	Tooltip: "[c/AAAAAA:改良的末影之眼]"
 }
 
 quantum_processor: {
 	DisplayName: 量子处理器
-	Tooltip: 量子计算终成现实！
+	Tooltip:
+		'''
+		[c/AAAAAA:量子计算终成现实！]
+		[c/55FF55:EV级电路]
+		'''
 }
 
 quantum_processor_assembly: {
 	DisplayName: 量子处理器集群
-	Tooltip: 量子计算终成现实！
+	Tooltip:
+		'''
+		[c/AAAAAA:量子计算终成现实！]
+		[c/55FF55:IV级电路]
+		'''
 }
 
 quantum_processor_computer: {
 	DisplayName: 量子处理器超级计算机
-	Tooltip: 量子计算终成现实！
+	Tooltip:
+		'''
+		[c/AAAAAA:量子计算终成现实！]
+		[c/55FF55:LuV级电路]
+		'''
 }
 
 quantum_processor_mainframe: {
 	DisplayName: 量子处理器主机
-	Tooltip: 量子计算终成现实！
+	Tooltip:
+		'''
+		[c/AAAAAA:量子计算终成现实！]
+		[c/55FF55:ZPM级电路]
+		'''
 }
 
 quantum_star: {
 	DisplayName: 量子之星
-	Tooltip: 改良的下界之星
+	Tooltip: "[c/AAAAAA:改良的下界之星]"
 }
 
 quarktech_boots: {
@@ -31897,22 +32000,22 @@ radioactive_hazard_sign_block: {
 
 ram_chip: {
 	DisplayName: RAM芯片
-	Tooltip: 随机存取存储器
+	Tooltip: "[c/AAAAAA:随机存取存储器]"
 }
 
 ram_wafer: {
 	DisplayName: RAM晶圆
-	Tooltip: 内存原料
+	Tooltip: "[c/AAAAAA:内存原料]"
 }
 
 raw_crystal_chip: {
 	DisplayName: 晶体芯片原料
-	Tooltip: 晶体处理器原料
+	Tooltip: "[c/AAAAAA:晶体处理器原料]"
 }
 
 raw_crystal_chip_parts: {
 	DisplayName: 晶体芯片部件原料
-	Tooltip: 晶体处理器部件原料
+	Tooltip: "[c/AAAAAA:晶体处理器部件原料]"
 }
 
 reaction_safe_mixing_casing: {
@@ -32012,22 +32115,22 @@ reservoir_hatch: {
 
 resin_circuit_board: {
 	DisplayName: 覆膜电路基板
-	Tooltip: 电路的基底
+	Tooltip: "[c/AAAAAA:电路的基底]"
 }
 
 resin_printed_circuit_board: {
 	DisplayName: 覆膜印刷电路基板
-	Tooltip: 基础电路基板
+	Tooltip: "[c/AAAAAA:基础电路基板]"
 }
 
 resistor: {
 	DisplayName: 电阻
-	Tooltip: 基础电子元件
+	Tooltip: "[c/AAAAAA:基础电子元件]"
 }
 
 ring_extruder_mold: {
 	DisplayName: 模头（环）
-	Tooltip: 用来制作环的模头
+	Tooltip: "[c/AAAAAA:用来制作环的模头]"
 }
 
 robust_machine_casing: {
@@ -32037,17 +32140,17 @@ robust_machine_casing: {
 
 rod_extruder_mold: {
 	DisplayName: 模头（杆）
-	Tooltip: 用来制作杆的模头
+	Tooltip: "[c/AAAAAA:用来制作杆的模头]"
 }
 
 rotor_casting_mold: {
 	DisplayName: 模具（转子）
-	Tooltip: 用来制作转子的模具
+	Tooltip: "[c/AAAAAA:用来制作转子的模具]"
 }
 
 rotor_extruder_mold: {
 	DisplayName: 模头（转子）
-	Tooltip: 用来制作转子的模头
+	Tooltip: "[c/AAAAAA:用来制作转子的模头]"
 }
 
 rtm_alloy_coil_block: {
@@ -32140,11 +32243,6 @@ rubber_trapdoor: {
 	Tooltip: ""
 }
 
-rubber_wood: {
-	DisplayName: 橡胶木
-	Tooltip: ""
-}
-
 secure_maceration_casing: {
 	DisplayName: 安全研磨外壳
 	Tooltip: ""
@@ -32157,27 +32255,27 @@ shock_proof_cutting_casing: {
 
 shutter_module_cover: {
 	DisplayName: 扇板
-	Tooltip: 作覆盖板时阻止机器侧面的任何传输行为。
+	Tooltip: "[c/AAAAAA:作][c/FFFFFF:覆盖板][c/AAAAAA:时][c/FFFFFF:阻止][c/AAAAAA:机器侧面的任何][c/FFFFFF:传输][c/AAAAAA:行为。]"
 }
 
 silicon_boule: {
 	DisplayName: 单晶硅
-	Tooltip: 电路原料
+	Tooltip: "[c/AAAAAA:电路原料]"
 }
 
 silicon_wafer: {
 	DisplayName: 硅晶圆
-	Tooltip: 电路原料
+	Tooltip: "[c/AAAAAA:电路原料]"
 }
 
 simple_soc: {
 	DisplayName: 简易SoC
-	Tooltip: 简易系统级芯片
+	Tooltip: "[c/AAAAAA:简易系统级芯片]"
 }
 
 simple_soc_wafer: {
 	DisplayName: 简易SoC晶圆
-	Tooltip: 简易电路原料
+	Tooltip: "[c/AAAAAA:简易电路原料]"
 }
 
 slicing_blades: {
@@ -32232,42 +32330,46 @@ small_red_granite_bricks: {
 
 smd_capacitor: {
 	DisplayName: 贴片电容
-	Tooltip: 电子元件
+	Tooltip: "[c/AAAAAA:电子元件]"
 }
 
 smd_diode: {
 	DisplayName: 贴片二极管
-	Tooltip: 电子元件
+	Tooltip: "[c/AAAAAA:电子元件]"
 }
 
 smd_inductor: {
 	DisplayName: 贴片电感
-	Tooltip: 电子元件
+	Tooltip: "[c/AAAAAA:电子元件]"
 }
 
 smd_resistor: {
 	DisplayName: 贴片电阻
-	Tooltip: 电子元件
+	Tooltip: "[c/AAAAAA:电子元件]"
 }
 
 smd_transistor: {
 	DisplayName: 贴片晶体管
-	Tooltip: 电子元件
+	Tooltip: "[c/AAAAAA:电子元件]"
 }
 
 soc: {
 	DisplayName: ASoC
-	Tooltip: 系统级芯片
+	Tooltip: "[c/AAAAAA:系统级芯片]"
 }
 
 soc_wafer: {
 	DisplayName: SoC晶圆
-	Tooltip: 基础电路原料
+	Tooltip: "[c/AAAAAA:基础电路原料]"
 }
 
 solar_panel: {
 	DisplayName: 太阳能板
-	Tooltip: 愿太阳与你同在。
+	Tooltip:
+		'''
+		[c/AAAAAA:愿太阳与你同在。]
+		[c/AAAAAA:作][c/FFFFFF:覆盖板][c/AAAAAA:时利用][c/FFFF55:太阳][c/AAAAAA:生产][c/FFFFFF:能量][c/AAAAAA:。]
+		'''
 }
 
 solid_machine_casing: {
@@ -32437,7 +32539,7 @@ steel_turbine_casing: {
 
 stem_cells: {
 	DisplayName: 干细胞
-	Tooltip: 智慧原料
+	Tooltip: "[c/AAAAAA:智慧原料]"
 }
 
 sterilizing_filter_casing: {
@@ -32497,12 +32599,7 @@ tempered_glass: {
 
 terminal: {
 	DisplayName: 终端
-	Tooltip: ""
-}
-
-text_module: {
-	DisplayName: 文本模块
-	Tooltip: ""
+	Tooltip: 潜行右击多方块控制器，以用你物品栏中的物品自动搭建此结构
 }
 
 the_end_marker: {
@@ -32567,7 +32664,7 @@ titanium_turbine_casing: {
 
 transistor: {
 	DisplayName: 晶体管
-	Tooltip: 基础电子元件
+	Tooltip: "[c/AAAAAA:基础电子元件]"
 }
 
 treated_wood_boat: {
@@ -32692,7 +32789,7 @@ tungstensteel_turbine_casing: {
 
 turbine_rotor: {
 	DisplayName: %s涡轮转子
-	Tooltip: ""
+	Tooltip: 供涡轮机使用的涡轮转子
 }
 
 turret_hazard_sign_block: {
@@ -32751,22 +32848,22 @@ uev_8a_energy_converter: {
 }
 
 uev_alloy_smelter: {
-	DisplayName: 史诗合金炉II
+	DisplayName: "史诗合金炉II"
 	Tooltip: ""
 }
 
 uev_arc_furnace: {
-	DisplayName: 史诗电弧炉II
+	DisplayName: "史诗电弧炉II"
 	Tooltip: ""
 }
 
 uev_assembler: {
-	DisplayName: 史诗组装机II
+	DisplayName: "史诗组装机II"
 	Tooltip: ""
 }
 
 uev_autoclave: {
-	DisplayName: 史诗高压釜II
+	DisplayName: "史诗高压釜II"
 	Tooltip: ""
 }
 
@@ -32786,22 +32883,22 @@ uev_battery_buffer_8x: {
 }
 
 uev_bender: {
-	DisplayName: 史诗卷板机II
+	DisplayName: "史诗卷板机II"
 	Tooltip: ""
 }
 
 uev_brewery: {
-	DisplayName: 史诗酿造室II
+	DisplayName: "史诗酿造室II"
 	Tooltip: ""
 }
 
 uev_canner: {
-	DisplayName: 史诗装罐机II
+	DisplayName: "史诗装罐机II"
 	Tooltip: ""
 }
 
 uev_centrifuge: {
-	DisplayName: 史诗离心机II
+	DisplayName: "史诗离心机II"
 	Tooltip: ""
 }
 
@@ -32811,92 +32908,92 @@ uev_charger_4x: {
 }
 
 uev_chemical_bath: {
-	DisplayName: 史诗化学浸洗机II
+	DisplayName: "史诗化学浸洗机II"
 	Tooltip: ""
 }
 
 uev_chemical_reactor: {
-	DisplayName: 史诗化学反应釜II
+	DisplayName: "史诗化学反应釜II"
 	Tooltip: ""
 }
 
 uev_circuit_assembler: {
-	DisplayName: 史诗电路组装机II
+	DisplayName: "史诗电路组装机II"
 	Tooltip: ""
 }
 
 uev_compressor: {
-	DisplayName: 史诗压缩机II
+	DisplayName: "史诗压缩机II"
 	Tooltip: ""
 }
 
 uev_conveyor_module: {
-	DisplayName: UEV传送带
+	DisplayName: "UEV传送带"
 	Tooltip: ""
 }
 
 uev_cutter: {
-	DisplayName: 史诗切割机II
+	DisplayName: "史诗切割机II"
 	Tooltip: ""
 }
 
 uev_diode: {
-	DisplayName: 史诗二极管II
+	DisplayName: "史诗二极管II"
 	Tooltip: ""
 }
 
 uev_distillery: {
-	DisplayName: 史诗蒸馏室II
+	DisplayName: "史诗蒸馏室II"
 	Tooltip: ""
 }
 
 uev_dual_input_hatch: {
-	DisplayName: UEV双重输入仓
+	DisplayName: "UEV双重输入仓"
 	Tooltip: ""
 }
 
 uev_dual_output_hatch: {
-	DisplayName: UEV双重输出仓
+	DisplayName: "UEV双重输出仓"
 	Tooltip: ""
 }
 
 uev_electric_furnace: {
-	DisplayName: 史诗电炉II
+	DisplayName: "史诗电炉II"
 	Tooltip: ""
 }
 
 uev_electric_motor: {
-	DisplayName: UEV电动马达
+	DisplayName: "UEV电动马达"
 	Tooltip: ""
 }
 
 uev_electric_piston: {
-	DisplayName: UEV电力活塞
+	DisplayName: "UEV电力活塞"
 	Tooltip: ""
 }
 
 uev_electric_pump: {
-	DisplayName: UEV电动泵
+	DisplayName: "UEV电动泵"
 	Tooltip: ""
 }
 
 uev_electrolyzer: {
-	DisplayName: 史诗电解机II
+	DisplayName: "史诗电解机II"
 	Tooltip: ""
 }
 
 uev_electromagnetic_separator: {
-	DisplayName: 史诗电磁选矿机II
+	DisplayName: "史诗电磁选矿机II"
 	Tooltip: ""
 }
 
 uev_emitter: {
-	DisplayName: UEV发射器
+	DisplayName: "UEV发射器"
 	Tooltip: ""
 }
 
 uev_energy_input_hatch: {
-	DisplayName: UEV能源仓II
+	DisplayName: "UEV能源仓II"
 	Tooltip: ""
 }
 
@@ -32911,7 +33008,7 @@ uev_energy_input_hatch_4a: {
 }
 
 uev_energy_output_hatch: {
-	DisplayName: UEV动力仓II
+	DisplayName: "UEV动力仓II"
 	Tooltip: ""
 }
 
@@ -32926,27 +33023,27 @@ uev_energy_output_hatch_4a: {
 }
 
 uev_extractor: {
-	DisplayName: 史诗提取机II
+	DisplayName: "史诗提取机II"
 	Tooltip: ""
 }
 
 uev_extruder: {
-	DisplayName: 史诗压模器II
+	DisplayName: "史诗压模器II"
 	Tooltip: ""
 }
 
 uev_fermenter: {
-	DisplayName: 史诗发酵槽II
+	DisplayName: "史诗发酵槽II"
 	Tooltip: ""
 }
 
 uev_field_generator: {
-	DisplayName: UEV力场发生器
+	DisplayName: "UEV力场发生器"
 	Tooltip: ""
 }
 
 uev_fluid_heater: {
-	DisplayName: 史诗流体加热器II
+	DisplayName: "史诗流体加热器II"
 	Tooltip: ""
 }
 
@@ -32956,47 +33053,47 @@ uev_fluid_passthrough_hatch: {
 }
 
 uev_fluid_regulator: {
-	DisplayName: UEV流体校准器
+	DisplayName: "UEV流体校准器"
 	Tooltip: ""
 }
 
 uev_fluid_solidifier: {
-	DisplayName: 史诗流体固化器II
+	DisplayName: "史诗流体固化器II"
 	Tooltip: ""
 }
 
 uev_forge_hammer: {
-	DisplayName: 史诗锻造锤II
+	DisplayName: "史诗锻造锤II"
 	Tooltip: ""
 }
 
 uev_forming_press: {
-	DisplayName: 史诗冲压机床II
+	DisplayName: "史诗冲压机床II"
 	Tooltip: ""
 }
 
 uev_gas_collector: {
-	DisplayName: 史诗集气室II
+	DisplayName: "史诗集气室II"
 	Tooltip: ""
 }
 
 uev_input_bus: {
-	DisplayName: UEV输入总线
+	DisplayName: "UEV输入总线"
 	Tooltip: ""
 }
 
 uev_input_hatch: {
-	DisplayName: UEV输入仓
+	DisplayName: "UEV输入仓"
 	Tooltip: ""
 }
 
 uev_input_hatch_4x: {
-	DisplayName: UEV四重输入仓
+	DisplayName: "UEV四重输入仓"
 	Tooltip: ""
 }
 
 uev_input_hatch_9x: {
-	DisplayName: UEV九重输入仓
+	DisplayName: "UEV九重输入仓"
 	Tooltip: ""
 }
 
@@ -33006,72 +33103,72 @@ uev_item_passthrough_hatch: {
 }
 
 uev_laser_engraver: {
-	DisplayName: 史诗激光蚀刻机II
+	DisplayName: "史诗激光蚀刻机II"
 	Tooltip: ""
 }
 
 uev_lathe: {
-	DisplayName: 史诗车床II
+	DisplayName: "史诗车床II"
 	Tooltip: ""
 }
 
 uev_macerator: {
-	DisplayName: 史诗研磨机II
+	DisplayName: "史诗研磨机II"
 	Tooltip: ""
 }
 
 uev_machine_casing: {
-	DisplayName: UEV机械方块
+	DisplayName: "UEV机械方块"
 	Tooltip: ""
 }
 
 uev_machine_hull: {
-	DisplayName: UEV机器外壳
+	DisplayName: "UEV机器外壳"
 	Tooltip: ""
 }
 
 uev_mixer: {
-	DisplayName: 史诗搅拌机II
+	DisplayName: "史诗搅拌机II"
 	Tooltip: ""
 }
 
 uev_muffler_hatch: {
-	DisplayName: 史诗消声仓II
+	DisplayName: "史诗消声仓II"
 	Tooltip: ""
 }
 
 uev_ore_washer: {
-	DisplayName: 史诗洗矿厂II
+	DisplayName: "史诗洗矿厂II"
 	Tooltip: ""
 }
 
 uev_output_bus: {
-	DisplayName: UEV输出总线
+	DisplayName: "UEV输出总线"
 	Tooltip: ""
 }
 
 uev_output_hatch: {
-	DisplayName: UEV输出仓II
+	DisplayName: "UEV输出仓II"
 	Tooltip: ""
 }
 
 uev_output_hatch_4x: {
-	DisplayName: UEV四重输出仓
+	DisplayName: "UEV四重输出仓"
 	Tooltip: ""
 }
 
 uev_output_hatch_9x: {
-	DisplayName: UEV九重输出仓
+	DisplayName: "UEV九重输出仓"
 	Tooltip: ""
 }
 
 uev_packer: {
-	DisplayName: 史诗打包机II
+	DisplayName: "史诗打包机II"
 	Tooltip: ""
 }
 
 uev_polarizer: {
-	DisplayName: 史诗两极磁化机II
+	DisplayName: "史诗两极磁化机II"
 	Tooltip: ""
 }
 
@@ -33086,32 +33183,32 @@ uev_quantum_tank: {
 }
 
 uev_robot_arm: {
-	DisplayName: UEV机械臂
+	DisplayName: "UEV机械臂"
 	Tooltip: ""
 }
 
 uev_rock_crusher: {
-	DisplayName: 史诗碎岩机II
+	DisplayName: "史诗碎岩机II"
 	Tooltip: ""
 }
 
 uev_rotor_holder: {
-	DisplayName: 史诗转子支架II
+	DisplayName: "史诗转子支架II"
 	Tooltip: ""
 }
 
 uev_scanner: {
-	DisplayName: 史诗扫描仪II
+	DisplayName: "史诗扫描仪II"
 	Tooltip: ""
 }
 
 uev_sensor: {
-	DisplayName: UEV传感器
+	DisplayName: "UEV传感器"
 	Tooltip: ""
 }
 
 uev_sifter: {
-	DisplayName: 史诗筛选机II
+	DisplayName: "史诗筛选机II"
 	Tooltip: ""
 }
 
@@ -33126,43 +33223,43 @@ uev_substation_output_hatch_64a: {
 }
 
 uev_thermal_centrifuge: {
-	DisplayName: 史诗热力离心机II
+	DisplayName: "史诗热力离心机II"
 	Tooltip: ""
 }
 
 uev_transformer_16a: {
-	DisplayName: UEV高能变压器
+	DisplayName: "UEV高能变压器"
 	Tooltip: ""
 }
 
 uev_transformer_1a: {
-	DisplayName: UEV变压器
+	DisplayName: "UEV变压器"
 	Tooltip: ""
 }
 
 uev_transformer_2a: {
-	DisplayName: UEV进阶变压器
+	DisplayName: "UEV进阶变压器"
 	Tooltip: ""
 }
 
 uev_transformer_4a: {
-	DisplayName: UEV高流变压器
+	DisplayName: "UEV高流变压器"
 	Tooltip: ""
 }
 
 uev_wiremill: {
-	DisplayName: 史诗线材轧机II
+	DisplayName: "史诗线材轧机II"
 	Tooltip: ""
 }
 
 uhpic_chip: {
 	DisplayName: UHPIC芯片
-	Tooltip: 超高功率集成电路
+	Tooltip: "[c/AAAAAA:超高功率集成电路]"
 }
 
 uhpic_wafer: {
 	DisplayName: UHPIC晶圆
-	Tooltip: 超高功率集成电路原料
+	Tooltip: "[c/AAAAAA:超高功率集成电路原料]"
 }
 
 uhv_1024a_laser_source_hatch: {
@@ -33216,22 +33313,22 @@ uhv_8a_energy_converter: {
 }
 
 uhv_alloy_smelter: {
-	DisplayName: 史诗合金炉
+	DisplayName: "史诗合金炉"
 	Tooltip: ""
 }
 
 uhv_arc_furnace: {
-	DisplayName: 史诗电弧炉
+	DisplayName: "史诗电弧炉"
 	Tooltip: ""
 }
 
 uhv_assembler: {
-	DisplayName: 史诗组装机
+	DisplayName: "史诗组装机"
 	Tooltip: ""
 }
 
 uhv_autoclave: {
-	DisplayName: 史诗高压釜
+	DisplayName: "史诗高压釜"
 	Tooltip: ""
 }
 
@@ -33251,22 +33348,22 @@ uhv_battery_buffer_8x: {
 }
 
 uhv_bender: {
-	DisplayName: 史诗卷板机
+	DisplayName: "史诗卷板机"
 	Tooltip: ""
 }
 
 uhv_brewery: {
-	DisplayName: 史诗酿造室
+	DisplayName: "史诗酿造室"
 	Tooltip: ""
 }
 
 uhv_canner: {
-	DisplayName: 史诗装罐机
+	DisplayName: "史诗装罐机"
 	Tooltip: ""
 }
 
 uhv_centrifuge: {
-	DisplayName: 史诗离心机
+	DisplayName: "史诗离心机"
 	Tooltip: ""
 }
 
@@ -33276,92 +33373,92 @@ uhv_charger_4x: {
 }
 
 uhv_chemical_bath: {
-	DisplayName: 史诗化学浸洗机
+	DisplayName: "史诗化学浸洗机"
 	Tooltip: ""
 }
 
 uhv_chemical_reactor: {
-	DisplayName: 史诗化学反应釜
+	DisplayName: "史诗化学反应釜"
 	Tooltip: ""
 }
 
 uhv_circuit_assembler: {
-	DisplayName: 史诗电路组装机
+	DisplayName: "史诗电路组装机"
 	Tooltip: ""
 }
 
 uhv_compressor: {
-	DisplayName: 史诗压缩机
+	DisplayName: "史诗压缩机"
 	Tooltip: ""
 }
 
 uhv_conveyor_module: {
-	DisplayName: UHV传送带
+	DisplayName: "UHV传送带"
 	Tooltip: ""
 }
 
 uhv_cutter: {
-	DisplayName: 史诗切割机
+	DisplayName: "史诗切割机"
 	Tooltip: ""
 }
 
 uhv_diode: {
-	DisplayName: 史诗二极管
+	DisplayName: "史诗二极管"
 	Tooltip: ""
 }
 
 uhv_distillery: {
-	DisplayName: 史诗蒸馏室
+	DisplayName: "史诗蒸馏室"
 	Tooltip: ""
 }
 
 uhv_dual_input_hatch: {
-	DisplayName: UHV双重输入仓
+	DisplayName: "UHV双重输入仓"
 	Tooltip: ""
 }
 
 uhv_dual_output_hatch: {
-	DisplayName: UHV双重输出仓
+	DisplayName: "UHV双重输出仓"
 	Tooltip: ""
 }
 
 uhv_electric_furnace: {
-	DisplayName: 史诗电炉
+	DisplayName: "史诗电炉"
 	Tooltip: ""
 }
 
 uhv_electric_motor: {
-	DisplayName: UHV电动马达
+	DisplayName: "UHV电动马达"
 	Tooltip: ""
 }
 
 uhv_electric_piston: {
-	DisplayName: UHV电力活塞
+	DisplayName: "UHV电力活塞"
 	Tooltip: ""
 }
 
 uhv_electric_pump: {
-	DisplayName: UHV电动泵
+	DisplayName: "UHV电动泵"
 	Tooltip: ""
 }
 
 uhv_electrolyzer: {
-	DisplayName: 史诗电解机
+	DisplayName: "史诗电解机"
 	Tooltip: ""
 }
 
 uhv_electromagnetic_separator: {
-	DisplayName: 史诗电磁选矿机
+	DisplayName: "史诗电磁选矿机"
 	Tooltip: ""
 }
 
 uhv_emitter: {
-	DisplayName: UHV发射器
+	DisplayName: "UHV发射器"
 	Tooltip: ""
 }
 
 uhv_energy_input_hatch: {
-	DisplayName: UHV能源仓
+	DisplayName: "UHV能源仓"
 	Tooltip: ""
 }
 
@@ -33376,7 +33473,7 @@ uhv_energy_input_hatch_4a: {
 }
 
 uhv_energy_output_hatch: {
-	DisplayName: UHV动力仓
+	DisplayName: "UHV动力仓"
 	Tooltip: ""
 }
 
@@ -33391,27 +33488,27 @@ uhv_energy_output_hatch_4a: {
 }
 
 uhv_extractor: {
-	DisplayName: 史诗提取机
+	DisplayName: "史诗提取机"
 	Tooltip: ""
 }
 
 uhv_extruder: {
-	DisplayName: 史诗压模器
+	DisplayName: "史诗压模器"
 	Tooltip: ""
 }
 
 uhv_fermenter: {
-	DisplayName: 史诗发酵槽
+	DisplayName: "史诗发酵槽"
 	Tooltip: ""
 }
 
 uhv_field_generator: {
-	DisplayName: UHV力场发生器
+	DisplayName: "UHV力场发生器"
 	Tooltip: ""
 }
 
 uhv_fluid_heater: {
-	DisplayName: 史诗流体加热器
+	DisplayName: "史诗流体加热器"
 	Tooltip: ""
 }
 
@@ -33421,27 +33518,27 @@ uhv_fluid_passthrough_hatch: {
 }
 
 uhv_fluid_regulator: {
-	DisplayName: UHV流体校准器
+	DisplayName: "UHV流体校准器"
 	Tooltip: ""
 }
 
 uhv_fluid_solidifier: {
-	DisplayName: 史诗流体固化器
+	DisplayName: "史诗流体固化器"
 	Tooltip: ""
 }
 
 uhv_forge_hammer: {
-	DisplayName: 史诗锻造锤
+	DisplayName: "史诗锻造锤"
 	Tooltip: ""
 }
 
 uhv_forming_press: {
-	DisplayName: 史诗冲压机床
+	DisplayName: "史诗冲压机床"
 	Tooltip: ""
 }
 
 uhv_gas_collector: {
-	DisplayName: 史诗集气室
+	DisplayName: "史诗集气室"
 	Tooltip: ""
 }
 
@@ -33451,22 +33548,22 @@ uhv_hermetic_casing: {
 }
 
 uhv_input_bus: {
-	DisplayName: UHV输入总线
+	DisplayName: "UHV输入总线"
 	Tooltip: ""
 }
 
 uhv_input_hatch: {
-	DisplayName: UHV输入仓
+	DisplayName: "UHV输入仓"
 	Tooltip: ""
 }
 
 uhv_input_hatch_4x: {
-	DisplayName: UHV四重输入仓
+	DisplayName: "UHV四重输入仓"
 	Tooltip: ""
 }
 
 uhv_input_hatch_9x: {
-	DisplayName: UHV九重输入仓
+	DisplayName: "UHV九重输入仓"
 	Tooltip: ""
 }
 
@@ -33476,72 +33573,72 @@ uhv_item_passthrough_hatch: {
 }
 
 uhv_laser_engraver: {
-	DisplayName: 史诗激光蚀刻机
+	DisplayName: "史诗激光蚀刻机"
 	Tooltip: ""
 }
 
 uhv_lathe: {
-	DisplayName: 史诗车床
+	DisplayName: "史诗车床"
 	Tooltip: ""
 }
 
 uhv_macerator: {
-	DisplayName: 史诗研磨机
+	DisplayName: "史诗研磨机"
 	Tooltip: ""
 }
 
 uhv_machine_casing: {
-	DisplayName: UHV机械方块
+	DisplayName: "UHV机械方块"
 	Tooltip: ""
 }
 
 uhv_machine_hull: {
-	DisplayName: UHV机器外壳
+	DisplayName: "UHV机器外壳"
 	Tooltip: ""
 }
 
 uhv_mixer: {
-	DisplayName: 史诗搅拌机
+	DisplayName: "史诗搅拌机"
 	Tooltip: ""
 }
 
 uhv_muffler_hatch: {
-	DisplayName: 史诗消声仓
+	DisplayName: "史诗消声仓"
 	Tooltip: ""
 }
 
 uhv_ore_washer: {
-	DisplayName: 史诗洗矿厂
+	DisplayName: "史诗洗矿厂"
 	Tooltip: ""
 }
 
 uhv_output_bus: {
-	DisplayName: UHV输出总线
+	DisplayName: "UHV输出总线"
 	Tooltip: ""
 }
 
 uhv_output_hatch: {
-	DisplayName: UHV输出仓
+	DisplayName: "UHV输出仓"
 	Tooltip: ""
 }
 
 uhv_output_hatch_4x: {
-	DisplayName: UHV四重输出仓
+	DisplayName: "UHV四重输出仓"
 	Tooltip: ""
 }
 
 uhv_output_hatch_9x: {
-	DisplayName: UHV九重输出仓
+	DisplayName: "UHV九重输出仓"
 	Tooltip: ""
 }
 
 uhv_packer: {
-	DisplayName: 史诗打包机
+	DisplayName: "史诗打包机"
 	Tooltip: ""
 }
 
 uhv_polarizer: {
-	DisplayName: 史诗两极磁化机
+	DisplayName: "史诗两极磁化机"
 	Tooltip: ""
 }
 
@@ -33556,32 +33653,32 @@ uhv_quantum_tank: {
 }
 
 uhv_robot_arm: {
-	DisplayName: UHV机械臂
+	DisplayName: "UHV机械臂"
 	Tooltip: ""
 }
 
 uhv_rock_crusher: {
-	DisplayName: 史诗碎岩机
+	DisplayName: "史诗碎岩机"
 	Tooltip: ""
 }
 
 uhv_rotor_holder: {
-	DisplayName: 史诗转子支架
+	DisplayName: "史诗转子支架"
 	Tooltip: ""
 }
 
 uhv_scanner: {
-	DisplayName: 史诗扫描仪
+	DisplayName: "史诗扫描仪"
 	Tooltip: ""
 }
 
 uhv_sensor: {
-	DisplayName: UHV传感器
+	DisplayName: "UHV传感器"
 	Tooltip: ""
 }
 
 uhv_sifter: {
-	DisplayName: 史诗筛选机
+	DisplayName: "史诗筛选机"
 	Tooltip: ""
 }
 
@@ -33596,27 +33693,27 @@ uhv_substation_output_hatch_64a: {
 }
 
 uhv_thermal_centrifuge: {
-	DisplayName: 史诗热力离心机
+	DisplayName: "史诗热力离心机"
 	Tooltip: ""
 }
 
 uhv_transformer_16a: {
-	DisplayName: UHV高能变压器
+	DisplayName: "UHV高能变压器"
 	Tooltip: ""
 }
 
 uhv_transformer_1a: {
-	DisplayName: UHV变压器
+	DisplayName: "UHV变压器"
 	Tooltip: ""
 }
 
 uhv_transformer_2a: {
-	DisplayName: UHV进阶变压器
+	DisplayName: "UHV进阶变压器"
 	Tooltip: ""
 }
 
 uhv_transformer_4a: {
-	DisplayName: UHV高流变压器
+	DisplayName: "UHV高流变压器"
 	Tooltip: ""
 }
 
@@ -33626,7 +33723,7 @@ uhv_ultimate_battery: {
 }
 
 uhv_wiremill: {
-	DisplayName: 史诗线材轧机
+	DisplayName: "史诗线材轧机"
 	Tooltip: ""
 }
 
@@ -33681,22 +33778,22 @@ uiv_8a_energy_converter: {
 }
 
 uiv_alloy_smelter: {
-	DisplayName: 史诗合金炉III
+	DisplayName: "史诗合金炉III"
 	Tooltip: ""
 }
 
 uiv_arc_furnace: {
-	DisplayName: 史诗电弧炉III
+	DisplayName: "史诗电弧炉III"
 	Tooltip: ""
 }
 
 uiv_assembler: {
-	DisplayName: 史诗组装机III
+	DisplayName: "史诗组装机III"
 	Tooltip: ""
 }
 
 uiv_autoclave: {
-	DisplayName: 史诗高压釜III
+	DisplayName: "史诗高压釜III"
 	Tooltip: ""
 }
 
@@ -33716,22 +33813,22 @@ uiv_battery_buffer_8x: {
 }
 
 uiv_bender: {
-	DisplayName: 史诗卷板机III
+	DisplayName: "史诗卷板机III"
 	Tooltip: ""
 }
 
 uiv_brewery: {
-	DisplayName: 史诗酿造室III
+	DisplayName: "史诗酿造室III"
 	Tooltip: ""
 }
 
 uiv_canner: {
-	DisplayName: 史诗装罐机III
+	DisplayName: "史诗装罐机III"
 	Tooltip: ""
 }
 
 uiv_centrifuge: {
-	DisplayName: 史诗离心机III
+	DisplayName: "史诗离心机III"
 	Tooltip: ""
 }
 
@@ -33741,92 +33838,92 @@ uiv_charger_4x: {
 }
 
 uiv_chemical_bath: {
-	DisplayName: 史诗化学浸洗机III
+	DisplayName: "史诗化学浸洗机III"
 	Tooltip: ""
 }
 
 uiv_chemical_reactor: {
-	DisplayName: 史诗化学反应釜III
+	DisplayName: "史诗化学反应釜III"
 	Tooltip: ""
 }
 
 uiv_circuit_assembler: {
-	DisplayName: 史诗电路组装机III
+	DisplayName: "史诗电路组装机III"
 	Tooltip: ""
 }
 
 uiv_compressor: {
-	DisplayName: 史诗压缩机III
+	DisplayName: "史诗压缩机III"
 	Tooltip: ""
 }
 
 uiv_conveyor_module: {
-	DisplayName: UIV传送带
+	DisplayName: "UIV传送带"
 	Tooltip: ""
 }
 
 uiv_cutter: {
-	DisplayName: 史诗切割机III
+	DisplayName: "史诗切割机III"
 	Tooltip: ""
 }
 
 uiv_diode: {
-	DisplayName: 史诗二极管III
+	DisplayName: "史诗二极管III"
 	Tooltip: ""
 }
 
 uiv_distillery: {
-	DisplayName: 史诗蒸馏室III
+	DisplayName: "史诗蒸馏室III"
 	Tooltip: ""
 }
 
 uiv_dual_input_hatch: {
-	DisplayName: UIV双重输入仓
+	DisplayName: "UIV双重输入仓"
 	Tooltip: ""
 }
 
 uiv_dual_output_hatch: {
-	DisplayName: UIV双重输出仓
+	DisplayName: "UIV双重输出仓"
 	Tooltip: ""
 }
 
 uiv_electric_furnace: {
-	DisplayName: 史诗电炉III
+	DisplayName: "史诗电炉III"
 	Tooltip: ""
 }
 
 uiv_electric_motor: {
-	DisplayName: UIV电动马达
+	DisplayName: "UIV电动马达"
 	Tooltip: ""
 }
 
 uiv_electric_piston: {
-	DisplayName: UIV电力活塞
+	DisplayName: "UIV电力活塞"
 	Tooltip: ""
 }
 
 uiv_electric_pump: {
-	DisplayName: UIV电动泵
+	DisplayName: "UIV电动泵"
 	Tooltip: ""
 }
 
 uiv_electrolyzer: {
-	DisplayName: 史诗电解机III
+	DisplayName: "史诗电解机III"
 	Tooltip: ""
 }
 
 uiv_electromagnetic_separator: {
-	DisplayName: 史诗电磁选矿机III
+	DisplayName: "史诗电磁选矿机III"
 	Tooltip: ""
 }
 
 uiv_emitter: {
-	DisplayName: UIV发射器
+	DisplayName: "UIV发射器"
 	Tooltip: ""
 }
 
 uiv_energy_input_hatch: {
-	DisplayName: UIV能源仓
+	DisplayName: "UIV能源仓"
 	Tooltip: ""
 }
 
@@ -33841,7 +33938,7 @@ uiv_energy_input_hatch_4a: {
 }
 
 uiv_energy_output_hatch: {
-	DisplayName: UIV动力仓
+	DisplayName: "UIV动力仓"
 	Tooltip: ""
 }
 
@@ -33856,27 +33953,27 @@ uiv_energy_output_hatch_4a: {
 }
 
 uiv_extractor: {
-	DisplayName: 史诗提取机III
+	DisplayName: "史诗提取机III"
 	Tooltip: ""
 }
 
 uiv_extruder: {
-	DisplayName: 史诗压模器III
+	DisplayName: "史诗压模器III"
 	Tooltip: ""
 }
 
 uiv_fermenter: {
-	DisplayName: 史诗发酵槽III
+	DisplayName: "史诗发酵槽III"
 	Tooltip: ""
 }
 
 uiv_field_generator: {
-	DisplayName: UIV力场发生器
+	DisplayName: "UIV力场发生器"
 	Tooltip: ""
 }
 
 uiv_fluid_heater: {
-	DisplayName: 史诗流体加热器III
+	DisplayName: "史诗流体加热器III"
 	Tooltip: ""
 }
 
@@ -33886,47 +33983,47 @@ uiv_fluid_passthrough_hatch: {
 }
 
 uiv_fluid_regulator: {
-	DisplayName: UIV流体校准器
+	DisplayName: "UIV流体校准器"
 	Tooltip: ""
 }
 
 uiv_fluid_solidifier: {
-	DisplayName: 史诗流体固化器III
+	DisplayName: "史诗流体固化器III"
 	Tooltip: ""
 }
 
 uiv_forge_hammer: {
-	DisplayName: 史诗锻造锤III
+	DisplayName: "史诗锻造锤III"
 	Tooltip: ""
 }
 
 uiv_forming_press: {
-	DisplayName: 史诗冲压机床III
+	DisplayName: "史诗冲压机床III"
 	Tooltip: ""
 }
 
 uiv_gas_collector: {
-	DisplayName: 史诗集气室III
+	DisplayName: "史诗集气室III"
 	Tooltip: ""
 }
 
 uiv_input_bus: {
-	DisplayName: UIV输入总线
+	DisplayName: "UIV输入总线"
 	Tooltip: ""
 }
 
 uiv_input_hatch: {
-	DisplayName: UIV输入仓
+	DisplayName: "UIV输入仓"
 	Tooltip: ""
 }
 
 uiv_input_hatch_4x: {
-	DisplayName: UIV四重输入仓
+	DisplayName: "UIV四重输入仓"
 	Tooltip: ""
 }
 
 uiv_input_hatch_9x: {
-	DisplayName: UIV九重输入仓
+	DisplayName: "UIV九重输入仓"
 	Tooltip: ""
 }
 
@@ -33936,72 +34033,72 @@ uiv_item_passthrough_hatch: {
 }
 
 uiv_laser_engraver: {
-	DisplayName: 史诗激光蚀刻机III
+	DisplayName: "史诗激光蚀刻机III"
 	Tooltip: ""
 }
 
 uiv_lathe: {
-	DisplayName: 史诗车床III
+	DisplayName: "史诗车床III"
 	Tooltip: ""
 }
 
 uiv_macerator: {
-	DisplayName: 史诗研磨机III
+	DisplayName: "史诗研磨机III"
 	Tooltip: ""
 }
 
 uiv_machine_casing: {
-	DisplayName: UIV机械方块
+	DisplayName: "UIV机械方块"
 	Tooltip: ""
 }
 
 uiv_machine_hull: {
-	DisplayName: UIV机器外壳
+	DisplayName: "UIV机器外壳"
 	Tooltip: ""
 }
 
 uiv_mixer: {
-	DisplayName: 史诗搅拌机III
+	DisplayName: "史诗搅拌机III"
 	Tooltip: ""
 }
 
 uiv_muffler_hatch: {
-	DisplayName: UIV消声仓
+	DisplayName: "UIV消声仓"
 	Tooltip: ""
 }
 
 uiv_ore_washer: {
-	DisplayName: 史诗洗矿厂III
+	DisplayName: "史诗洗矿厂III"
 	Tooltip: ""
 }
 
 uiv_output_bus: {
-	DisplayName: UIV输出总线
+	DisplayName: "UIV输出总线"
 	Tooltip: ""
 }
 
 uiv_output_hatch: {
-	DisplayName: UIV输出仓
+	DisplayName: "UIV输出仓"
 	Tooltip: ""
 }
 
 uiv_output_hatch_4x: {
-	DisplayName: UIV四重输出仓
+	DisplayName: "UIV四重输出仓"
 	Tooltip: ""
 }
 
 uiv_output_hatch_9x: {
-	DisplayName: UIV九重输出仓
+	DisplayName: "UIV九重输出仓"
 	Tooltip: ""
 }
 
 uiv_packer: {
-	DisplayName: 史诗打包机III
+	DisplayName: "史诗打包机III"
 	Tooltip: ""
 }
 
 uiv_polarizer: {
-	DisplayName: 史诗两极磁化机III
+	DisplayName: "史诗两极磁化机III"
 	Tooltip: ""
 }
 
@@ -34016,32 +34113,32 @@ uiv_quantum_tank: {
 }
 
 uiv_robot_arm: {
-	DisplayName: UIV机械臂
+	DisplayName: "UIV机械臂"
 	Tooltip: ""
 }
 
 uiv_rock_crusher: {
-	DisplayName: 史诗碎岩机III
+	DisplayName: "史诗碎岩机III"
 	Tooltip: ""
 }
 
 uiv_rotor_holder: {
-	DisplayName: 史诗转子支架III
+	DisplayName: "史诗转子支架III"
 	Tooltip: ""
 }
 
 uiv_scanner: {
-	DisplayName: 史诗扫描仪III
+	DisplayName: "史诗扫描仪III"
 	Tooltip: ""
 }
 
 uiv_sensor: {
-	DisplayName: UIV传感器
+	DisplayName: "UIV传感器"
 	Tooltip: ""
 }
 
 uiv_sifter: {
-	DisplayName: 史诗筛选机III
+	DisplayName: "史诗筛选机III"
 	Tooltip: ""
 }
 
@@ -34056,43 +34153,43 @@ uiv_substation_output_hatch_64a: {
 }
 
 uiv_thermal_centrifuge: {
-	DisplayName: 史诗热力离心机III
+	DisplayName: "史诗热力离心机III"
 	Tooltip: ""
 }
 
 uiv_transformer_16a: {
-	DisplayName: UIV高能变压器
+	DisplayName: "UIV高能变压器"
 	Tooltip: ""
 }
 
 uiv_transformer_1a: {
-	DisplayName: UIV变压器
+	DisplayName: "UIV变压器"
 	Tooltip: ""
 }
 
 uiv_transformer_2a: {
-	DisplayName: UIV进阶变压器
+	DisplayName: "UIV进阶变压器"
 	Tooltip: ""
 }
 
 uiv_transformer_4a: {
-	DisplayName: UIV高流变压器
+	DisplayName: "UIV高流变压器"
 	Tooltip: ""
 }
 
 uiv_wiremill: {
-	DisplayName: 史诗线材轧机III
+	DisplayName: "史诗线材轧机III"
 	Tooltip: ""
 }
 
 ulpic_chip: {
 	DisplayName: ULPIC芯片
-	Tooltip: 超低功率集成电路
+	Tooltip: "[c/AAAAAA:超低功率集成电路]"
 }
 
 ulpic_wafer: {
 	DisplayName: ULPIC晶圆
-	Tooltip: 超低功率集成电路原料
+	Tooltip: "[c/AAAAAA:超低功率集成电路原料]"
 }
 
 ulv_16a_energy_converter: {
@@ -34136,42 +34233,42 @@ ulv_charger_4x: {
 }
 
 ulv_energy_input_hatch: {
-	DisplayName: ULV能源仓
+	DisplayName: "ULV能源仓"
 	Tooltip: ""
 }
 
 ulv_energy_output_hatch: {
-	DisplayName: ULV动力仓
+	DisplayName: "ULV动力仓"
 	Tooltip: ""
 }
 
 ulv_input_bus: {
-	DisplayName: ULV输入总线
+	DisplayName: "ULV输入总线"
 	Tooltip: ""
 }
 
 ulv_input_hatch: {
-	DisplayName: ULV输入仓
+	DisplayName: "ULV输入仓"
 	Tooltip: ""
 }
 
 ulv_machine_casing: {
-	DisplayName: ULV机械方块
+	DisplayName: "ULV机械方块"
 	Tooltip: ""
 }
 
 ulv_machine_hull: {
-	DisplayName: ULV机器外壳
+	DisplayName: "ULV机器外壳"
 	Tooltip: ""
 }
 
 ulv_output_bus: {
-	DisplayName: ULV输出总线
+	DisplayName: "ULV输出总线"
 	Tooltip: ""
 }
 
 ulv_output_hatch: {
-	DisplayName: ULV输出仓
+	DisplayName: "ULV输出仓"
 	Tooltip: ""
 }
 
@@ -34181,22 +34278,22 @@ ulv_solar_panel: {
 }
 
 ulv_transformer_16a: {
-	DisplayName: ULV高能变压器
+	DisplayName: "ULV高能变压器"
 	Tooltip: ""
 }
 
 ulv_transformer_1a: {
-	DisplayName: ULV变压器
+	DisplayName: "ULV变压器"
 	Tooltip: ""
 }
 
 ulv_transformer_2a: {
-	DisplayName: ULV进阶变压器
+	DisplayName: "ULV进阶变压器"
 	Tooltip: ""
 }
 
 ulv_transformer_4a: {
-	DisplayName: ULV高流变压器
+	DisplayName: "ULV高流变压器"
 	Tooltip: ""
 }
 
@@ -34261,22 +34358,22 @@ uv_8a_energy_converter: {
 }
 
 uv_alloy_smelter: {
-	DisplayName: 终极合金炉
+	DisplayName: "终极合金炉"
 	Tooltip: ""
 }
 
 uv_arc_furnace: {
-	DisplayName: 终极电弧炉
+	DisplayName: "终极电弧炉"
 	Tooltip: ""
 }
 
 uv_assembler: {
-	DisplayName: 终极组装机
+	DisplayName: "终极组装机"
 	Tooltip: ""
 }
 
 uv_autoclave: {
-	DisplayName: 终极高压釜
+	DisplayName: "终极高压釜"
 	Tooltip: ""
 }
 
@@ -34297,26 +34394,26 @@ uv_battery_buffer_8x: {
 
 uv_battery_hull: {
 	DisplayName: 大型超能硅岩电池外壳
-	Tooltip: 一个空的UV电池外壳
+	Tooltip: "[c/AAAAAA:一个空的][c/00AAAA:UV][c/AAAAAA:电池外壳]"
 }
 
 uv_bender: {
-	DisplayName: 终极卷板机
+	DisplayName: "终极卷板机"
 	Tooltip: ""
 }
 
 uv_brewery: {
-	DisplayName: 终极酿造室
+	DisplayName: "终极酿造室"
 	Tooltip: ""
 }
 
 uv_canner: {
-	DisplayName: 终极装罐机
+	DisplayName: "终极装罐机"
 	Tooltip: ""
 }
 
 uv_centrifuge: {
-	DisplayName: 终极离心机
+	DisplayName: "终极离心机"
 	Tooltip: ""
 }
 
@@ -34326,92 +34423,92 @@ uv_charger_4x: {
 }
 
 uv_chemical_bath: {
-	DisplayName: 终极化学浸洗机
+	DisplayName: "终极化学浸洗机"
 	Tooltip: ""
 }
 
 uv_chemical_reactor: {
-	DisplayName: 终极化学反应釜
+	DisplayName: "终极化学反应釜"
 	Tooltip: ""
 }
 
 uv_circuit_assembler: {
-	DisplayName: 终极电路组装机
+	DisplayName: "终极电路组装机"
 	Tooltip: ""
 }
 
 uv_compressor: {
-	DisplayName: 终极压缩机
+	DisplayName: "终极压缩机"
 	Tooltip: ""
 }
 
 uv_conveyor_module: {
-	DisplayName: UV传送带
+	DisplayName: "UV传送带"
 	Tooltip: ""
 }
 
 uv_cutter: {
-	DisplayName: 终极切割机
+	DisplayName: "终极切割机"
 	Tooltip: ""
 }
 
 uv_diode: {
-	DisplayName: 终极二极管
+	DisplayName: "终极二极管"
 	Tooltip: ""
 }
 
 uv_distillery: {
-	DisplayName: 终极蒸馏室
+	DisplayName: "终极蒸馏室"
 	Tooltip: ""
 }
 
 uv_dual_input_hatch: {
-	DisplayName: UV双重输入仓
+	DisplayName: "UV双重输入仓"
 	Tooltip: ""
 }
 
 uv_dual_output_hatch: {
-	DisplayName: UV双重输出仓
+	DisplayName: "UV双重输出仓"
 	Tooltip: ""
 }
 
 uv_electric_furnace: {
-	DisplayName: 终极电炉
+	DisplayName: "终极电炉"
 	Tooltip: ""
 }
 
 uv_electric_motor: {
-	DisplayName: UV电动马达
+	DisplayName: "UV电动马达"
 	Tooltip: ""
 }
 
 uv_electric_piston: {
-	DisplayName: UV电力活塞
+	DisplayName: "UV电力活塞"
 	Tooltip: ""
 }
 
 uv_electric_pump: {
-	DisplayName: UV电动泵
+	DisplayName: "UV电动泵"
 	Tooltip: ""
 }
 
 uv_electrolyzer: {
-	DisplayName: 终极电解机
+	DisplayName: "终极电解机"
 	Tooltip: ""
 }
 
 uv_electromagnetic_separator: {
-	DisplayName: 终极电磁选矿机
+	DisplayName: "终极电磁选矿机"
 	Tooltip: ""
 }
 
 uv_emitter: {
-	DisplayName: UV发射器
+	DisplayName: "UV发射器"
 	Tooltip: ""
 }
 
 uv_energy_input_hatch: {
-	DisplayName: UV能源仓
+	DisplayName: "UV能源仓"
 	Tooltip: ""
 }
 
@@ -34426,7 +34523,7 @@ uv_energy_input_hatch_4a: {
 }
 
 uv_energy_output_hatch: {
-	DisplayName: UV动力仓
+	DisplayName: "UV动力仓"
 	Tooltip: ""
 }
 
@@ -34441,27 +34538,27 @@ uv_energy_output_hatch_4a: {
 }
 
 uv_extractor: {
-	DisplayName: 终极提取机
+	DisplayName: "终极提取机"
 	Tooltip: ""
 }
 
 uv_extruder: {
-	DisplayName: 终极压模器
+	DisplayName: "终极压模器"
 	Tooltip: ""
 }
 
 uv_fermenter: {
-	DisplayName: 终极发酵槽
+	DisplayName: "终极发酵槽"
 	Tooltip: ""
 }
 
 uv_field_generator: {
-	DisplayName: UV力场发生器
+	DisplayName: "UV力场发生器"
 	Tooltip: ""
 }
 
 uv_fluid_heater: {
-	DisplayName: 终极流体加热器
+	DisplayName: "终极流体加热器"
 	Tooltip: ""
 }
 
@@ -34471,22 +34568,22 @@ uv_fluid_passthrough_hatch: {
 }
 
 uv_fluid_regulator: {
-	DisplayName: UV流体校准器
+	DisplayName: "UV流体校准器"
 	Tooltip: ""
 }
 
 uv_fluid_solidifier: {
-	DisplayName: 终极流体固化器
+	DisplayName: "终极流体固化器"
 	Tooltip: ""
 }
 
 uv_forge_hammer: {
-	DisplayName: 终极锻造锤
+	DisplayName: "终极锻造锤"
 	Tooltip: ""
 }
 
 uv_forming_press: {
-	DisplayName: 终极冲压机床
+	DisplayName: "终极冲压机床"
 	Tooltip: ""
 }
 
@@ -34496,7 +34593,7 @@ uv_fusion_reactor: {
 }
 
 uv_gas_collector: {
-	DisplayName: 终极集气室
+	DisplayName: "终极集气室"
 	Tooltip: ""
 }
 
@@ -34506,22 +34603,22 @@ uv_hermetic_casing: {
 }
 
 uv_input_bus: {
-	DisplayName: UV输入总线
+	DisplayName: "UV输入总线"
 	Tooltip: ""
 }
 
 uv_input_hatch: {
-	DisplayName: UV输入仓
+	DisplayName: "UV输入仓"
 	Tooltip: ""
 }
 
 uv_input_hatch_4x: {
-	DisplayName: UV四重输入仓
+	DisplayName: "UV四重输入仓"
 	Tooltip: ""
 }
 
 uv_input_hatch_9x: {
-	DisplayName: UV九重输入仓
+	DisplayName: "UV九重输入仓"
 	Tooltip: ""
 }
 
@@ -34536,82 +34633,82 @@ uv_lapotronic_battery: {
 }
 
 uv_laser_engraver: {
-	DisplayName: 终极激光蚀刻机
+	DisplayName: "终极激光蚀刻机"
 	Tooltip: ""
 }
 
 uv_lathe: {
-	DisplayName: 终极车床
+	DisplayName: "终极车床"
 	Tooltip: ""
 }
 
 uv_macerator: {
-	DisplayName: 终极研磨机
+	DisplayName: "终极研磨机"
 	Tooltip: ""
 }
 
 uv_machine_casing: {
-	DisplayName: UV机械方块
+	DisplayName: "UV机械方块"
 	Tooltip: ""
 }
 
 uv_machine_hull: {
-	DisplayName: UV机器外壳
+	DisplayName: "UV机器外壳"
 	Tooltip: ""
 }
 
 uv_mixer: {
-	DisplayName: 终极搅拌机
+	DisplayName: "终极搅拌机"
 	Tooltip: ""
 }
 
 uv_muffler_hatch: {
-	DisplayName: UV消声仓
+	DisplayName: "UV消声仓"
 	Tooltip: ""
 }
 
 uv_naquadria_battery: {
 	DisplayName: 大型超能硅岩电池
-	Tooltip: 可充电电池
+	Tooltip: "[c/AAAAAA:可充电电池]"
 }
 
 uv_ore_washer: {
-	DisplayName: 终极洗矿厂
+	DisplayName: "终极洗矿厂"
 	Tooltip: ""
 }
 
 uv_output_bus: {
-	DisplayName: UV输出总线
+	DisplayName: "UV输出总线"
 	Tooltip: ""
 }
 
 uv_output_hatch: {
-	DisplayName: UV输出仓
+	DisplayName: "UV输出仓"
 	Tooltip: ""
 }
 
 uv_output_hatch_4x: {
-	DisplayName: UV四重输出仓
+	DisplayName: "UV四重输出仓"
 	Tooltip: ""
 }
 
 uv_output_hatch_9x: {
-	DisplayName: UV九重输出仓
+	DisplayName: "UV九重输出仓"
 	Tooltip: ""
 }
 
 uv_packer: {
-	DisplayName: 终极打包机
+	DisplayName: "终极打包机"
 	Tooltip: ""
 }
 
 uv_parallel_hatch: {
-	DisplayName: IV 并行控制仓
+	DisplayName: "IV 并行控制仓"
 	Tooltip: ""
 }
 
 uv_polarizer: {
-	DisplayName: 终极两极磁化机
+	DisplayName: "终极两极磁化机"
 	Tooltip: ""
 }
 
@@ -34626,32 +34723,32 @@ uv_quantum_tank: {
 }
 
 uv_robot_arm: {
-	DisplayName: UV机械臂
+	DisplayName: "UV机械臂"
 	Tooltip: ""
 }
 
 uv_rock_crusher: {
-	DisplayName: 终极碎岩机
+	DisplayName: "终极碎岩机"
 	Tooltip: ""
 }
 
 uv_rotor_holder: {
-	DisplayName: 终极转子支架
+	DisplayName: "终极转子支架"
 	Tooltip: ""
 }
 
 uv_scanner: {
-	DisplayName: 终极扫描仪
+	DisplayName: "终极扫描仪"
 	Tooltip: ""
 }
 
 uv_sensor: {
-	DisplayName: UV传感器
+	DisplayName: "UV传感器"
 	Tooltip: ""
 }
 
 uv_sifter: {
-	DisplayName: 终极筛选机
+	DisplayName: "终极筛选机"
 	Tooltip: ""
 }
 
@@ -34671,27 +34768,27 @@ uv_substation_output_hatch_64a: {
 }
 
 uv_thermal_centrifuge: {
-	DisplayName: 终极热力离心机
+	DisplayName: "终极热力离心机"
 	Tooltip: ""
 }
 
 uv_transformer_16a: {
-	DisplayName: UV高能变压器
+	DisplayName: "UV高能变压器"
 	Tooltip: ""
 }
 
 uv_transformer_1a: {
-	DisplayName: UV变压器
+	DisplayName: "UV变压器"
 	Tooltip: ""
 }
 
 uv_transformer_2a: {
-	DisplayName: UV进阶变压器
+	DisplayName: "UV进阶变压器"
 	Tooltip: ""
 }
 
 uv_transformer_4a: {
-	DisplayName: UV高流变压器
+	DisplayName: "UV高流变压器"
 	Tooltip: ""
 }
 
@@ -34701,12 +34798,12 @@ uv_voltage_coil: {
 }
 
 uv_wiremill: {
-	DisplayName: 终极线材轧机
+	DisplayName: "终极线材轧机"
 	Tooltip: ""
 }
 
 uv_world_accelerator: {
-	DisplayName: 终极世界加速器
+	DisplayName: "终极世界加速器"
 	Tooltip: ""
 }
 
@@ -34761,22 +34858,22 @@ uxv_8a_energy_converter: {
 }
 
 uxv_alloy_smelter: {
-	DisplayName: 史诗合金炉IV
+	DisplayName: "史诗合金炉IV"
 	Tooltip: ""
 }
 
 uxv_arc_furnace: {
-	DisplayName: 史诗电弧炉IV
+	DisplayName: "史诗电弧炉IV"
 	Tooltip: ""
 }
 
 uxv_assembler: {
-	DisplayName: 史诗组装机IV
+	DisplayName: "史诗组装机IV"
 	Tooltip: ""
 }
 
 uxv_autoclave: {
-	DisplayName: 史诗高压釜IV
+	DisplayName: "史诗高压釜IV"
 	Tooltip: ""
 }
 
@@ -34796,22 +34893,22 @@ uxv_battery_buffer_8x: {
 }
 
 uxv_bender: {
-	DisplayName: 史诗卷板机IV
+	DisplayName: "史诗卷板机IV"
 	Tooltip: ""
 }
 
 uxv_brewery: {
-	DisplayName: 史诗酿造室IV
+	DisplayName: "史诗酿造室IV"
 	Tooltip: ""
 }
 
 uxv_canner: {
-	DisplayName: 史诗装罐机IV
+	DisplayName: "史诗装罐机IV"
 	Tooltip: ""
 }
 
 uxv_centrifuge: {
-	DisplayName: 史诗离心机IV
+	DisplayName: "史诗离心机IV"
 	Tooltip: ""
 }
 
@@ -34821,92 +34918,92 @@ uxv_charger_4x: {
 }
 
 uxv_chemical_bath: {
-	DisplayName: 史诗化学浸洗机IV
+	DisplayName: "史诗化学浸洗机IV"
 	Tooltip: ""
 }
 
 uxv_chemical_reactor: {
-	DisplayName: 史诗化学反应釜IV
+	DisplayName: "史诗化学反应釜IV"
 	Tooltip: ""
 }
 
 uxv_circuit_assembler: {
-	DisplayName: 史诗电路组装机IV
+	DisplayName: "史诗电路组装机IV"
 	Tooltip: ""
 }
 
 uxv_compressor: {
-	DisplayName: 史诗压缩机IV
+	DisplayName: "史诗压缩机IV"
 	Tooltip: ""
 }
 
 uxv_conveyor_module: {
-	DisplayName: UXV传送带
+	DisplayName: "UXV传送带"
 	Tooltip: ""
 }
 
 uxv_cutter: {
-	DisplayName: 史诗切割机IV
+	DisplayName: "史诗切割机IV"
 	Tooltip: ""
 }
 
 uxv_diode: {
-	DisplayName: 史诗二极管IV
+	DisplayName: "史诗二极管IV"
 	Tooltip: ""
 }
 
 uxv_distillery: {
-	DisplayName: 史诗蒸馏室IV
+	DisplayName: "史诗蒸馏室IV"
 	Tooltip: ""
 }
 
 uxv_dual_input_hatch: {
-	DisplayName: UXV双重输入仓
+	DisplayName: "UXV双重输入仓"
 	Tooltip: ""
 }
 
 uxv_dual_output_hatch: {
-	DisplayName: UXV双重输出仓
+	DisplayName: "UXV双重输出仓"
 	Tooltip: ""
 }
 
 uxv_electric_furnace: {
-	DisplayName: 史诗电炉IV
+	DisplayName: "史诗电炉IV"
 	Tooltip: ""
 }
 
 uxv_electric_motor: {
-	DisplayName: UXV电动马达
+	DisplayName: "UXV电动马达"
 	Tooltip: ""
 }
 
 uxv_electric_piston: {
-	DisplayName: UXV电力活塞
+	DisplayName: "UXV电力活塞"
 	Tooltip: ""
 }
 
 uxv_electric_pump: {
-	DisplayName: UXV电动泵
+	DisplayName: "UXV电动泵"
 	Tooltip: ""
 }
 
 uxv_electrolyzer: {
-	DisplayName: 史诗电解机IV
+	DisplayName: "史诗电解机IV"
 	Tooltip: ""
 }
 
 uxv_electromagnetic_separator: {
-	DisplayName: 史诗电磁选矿机IV
+	DisplayName: "史诗电磁选矿机IV"
 	Tooltip: ""
 }
 
 uxv_emitter: {
-	DisplayName: UXV发射器
+	DisplayName: "UXV发射器"
 	Tooltip: ""
 }
 
 uxv_energy_input_hatch: {
-	DisplayName: UXV能源仓IV
+	DisplayName: "UXV能源仓IV"
 	Tooltip: ""
 }
 
@@ -34921,7 +35018,7 @@ uxv_energy_input_hatch_4a: {
 }
 
 uxv_energy_output_hatch: {
-	DisplayName: UXV动力仓
+	DisplayName: "UXV动力仓"
 	Tooltip: ""
 }
 
@@ -34936,27 +35033,27 @@ uxv_energy_output_hatch_4a: {
 }
 
 uxv_extractor: {
-	DisplayName: 史诗提取机IV
+	DisplayName: "史诗提取机IV"
 	Tooltip: ""
 }
 
 uxv_extruder: {
-	DisplayName: 史诗压模器IV
+	DisplayName: "史诗压模器IV"
 	Tooltip: ""
 }
 
 uxv_fermenter: {
-	DisplayName: 史诗发酵槽IV
+	DisplayName: "史诗发酵槽IV"
 	Tooltip: ""
 }
 
 uxv_field_generator: {
-	DisplayName: UXV力场发生器
+	DisplayName: "UXV力场发生器"
 	Tooltip: ""
 }
 
 uxv_fluid_heater: {
-	DisplayName: 史诗流体加热器IV
+	DisplayName: "史诗流体加热器IV"
 	Tooltip: ""
 }
 
@@ -34966,47 +35063,47 @@ uxv_fluid_passthrough_hatch: {
 }
 
 uxv_fluid_regulator: {
-	DisplayName: UXV流体校准器
+	DisplayName: "UXV流体校准器"
 	Tooltip: ""
 }
 
 uxv_fluid_solidifier: {
-	DisplayName: 史诗流体固化器IV
+	DisplayName: "史诗流体固化器IV"
 	Tooltip: ""
 }
 
 uxv_forge_hammer: {
-	DisplayName: 史诗锻造锤IV
+	DisplayName: "史诗锻造锤IV"
 	Tooltip: ""
 }
 
 uxv_forming_press: {
-	DisplayName: 史诗冲压机床IV
+	DisplayName: "史诗冲压机床IV"
 	Tooltip: ""
 }
 
 uxv_gas_collector: {
-	DisplayName: 史诗集气室IV
+	DisplayName: "史诗集气室IV"
 	Tooltip: ""
 }
 
 uxv_input_bus: {
-	DisplayName: UXV输入总线
+	DisplayName: "UXV输入总线"
 	Tooltip: ""
 }
 
 uxv_input_hatch: {
-	DisplayName: UXV输入仓
+	DisplayName: "UXV输入仓"
 	Tooltip: ""
 }
 
 uxv_input_hatch_4x: {
-	DisplayName: UXV四重输入仓
+	DisplayName: "UXV四重输入仓"
 	Tooltip: ""
 }
 
 uxv_input_hatch_9x: {
-	DisplayName: UXV九重输入仓
+	DisplayName: "UXV九重输入仓"
 	Tooltip: ""
 }
 
@@ -35016,72 +35113,72 @@ uxv_item_passthrough_hatch: {
 }
 
 uxv_laser_engraver: {
-	DisplayName: 史诗激光蚀刻机IV
+	DisplayName: "史诗激光蚀刻机IV"
 	Tooltip: ""
 }
 
 uxv_lathe: {
-	DisplayName: 史诗车床IV
+	DisplayName: "史诗车床IV"
 	Tooltip: ""
 }
 
 uxv_macerator: {
-	DisplayName: 史诗研磨机IV
+	DisplayName: "史诗研磨机IV"
 	Tooltip: ""
 }
 
 uxv_machine_casing: {
-	DisplayName: UXV机械方块
+	DisplayName: "UXV机械方块"
 	Tooltip: ""
 }
 
 uxv_machine_hull: {
-	DisplayName: UXV机器外壳
+	DisplayName: "UXV机器外壳"
 	Tooltip: ""
 }
 
 uxv_mixer: {
-	DisplayName: 史诗搅拌机IV
+	DisplayName: "史诗搅拌机IV"
 	Tooltip: ""
 }
 
 uxv_muffler_hatch: {
-	DisplayName: 史诗消声仓IV
+	DisplayName: "史诗消声仓IV"
 	Tooltip: ""
 }
 
 uxv_ore_washer: {
-	DisplayName: 史诗洗矿厂IV
+	DisplayName: "史诗洗矿厂IV"
 	Tooltip: ""
 }
 
 uxv_output_bus: {
-	DisplayName: UXV输出总线
+	DisplayName: "UXV输出总线"
 	Tooltip: ""
 }
 
 uxv_output_hatch: {
-	DisplayName: UXV输出仓
+	DisplayName: "UXV输出仓"
 	Tooltip: ""
 }
 
 uxv_output_hatch_4x: {
-	DisplayName: UXV四重输出仓
+	DisplayName: "UXV四重输出仓"
 	Tooltip: ""
 }
 
 uxv_output_hatch_9x: {
-	DisplayName: UXV九重输出仓
+	DisplayName: "UXV九重输出仓"
 	Tooltip: ""
 }
 
 uxv_packer: {
-	DisplayName: 史诗打包机IV
+	DisplayName: "史诗打包机IV"
 	Tooltip: ""
 }
 
 uxv_polarizer: {
-	DisplayName: 史诗两极磁化机IV
+	DisplayName: "史诗两极磁化机IV"
 	Tooltip: ""
 }
 
@@ -35096,32 +35193,32 @@ uxv_quantum_tank: {
 }
 
 uxv_robot_arm: {
-	DisplayName: UXV机械臂
+	DisplayName: "UXV机械臂"
 	Tooltip: ""
 }
 
 uxv_rock_crusher: {
-	DisplayName: 史诗碎岩机IV
+	DisplayName: "史诗碎岩机IV"
 	Tooltip: ""
 }
 
 uxv_rotor_holder: {
-	DisplayName: 史诗转子支架IV
+	DisplayName: "史诗转子支架IV"
 	Tooltip: ""
 }
 
 uxv_scanner: {
-	DisplayName: 史诗扫描仪IV
+	DisplayName: "史诗扫描仪IV"
 	Tooltip: ""
 }
 
 uxv_sensor: {
-	DisplayName: UXV传感器
+	DisplayName: "UXV传感器"
 	Tooltip: ""
 }
 
 uxv_sifter: {
-	DisplayName: 史诗筛选机IV
+	DisplayName: "史诗筛选机IV"
 	Tooltip: ""
 }
 
@@ -35136,32 +35233,32 @@ uxv_substation_output_hatch_64a: {
 }
 
 uxv_thermal_centrifuge: {
-	DisplayName: 史诗热力离心机IV
+	DisplayName: "史诗热力离心机IV"
 	Tooltip: ""
 }
 
 uxv_transformer_16a: {
-	DisplayName: UXV高能变压器
+	DisplayName: "UXV高能变压器"
 	Tooltip: ""
 }
 
 uxv_transformer_1a: {
-	DisplayName: UXV变压器
+	DisplayName: "UXV变压器"
 	Tooltip: ""
 }
 
 uxv_transformer_2a: {
-	DisplayName: UXV进阶变压器
+	DisplayName: "UXV进阶变压器"
 	Tooltip: ""
 }
 
 uxv_transformer_4a: {
-	DisplayName: UXV高流变压器
+	DisplayName: "UXV高流变压器"
 	Tooltip: ""
 }
 
 uxv_wiremill: {
-	DisplayName: 史诗线材轧机IV
+	DisplayName: "史诗线材轧机IV"
 	Tooltip: ""
 }
 
@@ -35172,7 +35269,11 @@ vacuum_freezer: {
 
 vacuum_tube: {
 	DisplayName: 真空管
-	Tooltip: 技术上是二极管
+	Tooltip:
+		'''
+		[c/AAAAAA:技术上是二极管]
+		[c/FF5555:ULV等级]
+		'''
 }
 
 vibration_safe_casing: {
@@ -35192,32 +35293,48 @@ watertight_casing: {
 
 wetware_circuit_board: {
 	DisplayName: 湿件电路基板
-	Tooltip: 维生之板
+	Tooltip: "[c/AAAAAA:维生之板]"
 }
 
 wetware_printed_circuit_board: {
 	DisplayName: 湿件印刷电路基板
-	Tooltip: 维生之板
+	Tooltip: "[c/AAAAAA:维生之板]"
 }
 
 wetware_processor: {
 	DisplayName: 湿件处理器
-	Tooltip: 祂在看我吗？
+	Tooltip:
+		'''
+		[c/AAAAAA:祂在看我吗？]
+		[c/AA0000:LuV级电路]
+		'''
 }
 
 wetware_processor_assembly: {
 	DisplayName: 湿件处理器集群
-	Tooltip: 可以玩Minecraft
+	Tooltip:
+		'''
+		[c/AAAAAA:可以玩Minecraft]
+		[c/AA0000:ZPM级电路]
+		'''
 }
 
 wetware_processor_computer: {
 	DisplayName: 湿件处理器超级计算机
-	Tooltip: 肉体与机器的终极结合
+	Tooltip:
+		'''
+		[c/AAAAAA:肉体与机器的终极结合]
+		[c/AA0000:UV级电路]
+		'''
 }
 
 wetware_processor_mainframe: {
 	DisplayName: 湿件处理器主机
-	Tooltip: 千载独步，惟公一人
+	Tooltip:
+		'''
+		[c/AAAAAA:千载独步，惟公一人]
+		[c/AA0000:UHV级电路]
+		'''
 }
 
 white_borderless_lamp: {
@@ -35252,7 +35369,7 @@ white_studs: {
 
 wire_extruder_mold: {
 	DisplayName: 模头（导线）
-	Tooltip: 用来制作导线的模头
+	Tooltip: "[c/AAAAAA:用来制作导线的模头]"
 }
 
 wireless_transmitter_cover: {
@@ -35386,22 +35503,22 @@ zpm_8a_energy_converter: {
 }
 
 zpm_alloy_smelter: {
-	DisplayName: 精英合金炉III
+	DisplayName: "精英合金炉III"
 	Tooltip: ""
 }
 
 zpm_arc_furnace: {
-	DisplayName: 精英电弧炉III
+	DisplayName: "精英电弧炉III"
 	Tooltip: ""
 }
 
 zpm_assembler: {
-	DisplayName: 精英组装机III
+	DisplayName: "精英组装机III"
 	Tooltip: ""
 }
 
 zpm_autoclave: {
-	DisplayName: 精英高压釜III
+	DisplayName: "精英高压釜III"
 	Tooltip: ""
 }
 
@@ -35422,26 +35539,26 @@ zpm_battery_buffer_8x: {
 
 zpm_battery_hull: {
 	DisplayName: 中型超能硅岩电池外壳
-	Tooltip: 一个空的ZPM电池外壳
+	Tooltip: "[c/AAAAAA:一个空的][c/FFFFFF:ZPM][c/AAAAAA:电池外壳]"
 }
 
 zpm_bender: {
-	DisplayName: 精英卷板机III
+	DisplayName: "精英卷板机III"
 	Tooltip: ""
 }
 
 zpm_brewery: {
-	DisplayName: 精英酿造室III
+	DisplayName: "精英酿造室III"
 	Tooltip: ""
 }
 
 zpm_canner: {
-	DisplayName: 精英装罐机III
+	DisplayName: "精英装罐机III"
 	Tooltip: ""
 }
 
 zpm_centrifuge: {
-	DisplayName: 精英离心机III
+	DisplayName: "精英离心机III"
 	Tooltip: ""
 }
 
@@ -35451,92 +35568,92 @@ zpm_charger_4x: {
 }
 
 zpm_chemical_bath: {
-	DisplayName: 精英化学浸洗机III
+	DisplayName: "精英化学浸洗机III"
 	Tooltip: ""
 }
 
 zpm_chemical_reactor: {
-	DisplayName: 精英化学反应釜III
+	DisplayName: "精英化学反应釜III"
 	Tooltip: ""
 }
 
 zpm_circuit_assembler: {
-	DisplayName: 精英电路组装机III
+	DisplayName: "精英电路组装机III"
 	Tooltip: ""
 }
 
 zpm_compressor: {
-	DisplayName: 精英压缩机III
+	DisplayName: "精英压缩机III"
 	Tooltip: ""
 }
 
 zpm_conveyor_module: {
-	DisplayName: ZPM传送带
+	DisplayName: "ZPM传送带"
 	Tooltip: ""
 }
 
 zpm_cutter: {
-	DisplayName: 精英切割机III
+	DisplayName: "精英切割机III"
 	Tooltip: ""
 }
 
 zpm_diode: {
-	DisplayName: 精英二极管III
+	DisplayName: "精英二极管III"
 	Tooltip: ""
 }
 
 zpm_distillery: {
-	DisplayName: 精英蒸馏室III
+	DisplayName: "精英蒸馏室III"
 	Tooltip: ""
 }
 
 zpm_dual_input_hatch: {
-	DisplayName: ZPM双重输入仓
+	DisplayName: "ZPM双重输入仓"
 	Tooltip: ""
 }
 
 zpm_dual_output_hatch: {
-	DisplayName: ZPM双重输出仓
+	DisplayName: "ZPM双重输出仓"
 	Tooltip: ""
 }
 
 zpm_electric_furnace: {
-	DisplayName: 精英电炉III
+	DisplayName: "精英电炉III"
 	Tooltip: ""
 }
 
 zpm_electric_motor: {
-	DisplayName: ZPM电动马达
+	DisplayName: "ZPM电动马达"
 	Tooltip: ""
 }
 
 zpm_electric_piston: {
-	DisplayName: ZPM电力活塞
+	DisplayName: "ZPM电力活塞"
 	Tooltip: ""
 }
 
 zpm_electric_pump: {
-	DisplayName: ZPM电动泵
+	DisplayName: "ZPM电动泵"
 	Tooltip: ""
 }
 
 zpm_electrolyzer: {
-	DisplayName: 精英电解机III
+	DisplayName: "精英电解机III"
 	Tooltip: ""
 }
 
 zpm_electromagnetic_separator: {
-	DisplayName: 精英电磁选矿机III
+	DisplayName: "精英电磁选矿机III"
 	Tooltip: ""
 }
 
 zpm_emitter: {
-	DisplayName: ZPM发射器
+	DisplayName: "ZPM发射器"
 	Tooltip: ""
 }
 
 zpm_energy_input_hatch: {
-	DisplayName: ZPM能源仓
+	DisplayName: "ZPM能源仓"
 	Tooltip: ""
 }
 
@@ -35551,7 +35668,7 @@ zpm_energy_input_hatch_4a: {
 }
 
 zpm_energy_output_hatch: {
-	DisplayName: ZPM动力仓
+	DisplayName: "ZPM动力仓"
 	Tooltip: ""
 }
 
@@ -35566,27 +35683,27 @@ zpm_energy_output_hatch_4a: {
 }
 
 zpm_extractor: {
-	DisplayName: 精英提取机III
+	DisplayName: "精英提取机III"
 	Tooltip: ""
 }
 
 zpm_extruder: {
-	DisplayName: 精英压模器III
+	DisplayName: "精英压模器III"
 	Tooltip: ""
 }
 
 zpm_fermenter: {
-	DisplayName: 精英发酵槽III
+	DisplayName: "精英发酵槽III"
 	Tooltip: ""
 }
 
 zpm_field_generator: {
-	DisplayName: ZPM力场发生器
+	DisplayName: "ZPM力场发生器"
 	Tooltip: ""
 }
 
 zpm_fluid_heater: {
-	DisplayName: 精英流体加热器III
+	DisplayName: "精英流体加热器III"
 	Tooltip: ""
 }
 
@@ -35596,22 +35713,22 @@ zpm_fluid_passthrough_hatch: {
 }
 
 zpm_fluid_regulator: {
-	DisplayName: ZPM流体校准器
+	DisplayName: "ZPM流体校准器"
 	Tooltip: ""
 }
 
 zpm_fluid_solidifier: {
-	DisplayName: 精英流体固化器III
+	DisplayName: "精英流体固化器III"
 	Tooltip: ""
 }
 
 zpm_forge_hammer: {
-	DisplayName: 精英锻造锤III
+	DisplayName: "精英锻造锤III"
 	Tooltip: ""
 }
 
 zpm_forming_press: {
-	DisplayName: 精英冲压机床III
+	DisplayName: "精英冲压机床III"
 	Tooltip: ""
 }
 
@@ -35621,7 +35738,7 @@ zpm_fusion_reactor: {
 }
 
 zpm_gas_collector: {
-	DisplayName: 精英集气室III
+	DisplayName: "精英集气室III"
 	Tooltip: ""
 }
 
@@ -35631,22 +35748,22 @@ zpm_hermetic_casing: {
 }
 
 zpm_input_bus: {
-	DisplayName: ZPM输入总线
+	DisplayName: "ZPM输入总线"
 	Tooltip: ""
 }
 
 zpm_input_hatch: {
-	DisplayName: ZPM输入仓
+	DisplayName: "ZPM输入仓"
 	Tooltip: ""
 }
 
 zpm_input_hatch_4x: {
-	DisplayName: ZPM四重输入仓
+	DisplayName: "ZPM四重输入仓"
 	Tooltip: ""
 }
 
 zpm_input_hatch_9x: {
-	DisplayName: ZPM九重输入仓
+	DisplayName: "ZPM九重输入仓"
 	Tooltip: ""
 }
 
@@ -35661,82 +35778,82 @@ zpm_lapotronic_battery: {
 }
 
 zpm_laser_engraver: {
-	DisplayName: 精英激光蚀刻机III
+	DisplayName: "精英激光蚀刻机III"
 	Tooltip: ""
 }
 
 zpm_lathe: {
-	DisplayName: 精英车床III
+	DisplayName: "精英车床III"
 	Tooltip: ""
 }
 
 zpm_macerator: {
-	DisplayName: 精英研磨机III
+	DisplayName: "精英研磨机III"
 	Tooltip: ""
 }
 
 zpm_machine_casing: {
-	DisplayName: ZPM机械方块
+	DisplayName: "ZPM机械方块"
 	Tooltip: ""
 }
 
 zpm_machine_hull: {
-	DisplayName: ZPM机器外壳
+	DisplayName: "ZPM机器外壳"
 	Tooltip: ""
 }
 
 zpm_mixer: {
-	DisplayName: 精英搅拌机III
+	DisplayName: "精英搅拌机III"
 	Tooltip: ""
 }
 
 zpm_muffler_hatch: {
-	DisplayName: 精英消声仓III
+	DisplayName: "精英消声仓III"
 	Tooltip: ""
 }
 
 zpm_naquadria_battery: {
 	DisplayName: 中型超能硅岩电池
-	Tooltip: 可充电电池
+	Tooltip: "[c/AAAAAA:可充电电池]"
 }
 
 zpm_ore_washer: {
-	DisplayName: 精英洗矿厂III
+	DisplayName: "精英洗矿厂III"
 	Tooltip: ""
 }
 
 zpm_output_bus: {
-	DisplayName: ZPM输出总线
+	DisplayName: "ZPM输出总线"
 	Tooltip: ""
 }
 
 zpm_output_hatch: {
-	DisplayName: ZPM输出仓
+	DisplayName: "ZPM输出仓"
 	Tooltip: ""
 }
 
 zpm_output_hatch_4x: {
-	DisplayName: ZPM四重输出仓
+	DisplayName: "ZPM四重输出仓"
 	Tooltip: ""
 }
 
 zpm_output_hatch_9x: {
-	DisplayName: ZPM九重输出仓
+	DisplayName: "ZPM九重输出仓"
 	Tooltip: ""
 }
 
 zpm_packer: {
-	DisplayName: 精英打包机III
+	DisplayName: "精英打包机III"
 	Tooltip: ""
 }
 
 zpm_parallel_hatch: {
-	DisplayName: ZPM 并行控制仓
+	DisplayName: "ZPM 并行控制仓"
 	Tooltip: ""
 }
 
 zpm_polarizer: {
-	DisplayName: 精英两极磁化机III
+	DisplayName: "精英两极磁化机III"
 	Tooltip: ""
 }
 
@@ -35751,32 +35868,32 @@ zpm_quantum_tank: {
 }
 
 zpm_robot_arm: {
-	DisplayName: ZPM机械臂
+	DisplayName: "ZPM机械臂"
 	Tooltip: ""
 }
 
 zpm_rock_crusher: {
-	DisplayName: 精英碎岩机III
+	DisplayName: "精英碎岩机III"
 	Tooltip: ""
 }
 
 zpm_rotor_holder: {
-	DisplayName: 精英转子支架III
+	DisplayName: "精英转子支架III"
 	Tooltip: ""
 }
 
 zpm_scanner: {
-	DisplayName: 精英扫描仪III
+	DisplayName: "精英扫描仪III"
 	Tooltip: ""
 }
 
 zpm_sensor: {
-	DisplayName: ZPM传感器
+	DisplayName: "ZPM传感器"
 	Tooltip: ""
 }
 
 zpm_sifter: {
-	DisplayName: 精英筛选机III
+	DisplayName: "精英筛选机III"
 	Tooltip: ""
 }
 
@@ -35796,27 +35913,27 @@ zpm_substation_output_hatch_64a: {
 }
 
 zpm_thermal_centrifuge: {
-	DisplayName: 精英热力离心机III
+	DisplayName: "精英热力离心机III"
 	Tooltip: ""
 }
 
 zpm_transformer_16a: {
-	DisplayName: ZPM高能变压器
+	DisplayName: "ZPM高能变压器"
 	Tooltip: ""
 }
 
 zpm_transformer_1a: {
-	DisplayName: ZPM变压器
+	DisplayName: "ZPM变压器"
 	Tooltip: ""
 }
 
 zpm_transformer_2a: {
-	DisplayName: ZPM进阶变压器
+	DisplayName: "ZPM进阶变压器"
 	Tooltip: ""
 }
 
 zpm_transformer_4a: {
-	DisplayName: ZPM高流变压器
+	DisplayName: "ZPM高流变压器"
 	Tooltip: ""
 }
 
@@ -35826,12 +35943,12 @@ zpm_voltage_coil: {
 }
 
 zpm_wiremill: {
-	DisplayName: 精英线材轧机III
+	DisplayName: "精英线材轧机III"
 	Tooltip: ""
 }
 
 zpm_world_accelerator: {
-	DisplayName: 精英世界加速器III
+	DisplayName: "精英世界加速器III"
 	Tooltip: ""
 }
 
@@ -36301,7 +36418,7 @@ drilling_fluid_bucket: {
 }
 
 duranium_bucket: {
-	DisplayName: 耐铝桶
+	DisplayName: 铿铀桶
 	Tooltip: ""
 }
 
@@ -37715,2039 +37832,2219 @@ zinc_bucket: {
 	Tooltip: ""
 }
 
-acid_etched_inert_casing: {
-	DisplayName: 酸蚀惰性机械方块
-	Tooltip:
-		'''
-		在HV化学反应釜中被蚀刻得具备反应活性的惰性机械方块
-		在地表使用可召唤腐蚀反应堆
-		'''
-}
-
-OverburnedCoilBlock: {
-	DisplayName: 过热线圈方块
-	Tooltip:
-		'''
-		一块被过度加热到极限的白铜线圈方块
-		在地表使用可召唤坠落电力高炉
-		'''
-}
-
-unstable_compressor_charge: {
-	DisplayName: 不稳定压缩机装药
-	Tooltip:
-		'''
-		填满工业TNT的钢制外壳，在大型化学反应釜中完成引爆准备
-		在地表使用可召唤聚爆压缩机
-		'''
-}
-
-dirty_stainless_steel_casing: {
-	DisplayName: 污损不锈钢外壳
-	Tooltip:
-		'''
-		被灵魂残渣堵塞的不锈钢外壳
-		在困难模式下使用可召唤灵魂蒸馏机
-		'''
-}
-
-frozen_frostproof_casing: {
-	DisplayName: 防冻机械方块
-	Tooltip:
-		'''
-		在HV化学浸洗机中冻结固化的防冻机械方块
-		在地表使用可召唤真空冷冻机
-		'''
-}
-
-GregTechIronToolsBag: {
-	DisplayName: 新手包：铁质工具
-	Tooltip:
-		'''
-		右击打开，投出铁质工具套装：
-		锤、扳手、剪线钳、锉刀、螺丝刀、锯、研钵、撬棍、刀。
-		'''
-}
-
-simple_fluid_pipe: {
-	DisplayName: 简易流体管道
+wrought_iron_turbine_rotor: {
 	Tooltip: ""
-}
-
-simple_item_pipe: {
-	DisplayName: 简易物品管道
-	Tooltip: ""
-}
-
-SkipStoneAgeBag: {
-	DisplayName: 新手包：跳过石器时代
-	Tooltip:
-		'''
-		右击打开，投出蒸汽时代自动化采矿套装，助你跳过手动采矿：
-		高压蒸汽采矿机、两台高压燃煤锅炉、青铜板条箱、高压蒸汽熔炉+研磨机、
-		焦炭燃料、流体+物品管道，以及原始水泵+焦炉多方块结构袋。
-		'''
-}
-
-SteamAgeSkipBag: {
-	DisplayName: 新手包：跳过蒸汽时代
-	Tooltip:
-		'''
-		右击打开，投出LV级别启动套件，助你跳过青铜/蒸汽时代：
-		4x LV太阳能板 + 4x LV灯 + LV 4x电池箱 + 1个钠电池、
-		4个LV机械方块 + 电路 + 板 + 杆 + 导线用于组装LV机器、
-		以及一组简易物品+流体管道。
-		'''
-}
-
-TooManyItemsItem: {
-	DisplayName: 太多物品
-	Tooltip:
-		'''
-		任意位置放置后右击打开全局配方浏览器。
-
-		[c/FFE68C:搜索语法]
-		  iron rod        - 包含 'iron' 和 'rod' 的配方（子串匹配）
-		  platform        - 匹配泰拉瑞亚物品名（如木板替代品）
-		  @bender         - 仅显示卷板机配方
-		  @assemb         - 组装机和装配线配方（站名子串匹配）
-		  @bend ir pla    - 含铁板的卷板机配方
-
-		[c/FFE68C:操作方式]
-		  鼠标左键搜索栏      - 聚焦，开始输入
-		  鼠标右键搜索栏      - 清空搜索
-		  鼠标左键栏外        - 取消聚焦
-		  Esc / X             - 关闭浏览器
-		  悬停材料格子        - 显示几率/工具信息
-		'''
-}
-
-water_bucket: {
-	DisplayName: 水桶
-	Tooltip: ""
-}
-
-lava_bucket: {
-	DisplayName: 熔岩桶
-	Tooltip: ""
-}
-
-americium_plasma_bucket: {
-	DisplayName: 等离子态镅桶
-	Tooltip: ""
-}
-
-argon_plasma_bucket: {
-	DisplayName: 等离子态氩桶
-	Tooltip: ""
-}
-
-molten_bismuth_bronze_bucket: {
-	DisplayName: 熔融铋青铜桶
-	Tooltip: ""
-}
-
-molten_black_bronze_bucket: {
-	DisplayName: 熔融黑青铜桶
-	Tooltip: ""
-}
-
-molten_black_steel_bucket: {
-	DisplayName: 熔融黑钢桶
-	Tooltip: ""
-}
-
-molten_blue_steel_bucket: {
-	DisplayName: 熔融蓝钢桶
-	Tooltip: ""
-}
-
-molten_enriched_naquadah_trinium_europium_duranide_bucket: {
-	DisplayName: 熔融富集硅岩三元铕铿铀合金桶
-	Tooltip: ""
-}
-
-molten_gallium_arsenide_bucket: {
-	DisplayName: 熔融砷化镓桶
-	Tooltip: ""
-}
-
-molten_hastelloy_c_276_bucket: {
-	DisplayName: 熔融哈斯特洛依合金 C-276桶
-	Tooltip: ""
-}
-
-molten_hastelloy_x_bucket: {
-	DisplayName: 熔融哈斯特洛依合金-X桶
-	Tooltip: ""
-}
-
-liquid_helium_bucket: {
-	DisplayName: 液态氦桶
-	Tooltip: ""
-}
-
-helium_plasma_bucket: {
-	DisplayName: 等离子态氦桶
-	Tooltip: ""
-}
-
-molten_hsla_steel_bucket: {
-	DisplayName: 熔融HSLA钢桶
-	Tooltip: ""
-}
-
-molten_hsse_bucket: {
-	DisplayName: 熔融高速钢-E桶
-	Tooltip: ""
-}
-
-molten_hssg_bucket: {
-	DisplayName: 熔融高速钢-G桶
-	Tooltip: ""
-}
-
-molten_hsss_bucket: {
-	DisplayName: 熔融高速钢-S桶
-	Tooltip: ""
-}
-
-molten_incoloy_ma_956_bucket: {
-	DisplayName: 熔融耐热铬铁合金 MA-956桶
-	Tooltip: ""
-}
-
-molten_indium_tin_barium_titanium_cuprate_bucket: {
-	DisplayName: 熔融铟锡钡钛铜氧合金桶
-	Tooltip: ""
-}
-
-iron_plasma_bucket: {
-	DisplayName: 等离子态铁桶
-	Tooltip: ""
-}
-
-molten_kanthal_bucket: {
-	DisplayName: 熔融坎塔尔合金桶
-	Tooltip: ""
-}
-
-molten_magnesium_diboride_bucket: {
-	DisplayName: 熔融二硼化镁桶
-	Tooltip: ""
-}
-
-molten_manganese_phosphide_bucket: {
-	DisplayName: 熔融磷化锰桶
-	Tooltip: ""
-}
-
-molten_maraging_steel_300_bucket: {
-	DisplayName: 熔融马氏体时效钢-300桶
-	Tooltip: ""
-}
-
-molten_mercury_barium_calcium_cuprate_bucket: {
-	DisplayName: 熔融汞钡钙铜氧化物桶
-	Tooltip: ""
-}
-
-milk_bucket: {
-	DisplayName: 牛奶桶
-	Tooltip: ""
-}
-
-molten_molybdenum_disilicide_bucket: {
-	DisplayName: 熔融二硅化钼桶
-	Tooltip: ""
-}
-
-molten_naquadah_alloy_bucket: {
-	DisplayName: 熔融硅岩合金桶
-	Tooltip: ""
-}
-
-molten_nichrome_bucket: {
-	DisplayName: 熔融镍铬合金桶
-	Tooltip: ""
-}
-
-nickel_plasma_bucket: {
-	DisplayName: 等离子态镍桶
-	Tooltip: ""
-}
-
-molten_niobium_nitride_bucket: {
-	DisplayName: 熔融氮化铌桶
-	Tooltip: ""
-}
-
-molten_niobium_titanium_bucket: {
-	DisplayName: 熔融铌钛合金桶
-	Tooltip: ""
-}
-
-nitrogen_plasma_bucket: {
-	DisplayName: 等离子态氮桶
-	Tooltip: ""
-}
-
-molten_osmiridium_bucket: {
-	DisplayName: 熔融铱锇合金桶
-	Tooltip: ""
-}
-
-liquid_oxygen_bucket: {
-	DisplayName: 液态氧桶
-	Tooltip: ""
-}
-
-oxygen_plasma_bucket: {
-	DisplayName: 等离子态氧桶
-	Tooltip: ""
-}
-
-molten_red_steel_bucket: {
-	DisplayName: 熔融红钢桶
-	Tooltip: ""
-}
-
-molten_rhodium_plated_palladium_bucket: {
-	DisplayName: 熔融镀铑钯桶
-	Tooltip: ""
-}
-
-molten_rose_gold_bucket: {
-	DisplayName: 熔融玫瑰金桶
-	Tooltip: ""
-}
-
-molten_rtm_alloy_bucket: {
-	DisplayName: 熔融钌钨钼合金桶
-	Tooltip: ""
-}
-
-molten_ruridit_bucket: {
-	DisplayName: 熔融钌铱合金桶
-	Tooltip: ""
-}
-
-molten_ruthenium_trinium_americium_neutronate_bucket: {
-	DisplayName: 熔融钌三元镅中子素氧化物桶
-	Tooltip: ""
-}
-
-molten_samarium_iron_arsenic_oxide_bucket: {
-	DisplayName: 熔融钐铁砷氧化物桶
-	Tooltip: ""
-}
-
-molten_stainless_steel_bucket: {
-	DisplayName: 熔融不锈钢桶
-	Tooltip: ""
-}
-
-molten_stellite_100_bucket: {
-	DisplayName: 熔融司太立-100桶
-	Tooltip: ""
-}
-
-molten_sterling_silver_bucket: {
-	DisplayName: 熔融标准纯银桶
-	Tooltip: ""
-}
-
-molten_tantalum_carbide_bucket: {
-	DisplayName: 熔融碳化钽桶
-	Tooltip: ""
-}
-
-tin_plasma_bucket: {
-	DisplayName: 等离子态锡桶
-	Tooltip: ""
-}
-
-molten_titanium_carbide_bucket: {
-	DisplayName: 熔融碳化钛桶
-	Tooltip: ""
-}
-
-molten_titanium_tungsten_carbide_bucket: {
-	DisplayName: 熔融碳化钛钨桶
-	Tooltip: ""
-}
-
-molten_tungsten_carbide_bucket: {
-	DisplayName: 熔融碳化钨桶
-	Tooltip: ""
-}
-
-molten_tungsten_steel_bucket: {
-	DisplayName: 熔融钨钢桶
-	Tooltip: ""
-}
-
-molten_ultimet_bucket: {
-	DisplayName: 熔融哈氏合金桶
-	Tooltip: ""
-}
-
-molten_uranium_rhodium_dinaquadide_bucket: {
-	DisplayName: 熔融铀铑硅岩合金桶
-	Tooltip: ""
-}
-
-molten_uranium_triplatinum_bucket: {
-	DisplayName: 熔融三铂化铀桶
-	Tooltip: ""
-}
-
-molten_vanadium_gallium_bucket: {
-	DisplayName: 熔融钒镓合金桶
-	Tooltip: ""
-}
-
-molten_vanadium_steel_bucket: {
-	DisplayName: 熔融钒钢桶
-	Tooltip: ""
-}
-
-molten_watertight_steel_bucket: {
-	DisplayName: 熔融防水钢桶
-	Tooltip: ""
-}
-
-molten_yttrium_barium_cuprate_bucket: {
-	DisplayName: 熔融钇钡铜氧化物桶
-	Tooltip: ""
-}
-
-molten_zeron_100_bucket: {
-	DisplayName: 熔融赛龙-100桶
-	Tooltip: ""
-}
-
-aluminium_gregith: {
-	DisplayName: 铝板锭
-	Tooltip: ""
-}
-
-blue_steel_gregith: {
-	DisplayName: 蓝钢板锭
-	Tooltip: ""
-}
-
-bronze_gregith: {
-	DisplayName: 青铜板锭
-	Tooltip: ""
-}
-
-cobalt_brass_gregith: {
-	DisplayName: 钴黄铜板锭
-	Tooltip: ""
-}
-
-damascus_steel_gregith: {
-	DisplayName: 大马士革钢板锭
-	Tooltip: ""
-}
-
-diamond_gregith: {
-	DisplayName: 钻石板锭
-	Tooltip: ""
-}
-
-duranium_gregith: {
-	DisplayName: 耐铝板锭
-	Tooltip: ""
-}
-
-hsse_gregith: {
-	DisplayName: HSS-E板锭
-	Tooltip: ""
-}
-
-invar_gregith: {
-	DisplayName: 殷钢板锭
-	Tooltip: ""
-}
-
-iron_gregith: {
-	DisplayName: 铁板锭
-	Tooltip: ""
-}
-
-naquadah_alloy_gregith: {
-	DisplayName: 硅岩合金板锭
-	Tooltip: ""
-}
-
-netherite_gregith: {
-	DisplayName: 下界合金板锭
-	Tooltip: ""
-}
-
-neutronium_gregith: {
-	DisplayName: 中子素板锭
-	Tooltip: ""
-}
-
-red_steel_gregith: {
-	DisplayName: 红钢板锭
-	Tooltip: ""
-}
-
-rose_gold_gregith: {
-	DisplayName: 玫瑰金板锭
-	Tooltip: ""
-}
-
-stainless_steel_gregith: {
-	DisplayName: 不锈钢板锭
-	Tooltip: ""
-}
-
-steel_gregith: {
-	DisplayName: 钢板锭
-	Tooltip: ""
-}
-
-sterling_silver_gregith: {
-	DisplayName: 斯特林银板锭
-	Tooltip: ""
-}
-
-titanium_gregith: {
-	DisplayName: 钛板锭
-	Tooltip: ""
-}
-
-tungsten_carbide_gregith: {
-	DisplayName: 碳化钨板锭
-	Tooltip: ""
-}
-
-tungsten_steel_gregith: {
-	DisplayName: 钨钢板锭
-	Tooltip: ""
-}
-
-ultimet_gregith: {
-	DisplayName: 耐高温合金板锭
-	Tooltip: ""
-}
-
-vanadium_steel_gregith: {
-	DisplayName: 钒钢板锭
-	Tooltip: ""
-}
-
-wrought_iron_gregith: {
-	DisplayName: 锻铁板锭
-	Tooltip: ""
-}
-
-overclocked_gregith: {
-	DisplayName: Overclocked板锭
-	Tooltip: ""
-}
-
-ulv_macerator: {
-	DisplayName: 原始研磨机
-	Tooltip: ""
-}
-
-max_macerator: {
-	DisplayName: 极限研磨机
-	Tooltip: ""
-}
-
-ulv_alloy_smelter: {
-	DisplayName: 原始合金炉
-	Tooltip: ""
-}
-
-max_alloy_smelter: {
-	DisplayName: 极限合金炉
-	Tooltip: ""
-}
-
-ulv_brewery: {
-	DisplayName: 原始酿造室
-	Tooltip: ""
-}
-
-max_brewery: {
-	DisplayName: 极限酿造室
-	Tooltip: ""
-}
-
-ulv_compressor: {
-	DisplayName: 原始压缩机
-	Tooltip: ""
-}
-
-max_compressor: {
-	DisplayName: 极限压缩机
-	Tooltip: ""
-}
-
-ulv_extractor: {
-	DisplayName: 原始提取机
-	Tooltip: ""
-}
-
-max_extractor: {
-	DisplayName: 极限提取机
-	Tooltip: ""
-}
-
-ulv_forge_hammer: {
-	DisplayName: 原始锻造锤
-	Tooltip: ""
-}
-
-max_forge_hammer: {
-	DisplayName: 极限锻造锤
-	Tooltip: ""
-}
-
-ulv_bender: {
-	DisplayName: 原始卷板机
-	Tooltip: ""
-}
-
-max_bender: {
-	DisplayName: 极限卷板机
-	Tooltip: ""
-}
-
-ulv_lathe: {
-	DisplayName: 原始车床
-	Tooltip: ""
-}
-
-max_lathe: {
-	DisplayName: 极限车床
-	Tooltip: ""
-}
-
-ulv_polarizer: {
-	DisplayName: 原始两极磁化机
-	Tooltip: ""
-}
-
-max_polarizer: {
-	DisplayName: 极限两极磁化机
-	Tooltip: ""
-}
-
-ulv_wiremill: {
-	DisplayName: 原始线材轧机
-	Tooltip: ""
-}
-
-max_wiremill: {
-	DisplayName: 极限线材轧机
-	Tooltip: ""
-}
-
-ulv_electromagnetic_separator: {
-	DisplayName: 原始电磁选矿机
-	Tooltip: ""
-}
-
-max_electromagnetic_separator: {
-	DisplayName: 极限电磁选矿机
-	Tooltip: ""
-}
-
-ulv_packer: {
-	DisplayName: 原始打包机
-	Tooltip: ""
-}
-
-max_packer: {
-	DisplayName: 极限打包机
-	Tooltip: ""
-}
-
-ulv_fluid_solidifier: {
-	DisplayName: 原始流体固化器
-	Tooltip: ""
-}
-
-max_fluid_solidifier: {
-	DisplayName: 极限流体固化器
-	Tooltip: ""
-}
-
-ulv_chemical_reactor: {
-	DisplayName: 原始化学反应釜
-	Tooltip: ""
-}
-
-max_chemical_reactor: {
-	DisplayName: 极限化学反应釜
-	Tooltip: ""
-}
-
-ulv_electrolyzer: {
-	DisplayName: 原始电解机
-	Tooltip: ""
-}
-
-max_electrolyzer: {
-	DisplayName: 极限电解机
-	Tooltip: ""
-}
-
-ulv_centrifuge: {
-	DisplayName: 原始离心机
-	Tooltip: ""
-}
-
-max_centrifuge: {
-	DisplayName: 极限离心机
-	Tooltip: ""
-}
-
-ulv_arc_furnace: {
-	DisplayName: 原始电弧炉
-	Tooltip: ""
-}
-
-max_arc_furnace: {
-	DisplayName: 极限电弧炉
-	Tooltip: ""
-}
-
-ulv_cutter: {
-	DisplayName: 原始切割机
-	Tooltip: ""
-}
-
-max_cutter: {
-	DisplayName: 极限切割机
-	Tooltip: ""
-}
-
-ulv_extruder: {
-	DisplayName: 原始压模器
-	Tooltip: ""
-}
-
-max_extruder: {
-	DisplayName: 极限压模器
-	Tooltip: ""
-}
-
-ulv_scanner: {
-	DisplayName: 原始扫描仪
-	Tooltip: ""
-}
-
-max_scanner: {
-	DisplayName: 极限扫描仪
-	Tooltip: ""
-}
-
-ulv_laser_engraver: {
-	DisplayName: 原始激光蚀刻机
-	Tooltip: ""
-}
-
-max_laser_engraver: {
-	DisplayName: 极限激光蚀刻机
-	Tooltip: ""
-}
-
-ulv_sifter: {
-	DisplayName: 原始筛选机
-	Tooltip: ""
-}
-
-max_sifter: {
-	DisplayName: 极限筛选机
-	Tooltip: ""
-}
-
-ulv_thermal_centrifuge: {
-	DisplayName: 原始热力离心机
-	Tooltip: ""
-}
-
-max_thermal_centrifuge: {
-	DisplayName: 极限热力离心机
-	Tooltip: ""
-}
-
-ulv_gas_collector: {
-	DisplayName: 原始集气室
-	Tooltip: ""
-}
-
-max_gas_collector: {
-	DisplayName: 极限集气室
-	Tooltip: ""
-}
-
-ulv_air_scrubber: {
-	DisplayName: 原始空气净化器
-	Tooltip: ""
-}
-
-iv_air_scrubber: {
-	DisplayName: 精英空气净化器
-	Tooltip: ""
-}
-
-luv_air_scrubber: {
-	DisplayName: 精英空气净化器II
-	Tooltip: ""
-}
-
-zpm_air_scrubber: {
-	DisplayName: 精英空气净化器III
-	Tooltip: ""
-}
-
-uv_air_scrubber: {
-	DisplayName: 终极空气净化器
-	Tooltip: ""
-}
-
-uhv_air_scrubber: {
-	DisplayName: 史诗空气净化器
-	Tooltip: ""
-}
-
-uev_air_scrubber: {
-	DisplayName: 史诗空气净化器II
-	Tooltip: ""
-}
-
-uiv_air_scrubber: {
-	DisplayName: 史诗空气净化器III
-	Tooltip: ""
-}
-
-uxv_air_scrubber: {
-	DisplayName: 史诗空气净化器IV
-	Tooltip: ""
-}
-
-opv_air_scrubber: {
-	DisplayName: 传奇空气净化器
-	Tooltip: ""
-}
-
-max_air_scrubber: {
-	DisplayName: 极限空气净化器
-	Tooltip: ""
-}
-
-ulv_electric_furnace: {
-	DisplayName: 原始电炉
-	Tooltip: ""
-}
-
-max_electric_furnace: {
-	DisplayName: 极限电炉
-	Tooltip: ""
-}
-
-ulv_rock_crusher: {
-	DisplayName: 原始碎岩机
-	Tooltip: ""
-}
-
-max_rock_crusher: {
-	DisplayName: 极限碎岩机
-	Tooltip: ""
-}
-
-ulv_distillery: {
-	DisplayName: 原始蒸馏室
-	Tooltip: ""
-}
-
-max_distillery: {
-	DisplayName: 极限蒸馏室
-	Tooltip: ""
-}
-
-ulv_mixer: {
-	DisplayName: 原始搅拌机
-	Tooltip: ""
-}
-
-max_mixer: {
-	DisplayName: 极限搅拌机
-	Tooltip: ""
-}
-
-ulv_autoclave: {
-	DisplayName: 原始高压釜
-	Tooltip: ""
-}
-
-max_autoclave: {
-	DisplayName: 极限高压釜
-	Tooltip: ""
-}
-
-ulv_ore_washer: {
-	DisplayName: 原始洗矿厂
-	Tooltip: ""
-}
-
-max_ore_washer: {
-	DisplayName: 极限洗矿厂
-	Tooltip: ""
-}
-
-ulv_chemical_bath: {
-	DisplayName: 原始化学浸洗机
-	Tooltip: ""
-}
-
-max_chemical_bath: {
-	DisplayName: 极限化学浸洗机
-	Tooltip: ""
-}
-
-ulv_fluid_heater: {
-	DisplayName: 原始流体加热器
-	Tooltip: ""
-}
-
-max_fluid_heater: {
-	DisplayName: 极限流体加热器
-	Tooltip: ""
-}
-
-ulv_fermenter: {
-	DisplayName: 原始发酵槽
-	Tooltip: ""
-}
-
-max_fermenter: {
-	DisplayName: 极限发酵槽
-	Tooltip: ""
-}
-
-ulv_canner: {
-	DisplayName: 原始装罐机
-	Tooltip: ""
-}
-
-max_canner: {
-	DisplayName: 极限装罐机
-	Tooltip: ""
-}
-
-ulv_assembler: {
-	DisplayName: 原始组装机
-	Tooltip: ""
-}
-
-max_assembler: {
-	DisplayName: 极限组装机
-	Tooltip: ""
-}
-
-ulv_forming_press: {
-	DisplayName: 原始冲压机床
-	Tooltip: ""
-}
-
-max_forming_press: {
-	DisplayName: 极限冲压机床
-	Tooltip: ""
-}
-
-ulv_circuit_assembler: {
-	DisplayName: 原始电路组装机
-	Tooltip: ""
-}
-
-max_circuit_assembler: {
-	DisplayName: 极限电路组装机
-	Tooltip: ""
-}
-
-ulv_steam_turbine: {
-	DisplayName: 原始蒸汽轮机
-	Tooltip: ""
-}
-
-ev_steam_turbine: {
-	DisplayName: 进阶蒸汽轮机III
-	Tooltip: ""
-}
-
-iv_steam_turbine: {
-	DisplayName: 精英蒸汽轮机
-	Tooltip: ""
-}
-
-luv_steam_turbine: {
-	DisplayName: 精英蒸汽轮机II
-	Tooltip: ""
-}
-
-zpm_steam_turbine: {
-	DisplayName: 精英蒸汽轮机III
-	Tooltip: ""
-}
-
-uv_steam_turbine: {
-	DisplayName: 终极蒸汽轮机
-	Tooltip: ""
-}
-
-uhv_steam_turbine: {
-	DisplayName: 史诗蒸汽轮机
-	Tooltip: ""
-}
-
-uev_steam_turbine: {
-	DisplayName: 史诗蒸汽轮机II
-	Tooltip: ""
-}
-
-uiv_steam_turbine: {
-	DisplayName: 史诗蒸汽轮机III
-	Tooltip: ""
-}
-
-uxv_steam_turbine: {
-	DisplayName: 史诗蒸汽轮机IV
-	Tooltip: ""
-}
-
-opv_steam_turbine: {
-	DisplayName: 传奇蒸汽轮机
-	Tooltip: ""
-}
-
-max_steam_turbine: {
-	DisplayName: 极限蒸汽轮机
-	Tooltip: ""
-}
-
-ulv_solar_panel_machine: {
-	DisplayName: 原始太阳能板
-	Tooltip: ""
-}
-
-lv_solar_panel_machine: {
-	DisplayName: 基础太阳能板
-	Tooltip: ""
-}
-
-mv_solar_panel_machine: {
-	DisplayName: 进阶太阳能板
-	Tooltip: ""
-}
-
-hv_solar_panel_machine: {
-	DisplayName: 进阶太阳能板II
-	Tooltip: ""
-}
-
-ev_solar_panel_machine: {
-	DisplayName: 进阶太阳能板III
-	Tooltip: ""
-}
-
-iv_solar_panel_machine: {
-	DisplayName: 精英太阳能板
-	Tooltip: ""
-}
-
-luv_solar_panel_machine: {
-	DisplayName: 精英太阳能板II
-	Tooltip: ""
-}
-
-zpm_solar_panel_machine: {
-	DisplayName: 精英太阳能板III
-	Tooltip: ""
-}
-
-uv_solar_panel_machine: {
-	DisplayName: 终极太阳能板
-	Tooltip: ""
-}
-
-uhv_solar_panel_machine: {
-	DisplayName: 史诗太阳能板
-	Tooltip: ""
-}
-
-uev_solar_panel_machine: {
-	DisplayName: 史诗太阳能板II
-	Tooltip: ""
-}
-
-uiv_solar_panel_machine: {
-	DisplayName: 史诗太阳能板III
-	Tooltip: ""
-}
-
-uxv_solar_panel_machine: {
-	DisplayName: 史诗太阳能板IV
-	Tooltip: ""
-}
-
-opv_solar_panel_machine: {
-	DisplayName: 传奇太阳能板
-	Tooltip: ""
-}
-
-max_solar_panel_machine: {
-	DisplayName: 极限太阳能板
-	Tooltip: ""
-}
-
-ulv_lamp: {
-	DisplayName: 原始灯
-	Tooltip: ""
-}
-
-lv_lamp: {
-	DisplayName: 基础灯
-	Tooltip: ""
-}
-
-mv_lamp: {
-	DisplayName: 进阶灯
-	Tooltip: ""
-}
-
-hv_lamp: {
-	DisplayName: 进阶灯II
-	Tooltip: ""
-}
-
-ev_lamp: {
-	DisplayName: 进阶灯III
-	Tooltip: ""
-}
-
-iv_lamp: {
-	DisplayName: 精英灯
-	Tooltip: ""
-}
-
-luv_lamp: {
-	DisplayName: 精英灯II
-	Tooltip: ""
-}
-
-zpm_lamp: {
-	DisplayName: 精英灯III
-	Tooltip: ""
-}
-
-uv_lamp: {
-	DisplayName: 终极灯
-	Tooltip: ""
-}
-
-uhv_lamp: {
-	DisplayName: 史诗灯
-	Tooltip: ""
-}
-
-uev_lamp: {
-	DisplayName: 史诗灯II
-	Tooltip: ""
-}
-
-uiv_lamp: {
-	DisplayName: 史诗灯III
-	Tooltip: ""
-}
-
-uxv_lamp: {
-	DisplayName: 史诗灯IV
-	Tooltip: ""
-}
-
-opv_lamp: {
-	DisplayName: 传奇灯
-	Tooltip: ""
-}
-
-max_lamp: {
-	DisplayName: 极限灯
-	Tooltip: ""
-}
-
-iv_block_breaker: {
-	DisplayName: 精英方块破坏器
-	Tooltip: ""
-}
-
-luv_block_breaker: {
-	DisplayName: 精英方块破坏器II
-	Tooltip: ""
-}
-
-zpm_block_breaker: {
-	DisplayName: 精英方块破坏器III
-	Tooltip: ""
-}
-
-ev_miner: {
-	DisplayName: EV 采矿机
-	Tooltip: ""
-}
-
-max_256a_laser_target_hatch: {
-	DisplayName: 256A 极限激光靶仓
-	Tooltip: ""
-}
-
-max_256a_laser_source_hatch: {
-	DisplayName: 256A 极限激光源仓
-	Tooltip: ""
-}
-
-max_1024a_laser_target_hatch: {
-	DisplayName: 1024A 极限激光靶仓
-	Tooltip: ""
-}
-
-max_1024a_laser_source_hatch: {
-	DisplayName: 1024A 极限激光源仓
-	Tooltip: ""
-}
-
-max_4096a_laser_target_hatch: {
-	DisplayName: 4096A 极限激光靶仓
-	Tooltip: ""
-}
-
-max_4096a_laser_source_hatch: {
-	DisplayName: 4096A 极限激光源仓
-	Tooltip: ""
-}
-
-aluminium_turbine_rotor: {
-	DisplayName: 铝涡轮转子
-	Tooltip: ""
-}
-
-bismuth_bronze_turbine_rotor: {
-	DisplayName: 铋青铜涡轮转子
-	Tooltip: ""
-}
-
-black_bronze_turbine_rotor: {
-	DisplayName: 黑青铜涡轮转子
-	Tooltip: ""
-}
-
-brass_turbine_rotor: {
-	DisplayName: 黄铜涡轮转子
-	Tooltip: ""
-}
-
-bronze_turbine_rotor: {
-	DisplayName: 青铜涡轮转子
-	Tooltip: ""
-}
-
-chromium_turbine_rotor: {
-	DisplayName: 铬涡轮转子
-	Tooltip: ""
-}
-
-cobalt_brass_turbine_rotor: {
-	DisplayName: 钴黄铜涡轮转子
-	Tooltip: ""
-}
-
-hsse_turbine_rotor: {
-	DisplayName: HSS-E涡轮转子
-	Tooltip: ""
-}
-
-hssg_turbine_rotor: {
-	DisplayName: HSS-G涡轮转子
-	Tooltip: ""
-}
-
-hsss_turbine_rotor: {
-	DisplayName: HSS-S涡轮转子
-	Tooltip: ""
-}
-
-invar_turbine_rotor: {
-	DisplayName: 殷钢涡轮转子
-	Tooltip: ""
-}
-
-iridium_turbine_rotor: {
-	DisplayName: 铱涡轮转子
-	Tooltip: ""
-}
-
-iron_turbine_rotor: {
-	DisplayName: 铁涡轮转子
-	Tooltip: ""
-}
-
-magnalium_turbine_rotor: {
-	DisplayName: 镁铝合金涡轮转子
-	Tooltip: ""
-}
-
-manganese_turbine_rotor: {
-	DisplayName: 锰涡轮转子
-	Tooltip: ""
-}
-
-molybdenum_turbine_rotor: {
-	DisplayName: 钼涡轮转子
-	Tooltip: ""
-}
-
-naquadah_turbine_rotor: {
-	DisplayName: 硅岩涡轮转子
-	Tooltip: ""
-}
-
-naquadah_alloy_turbine_rotor: {
-	DisplayName: 硅岩合金涡轮转子
-	Tooltip: ""
-}
-
-neodymium_turbine_rotor: {
-	DisplayName: 钕涡轮转子
-	Tooltip: ""
-}
-
-neutronium_turbine_rotor: {
-	DisplayName: 中子素涡轮转子
-	Tooltip: ""
-}
-
-osmiridium_turbine_rotor: {
-	DisplayName: 铱锇合金涡轮转子
-	Tooltip: ""
-}
-
-osmium_turbine_rotor: {
-	DisplayName: 锇涡轮转子
-	Tooltip: ""
-}
-
-rhodium_plated_palladium_turbine_rotor: {
-	DisplayName: 镀铑钯涡轮转子
-	Tooltip: ""
-}
-
-rose_gold_turbine_rotor: {
-	DisplayName: 玫瑰金涡轮转子
-	Tooltip: ""
-}
-
-stainless_steel_turbine_rotor: {
-	DisplayName: 不锈钢涡轮转子
-	Tooltip: ""
-}
-
-steel_turbine_rotor: {
-	DisplayName: 钢涡轮转子
-	Tooltip: ""
-}
-
-sterling_silver_turbine_rotor: {
-	DisplayName: 斯特林银涡轮转子
-	Tooltip: ""
-}
-
-titanium_turbine_rotor: {
-	DisplayName: 钛涡轮转子
-	Tooltip: ""
-}
-
-tritanium_turbine_rotor: {
-	DisplayName: 三钛合金涡轮转子
-	Tooltip: ""
-}
-
-tungsten_turbine_rotor: {
-	DisplayName: 钨涡轮转子
-	Tooltip: ""
-}
-
-tungsten_carbide_turbine_rotor: {
-	DisplayName: 碳化钨涡轮转子
-	Tooltip: ""
-}
-
-tungsten_steel_turbine_rotor: {
-	DisplayName: 钨钢涡轮转子
-	Tooltip: ""
-}
-
-ultimet_turbine_rotor: {
-	DisplayName: 耐高温合金涡轮转子
-	Tooltip: ""
+	DisplayName: 锻铁涡轮转子
 }
 
 vanadium_steel_turbine_rotor: {
+	Tooltip: ""
 	DisplayName: 钒钢涡轮转子
+}
+
+ultimet_turbine_rotor: {
 	Tooltip: ""
+	DisplayName: 耐高温合金涡轮转子
 }
 
-wrought_iron_turbine_rotor: {
-	DisplayName: 锻铁涡轮转子
+tungsten_steel_turbine_rotor: {
 	Tooltip: ""
+	DisplayName: 钨钢涡轮转子
 }
 
-multiblock_bag_coke_oven: {
-	DisplayName: 焦炉 多方块结构袋
-	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
+tungsten_carbide_turbine_rotor: {
+	Tooltip: ""
+	DisplayName: 碳化钨涡轮转子
 }
 
-multiblock_bag_primitive_blast_furnace: {
-	DisplayName: 土高炉 多方块结构袋
-	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
+tungsten_turbine_rotor: {
+	Tooltip: ""
+	DisplayName: 钨涡轮转子
 }
 
-multiblock_bag_primitive_pump: {
-	DisplayName: 原始水泵 多方块结构袋
-	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
+tritanium_turbine_rotor: {
+	Tooltip: ""
+	DisplayName: 三钛合金涡轮转子
 }
 
-multiblock_bag_bronze_large_boiler: {
-	DisplayName: 大型青铜锅炉 多方块结构袋
-	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
+titanium_turbine_rotor: {
+	Tooltip: ""
+	DisplayName: 钛涡轮转子
 }
 
-multiblock_bag_steel_large_boiler: {
-	DisplayName: 大型钢制锅炉 多方块结构袋
-	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
+sterling_silver_turbine_rotor: {
+	Tooltip: ""
+	DisplayName: 斯特林银涡轮转子
 }
 
-multiblock_bag_titanium_large_boiler: {
-	DisplayName: 大型钛锅炉 多方块结构袋
-	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
+steel_turbine_rotor: {
+	Tooltip: ""
+	DisplayName: 钢涡轮转子
 }
 
-multiblock_bag_tungstensteel_large_boiler: {
-	DisplayName: 大型钨钢锅炉 多方块结构袋
-	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
+stainless_steel_turbine_rotor: {
+	Tooltip: ""
+	DisplayName: 不锈钢涡轮转子
 }
 
-multiblock_bag_electric_blast_furnace: {
-	DisplayName: 电力高炉 多方块结构袋
-	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
+rose_gold_turbine_rotor: {
+	Tooltip: ""
+	DisplayName: 玫瑰金涡轮转子
 }
 
-multiblock_bag_cleanroom: {
-	DisplayName: 超净间 多方块结构袋
-	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
+rhodium_plated_palladium_turbine_rotor: {
+	Tooltip: ""
+	DisplayName: 镀铑钯涡轮转子
 }
 
-multiblock_bag_large_chemical_reactor: {
-	DisplayName: 大型化学反应釜 多方块结构袋
-	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
+osmium_turbine_rotor: {
+	Tooltip: ""
+	DisplayName: 锇涡轮转子
 }
 
-multiblock_bag_vacuum_freezer: {
-	DisplayName: 真空冷冻机 多方块结构袋
-	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
+osmiridium_turbine_rotor: {
+	Tooltip: ""
+	DisplayName: 铱锇合金涡轮转子
 }
 
-multiblock_bag_implosion_compressor: {
-	DisplayName: 聚爆压缩机 多方块结构袋
-	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
+neutronium_turbine_rotor: {
+	Tooltip: ""
+	DisplayName: 中子素涡轮转子
 }
 
-multiblock_bag_large_autoclave: {
-	DisplayName: 大型结晶室 多方块结构袋
-	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
+neodymium_turbine_rotor: {
+	Tooltip: ""
+	DisplayName: 钕涡轮转子
 }
 
-multiblock_bag_distillation_tower: {
-	DisplayName: 蒸馏塔 多方块结构袋
-	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
+naquadah_alloy_turbine_rotor: {
+	Tooltip: ""
+	DisplayName: 硅岩合金涡轮转子
 }
 
-multiblock_bag_large_distillery: {
-	DisplayName: 大型蒸馏室 多方块结构袋
-	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
+naquadah_turbine_rotor: {
+	Tooltip: ""
+	DisplayName: 硅岩涡轮转子
 }
 
-multiblock_bag_assembly_line: {
-	DisplayName: 装配线 多方块结构袋
-	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
+molybdenum_turbine_rotor: {
+	Tooltip: ""
+	DisplayName: 钼涡轮转子
 }
 
-multiblock_bag_steam_grinder: {
-	DisplayName: 蒸汽研磨机 多方块结构袋
-	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
+manganese_turbine_rotor: {
+	Tooltip: ""
+	DisplayName: 锰涡轮转子
 }
 
-multiblock_bag_steam_oven: {
-	DisplayName: 蒸汽烤炉 多方块结构袋
-	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
+magnalium_turbine_rotor: {
+	Tooltip: ""
+	DisplayName: 镁铝合金涡轮转子
 }
 
-multiblock_bag_large_combustion_engine: {
-	DisplayName: 大型内燃引擎 多方块结构袋
-	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
+iron_turbine_rotor: {
+	Tooltip: ""
+	DisplayName: 铁涡轮转子
 }
 
-multiblock_bag_extreme_combustion_engine: {
-	DisplayName: 极限内燃引擎 多方块结构袋
-	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
+iridium_turbine_rotor: {
+	Tooltip: ""
+	DisplayName: 铱涡轮转子
 }
 
-multiblock_bag_steam_large_turbine: {
-	DisplayName: 大型蒸汽轮机 多方块结构袋
-	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
+invar_turbine_rotor: {
+	Tooltip: ""
+	DisplayName: 殷钢涡轮转子
 }
 
-multiblock_bag_gas_large_turbine: {
-	DisplayName: 大型燃气轮机 多方块结构袋
-	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
+hsss_turbine_rotor: {
+	Tooltip: ""
+	DisplayName: HSS-S涡轮转子
 }
 
-multiblock_bag_plasma_large_turbine: {
-	DisplayName: 大型等离子涡轮 多方块结构袋
-	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
+hssg_turbine_rotor: {
+	Tooltip: ""
+	DisplayName: HSS-G涡轮转子
 }
 
-multiblock_bag_ev_large_miner: {
-	DisplayName: 大型采矿机 多方块结构袋
-	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
+hsse_turbine_rotor: {
+	Tooltip: ""
+	DisplayName: HSS-E涡轮转子
 }
 
-multiblock_bag_iv_large_miner: {
-	DisplayName: 进阶大型采矿机 多方块结构袋
-	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
+cobalt_brass_turbine_rotor: {
+	Tooltip: ""
+	DisplayName: 钴黄铜涡轮转子
 }
 
-multiblock_bag_luv_large_miner: {
-	DisplayName: 进阶大型采矿机 II 多方块结构袋
-	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
+chromium_turbine_rotor: {
+	Tooltip: ""
+	DisplayName: 铬涡轮转子
 }
 
-multiblock_bag_mv_fluid_drilling_rig: {
-	DisplayName: 流体钻机 多方块结构袋
-	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
+bronze_turbine_rotor: {
+	Tooltip: ""
+	DisplayName: 青铜涡轮转子
 }
 
-multiblock_bag_hv_fluid_drilling_rig: {
-	DisplayName: 进阶流体钻机 多方块结构袋
-	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
+brass_turbine_rotor: {
+	Tooltip: ""
+	DisplayName: 黄铜涡轮转子
 }
 
-multiblock_bag_ev_fluid_drilling_rig: {
-	DisplayName: 进阶流体钻机 II 多方块结构袋
-	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
+black_bronze_turbine_rotor: {
+	Tooltip: ""
+	DisplayName: 黑青铜涡轮转子
 }
 
-multiblock_bag_luv_fusion_reactor: {
-	DisplayName: 聚变反应堆 Mk I 多方块结构袋
-	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
+bismuth_bronze_turbine_rotor: {
+	Tooltip: ""
+	DisplayName: 铋青铜涡轮转子
 }
 
-multiblock_bag_zpm_fusion_reactor: {
-	DisplayName: 聚变反应堆 Mk II 多方块结构袋
-	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
-}
-
-multiblock_bag_uv_fusion_reactor: {
-	DisplayName: 聚变反应堆 Mk III 多方块结构袋
-	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
-}
-
-multiblock_bag_active_transformer: {
-	DisplayName: 有源变压器 多方块结构袋
-	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
-}
-
-multiblock_bag_power_substation: {
-	DisplayName: 变电站 多方块结构袋
-	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
-}
-
-multiblock_bag_high_performance_computation_array: {
-	DisplayName: 高性能计算阵列 多方块结构袋
-	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
-}
-
-multiblock_bag_data_bank: {
-	DisplayName: 数据库 多方块结构袋
-	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
-}
-
-multiblock_bag_network_switch: {
-	DisplayName: 网络交换机 多方块结构袋
-	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
-}
-
-multiblock_bag_research_station: {
-	DisplayName: 研究站 多方块结构袋
-	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
-}
-
-multiblock_bag_large_centrifuge: {
-	DisplayName: 大型离心单元 多方块结构袋
-	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
-}
-
-multiblock_bag_large_electrolyzer: {
-	DisplayName: 大型电解室 多方块结构袋
-	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
-}
-
-multiblock_bag_large_electromagnet: {
-	DisplayName: 大型电磁体 多方块结构袋
-	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
-}
-
-multiblock_bag_large_packer: {
-	DisplayName: 大型包装机 多方块结构袋
-	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
-}
-
-multiblock_bag_large_assembler: {
-	DisplayName: 大型组装工厂 多方块结构袋
-	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
-}
-
-multiblock_bag_large_circuit_assembler: {
-	DisplayName: 大型电路组装设施 多方块结构袋
-	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
-}
-
-multiblock_bag_large_arc_smelter: {
-	DisplayName: 大型电弧炉 多方块结构袋
-	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
-}
-
-multiblock_bag_large_engraving_laser: {
-	DisplayName: 大型蚀刻激光器 多方块结构袋
-	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
-}
-
-multiblock_bag_large_sifting_funnel: {
-	DisplayName: 大型筛选漏斗 多方块结构袋
-	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
-}
-
-multiblock_bag_large_material_press: {
-	DisplayName: 大型材料压机 多方块结构袋
-	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
-}
-
-multiblock_bag_large_brewer: {
-	DisplayName: 大型酿造桶 多方块结构袋
-	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
-}
-
-multiblock_bag_large_cutter: {
-	DisplayName: 大型切割锯 多方块结构袋
-	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
-}
-
-multiblock_bag_large_extractor: {
-	DisplayName: 大型提取机 多方块结构袋
-	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
-}
-
-multiblock_bag_large_extruder: {
-	DisplayName: 大型挤压机 多方块结构袋
-	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
-}
-
-multiblock_bag_large_solidifier: {
-	DisplayName: 大型固化阵列 多方块结构袋
-	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
-}
-
-multiblock_bag_large_wiremill: {
-	DisplayName: 大型线材工厂 多方块结构袋
-	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
-}
-
-multiblock_bag_large_chemical_bath: {
-	DisplayName: 大型化学浸洗机 多方块结构袋
-	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
-}
-
-multiblock_bag_large_maceration_tower: {
-	DisplayName: 大型研磨塔 多方块结构袋
-	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
-}
-
-multiblock_bag_large_mixer: {
-	DisplayName: 大型搅拌容器 多方块结构袋
-	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
-}
-
-multiblock_bag_mega_vacuum_freezer: {
-	DisplayName: 批量急冷器 多方块结构袋
-	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
-}
-
-multiblock_bag_multi_smelter: {
-	DisplayName: 多方块熔炉 多方块结构袋
-	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
-}
-
-multiblock_bag_pyrolyse_oven: {
-	DisplayName: 热解炉 多方块结构袋
-	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
-}
-
-multiblock_bag_cracker: {
-	DisplayName: 裂化单元 多方块结构袋
-	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
-}
-
-multiblock_bag_alloy_blast_smelter: {
-	DisplayName: 合金冶炼炉 多方块结构袋
-	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
-}
-
-multiblock_bag_mega_blast_furnace: {
-	DisplayName: 回转膛式炉 多方块结构袋
-	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
-}
-
-multiblock_bag_wooden_multiblock_tank: {
-	DisplayName: 木制多方块储罐 多方块结构袋
-	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
-}
-
-multiblock_bag_bronze_multiblock_tank: {
-	DisplayName: 青铜多方块储罐 多方块结构袋
-	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
-}
-
-multiblock_bag_steel_multiblock_tank: {
-	DisplayName: 钢制多方块储罐 多方块结构袋
-	Tooltip: 右击打开 - 投出组装此多方块结构所需的部件。
-}
-
-simple_item_pipe_small: {
-	DisplayName: 小型简易物品管道
-	// Tooltip: ""
-}
-
-simple_item_pipe_large: {
-	DisplayName: 大型简易物品管道
-	// Tooltip: ""
-}
-
-simple_item_pipe_huge: {
-	DisplayName: 巨型简易物品管道
-	// Tooltip: ""
-}
-
-simple_fluid_pipe_tiny: {
-	DisplayName: 微型简易流体管道
-	// Tooltip: ""
-}
-
-simple_fluid_pipe_small: {
-	DisplayName: 小型简易流体管道
-	// Tooltip: ""
-}
-
-simple_fluid_pipe_large: {
-	DisplayName: 大型简易流体管道
-	// Tooltip: ""
-}
-
-simple_fluid_pipe_huge: {
-	// DisplayName: 巨型简易流体管道
-	// Tooltip: ""
-}
-
-pipe_intersection: {
-	// DisplayName: 管道交叉器
-	// Tooltip: ""
+aluminium_turbine_rotor: {
+	Tooltip: ""
+	DisplayName: 铝涡轮转子
 }
 
 ultimate_manual: {
-	// Tooltip: ""
-	// DisplayName: Ultimate Manual Crafting Station
+	Tooltip: ""
+	DisplayName: 终极手动合成站
 }
 
 manual_crowbar: {
-	// Tooltip: ""
-	// DisplayName: Manual Crowbar Crafting Station
+	Tooltip: ""
+	DisplayName: 手动撬棍合成站
 }
 
 manual_mortar: {
-	// Tooltip: ""
-	// DisplayName: Manual Mortar Crafting Station
+	Tooltip: ""
+	DisplayName: 手动研钵合成站
 }
 
 manual_wire_cutter: {
-	// Tooltip: ""
-	// DisplayName: Manual Wire Cutter Crafting Station
+	Tooltip: ""
+	DisplayName: 手动剪线钳合成站
 }
 
 manual_screwdriver: {
-	// Tooltip: ""
-	// DisplayName: Manual Screwdriver Crafting Station
+	Tooltip: ""
+	DisplayName: 手动螺丝刀合成站
 }
 
 manual_wrench: {
-	// Tooltip: ""
-	// DisplayName: Manual Wrench Crafting Station
+	Tooltip: ""
+	DisplayName: 手动扳手合成站
 }
 
 manual_saw: {
-	// Tooltip: ""
-	// DisplayName: Manual Saw Crafting Station
+	Tooltip: ""
+	DisplayName: 手动锯合成站
 }
 
 manual_file: {
-	// Tooltip: ""
-	// DisplayName: Manual File Crafting Station
+	Tooltip: ""
+	DisplayName: 手动锉合成站
 }
 
 manual_knife: {
-	// Tooltip: ""
-	// DisplayName: Manual Knife Crafting Station
+	Tooltip: ""
+	DisplayName: 手动刀合成站
 }
 
 manual_mallet: {
-	// Tooltip: ""
-	// DisplayName: Manual Mallet Crafting Station
+	Tooltip: ""
+	DisplayName: 手动软锤合成站
 }
 
 manual_hammer: {
-	// Tooltip: ""
-	// DisplayName: Manual Hammer Crafting Station
+	Tooltip: ""
+	DisplayName: 手动锻造锤合成站
+}
+
+rubber_wood: {
+	Tooltip: ""
+	DisplayName: 橡胶木
+}
+
+max_4096a_laser_source_hatch: {
+	Tooltip: ""
+	DisplayName: 4096A 极限激光源仓
+}
+
+max_4096a_laser_target_hatch: {
+	Tooltip: ""
+	DisplayName: 4096A 极限激光靶仓
+}
+
+max_1024a_laser_source_hatch: {
+	Tooltip: ""
+	DisplayName: 1024A 极限激光源仓
+}
+
+max_1024a_laser_target_hatch: {
+	Tooltip: ""
+	DisplayName: 1024A 极限激光靶仓
+}
+
+max_256a_laser_source_hatch: {
+	Tooltip: ""
+	DisplayName: 256A 极限激光源仓
+}
+
+max_256a_laser_target_hatch: {
+	Tooltip: ""
+	DisplayName: 256A 极限激光靶仓
+}
+
+me_interface: {
+	Tooltip: ""
+	DisplayName: ME接口
+}
+
+me_pattern_provider: {
+	Tooltip: ""
+	DisplayName: ME样板供应器
+}
+
+me_modular_terminal: {
+	Tooltip: ""
+	DisplayName: ME终端
+}
+
+quantum_computer: {
+	Tooltip: ""
+	DisplayName: 量子计算机
+}
+
+me_storage: {
+	Tooltip: ""
+	DisplayName: ME存储
+}
+
+ev_miner: {
+	Tooltip: ""
+	DisplayName: EV 采矿机
+}
+
+zpm_block_breaker: {
+	Tooltip: ""
+	DisplayName: 精英方块破坏器III
+}
+
+luv_block_breaker: {
+	Tooltip: ""
+	DisplayName: 精英方块破坏器II
+}
+
+iv_block_breaker: {
+	Tooltip: ""
+	DisplayName: 精英方块破坏器
+}
+
+max_lamp: {
+	Tooltip: ""
+	DisplayName: 极限灯
+}
+
+opv_lamp: {
+	Tooltip: ""
+	DisplayName: 传奇灯
+}
+
+uxv_lamp: {
+	Tooltip: ""
+	DisplayName: 史诗灯IV
+}
+
+uiv_lamp: {
+	Tooltip: ""
+	DisplayName: 史诗灯III
+}
+
+uev_lamp: {
+	Tooltip: ""
+	DisplayName: 史诗灯II
+}
+
+uhv_lamp: {
+	Tooltip: ""
+	DisplayName: 史诗灯
+}
+
+uv_lamp: {
+	Tooltip: ""
+	DisplayName: 终极灯
+}
+
+zpm_lamp: {
+	Tooltip: ""
+	DisplayName: 精英灯III
+}
+
+luv_lamp: {
+	Tooltip: ""
+	DisplayName: 精英灯II
+}
+
+iv_lamp: {
+	Tooltip: ""
+	DisplayName: 精英灯
+}
+
+ev_lamp: {
+	Tooltip: ""
+	DisplayName: 进阶灯III
+}
+
+hv_lamp: {
+	Tooltip: ""
+	DisplayName: 进阶灯II
+}
+
+mv_lamp: {
+	Tooltip: ""
+	DisplayName: 进阶灯
+}
+
+lv_lamp: {
+	Tooltip: ""
+	DisplayName: 基础灯
+}
+
+ulv_lamp: {
+	Tooltip: ""
+	DisplayName: 原始灯
+}
+
+max_solar_panel_machine: {
+	Tooltip: ""
+	DisplayName: 极限太阳能板
+}
+
+opv_solar_panel_machine: {
+	Tooltip: ""
+	DisplayName: 传奇太阳能板
+}
+
+uxv_solar_panel_machine: {
+	Tooltip: ""
+	DisplayName: 史诗太阳能板IV
+}
+
+uiv_solar_panel_machine: {
+	Tooltip: ""
+	DisplayName: 史诗太阳能板III
+}
+
+uev_solar_panel_machine: {
+	Tooltip: ""
+	DisplayName: 史诗太阳能板II
+}
+
+uhv_solar_panel_machine: {
+	Tooltip: ""
+	DisplayName: 史诗太阳能板
+}
+
+uv_solar_panel_machine: {
+	Tooltip: ""
+	DisplayName: 终极太阳能板
+}
+
+zpm_solar_panel_machine: {
+	Tooltip: ""
+	DisplayName: 精英太阳能板III
+}
+
+luv_solar_panel_machine: {
+	Tooltip: ""
+	DisplayName: 精英太阳能板II
+}
+
+iv_solar_panel_machine: {
+	Tooltip: ""
+	DisplayName: 精英太阳能板
+}
+
+ev_solar_panel_machine: {
+	Tooltip: ""
+	DisplayName: 进阶太阳能板III
+}
+
+hv_solar_panel_machine: {
+	Tooltip: ""
+	DisplayName: 进阶太阳能板II
+}
+
+mv_solar_panel_machine: {
+	Tooltip: ""
+	DisplayName: 进阶太阳能板
+}
+
+lv_solar_panel_machine: {
+	Tooltip: ""
+	DisplayName: 基础太阳能板
+}
+
+ulv_solar_panel_machine: {
+	Tooltip: ""
+	DisplayName: 原始太阳能板
+}
+
+max_steam_turbine: {
+	Tooltip: ""
+	DisplayName: 极限蒸汽轮机
+}
+
+opv_steam_turbine: {
+	Tooltip: ""
+	DisplayName: 传奇蒸汽轮机
+}
+
+uxv_steam_turbine: {
+	Tooltip: ""
+	DisplayName: 史诗蒸汽轮机IV
+}
+
+uiv_steam_turbine: {
+	Tooltip: ""
+	DisplayName: 史诗蒸汽轮机III
+}
+
+uev_steam_turbine: {
+	Tooltip: ""
+	DisplayName: 史诗蒸汽轮机II
+}
+
+uhv_steam_turbine: {
+	Tooltip: ""
+	DisplayName: 史诗蒸汽轮机
+}
+
+uv_steam_turbine: {
+	Tooltip: ""
+	DisplayName: 终极蒸汽轮机
+}
+
+zpm_steam_turbine: {
+	Tooltip: ""
+	DisplayName: 精英蒸汽轮机III
+}
+
+luv_steam_turbine: {
+	Tooltip: ""
+	DisplayName: 精英蒸汽轮机II
+}
+
+iv_steam_turbine: {
+	Tooltip: ""
+	DisplayName: 精英蒸汽轮机
+}
+
+ev_steam_turbine: {
+	Tooltip: ""
+	DisplayName: 进阶蒸汽轮机III
+}
+
+ulv_steam_turbine: {
+	Tooltip: ""
+	DisplayName: 原始蒸汽轮机
+}
+
+max_circuit_assembler: {
+	Tooltip: ""
+	DisplayName: 极限电路组装机
+}
+
+ulv_circuit_assembler: {
+	Tooltip: ""
+	DisplayName: 原始电路组装机
+}
+
+max_forming_press: {
+	Tooltip: ""
+	DisplayName: 极限冲压机床
+}
+
+ulv_forming_press: {
+	Tooltip: ""
+	DisplayName: 原始冲压机床
+}
+
+max_assembler: {
+	Tooltip: ""
+	DisplayName: 极限组装机
+}
+
+ulv_assembler: {
+	Tooltip: ""
+	DisplayName: 原始组装机
+}
+
+max_canner: {
+	Tooltip: ""
+	DisplayName: 极限装罐机
+}
+
+ulv_canner: {
+	Tooltip: ""
+	DisplayName: 原始装罐机
+}
+
+max_fermenter: {
+	Tooltip: ""
+	DisplayName: 极限发酵槽
+}
+
+ulv_fermenter: {
+	Tooltip: ""
+	DisplayName: 原始发酵槽
+}
+
+max_fluid_heater: {
+	Tooltip: ""
+	DisplayName: 极限流体加热器
+}
+
+ulv_fluid_heater: {
+	Tooltip: ""
+	DisplayName: 原始流体加热器
+}
+
+max_chemical_bath: {
+	Tooltip: ""
+	DisplayName: 极限化学浸洗机
+}
+
+ulv_chemical_bath: {
+	Tooltip: ""
+	DisplayName: 原始化学浸洗机
+}
+
+max_ore_washer: {
+	Tooltip: ""
+	DisplayName: 极限洗矿厂
+}
+
+ulv_ore_washer: {
+	Tooltip: ""
+	DisplayName: 原始洗矿厂
+}
+
+max_autoclave: {
+	Tooltip: ""
+	DisplayName: 极限高压釜
+}
+
+ulv_autoclave: {
+	Tooltip: ""
+	DisplayName: 原始高压釜
+}
+
+max_mixer: {
+	Tooltip: ""
+	DisplayName: 极限搅拌机
+}
+
+ulv_mixer: {
+	Tooltip: ""
+	DisplayName: 原始搅拌机
+}
+
+max_distillery: {
+	Tooltip: ""
+	DisplayName: 极限蒸馏室
+}
+
+ulv_distillery: {
+	Tooltip: ""
+	DisplayName: 原始蒸馏室
+}
+
+max_rock_crusher: {
+	Tooltip: ""
+	DisplayName: 极限碎岩机
+}
+
+ulv_rock_crusher: {
+	Tooltip: ""
+	DisplayName: 原始碎岩机
+}
+
+max_electric_furnace: {
+	Tooltip: ""
+	DisplayName: 极限电炉
+}
+
+ulv_electric_furnace: {
+	Tooltip: ""
+	DisplayName: 原始电炉
+}
+
+max_air_scrubber: {
+	Tooltip: ""
+	DisplayName: 极限空气净化器
+}
+
+opv_air_scrubber: {
+	Tooltip: ""
+	DisplayName: 传奇空气净化器
+}
+
+uxv_air_scrubber: {
+	Tooltip: ""
+	DisplayName: 史诗空气净化器IV
+}
+
+uiv_air_scrubber: {
+	Tooltip: ""
+	DisplayName: 史诗空气净化器III
+}
+
+uev_air_scrubber: {
+	Tooltip: ""
+	DisplayName: 史诗空气净化器II
+}
+
+uhv_air_scrubber: {
+	Tooltip: ""
+	DisplayName: 史诗空气净化器
+}
+
+uv_air_scrubber: {
+	Tooltip: ""
+	DisplayName: 终极空气净化器
+}
+
+zpm_air_scrubber: {
+	Tooltip: ""
+	DisplayName: 精英空气净化器III
+}
+
+luv_air_scrubber: {
+	Tooltip: ""
+	DisplayName: 精英空气净化器II
+}
+
+iv_air_scrubber: {
+	Tooltip: ""
+	DisplayName: 精英空气净化器
+}
+
+ulv_air_scrubber: {
+	Tooltip: ""
+	DisplayName: 原始空气净化器
+}
+
+max_gas_collector: {
+	Tooltip: ""
+	DisplayName: 极限集气室
+}
+
+ulv_gas_collector: {
+	Tooltip: ""
+	DisplayName: 原始集气室
+}
+
+max_thermal_centrifuge: {
+	Tooltip: ""
+	DisplayName: 极限热力离心机
+}
+
+ulv_thermal_centrifuge: {
+	Tooltip: ""
+	DisplayName: 原始热力离心机
+}
+
+max_sifter: {
+	Tooltip: ""
+	DisplayName: 极限筛选机
+}
+
+ulv_sifter: {
+	Tooltip: ""
+	DisplayName: 原始筛选机
+}
+
+max_laser_engraver: {
+	Tooltip: ""
+	DisplayName: 极限激光蚀刻机
+}
+
+ulv_laser_engraver: {
+	Tooltip: ""
+	DisplayName: 原始激光蚀刻机
+}
+
+max_scanner: {
+	Tooltip: ""
+	DisplayName: 极限扫描仪
+}
+
+ulv_scanner: {
+	Tooltip: ""
+	DisplayName: 原始扫描仪
+}
+
+max_extruder: {
+	Tooltip: ""
+	DisplayName: 极限压模器
+}
+
+ulv_extruder: {
+	Tooltip: ""
+	DisplayName: 原始压模器
+}
+
+max_cutter: {
+	Tooltip: ""
+	DisplayName: 极限切割机
+}
+
+ulv_cutter: {
+	Tooltip: ""
+	DisplayName: 原始切割机
+}
+
+max_arc_furnace: {
+	Tooltip: ""
+	DisplayName: 极限电弧炉
+}
+
+ulv_arc_furnace: {
+	Tooltip: ""
+	DisplayName: 原始电弧炉
+}
+
+max_centrifuge: {
+	Tooltip: ""
+	DisplayName: 极限离心机
+}
+
+ulv_centrifuge: {
+	Tooltip: ""
+	DisplayName: 原始离心机
+}
+
+max_electrolyzer: {
+	Tooltip: ""
+	DisplayName: 极限电解机
+}
+
+ulv_electrolyzer: {
+	Tooltip: ""
+	DisplayName: 原始电解机
+}
+
+max_chemical_reactor: {
+	Tooltip: ""
+	DisplayName: 极限化学反应釜
+}
+
+ulv_chemical_reactor: {
+	Tooltip: ""
+	DisplayName: 原始化学反应釜
+}
+
+max_fluid_solidifier: {
+	Tooltip: ""
+	DisplayName: 极限流体固化器
+}
+
+ulv_fluid_solidifier: {
+	Tooltip: ""
+	DisplayName: 原始流体固化器
+}
+
+max_packer: {
+	Tooltip: ""
+	DisplayName: 极限打包机
+}
+
+ulv_packer: {
+	Tooltip: ""
+	DisplayName: 原始打包机
+}
+
+max_electromagnetic_separator: {
+	Tooltip: ""
+	DisplayName: 极限电磁选矿机
+}
+
+ulv_electromagnetic_separator: {
+	Tooltip: ""
+	DisplayName: 原始电磁选矿机
+}
+
+max_wiremill: {
+	Tooltip: ""
+	DisplayName: 极限线材轧机
+}
+
+ulv_wiremill: {
+	Tooltip: ""
+	DisplayName: 原始线材轧机
+}
+
+max_polarizer: {
+	Tooltip: ""
+	DisplayName: 极限两极磁化机
+}
+
+ulv_polarizer: {
+	Tooltip: ""
+	DisplayName: 原始两极磁化机
+}
+
+max_lathe: {
+	Tooltip: ""
+	DisplayName: 极限车床
+}
+
+ulv_lathe: {
+	Tooltip: ""
+	DisplayName: 原始车床
+}
+
+max_bender: {
+	Tooltip: ""
+	DisplayName: 极限卷板机
+}
+
+ulv_bender: {
+	Tooltip: ""
+	DisplayName: 原始卷板机
+}
+
+max_forge_hammer: {
+	Tooltip: ""
+	DisplayName: 极限锻造锤
+}
+
+ulv_forge_hammer: {
+	Tooltip: ""
+	DisplayName: 原始锻造锤
+}
+
+max_extractor: {
+	Tooltip: ""
+	DisplayName: 极限提取机
+}
+
+ulv_extractor: {
+	Tooltip: ""
+	DisplayName: 原始提取机
+}
+
+max_compressor: {
+	Tooltip: ""
+	DisplayName: 极限压缩机
+}
+
+ulv_compressor: {
+	Tooltip: ""
+	DisplayName: 原始压缩机
+}
+
+max_brewery: {
+	Tooltip: ""
+	DisplayName: 极限酿造室
+}
+
+ulv_brewery: {
+	Tooltip: ""
+	DisplayName: 原始酿造室
+}
+
+max_alloy_smelter: {
+	Tooltip: ""
+	DisplayName: 极限合金炉
+}
+
+ulv_alloy_smelter: {
+	Tooltip: ""
+	DisplayName: 原始合金炉
+}
+
+max_macerator: {
+	Tooltip: ""
+	DisplayName: 极限研磨机
+}
+
+ulv_macerator: {
+	Tooltip: ""
+	DisplayName: 原始研磨机
+}
+
+overclocked_gregith: {
+	Tooltip: ""
+	DisplayName: Overclocked剑
+}
+
+wrought_iron_gregith: {
+	Tooltip: ""
+	DisplayName: 锻铁剑
+}
+
+vanadium_steel_gregith: {
+	Tooltip: ""
+	DisplayName: 钒钢剑
+}
+
+ultimet_gregith: {
+	Tooltip: ""
+	DisplayName: 耐高温合金剑
+}
+
+tungsten_steel_gregith: {
+	Tooltip: ""
+	DisplayName: 钨钢剑
+}
+
+tungsten_carbide_gregith: {
+	Tooltip: ""
+	DisplayName: 碳化钨剑
+}
+
+titanium_gregith: {
+	Tooltip: ""
+	DisplayName: 钛剑
+}
+
+sterling_silver_gregith: {
+	Tooltip: ""
+	DisplayName: 斯特林银剑
+}
+
+steel_gregith: {
+	Tooltip: ""
+	DisplayName: 钢剑
+}
+
+stainless_steel_gregith: {
+	Tooltip: ""
+	DisplayName: 不锈钢剑
+}
+
+rose_gold_gregith: {
+	Tooltip: ""
+	DisplayName: 玫瑰金剑
+}
+
+red_steel_gregith: {
+	Tooltip: ""
+	DisplayName: 红钢剑
+}
+
+neutronium_gregith: {
+	Tooltip: ""
+	DisplayName: 中子素剑
+}
+
+naquadah_alloy_gregith: {
+	Tooltip: ""
+	DisplayName: 硅岩合金剑
+}
+
+iron_gregith: {
+	Tooltip: ""
+	DisplayName: 铁剑
+}
+
+invar_gregith: {
+	Tooltip: ""
+	DisplayName: 殷钢剑
+}
+
+hsse_gregith: {
+	Tooltip: ""
+	DisplayName: HSS-E剑
+}
+
+duranium_gregith: {
+	Tooltip: ""
+	DisplayName: 铿铀剑
+}
+
+diamond_gregith: {
+	Tooltip: ""
+	DisplayName: 钻石剑
+}
+
+damascus_steel_gregith: {
+	Tooltip: ""
+	DisplayName: 大马士革钢剑
+}
+
+cobalt_brass_gregith: {
+	Tooltip: ""
+	DisplayName: 钴黄铜剑
+}
+
+bronze_gregith: {
+	Tooltip: ""
+	DisplayName: 青铜剑
+}
+
+blue_steel_gregith: {
+	Tooltip: ""
+	DisplayName: 蓝钢剑
+}
+
+aluminium_gregith: {
+	Tooltip: ""
+	DisplayName: 铝剑
+}
+
+me_pattern_encoding_card: {
+	Tooltip: ""
+	DisplayName: 样板编码终端卡
+}
+
+me_pattern_access_card: {
+	Tooltip: ""
+	DisplayName: 样板管理终端卡
+}
+
+me_crafting_status_card: {
+	Tooltip: ""
+	DisplayName: 合成状态终端卡
+}
+
+me_crafting_card: {
+	Tooltip: ""
+	DisplayName: 合成终端卡
+}
+
+simple_fluid_pipe_huge: {
+	Tooltip: ""
+	DisplayName: 巨型简易流体管道
+}
+
+simple_fluid_pipe_large: {
+	Tooltip: ""
+	DisplayName: 大型简易流体管道
+}
+
+simple_fluid_pipe: {
+	Tooltip: ""
+	DisplayName: 简易流体管道
+}
+
+simple_fluid_pipe_small: {
+	Tooltip: ""
+	DisplayName: 小型简易流体管道
+}
+
+simple_fluid_pipe_tiny: {
+	Tooltip: ""
+	DisplayName: 微型简易流体管道
+}
+
+simple_item_pipe_huge: {
+	Tooltip: ""
+	DisplayName: 巨型简易物品管道
+}
+
+simple_item_pipe_large: {
+	Tooltip: ""
+	DisplayName: 大型简易物品管道
+}
+
+simple_item_pipe: {
+	Tooltip: ""
+	DisplayName: 简易物品管道
+}
+
+simple_item_pipe_small: {
+	Tooltip: ""
+	DisplayName: 小型简易物品管道
+}
+
+me_cable_fluix: {
+	Tooltip: ""
+	DisplayName: 福鲁伊克斯色ME线缆
+}
+
+me_cable_black: {
+	Tooltip: ""
+	DisplayName: 黑色ME线缆
+}
+
+me_cable_red: {
+	Tooltip: ""
+	DisplayName: 红色ME线缆
+}
+
+me_cable_green: {
+	Tooltip: ""
+	DisplayName: 绿色ME线缆
+}
+
+me_cable_brown: {
+	Tooltip: ""
+	DisplayName: 棕色ME线缆
+}
+
+me_cable_blue: {
+	Tooltip: ""
+	DisplayName: 蓝色ME线缆
+}
+
+me_cable_purple: {
+	Tooltip: ""
+	DisplayName: 紫色ME线缆
+}
+
+me_cable_cyan: {
+	Tooltip: ""
+	DisplayName: 青色ME线缆
+}
+
+me_cable_light_gray: {
+	Tooltip: ""
+	DisplayName: 淡灰色ME线缆
+}
+
+me_cable_gray: {
+	Tooltip: ""
+	DisplayName: 灰色ME线缆
+}
+
+me_cable_pink: {
+	Tooltip: ""
+	DisplayName: 粉红色ME线缆
+}
+
+me_cable_lime: {
+	Tooltip: ""
+	DisplayName: 黄绿色ME线缆
+}
+
+me_cable_yellow: {
+	Tooltip: ""
+	DisplayName: 黄色ME线缆
+}
+
+me_cable_light_blue: {
+	Tooltip: ""
+	DisplayName: 淡蓝色ME线缆
+}
+
+me_cable_magenta: {
+	Tooltip: ""
+	DisplayName: 品红色ME线缆
+}
+
+me_cable_orange: {
+	Tooltip: ""
+	DisplayName: 橙色ME线缆
+}
+
+me_cable_white: {
+	Tooltip: ""
+	DisplayName: 白色ME线缆
 }
 
 luminite_superconductor_hex: {
-	// Tooltip: ""
-	// DisplayName: UV Luminite Superconductor Hex Wire
+	Tooltip: ""
+	DisplayName: 6x夜明超导体线缆（UV）
 }
 
 luminite_superconductor_octal: {
-	// Tooltip: ""
-	// DisplayName: UV Luminite Superconductor Octal Wire
+	Tooltip: ""
+	DisplayName: 8x夜明超导体线缆（UV）
 }
 
 luminite_superconductor_quadruple: {
-	// Tooltip: ""
-	// DisplayName: UV Luminite Superconductor Quadruple Wire
+	Tooltip: ""
+	DisplayName: 4x夜明超导体线缆（UV）
 }
 
 luminite_superconductor_double: {
-	// Tooltip: ""
-	// DisplayName: UV Luminite Superconductor Double Wire
+	Tooltip: ""
+	DisplayName: 2x夜明超导体线缆（UV）
 }
 
 luminite_superconductor_single: {
-	// Tooltip: ""
-	// DisplayName: UV Luminite Superconductor Wire
+	Tooltip: ""
+	DisplayName: 1x夜明超导体线缆（UV）
 }
 
 shroomite_superconductor_hex: {
-	// Tooltip: ""
-	// DisplayName: ZPM Shroomite Superconductor Hex Wire
+	Tooltip: ""
+	DisplayName: 6x蘑菇超导体线缆（ZPM）
 }
 
 shroomite_superconductor_octal: {
-	// Tooltip: ""
-	// DisplayName: ZPM Shroomite Superconductor Octal Wire
+	Tooltip: ""
+	DisplayName: 8x蘑菇超导体线缆（ZPM）
 }
 
 shroomite_superconductor_quadruple: {
-	// Tooltip: ""
-	// DisplayName: ZPM Shroomite Superconductor Quadruple Wire
+	Tooltip: ""
+	DisplayName: 4x蘑菇超导体线缆（ZPM）
 }
 
 shroomite_superconductor_double: {
-	// Tooltip: ""
-	// DisplayName: ZPM Shroomite Superconductor Double Wire
+	Tooltip: ""
+	DisplayName: 2x蘑菇超导体线缆（ZPM）
 }
 
 shroomite_superconductor_single: {
-	// Tooltip: ""
-	// DisplayName: ZPM Shroomite Superconductor Wire
+	Tooltip: ""
+	DisplayName: 1x蘑菇超导体线缆（ZPM）
 }
 
 spectre_superconductor_hex: {
-	// Tooltip: ""
-	// DisplayName: LuV Spectre Superconductor Hex Wire
+	Tooltip: ""
+	DisplayName: 6x幽灵超导体线缆（LuV）
 }
 
 spectre_superconductor_octal: {
-	// Tooltip: ""
-	// DisplayName: LuV Spectre Superconductor Octal Wire
+	Tooltip: ""
+	DisplayName: 8x幽灵超导体线缆（LuV）
 }
 
 spectre_superconductor_quadruple: {
-	// Tooltip: ""
-	// DisplayName: LuV Spectre Superconductor Quadruple Wire
+	Tooltip: ""
+	DisplayName: 4x幽灵超导体线缆（LuV）
 }
 
 spectre_superconductor_double: {
-	// Tooltip: ""
-	// DisplayName: LuV Spectre Superconductor Double Wire
+	Tooltip: ""
+	DisplayName: 2x幽灵超导体线缆（LuV）
 }
 
 spectre_superconductor_single: {
-	// Tooltip: ""
-	// DisplayName: LuV Spectre Superconductor Wire
+	Tooltip: ""
+	DisplayName: 1x幽灵超导体线缆（LuV）
 }
 
 chlorophyte_superconductor_hex: {
-	// Tooltip: ""
-	// DisplayName: IV Chlorophyte Superconductor Hex Wire
+	Tooltip: ""
+	DisplayName: 6x叶绿超导体线缆（IV）
 }
 
 chlorophyte_superconductor_octal: {
-	// Tooltip: ""
-	// DisplayName: IV Chlorophyte Superconductor Octal Wire
+	Tooltip: ""
+	DisplayName: 8x叶绿超导体线缆（IV）
 }
 
 chlorophyte_superconductor_quadruple: {
-	// Tooltip: ""
-	// DisplayName: IV Chlorophyte Superconductor Quadruple Wire
+	Tooltip: ""
+	DisplayName: 4x叶绿超导体线缆（IV）
 }
 
 chlorophyte_superconductor_double: {
-	// Tooltip: ""
-	// DisplayName: IV Chlorophyte Superconductor Double Wire
+	Tooltip: ""
+	DisplayName: 2x叶绿超导体线缆（IV）
 }
 
 chlorophyte_superconductor_single: {
-	// Tooltip: ""
-	// DisplayName: IV Chlorophyte Superconductor Wire
+	Tooltip: ""
+	DisplayName: 1x叶绿超导体线缆（IV）
 }
 
 hallowed_superconductor_hex: {
-	// Tooltip: ""
-	// DisplayName: EV Hallowed Superconductor Hex Wire
+	Tooltip: ""
+	DisplayName: 6x神圣超导体线缆（EV）
 }
 
 hallowed_superconductor_octal: {
-	// Tooltip: ""
-	// DisplayName: EV Hallowed Superconductor Octal Wire
+	Tooltip: ""
+	DisplayName: 8x神圣超导体线缆（EV）
 }
 
 hallowed_superconductor_quadruple: {
-	// Tooltip: ""
-	// DisplayName: EV Hallowed Superconductor Quadruple Wire
+	Tooltip: ""
+	DisplayName: 4x神圣超导体线缆（EV）
 }
 
 hallowed_superconductor_double: {
-	// Tooltip: ""
-	// DisplayName: EV Hallowed Superconductor Double Wire
+	Tooltip: ""
+	DisplayName: 2x神圣超导体线缆（EV）
 }
 
 hallowed_superconductor_single: {
-	// Tooltip: ""
-	// DisplayName: EV Hallowed Superconductor Wire
+	Tooltip: ""
+	DisplayName: 1x神圣超导体线缆（EV）
 }
 
 hellstone_superconductor_hex: {
-	// Tooltip: ""
-	// DisplayName: HV Hellstone Superconductor Hex Wire
+	Tooltip: ""
+	DisplayName: 6x狱石超导体线缆（HV）
 }
 
 hellstone_superconductor_octal: {
-	// Tooltip: ""
-	// DisplayName: HV Hellstone Superconductor Octal Wire
+	Tooltip: ""
+	DisplayName: 8x狱石超导体线缆（HV）
 }
 
 hellstone_superconductor_quadruple: {
-	// Tooltip: ""
-	// DisplayName: HV Hellstone Superconductor Quadruple Wire
+	Tooltip: ""
+	DisplayName: 4x狱石超导体线缆（HV）
 }
 
 hellstone_superconductor_double: {
-	// Tooltip: ""
-	// DisplayName: HV Hellstone Superconductor Double Wire
+	Tooltip: ""
+	DisplayName: 2x狱石超导体线缆（HV）
 }
 
 hellstone_superconductor_single: {
-	// Tooltip: ""
-	// DisplayName: HV Hellstone Superconductor Wire
+	Tooltip: ""
+	DisplayName: 1x狱石超导体线缆（HV）
 }
 
 meteorite_superconductor_hex: {
-	// Tooltip: ""
-	// DisplayName: MV Meteorite Superconductor Hex Wire
+	Tooltip: ""
+	DisplayName: 6x陨石超导体线缆（MV）
 }
 
 meteorite_superconductor_octal: {
-	// Tooltip: ""
-	// DisplayName: MV Meteorite Superconductor Octal Wire
+	Tooltip: ""
+	DisplayName: 8x陨石超导体线缆（MV）
 }
 
 meteorite_superconductor_quadruple: {
-	// Tooltip: ""
-	// DisplayName: MV Meteorite Superconductor Quadruple Wire
+	Tooltip: ""
+	DisplayName: 4x陨石超导体线缆（MV）
 }
 
 meteorite_superconductor_double: {
-	// Tooltip: ""
-	// DisplayName: MV Meteorite Superconductor Double Wire
+	Tooltip: ""
+	DisplayName: 2x陨石超导体线缆（MV）
 }
 
 meteorite_superconductor_single: {
-	// Tooltip: ""
-	// DisplayName: MV Meteorite Superconductor Wire
+	Tooltip: ""
+	DisplayName: 1x陨石超导体线缆（MV）
 }
 
 evil_superconductor_hex: {
-	// Tooltip: ""
-	// DisplayName: LV Evil Superconductor Hex Wire
+	Tooltip: ""
+	DisplayName: 6x恶魔超导体线缆（LV）
 }
 
 evil_superconductor_octal: {
-	// Tooltip: ""
-	// DisplayName: LV Evil Superconductor Octal Wire
+	Tooltip: ""
+	DisplayName: 8x恶魔超导体线缆（LV）
 }
 
 evil_superconductor_quadruple: {
-	// Tooltip: ""
-	// DisplayName: LV Evil Superconductor Quadruple Wire
+	Tooltip: ""
+	DisplayName: 4x恶魔超导体线缆（LV）
 }
 
 evil_superconductor_double: {
-	// Tooltip: ""
-	// DisplayName: LV Evil Superconductor Double Wire
+	Tooltip: ""
+	DisplayName: 2x恶魔超导体线缆（LV）
 }
 
 evil_superconductor_single: {
-	// Tooltip: ""
-	// DisplayName: LV Evil Superconductor Wire
+	Tooltip: ""
+	DisplayName: 1x恶魔超导体线缆（LV）
+}
+
+molten_zeron_100_bucket: {
+	Tooltip: ""
+	DisplayName: 熔融赛龙-100桶
+}
+
+molten_yttrium_barium_cuprate_bucket: {
+	Tooltip: ""
+	DisplayName: 熔融钇钡铜氧化物桶
+}
+
+molten_watertight_steel_bucket: {
+	Tooltip: ""
+	DisplayName: 熔融防水钢桶
+}
+
+molten_vanadium_steel_bucket: {
+	Tooltip: ""
+	DisplayName: 熔融钒钢桶
+}
+
+molten_vanadium_gallium_bucket: {
+	Tooltip: ""
+	DisplayName: 熔融钒镓合金桶
+}
+
+molten_uranium_triplatinum_bucket: {
+	Tooltip: ""
+	DisplayName: 熔融三铂化铀桶
+}
+
+molten_uranium_rhodium_dinaquadide_bucket: {
+	Tooltip: ""
+	DisplayName: 熔融铀铑硅岩合金桶
+}
+
+molten_ultimet_bucket: {
+	Tooltip: ""
+	DisplayName: 熔融哈氏合金桶
+}
+
+molten_tungsten_steel_bucket: {
+	Tooltip: ""
+	DisplayName: 熔融钨钢桶
+}
+
+molten_tungsten_carbide_bucket: {
+	Tooltip: ""
+	DisplayName: 熔融碳化钨桶
+}
+
+molten_titanium_tungsten_carbide_bucket: {
+	Tooltip: ""
+	DisplayName: 熔融碳化钛钨桶
+}
+
+molten_titanium_carbide_bucket: {
+	Tooltip: ""
+	DisplayName: 熔融碳化钛桶
+}
+
+tin_plasma_bucket: {
+	Tooltip: ""
+	DisplayName: 锡等离子桶
+}
+
+molten_tantalum_carbide_bucket: {
+	Tooltip: ""
+	DisplayName: 熔融碳化钽桶
+}
+
+molten_sterling_silver_bucket: {
+	Tooltip: ""
+	DisplayName: 熔融标准纯银桶
+}
+
+molten_stellite_100_bucket: {
+	Tooltip: ""
+	DisplayName: 熔融司太立-100桶
+}
+
+molten_stainless_steel_bucket: {
+	Tooltip: ""
+	DisplayName: 熔融不锈钢桶
+}
+
+molten_samarium_iron_arsenic_oxide_bucket: {
+	Tooltip: ""
+	DisplayName: 熔融钐铁砷氧化物桶
+}
+
+molten_ruthenium_trinium_americium_neutronate_bucket: {
+	Tooltip: ""
+	DisplayName: 熔融钌三元镅中子素氧化物桶
+}
+
+molten_ruridit_bucket: {
+	Tooltip: ""
+	DisplayName: 熔融钌铱合金桶
+}
+
+molten_rtm_alloy_bucket: {
+	Tooltip: ""
+	DisplayName: 熔融钌钨钼合金桶
+}
+
+molten_rose_gold_bucket: {
+	Tooltip: ""
+	DisplayName: 熔融玫瑰金桶
+}
+
+molten_rhodium_plated_palladium_bucket: {
+	Tooltip: ""
+	DisplayName: 熔融镀铑钯桶
+}
+
+molten_red_steel_bucket: {
+	Tooltip: ""
+	DisplayName: 熔融红钢桶
+}
+
+oxygen_plasma_bucket: {
+	Tooltip: ""
+	DisplayName: 氧等离子桶
+}
+
+liquid_oxygen_bucket: {
+	Tooltip: ""
+	DisplayName: 液态氧桶
+}
+
+molten_osmiridium_bucket: {
+	Tooltip: ""
+	DisplayName: 熔融铱锇合金桶
+}
+
+nitrogen_plasma_bucket: {
+	Tooltip: ""
+	DisplayName: 氮等离子桶
+}
+
+molten_niobium_titanium_bucket: {
+	Tooltip: ""
+	DisplayName: 熔融铌钛合金桶
+}
+
+molten_niobium_nitride_bucket: {
+	Tooltip: ""
+	DisplayName: 熔融氮化铌桶
+}
+
+nickel_plasma_bucket: {
+	Tooltip: ""
+	DisplayName: 镍等离子桶
+}
+
+molten_nichrome_bucket: {
+	Tooltip: ""
+	DisplayName: 熔融镍铬合金桶
+}
+
+molten_naquadah_alloy_bucket: {
+	Tooltip: ""
+	DisplayName: 熔融硅岩合金桶
+}
+
+molten_molybdenum_disilicide_bucket: {
+	Tooltip: ""
+	DisplayName: 熔融二硅化钼桶
+}
+
+milk_bucket: {
+	Tooltip: ""
+	DisplayName: 牛奶桶
+}
+
+molten_mercury_barium_calcium_cuprate_bucket: {
+	Tooltip: ""
+	DisplayName: 熔融汞钡钙铜氧化物桶
+}
+
+molten_maraging_steel_300_bucket: {
+	Tooltip: ""
+	DisplayName: 熔融马氏体时效钢-300桶
+}
+
+molten_manganese_phosphide_bucket: {
+	Tooltip: ""
+	DisplayName: 熔融磷化锰桶
+}
+
+molten_magnesium_diboride_bucket: {
+	Tooltip: ""
+	DisplayName: 熔融二硼化镁桶
+}
+
+molten_kanthal_bucket: {
+	Tooltip: ""
+	DisplayName: 熔融坎塔尔合金桶
+}
+
+iron_plasma_bucket: {
+	Tooltip: ""
+	DisplayName: 铁等离子桶
+}
+
+molten_indium_tin_barium_titanium_cuprate_bucket: {
+	Tooltip: ""
+	DisplayName: 熔融铟锡钡钛铜氧合金桶
+}
+
+molten_incoloy_ma_956_bucket: {
+	Tooltip: ""
+	DisplayName: 熔融耐热铬铁合金 MA-956桶
+}
+
+molten_hsss_bucket: {
+	Tooltip: ""
+	DisplayName: 熔融高速钢-S桶
+}
+
+molten_hssg_bucket: {
+	Tooltip: ""
+	DisplayName: 熔融高速钢-G桶
+}
+
+molten_hsse_bucket: {
+	Tooltip: ""
+	DisplayName: 熔融高速钢-E桶
+}
+
+molten_hsla_steel_bucket: {
+	Tooltip: ""
+	DisplayName: 熔融HSLA钢桶
+}
+
+helium_plasma_bucket: {
+	Tooltip: ""
+	DisplayName: 氦等离子桶
+}
+
+liquid_helium_bucket: {
+	Tooltip: ""
+	DisplayName: 液态氦桶
+}
+
+molten_hastelloy_x_bucket: {
+	Tooltip: ""
+	DisplayName: 熔融哈斯特洛依合金-X桶
+}
+
+molten_hastelloy_c_276_bucket: {
+	Tooltip: ""
+	DisplayName: 熔融哈斯特洛依合金 C-276桶
+}
+
+molten_gallium_arsenide_bucket: {
+	Tooltip: ""
+	DisplayName: 熔融砷化镓桶
+}
+
+molten_enriched_naquadah_trinium_europium_duranide_bucket: {
+	Tooltip: ""
+	DisplayName: 熔融富集硅岩三元铕铿铀合金桶
+}
+
+molten_blue_steel_bucket: {
+	Tooltip: ""
+	DisplayName: 熔融蓝钢桶
+}
+
+molten_black_steel_bucket: {
+	Tooltip: ""
+	DisplayName: 熔融黑钢桶
+}
+
+molten_black_bronze_bucket: {
+	Tooltip: ""
+	DisplayName: 熔融黑青铜桶
+}
+
+molten_bismuth_bronze_bucket: {
+	Tooltip: ""
+	DisplayName: 熔融铋青铜桶
+}
+
+argon_plasma_bucket: {
+	Tooltip: ""
+	DisplayName: 氩等离子桶
+}
+
+americium_plasma_bucket: {
+	Tooltip: ""
+	DisplayName: 镅等离子桶
+}
+
+money_bucket: {
+	Tooltip: ""
+	DisplayName: 液态货币桶
 }
 
 shimmer_bucket: {
-	// Tooltip: ""
-	// DisplayName: Shimmer Bucket
+	Tooltip: ""
+	DisplayName: 微光桶
 }
 
 honey_bucket: {
-	// Tooltip: ""
-	// DisplayName: Honey Bucket
+	Tooltip: ""
+	DisplayName: 蜂蜜桶
+}
+
+lava_bucket: {
+	Tooltip: ""
+	DisplayName: 熔岩桶
+}
+
+water_bucket: {
+	Tooltip: ""
+	DisplayName: 水桶
+}
+
+WrappedGenericStack: {
+	Tooltip: ""
+	DisplayName: 包裹堆叠
 }
 
 GregTechMultitool: {
-	// Tooltip: ""
-	// DisplayName: Greg Multitool
+	Tooltip: ""
+	DisplayName: 格雷多功能工具
+}
+
+pipe_intersection: {
+	Tooltip: ""
+	DisplayName: 管道交叉口
+}
+
+EncodedPatternItem: {
+	Tooltip: ""
+	DisplayName: ME样板
+}
+
+BlankPatternItem: {
+	Tooltip: ""
+	DisplayName: 空白样板
+}
+
+neon_sign: {
+	Tooltip: ""
+	DisplayName: 霓虹灯牌
+}
+
+multiblock_bag_steel_multiblock_tank: {
+	Tooltip: 右键打开——掉落搭建该多方块结构所需的部件。
+	DisplayName: 钢制多方块储罐 多方块结构袋
+}
+
+multiblock_bag_bronze_multiblock_tank: {
+	Tooltip: 右键打开——掉落搭建该多方块结构所需的部件。
+	DisplayName: 青铜多方块储罐 多方块结构袋
+}
+
+multiblock_bag_wooden_multiblock_tank: {
+	Tooltip: 右键打开——掉落搭建该多方块结构所需的部件。
+	DisplayName: 木制多方块储罐 多方块结构袋
+}
+
+multiblock_bag_mega_blast_furnace: {
+	Tooltip: 右键打开——掉落搭建该多方块结构所需的部件。
+	DisplayName: 回转膛式炉 多方块结构袋
+}
+
+multiblock_bag_alloy_blast_smelter: {
+	Tooltip: 右键打开——掉落搭建该多方块结构所需的部件。
+	DisplayName: 合金冶炼炉 多方块结构袋
+}
+
+multiblock_bag_cracker: {
+	Tooltip: 右键打开——掉落搭建该多方块结构所需的部件。
+	DisplayName: 裂化单元 多方块结构袋
+}
+
+multiblock_bag_pyrolyse_oven: {
+	Tooltip: 右键打开——掉落搭建该多方块结构所需的部件。
+	DisplayName: 热解炉 多方块结构袋
+}
+
+multiblock_bag_multi_smelter: {
+	Tooltip: 右键打开——掉落搭建该多方块结构所需的部件。
+	DisplayName: 多方块熔炉 多方块结构袋
+}
+
+multiblock_bag_mega_vacuum_freezer: {
+	Tooltip: 右键打开——掉落搭建该多方块结构所需的部件。
+	DisplayName: 批量急冷器 多方块结构袋
+}
+
+multiblock_bag_large_mixer: {
+	Tooltip: 右键打开——掉落搭建该多方块结构所需的部件。
+	DisplayName: 大型搅拌容器 多方块结构袋
+}
+
+multiblock_bag_large_maceration_tower: {
+	Tooltip: 右键打开——掉落搭建该多方块结构所需的部件。
+	DisplayName: 大型研磨塔 多方块结构袋
+}
+
+multiblock_bag_large_chemical_bath: {
+	Tooltip: 右键打开——掉落搭建该多方块结构所需的部件。
+	DisplayName: 大型化学浸洗机 多方块结构袋
+}
+
+multiblock_bag_large_wiremill: {
+	Tooltip: 右键打开——掉落搭建该多方块结构所需的部件。
+	DisplayName: 大型线材工厂 多方块结构袋
+}
+
+multiblock_bag_large_solidifier: {
+	Tooltip: 右键打开——掉落搭建该多方块结构所需的部件。
+	DisplayName: 大型固化阵列 多方块结构袋
+}
+
+multiblock_bag_large_extruder: {
+	Tooltip: 右键打开——掉落搭建该多方块结构所需的部件。
+	DisplayName: 大型挤压机 多方块结构袋
+}
+
+multiblock_bag_large_extractor: {
+	Tooltip: 右键打开——掉落搭建该多方块结构所需的部件。
+	DisplayName: 大型提取机 多方块结构袋
+}
+
+multiblock_bag_large_cutter: {
+	Tooltip: 右键打开——掉落搭建该多方块结构所需的部件。
+	DisplayName: 大型切割锯 多方块结构袋
+}
+
+multiblock_bag_large_brewer: {
+	Tooltip: 右键打开——掉落搭建该多方块结构所需的部件。
+	DisplayName: 大型酿造桶 多方块结构袋
+}
+
+multiblock_bag_large_material_press: {
+	Tooltip: 右键打开——掉落搭建该多方块结构所需的部件。
+	DisplayName: 大型材料压机 多方块结构袋
+}
+
+multiblock_bag_large_sifting_funnel: {
+	Tooltip: 右键打开——掉落搭建该多方块结构所需的部件。
+	DisplayName: 大型筛选漏斗 多方块结构袋
+}
+
+multiblock_bag_large_engraving_laser: {
+	Tooltip: 右键打开——掉落搭建该多方块结构所需的部件。
+	DisplayName: 大型蚀刻激光器 多方块结构袋
+}
+
+multiblock_bag_large_arc_smelter: {
+	Tooltip: 右键打开——掉落搭建该多方块结构所需的部件。
+	DisplayName: 大型电弧炉 多方块结构袋
+}
+
+multiblock_bag_large_circuit_assembler: {
+	Tooltip: 右键打开——掉落搭建该多方块结构所需的部件。
+	DisplayName: 大型电路组装设施 多方块结构袋
+}
+
+multiblock_bag_large_assembler: {
+	Tooltip: 右键打开——掉落搭建该多方块结构所需的部件。
+	DisplayName: 大型组装工厂 多方块结构袋
+}
+
+multiblock_bag_large_packer: {
+	Tooltip: 右键打开——掉落搭建该多方块结构所需的部件。
+	DisplayName: 大型包装机 多方块结构袋
+}
+
+multiblock_bag_large_electromagnet: {
+	Tooltip: 右键打开——掉落搭建该多方块结构所需的部件。
+	DisplayName: 大型电磁体 多方块结构袋
+}
+
+multiblock_bag_large_electrolyzer: {
+	Tooltip: 右键打开——掉落搭建该多方块结构所需的部件。
+	DisplayName: 大型电解室 多方块结构袋
+}
+
+multiblock_bag_large_centrifuge: {
+	Tooltip: 右键打开——掉落搭建该多方块结构所需的部件。
+	DisplayName: 大型离心单元 多方块结构袋
+}
+
+multiblock_bag_research_station: {
+	Tooltip: 右键打开——掉落搭建该多方块结构所需的部件。
+	DisplayName: 研究站 多方块结构袋
+}
+
+multiblock_bag_network_switch: {
+	Tooltip: 右键打开——掉落搭建该多方块结构所需的部件。
+	DisplayName: 网络交换机 多方块结构袋
+}
+
+multiblock_bag_data_bank: {
+	Tooltip: 右键打开——掉落搭建该多方块结构所需的部件。
+	DisplayName: 数据库 多方块结构袋
+}
+
+multiblock_bag_high_performance_computation_array: {
+	Tooltip: 右键打开——掉落搭建该多方块结构所需的部件。
+	DisplayName: 高性能计算阵列 多方块结构袋
+}
+
+multiblock_bag_power_substation: {
+	Tooltip: 右键打开——掉落搭建该多方块结构所需的部件。
+	DisplayName: 变电站 多方块结构袋
+}
+
+multiblock_bag_active_transformer: {
+	Tooltip: 右键打开——掉落搭建该多方块结构所需的部件。
+	DisplayName: 有源变压器 多方块结构袋
+}
+
+multiblock_bag_uv_fusion_reactor: {
+	Tooltip: 右键打开——掉落搭建该多方块结构所需的部件。
+	DisplayName: 聚变反应堆 Mk III 多方块结构袋
+}
+
+multiblock_bag_zpm_fusion_reactor: {
+	Tooltip: 右键打开——掉落搭建该多方块结构所需的部件。
+	DisplayName: 聚变反应堆 Mk II 多方块结构袋
+}
+
+multiblock_bag_luv_fusion_reactor: {
+	Tooltip: 右键打开——掉落搭建该多方块结构所需的部件。
+	DisplayName: 聚变反应堆 Mk I 多方块结构袋
+}
+
+multiblock_bag_ev_fluid_drilling_rig: {
+	Tooltip: 右键打开——掉落搭建该多方块结构所需的部件。
+	DisplayName: 进阶流体钻机 II 多方块结构袋
+}
+
+multiblock_bag_hv_fluid_drilling_rig: {
+	Tooltip: 右键打开——掉落搭建该多方块结构所需的部件。
+	DisplayName: 进阶流体钻机 多方块结构袋
+}
+
+multiblock_bag_mv_fluid_drilling_rig: {
+	Tooltip: 右键打开——掉落搭建该多方块结构所需的部件。
+	DisplayName: 流体钻机 多方块结构袋
+}
+
+multiblock_bag_luv_large_miner: {
+	Tooltip: 右键打开——掉落搭建该多方块结构所需的部件。
+	DisplayName: 进阶大型采矿机 II 多方块结构袋
+}
+
+multiblock_bag_iv_large_miner: {
+	Tooltip: 右键打开——掉落搭建该多方块结构所需的部件。
+	DisplayName: 进阶大型采矿机 多方块结构袋
+}
+
+multiblock_bag_ev_large_miner: {
+	Tooltip: 右键打开——掉落搭建该多方块结构所需的部件。
+	DisplayName: 大型采矿机 多方块结构袋
+}
+
+multiblock_bag_plasma_large_turbine: {
+	Tooltip: 右键打开——掉落搭建该多方块结构所需的部件。
+	DisplayName: 大型等离子涡轮 多方块结构袋
+}
+
+multiblock_bag_gas_large_turbine: {
+	Tooltip: 右键打开——掉落搭建该多方块结构所需的部件。
+	DisplayName: 大型燃气轮机 多方块结构袋
+}
+
+multiblock_bag_steam_large_turbine: {
+	Tooltip: 右键打开——掉落搭建该多方块结构所需的部件。
+	DisplayName: 大型蒸汽轮机 多方块结构袋
+}
+
+multiblock_bag_extreme_combustion_engine: {
+	Tooltip: 右键打开——掉落搭建该多方块结构所需的部件。
+	DisplayName: 极限内燃引擎 多方块结构袋
+}
+
+multiblock_bag_large_combustion_engine: {
+	Tooltip: 右键打开——掉落搭建该多方块结构所需的部件。
+	DisplayName: 大型内燃引擎 多方块结构袋
+}
+
+multiblock_bag_steam_oven: {
+	Tooltip: 右键打开——掉落搭建该多方块结构所需的部件。
+	DisplayName: 蒸汽烤炉 多方块结构袋
+}
+
+multiblock_bag_steam_grinder: {
+	Tooltip: 右键打开——掉落搭建该多方块结构所需的部件。
+	DisplayName: 蒸汽研磨机 多方块结构袋
+}
+
+multiblock_bag_assembly_line: {
+	Tooltip: 右键打开——掉落搭建该多方块结构所需的部件。
+	DisplayName: 装配线 多方块结构袋
+}
+
+multiblock_bag_large_distillery: {
+	Tooltip: 右键打开——掉落搭建该多方块结构所需的部件。
+	DisplayName: 大型蒸馏室 多方块结构袋
+}
+
+multiblock_bag_distillation_tower: {
+	Tooltip: 右键打开——掉落搭建该多方块结构所需的部件。
+	DisplayName: 蒸馏塔 多方块结构袋
+}
+
+multiblock_bag_large_autoclave: {
+	Tooltip: 右键打开——掉落搭建该多方块结构所需的部件。
+	DisplayName: 大型结晶室 多方块结构袋
+}
+
+multiblock_bag_implosion_compressor: {
+	Tooltip: 右键打开——掉落搭建该多方块结构所需的部件。
+	DisplayName: 聚爆压缩机 多方块结构袋
+}
+
+multiblock_bag_vacuum_freezer: {
+	Tooltip: 右键打开——掉落搭建该多方块结构所需的部件。
+	DisplayName: 真空冷冻机 多方块结构袋
+}
+
+multiblock_bag_large_chemical_reactor: {
+	Tooltip: 右键打开——掉落搭建该多方块结构所需的部件。
+	DisplayName: 大型化学反应釜 多方块结构袋
+}
+
+multiblock_bag_cleanroom: {
+	Tooltip: 右键打开——掉落搭建该多方块结构所需的部件。
+	DisplayName: 超净间 多方块结构袋
+}
+
+multiblock_bag_electric_blast_furnace: {
+	Tooltip: 右键打开——掉落搭建该多方块结构所需的部件。
+	DisplayName: 电力高炉 多方块结构袋
+}
+
+multiblock_bag_tungstensteel_large_boiler: {
+	Tooltip: 右键打开——掉落搭建该多方块结构所需的部件。
+	DisplayName: 大型钨钢锅炉 多方块结构袋
+}
+
+multiblock_bag_titanium_large_boiler: {
+	Tooltip: 右键打开——掉落搭建该多方块结构所需的部件。
+	DisplayName: 大型钛锅炉 多方块结构袋
+}
+
+multiblock_bag_steel_large_boiler: {
+	Tooltip: 右键打开——掉落搭建该多方块结构所需的部件。
+	DisplayName: 大型钢制锅炉 多方块结构袋
+}
+
+multiblock_bag_bronze_large_boiler: {
+	Tooltip: 右键打开——掉落搭建该多方块结构所需的部件。
+	DisplayName: 大型青铜锅炉 多方块结构袋
+}
+
+multiblock_bag_primitive_pump: {
+	Tooltip: 右键打开——掉落搭建该多方块结构所需的部件。
+	DisplayName: 原始水泵 多方块结构袋
+}
+
+multiblock_bag_primitive_blast_furnace: {
+	Tooltip: 右键打开——掉落搭建该多方块结构所需的部件。
+	DisplayName: 土高炉 多方块结构袋
+}
+
+multiblock_bag_coke_oven: {
+	Tooltip: 右键打开——掉落搭建该多方块结构所需的部件。
+	DisplayName: 焦炉 多方块结构袋
+}
+
+SuperStorageSystemBag: {
+	Tooltip: 提供搭建完整自动合成所需的一切。通常在LV等级左右完全可用。
+	DisplayName: 超级存储系统入门包
+}
+
+SteamAgeSkipBag: {
+	Tooltip: 右键打开。提供一套最小化的LV起步工具包。
+	DisplayName: 新手包：跳过蒸汽时代
+}
+
+SkipStoneAgeBag: {
+	Tooltip: 右键打开。一套蒸汽时代的自动采矿装置，让你跳过手动采矿。
+	DisplayName: 新手包：跳过石器时代
+}
+
+the_history_of_logistics: {
+	/* Lore:
+		'''
+		我想让人们了解物流模组的历史，因为这些人多年来一直在真实地改变我们对工厂游戏的总体设计思路（如果你细想的话，他们基本上发明了“工厂游戏”这一类型）。
+
+		（注：我通过论坛、维基等途径核查过，但可能仍存在轻微错误）
+
+		在《我的世界》的早期版本中，除了带箱子的矿车外，没有任何物流选项。
+
+		在2011年4月(MC Beta1.4)，[c/FFC94A:SpaceToad]制作了模组BuildCraft（建筑/BC），加入了物品管道，并在两个月后又加入了自动合成台。这允许玩家建造全被动式的工厂，但需要手动设定一切的传输路径。
+
+		在2011年10月(MC Beta1.8.1)，[c/FFC94A:Eloraam]将RedPower（红石力量）更新到了V2版本，并加入了基于不同原理运作的气动管道——它们可以感知目标过滤器。这种方案现在大多被现代物流模组采用，因为它能对整个管道网络进行更多控制。
+
+		在2011年11月(MC Beta1.8.1)，[c/FFC94A:Krapht]制作了Logistics Pipes（物流管道），它是BuildCraft的一个附属模组，首次加入了存储总线概念，以及带按需合成请求的存储终端。这个概念在现今大多数模组中依然存在，但大多数玩家都以为这是由AE引入的（所谓的斯蒂格勒定律）……
+
+		在2012年5月(MC 1.2.5)，[c/FFC94A:Technic team]制作了著名的整合包Tekkit Classic。这是最早将大量科技模组打包在一起的整合包之一，也因此引发了对真正通用的大规模物流解决方案的需求。顺带一提，这个移植版的开发者也正是从Tekkit的这个版本开始接触模组Minecraft的。
+
+		在2012年12月(MC 1.4.7)，[c/FFC94A:AlgorithmX2]制作了Applied Energistics（应用能源，即AE1），它标准化了存储终端和样板编码/样板供应终端，此后这一基本结构几乎没有太大改变。添加新配方的自动合成只需要几次点击，也由此催生了后来一系列围绕复杂微加工为核心的模组。
+
+		在2013年3月(MC 1.5)，漏斗被加入到了原版《我的世界》中（其灵感很可能来源于[c/FFC94A:FlowerChild]制作的模组Better Than Wolves（比狼好））。
+
+		在2013年8月(MC 1.6.4)，[c/FFC94A:CrazyPants]发布了模组Ender IO（末影接口），它支持非常紧凑的配置，你可以将多个管道放在同一格内。它是（与AE并驾齐驱）最早不再纠结于实际物品传输，而是在逻辑层面上直接连接输入输出的模组之一。时至今日，它依然是处理本地子系统自动化最方便的途径之一。
+
+		在2014年3月(MC 1.7.2)，[c/FFC94A:AlgorithmX2]发布了Applied Energistics 2（应用能源2，即AE2），这是一次全面的重写，加入了频道、点对点传输(P2P)和合成规划功能。此时，AE2已经与当时95%的科技模组包完成整合。同年9月，[c/FFC94A:AlgorithmX2]将AE2开源后便离开了，此后由[c/FFC94A:yueh]、[c/FFC94A:thatsIch]等人持续开发，并更新到新版本。
+
+		现在是2026年，可以明显看出AE2在物流军备竞赛中脱颖而出，形成了自己独特的游戏风格，至今依然非常受欢迎。有些模组甚至明确围绕AE2提供的功能来设计玩法。这十年来已经证明，AE/物流管道在理念上是一个绝佳的设计，目前确实也没有其他替代方案能达到如此强大和普及的程度。
+
+		还有一些其他内容在一定程度影响了Minecraft的物流，比如：
+
+		[c/FFC94A:Feanorith]制作的MineFactory(2011)和[c/FFC94A:BluSunrize]发布的沉浸工程(Immersive Engineering，2015)引入了传送带，能够运送物理实体，但在机械动力出现之前一直没有真正流行起来。
+
+		[c/FFC94A:aidancbrady]制作的Mekanism(2012)是最早能够统一传输全部3种主要物质形态（物品、液体、气体）的模组之一。
+
+		[c/FFC94A:Vswe]制作的史蒂夫工厂管理(Steve's Factory Manager，2013)（/SFM）允许通过节点图实现可编程的物流控制。
+
+		[c/FFC94A:Team CoFH]制作的热力膨胀(Thermal Expansion, 2013)促使了大量模组概念及其交互机制的标准化。
+
+		[c/FFC94A:Forge team]制作的Forge Capability系统(2016)使得跨模组的物流交互得以完全统一。
+
+		[c/FFC94A:raoulvdberge]制作的精致存储(Refined Storage, 2016)提供了一种更休闲的AE2替代方案，同时保留了其基础功能。
+
+		[c/FFC94A:McJty]制作的XNet(2016)将Ender IO的点对点传输(P2P)理念发挥到了极致，并实现了集中式IO网络设置。
+
+		[c/FFC94A:kroeser]制作的集成动力/管道(Integrated Dynamics/Tunnels, 2016)允许通过复杂的卡牌表达式执行任意的逻辑控制。
+
+		[c/FFC94A:tom5454]制作的汤姆的建议存储(Tom's Simple Storage，2019)和[c/FFC94A:baileyholl]制作的新生魔艺(Ars Nouveau Storage，2022)增加了更休闲的存储方式和终端，填补了在游戏早期无法使用昂贵的AE2时的空白。
+
+		[c/FFC94A:simibubi]制作的机械动力(Create，2019)提供了更具沉浸感、更贴近原版的运输解决方案。后续的Create Frogports补充了复杂的被动自动化设置。
+
+		[c/FFC94A:Direwolf20]制作的Laser IO(2022)实现了与Ender IO类似但占用空间更小的紧凑型局部物流。
+		''' */
+	Tooltip: 右键阅读
+	DisplayName: 物流模组史
+}
+gregtech_toilet: {
+	Tooltip: 终极超频。
+	DisplayName: 格雷科技马桶
+}
+
+GregTechIronToolsBag: {
+	/* Tooltip:
+		'''
+		右键点击开启。掉落铁质合成催化剂：锤子、扳手、剪线钳、锉刀、螺丝刀、锯子、研钵、撬棍、小刀，外加一个格雷科技多功能工具。
+		''' */
+	DisplayName: 新手包：铁质工具
+}
+
+frozen_frostproof_casing: {
+	/* Tooltip:
+		'''
+		一个在高压化学浴中冻结成固体的防冻机械方块。在表面使用以召唤真空冷冻机。
+		''' */
+	DisplayName: 防冻机械方块
+}
+
+dirty_stainless_steel_casing: {
+	/* Tooltip:
+		'''
+		一个堵塞着灵魂残留物的不锈钢机械方块。在困难模式下使用以召唤灵魂蒸馏塔。
+		''' */
+	DisplayName: 污损不锈钢外壳
+}
+
+unstable_compressor_charge: {
+	/* Tooltip:
+		'''
+		一个装满ITNT的钢制机械方块，在大型化学反应器中被引爆。在表面使用以召唤聚爆压缩机。
+		''' */
+	DisplayName: 不稳定压缩机装药
+}
+
+OverburnedCoilBlock: {
+	/* Tooltip:
+		'''
+		一个白铜线圈方块被加热到超过其极限。在表面使用以召唤堕落工业高炉。
+		''' */
+	DisplayName: 过热线圈方块
+}
+
+acid_etched_inert_casing: {
+	/* Tooltip:
+		'''
+		一个在高压化学反应器中被蚀刻而具有反应活性的惰性机械方块。在表面使用以召唤腐蚀化学反应釜。
+		''' */
+	DisplayName: 酸蚀惰性机械方块
 }
