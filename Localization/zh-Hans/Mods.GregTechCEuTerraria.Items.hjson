@@ -26995,7 +26995,7 @@ ev_mixer: {
 }
 
 ev_muffler_hatch: {
-		DisplayName: "进阶消声仓III [c/AA00AA:EV]"
+		DisplayName: "EV消声仓"
 	Tooltip: ""
 }
 
@@ -27959,7 +27959,7 @@ hv_mixer: {
 }
 
 hv_muffler_hatch: {
-		DisplayName: "进阶消声仓II [c/FFAA00:HV]"
+		DisplayName: "HV消声仓"
 	Tooltip: ""
 }
 
@@ -28540,7 +28540,7 @@ iv_mixer: {
 }
 
 iv_muffler_hatch: {
-		DisplayName: "精英消声仓 [c/5555FF:IV]"
+		DisplayName: "IV消声仓"
 	Tooltip: ""
 }
 
@@ -29455,7 +29455,7 @@ luv_mixer: {
 }
 
 luv_muffler_hatch: {
-		DisplayName: "精英消声仓II [c/FF55FF:LuV]"
+		DisplayName: "LUV消声仓"
 	Tooltip: ""
 }
 
@@ -29930,7 +29930,7 @@ lv_mixer: {
 }
 
 lv_muffler_hatch: {
-		DisplayName: "基础消声仓 [c/AAAAAA:LV]"
+		DisplayName: "LV消声仓"
 	Tooltip: ""
 }
 
@@ -30825,7 +30825,7 @@ mv_mixer: {
 }
 
 mv_muffler_hatch: {
-		DisplayName: "进阶消声仓 [c/55FFFF:MV]"
+		DisplayName: "MV消声仓"
 	Tooltip: ""
 }
 
@@ -31495,7 +31495,7 @@ opv_mixer: {
 }
 
 opv_muffler_hatch: {
-	DisplayName: 传奇消声仓
+	DisplayName: OpV消声仓
 	Tooltip: ""
 }
 
@@ -33133,7 +33133,7 @@ uev_mixer: {
 }
 
 uev_muffler_hatch: {
-		DisplayName: "史诗消声仓II [c/55FF55:UEV]"
+		DisplayName: "UEV消声仓"
 	Tooltip: ""
 }
 
@@ -33603,7 +33603,7 @@ uhv_mixer: {
 }
 
 uhv_muffler_hatch: {
-		DisplayName: "史诗消声仓 [c/AA0000:UHV]"
+		DisplayName: "UHV消声仓"
 	Tooltip: ""
 }
 
@@ -34063,7 +34063,7 @@ uiv_mixer: {
 }
 
 uiv_muffler_hatch: {
-		DisplayName: "UIV消声仓 [c/00AA00:UIV]"
+		DisplayName: "UIV消声仓"
 	Tooltip: ""
 }
 
@@ -34663,7 +34663,7 @@ uv_mixer: {
 }
 
 uv_muffler_hatch: {
-		DisplayName: "UV消声仓 [c/00AAAA:UV]"
+		DisplayName: "UV消声仓"
 	Tooltip: ""
 }
 

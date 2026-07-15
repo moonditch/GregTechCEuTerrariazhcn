@@ -447,7 +447,7 @@ ev_macerator.MapEntry: 进阶研磨机 III
 ev_machine_casing.MapEntry: V机械方块
 ev_machine_hull.MapEntry: V机器外壳
 ev_mixer.MapEntry: 进阶搅拌机 III
-ev_muffler_hatch.MapEntry: V消声仓
+ev_muffler_hatch.MapEntry: EV消声仓
 ev_ore_washer.MapEntry: 进阶洗矿厂 III
 ev_output_bus.MapEntry: V输出总线
 ev_output_hatch.MapEntry: V输出仓
@@ -825,7 +825,7 @@ luv_macerator.MapEntry: 精英研磨机 II
 luv_machine_casing.MapEntry: uV机械方块
 luv_machine_hull.MapEntry: uV机器外壳
 luv_mixer.MapEntry: 精英搅拌机 II
-luv_muffler_hatch.MapEntry: uV消声仓
+luv_muffler_hatch.MapEntry: LUV消声仓
 luv_ore_washer.MapEntry: 精英洗矿厂 II
 luv_output_bus.MapEntry: uV输出总线
 luv_output_hatch.MapEntry: uV输出仓
@@ -904,7 +904,7 @@ lv_machine_casing.MapEntry: V机械方块
 lv_machine_hull.MapEntry: V机器外壳
 lv_miner.MapEntry: 基础采矿机
 lv_mixer.MapEntry: 基础搅拌机
-lv_muffler_hatch.MapEntry: V消声仓
+lv_muffler_hatch.MapEntry: LV消声仓
 lv_ore_washer.MapEntry: 基础洗矿厂
 lv_output_bus.MapEntry: V输出总线
 lv_output_hatch.MapEntry: V输出仓
@@ -1047,7 +1047,7 @@ mv_machine_casing.MapEntry: V机械方块
 mv_machine_hull.MapEntry: V机器外壳
 mv_miner.MapEntry: 进阶采矿机
 mv_mixer.MapEntry: 进阶搅拌机
-mv_muffler_hatch.MapEntry: V消声仓
+mv_muffler_hatch.MapEntry: MV消声仓
 mv_ore_washer.MapEntry: 进阶洗矿厂
 mv_output_bus.MapEntry: V输出总线
 mv_output_hatch.MapEntry: V输出仓
@@ -1136,7 +1136,7 @@ opv_macerator.MapEntry: 传奇研磨机
 opv_machine_casing.MapEntry: pV机械方块
 opv_machine_hull.MapEntry: pV机器外壳
 opv_mixer.MapEntry: 传奇搅拌机
-opv_muffler_hatch.MapEntry: pV消声仓
+opv_muffler_hatch.MapEntry: OpV消声仓
 opv_ore_washer.MapEntry: 传奇洗矿厂
 opv_output_bus.MapEntry: pV输出总线
 opv_output_hatch.MapEntry: pV输出仓
