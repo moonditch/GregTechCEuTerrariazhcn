@@ -2124,15 +2124,15 @@ max_1024a_laser_target_hatch.MapEntry: 1024A 极限激光靶仓
 max_1024a_laser_source_hatch.MapEntry: 1024A 极限激光源仓
 max_4096a_laser_target_hatch.MapEntry: 4096A 极限激光靶仓
 max_4096a_laser_source_hatch.MapEntry: 4096A 极限激光源仓
-// pipe_intersection.MapEntry: Pipe Intersection
-// ultimate_manual.MapEntry: Ultimate Manual Crafting Station
-// manual_crowbar.MapEntry: Manual Crowbar Crafting Station
-// manual_mortar.MapEntry: Manual Mortar Crafting Station
-// manual_wire_cutter.MapEntry: Manual Wire Cutter Crafting Station
-// manual_screwdriver.MapEntry: Manual Screwdriver Crafting Station
-// manual_wrench.MapEntry: Manual Wrench Crafting Station
-// manual_saw.MapEntry: Manual Saw Crafting Station
-// manual_file.MapEntry: Manual File Crafting Station
-// manual_knife.MapEntry: Manual Knife Crafting Station
-// manual_mallet.MapEntry: Manual Mallet Crafting Station
-// manual_hammer.MapEntry: Manual Hammer Crafting Station
+pipe_intersection.MapEntry: 管道交叉口
+ultimate_manual.MapEntry: 终极手动合成站
+manual_crowbar.MapEntry: 手动撬棍合成站
+manual_mortar.MapEntry: 手动研钵合成站
+manual_wire_cutter.MapEntry: 手动剪线钳合成站
+manual_screwdriver.MapEntry: 手动螺丝刀合成站
+manual_wrench.MapEntry: 手动扳手合成站
+manual_saw.MapEntry: 手动锯合成站
+manual_file.MapEntry: 手动锉刀合成站
+manual_knife.MapEntry: 手动小刀合成站
+manual_mallet.MapEntry: 手动木槌合成站
+manual_hammer.MapEntry: 手动锤子合成站

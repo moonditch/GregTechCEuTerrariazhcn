@@ -1,22 +1,22 @@
 EquipCats: {
-	// Helmet.Name: Helmets
-	// Shirt.Name: Shirts
-	// Pants.Name: Pants
-	// Trinket.Name: Trinkets
-	// Dye.Name: Dyes
-	// Mount.Name: Mounts
-	// Hook.Name: Hooks
-	// Minecart.Name: Minecarts
-	// Pet.Name: Pet
-	// LightPet.Name: Light Pet
+	Helmet.Name: 头盔
+	Shirt.Name: 上衣
+	Pants.Name: 裤子
+	Trinket.Name: 饰品
+	Dye.Name: 染料
+	Mount.Name: 坐骑
+	Hook.Name: 钩爪
+	Minecart.Name: 矿车
+	Pet.Name: 宠物
+	LightPet.Name: 照明宠物
 }
 
 PipeSizes: {
-	// Tiny: Tiny
-	// Small: Small
-	// Normal: Normal
-	// Large: Large
-	// Huge: Huge
-	// Quadruple: Quadruple
-	// Nonuple: Nonuple
+	Tiny: 微型
+	Small: 小型
+	Normal: 普通
+	Large: 大型
+	Huge: 巨型
+	Quadruple: 四重
+	Nonuple: 九重
 }

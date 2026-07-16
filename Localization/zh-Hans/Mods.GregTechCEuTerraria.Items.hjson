@@ -39943,7 +39943,7 @@ SkipStoneAgeBag: {
 }
 
 the_history_of_logistics: {
-	/* Lore:
+	Lore:
 		'''
 		我想让人们了解物流模组的历史，因为这些人多年来一直在真实地改变我们对工厂游戏的总体设计思路（如果你细想的话，他们基本上发明了“工厂游戏”这一类型）。
 
@@ -39992,7 +39992,7 @@ the_history_of_logistics: {
 		[c/FFC94A:simibubi]制作的机械动力(Create，2019)提供了更具沉浸感、更贴近原版的运输解决方案。后续的Create Frogports补充了复杂的被动自动化设置。
 
 		[c/FFC94A:Direwolf20]制作的Laser IO(2022)实现了与Ender IO类似但占用空间更小的紧凑型局部物流。
-		''' */
+		'''
 	Tooltip: 右键阅读
 	DisplayName: 物流模组史
 }
@@ -40002,49 +40002,49 @@ gregtech_toilet: {
 }
 
 GregTechIronToolsBag: {
-	/* Tooltip:
+	Tooltip:
 		'''
 		右键点击开启。掉落铁质合成催化剂：锤子、扳手、剪线钳、锉刀、螺丝刀、锯子、研钵、撬棍、小刀，外加一个格雷科技多功能工具。
-		''' */
+		'''
 	DisplayName: 新手包：铁质工具
 }
 
 frozen_frostproof_casing: {
-	/* Tooltip:
+	Tooltip:
 		'''
 		一个在高压化学浴中冻结成固体的防冻机械方块。在表面使用以召唤真空冷冻机。
-		''' */
+		'''
 	DisplayName: 防冻机械方块
 }
 
 dirty_stainless_steel_casing: {
-	/* Tooltip:
+	Tooltip:
 		'''
 		一个堵塞着灵魂残留物的不锈钢机械方块。在困难模式下使用以召唤灵魂蒸馏塔。
-		''' */
+		'''
 	DisplayName: 污损不锈钢外壳
 }
 
 unstable_compressor_charge: {
-	/* Tooltip:
+	Tooltip:
 		'''
 		一个装满ITNT的钢制机械方块，在大型化学反应器中被引爆。在表面使用以召唤聚爆压缩机。
-		''' */
+		'''
 	DisplayName: 不稳定压缩机装药
 }
 
 OverburnedCoilBlock: {
-	/* Tooltip:
+	Tooltip:
 		'''
 		一个白铜线圈方块被加热到超过其极限。在表面使用以召唤堕落工业高炉。
-		''' */
+		'''
 	DisplayName: 过热线圈方块
 }
 
 acid_etched_inert_casing: {
-	/* Tooltip:
+	Tooltip:
 		'''
 		一个在高压化学反应器中被蚀刻而具有反应活性的惰性机械方块。在表面使用以召唤腐蚀化学反应釜。
-		''' */
+		'''
 	DisplayName: 酸蚀惰性机械方块
 }

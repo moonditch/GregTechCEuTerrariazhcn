@@ -652,11 +652,11 @@ zinc: 锌
 zinc_sulfide: 硫化锌
 zincite: 红锌矿
 zirconium: 锆
-// superconductor_luminite: Luminite Superconductor
-// superconductor_shroomite: Shroomite Superconductor
-// superconductor_spectre: Spectre Superconductor
-// superconductor_chlorophyte: Chlorophyte Superconductor
-// superconductor_hallowed: Hallowed Superconductor
-// superconductor_hellstone: Hellstone Superconductor
-// superconductor_meteorite: Meteorite Superconductor
-// superconductor_evil: Evil Superconductor
+superconductor_luminite: 夜明超导体
+superconductor_shroomite: 蘑菇超导体
+superconductor_spectre: 幽灵超导体
+superconductor_chlorophyte: 叶绿超导体
+superconductor_hallowed: 神圣超导体
+superconductor_hellstone: 狱石超导体
+superconductor_meteorite: 陨石超导体
+superconductor_evil: 邪恶超导体
