@@ -10952,7 +10952,7 @@ Api: {
 			GetToolTips: {
 				1: {
 					OldString: "Exactly "
-					NewString: "恰好 "
+					NewString: "恰好"
 				}
 
 				2: {
@@ -10977,12 +10977,18 @@ Api: {
 
 				6: {
 					OldString: (Only one allowed)
-					NewString: （仅允许一个）
+					NewString: (只允许一个)
 				}
 
 				7: {
 					OldString: (Can be air)
-					NewString: （可以是空气）
+					NewString: (可以是空气)
+				}
+			}
+		}
+
+		Error: {
+			PatternError: {
 				get_ErrorInfo: {
 					1: {
 						OldString: ", "
@@ -11001,22 +11007,22 @@ Api: {
 
 					4: {
 						OldString: Wrong block at (
-						NewString: 错误方块位于（
+						NewString: 错误方块位于 (
 					}
 
 					5: {
 						OldString: "): expected "
-						NewString: "）：预期 "
+						NewString: "): 余气 "
 					}
 
 					6: {
 						OldString: "' (found: "
-						NewString: "'（找到："
+						NewString: "' (找到: "
 					}
 
 					7: {
 						OldString: )
-						NewString: ）
+						NewString: )
 					}
 				}
 
@@ -11028,7 +11034,7 @@ Api: {
 
 					2: {
 						OldString: empty - is the block aligned to the 2x2 grid?
-						NewString: 空 - 方块是否对齐到2x2网格？
+						NewString: 空 - 方块是否对齐到2x2网格?
 					}
 
 					3: {
@@ -11047,12 +11053,12 @@ Api: {
 
 					2: {
 						OldString: too many
-						NewString: 过多
+						NewString: 太多
 					}
 
 					3: {
 						OldString: not enough
-						NewString: 不足
+						NewString: 不够
 					}
 
 					4: {
@@ -11067,22 +11073,22 @@ Api: {
 
 					6: {
 						OldString: "' (have "
-						NewString: "'（现有 "
+						NewString: "' (现有 "
 					}
 
 					7: {
 						OldString: )
-						NewString: ）
+						NewString: )
 					}
 
 					8: {
 						OldString: "' of "
-						NewString: "' "
+						NewString: "'  "
 					}
 
 					9: {
 						OldString: ": need "
-						NewString: "：需要 "
+						NewString: ": 需要 "
 					}
 				}
 
@@ -11094,7 +11100,7 @@ Api: {
 
 					2: {
 						OldString: ", "
-						NewString: "，"
+						NewString: ", "
 					}
 
 					3: {
@@ -11118,22 +11124,22 @@ Api: {
 				MoveNext: {
 					1: {
 						OldString: Wrong block at (
-						NewString: 错误方块位于（
+						NewString: 错误方块位于 (
 					}
 
 					2: {
 						OldString: ", "
-						NewString: "，"
+						NewString: ", "
 					}
 
 					3: {
 						OldString: ") - found: "
-						NewString: "）- 找到："
+						NewString: ") - 发现: "
 					}
 
 					4: {
 						OldString: Expected one of:
-						NewString: 预期以下之一：
+						NewString: 预期为以下之一:
 					}
 
 					5: {
@@ -11143,12 +11149,12 @@ Api: {
 
 					6: {
 						OldString: "' (+"
-						NewString: "'（+"
+						NewString: "' (+"
 					}
 
 					7: {
 						OldString: "' more)"
-						NewString: "' 更多）"
+						NewString: "' 更多)"
 					}
 
 					8: {
