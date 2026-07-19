@@ -28575,7 +28575,7 @@ iv_packer: {
 }
 
 iv_parallel_hatch: {
-	DisplayName: "LuV 并行控制仓"
+	DisplayName: "IV 并行控制仓"
 	Tooltip: ""
 }
 
@@ -29490,7 +29490,7 @@ luv_packer: {
 }
 
 luv_parallel_hatch: {
-	DisplayName: "UV 并行控制仓"
+	DisplayName: "LUV 并行控制仓"
 	Tooltip: ""
 }
 
@@ -34703,7 +34703,7 @@ uv_packer: {
 }
 
 uv_parallel_hatch: {
-	DisplayName: "IV 并行控制仓"
+	DisplayName: "UV 并行控制仓"
 	Tooltip: ""
 }
 
@@ -39049,7 +39049,7 @@ me_cable_white: {
 
 luminite_superconductor_hex: {
 	Tooltip: ""
-	DisplayName: 6x夜明超导体线缆（UV）
+	DisplayName: 16x夜明超导体线缆（UV）
 }
 
 luminite_superconductor_octal: {
@@ -39074,7 +39074,7 @@ luminite_superconductor_single: {
 
 shroomite_superconductor_hex: {
 	Tooltip: ""
-	DisplayName: 6x蘑菇超导体线缆（ZPM）
+	DisplayName: 16x蘑菇超导体线缆（ZPM）
 }
 
 shroomite_superconductor_octal: {
@@ -39099,7 +39099,7 @@ shroomite_superconductor_single: {
 
 spectre_superconductor_hex: {
 	Tooltip: ""
-	DisplayName: 6x幽灵超导体线缆（LuV）
+	DisplayName: 16x幽灵超导体线缆（LuV）
 }
 
 spectre_superconductor_octal: {
@@ -39124,7 +39124,7 @@ spectre_superconductor_single: {
 
 chlorophyte_superconductor_hex: {
 	Tooltip: ""
-	DisplayName: 6x叶绿超导体线缆（IV）
+	DisplayName: 16x叶绿超导体线缆（IV）
 }
 
 chlorophyte_superconductor_octal: {
@@ -39149,7 +39149,7 @@ chlorophyte_superconductor_single: {
 
 hallowed_superconductor_hex: {
 	Tooltip: ""
-	DisplayName: 6x神圣超导体线缆（EV）
+	DisplayName: 16x神圣超导体线缆（EV）
 }
 
 hallowed_superconductor_octal: {
@@ -39174,7 +39174,7 @@ hallowed_superconductor_single: {
 
 hellstone_superconductor_hex: {
 	Tooltip: ""
-	DisplayName: 6x狱石超导体线缆（HV）
+	DisplayName: 16x狱石超导体线缆（HV）
 }
 
 hellstone_superconductor_octal: {
@@ -39199,7 +39199,7 @@ hellstone_superconductor_single: {
 
 meteorite_superconductor_hex: {
 	Tooltip: ""
-	DisplayName: 6x陨石超导体线缆（MV）
+	DisplayName: 16x陨石超导体线缆（MV）
 }
 
 meteorite_superconductor_octal: {
@@ -39224,7 +39224,7 @@ meteorite_superconductor_single: {
 
 evil_superconductor_hex: {
 	Tooltip: ""
-	DisplayName: 6x恶魔超导体线缆（LV）
+	DisplayName: 16x恶魔超导体线缆（LV）
 }
 
 evil_superconductor_octal: {
