@@ -26585,7 +26585,7 @@ empty_wooden_form: {
 }
 
 ender_fluid_link_cover: {
-	DisplayName: 末影流体连接
+	DisplayName: 末影流体覆盖版
 	Tooltip: "[c/AAAAAA:作][c/FFFFFF:覆盖板][c/AAAAAA:时利用][c/FFFFFF:无线][c/FF55FF:末影][c/FFFFFF:连接][c/AAAAAA:传输][c/FFFFFF:流体][c/AAAAAA:。]"
 }
 
