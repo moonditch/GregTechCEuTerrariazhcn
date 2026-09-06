@@ -95,5 +95,10 @@ cleanroom: {
 
 dimensions: {
 	0: 尺寸：
-	// 1.2d: "[c/55FF55:{0}]x[c/55FF55:{1}]"
+	1.2d: "[c/55FF55:{0}]x[c/55FF55:{1}]"
+}
+
+fusion_reactor: {
+	energy: EU：{0} / {1}
+	heat: 热量：{0}
 }

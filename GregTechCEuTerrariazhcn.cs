@@ -33,12 +33,14 @@ namespace GregTechCEuTerrariazhcn
         public override void Unload()
         {
             Unload_Localizers();
+            StationNameLocalizer.Unload();
         }
 
         public override void PostSetupContent()
         {
             PostSetupContent_Localizers();
             PostSetupContent_ForceLocalizations();
+            StationNameLocalizer.PostSetupContent();
         }
 
         #region 硬编码汉化
