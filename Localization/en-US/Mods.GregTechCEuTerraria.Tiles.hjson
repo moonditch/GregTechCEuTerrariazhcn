@@ -2136,3 +2136,10 @@ black_steel_frame.MapEntry: Black Steel Frame
 aluminium_frame.MapEntry: Aluminium Frame
 TooManyItemsTile.MapEntry: Too Many Items
 pipe_intersection.MapEntry: Pipe Intersection
+me_interface.MapEntry: ME Interface
+me_pattern_provider.MapEntry: ME Pattern Provider
+me_modular_terminal.MapEntry: ME Terminal
+quantum_computer.MapEntry: Quantum Computer
+me_storage.MapEntry: ME Storage
+neon_sign.MapEntry: Neon Sign
+gregtech_toilet.MapEntry: Gregtech Toilet
