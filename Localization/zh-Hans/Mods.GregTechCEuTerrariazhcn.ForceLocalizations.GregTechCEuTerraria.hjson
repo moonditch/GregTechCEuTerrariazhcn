@@ -336,7 +336,7 @@ TerrariaCompat: {
 			RateLabel: {
 				1: {
 					OldString: "Transfer rate: "
-					NewString: "传输速率："
+					NewString: 传输速率：
 				}
 
 				2: {
@@ -906,7 +906,7 @@ TerrariaCompat: {
 			<Rebuild>b__10_0: {
 				1: {
 					OldString: "Magnet: "
-					NewString: "磁铁："
+					NewString: 磁铁：
 				}
 
 				2: {
@@ -923,7 +923,7 @@ TerrariaCompat: {
 			<Rebuild>b__10_1: {
 				1: {
 					OldString: "Filter: "
-					NewString: "过滤："
+					NewString: 过滤：
 				}
 
 				2: {
@@ -952,7 +952,7 @@ TerrariaCompat: {
 			<BuildSimpleEditor>b__11_2: {
 				1: {
 					OldString: "Ignore NBT: "
-					NewString: "忽略NBT："
+					NewString: 忽略NBT：
 				}
 
 				2: {
@@ -993,7 +993,7 @@ TerrariaCompat: {
 				ModifyTooltips: {
 					1: {
 						OldString: "From: "
-						NewString: "来自："
+						NewString: 来自：
 					}
 				}
 			}
@@ -1046,7 +1046,7 @@ TerrariaCompat: {
 				ConditionText: {
 					1: {
 						OldString: "Not: "
-						NewString: "非："
+						NewString: 非：
 					}
 				}
 
@@ -1209,7 +1209,7 @@ TerrariaCompat: {
 				DrawSelf: {
 					1: {
 						OldString: "Circuit: "
-						NewString: "电路："
+						NewString: 电路：
 					}
 
 					2: {
@@ -1291,12 +1291,12 @@ TerrariaCompat: {
 
 					3: {
 						OldString: ": OFF"
-						NewString: "：关"
+						NewString: ：关
 					}
 
 					4: {
 						OldString: ": "
-						NewString: "："
+						NewString: ：
 					}
 
 					5: {
@@ -1311,7 +1311,7 @@ TerrariaCompat: {
 
 					7: {
 						OldString: "(active - click again to "
-						NewString: "（激活 - 再次点击以"
+						NewString: （激活 - 再次点击以
 					}
 
 					8: {
@@ -1335,7 +1335,7 @@ TerrariaCompat: {
 				DrawFluid: {
 					1: {
 						OldString: ": "
-						NewString: "："
+						NewString: ：
 					}
 
 					2: {
@@ -1466,7 +1466,7 @@ TerrariaCompat: {
 
 					5: {
 						OldString: ": "
-						NewString: "："
+						NewString: ：
 					}
 
 					6: {
@@ -1719,7 +1719,7 @@ TerrariaCompat: {
 				DrawSelf: {
 					1: {
 						OldString: "Temperature: "
-						NewString: "温度："
+						NewString: 温度：
 					}
 
 					2: {
@@ -1841,7 +1841,7 @@ TerrariaCompat: {
 				BuildSideCell: {
 					1: {
 						OldString: ": "
-						NewString: "："
+						NewString: ：
 					}
 
 					2: {
@@ -2289,7 +2289,7 @@ TerrariaCompat: {
 
 					5: {
 						OldString: ", "
-						NewString: "，"
+						NewString: ，
 					}
 
 					6: {
@@ -2352,12 +2352,12 @@ TerrariaCompat: {
 				TransferredLabelPrefix: {
 					1: {
 						OldString: "Last 1s: "
-						NewString: "最近1秒："
+						NewString: 最近1秒：
 					}
 
 					2: {
 						OldString: "Pipe contents: "
-						NewString: "管道内容物："
+						NewString: 管道内容物：
 					}
 				}
 
@@ -2418,14 +2418,14 @@ TerrariaCompat: {
 				<BuildCenterCell>b__51_0: {
 					1: {
 						OldString: "Throughput: "
-						NewString: "吞吐量："
+						NewString: 吞吐量：
 					}
 				}
 
 				<BuildCenterCell>b__51_1: {
 					1: {
 						OldString: "Network: "
-						NewString: "网络："
+						NewString: 网络：
 					}
 				}
 			}
@@ -2474,7 +2474,7 @@ TerrariaCompat: {
 
 					5: {
 						OldString: "Laser Pipe: "
-						NewString: "激光管道："
+						NewString: 激光管道：
 					}
 
 					6: {
@@ -2506,7 +2506,7 @@ TerrariaCompat: {
 
 					5: {
 						OldString: "Optical Pipe: "
-						NewString: "光纤管道："
+						NewString: 光纤管道：
 					}
 
 					6: {
@@ -2523,7 +2523,7 @@ TerrariaCompat: {
 
 					2: {
 						OldString: "Last 1s: "
-						NewString: "最近1秒："
+						NewString: 最近1秒：
 					}
 
 					3: {
@@ -2550,12 +2550,12 @@ TerrariaCompat: {
 
 					4: {
 						OldString: ": "
-						NewString: "："
+						NewString: ：
 					}
 
 					5: {
 						OldString: "Pipe: "
-						NewString: "管道："
+						NewString: 管道：
 					}
 
 					6: {
@@ -2649,7 +2649,7 @@ TerrariaCompat: {
 				Build: {
 					1: {
 						OldString: "Range: "
-						NewString: "范围："
+						NewString: 范围：
 					}
 
 					2: {
@@ -2659,7 +2659,7 @@ TerrariaCompat: {
 
 					3: {
 						OldString: "Draw: "
-						NewString: "功耗："
+						NewString: 功耗：
 					}
 
 					4: {
@@ -2786,7 +2786,7 @@ TerrariaCompat: {
 
 					2: {
 						OldString: + (
-						NewString: "+ ("
+						NewString: + (
 					}
 
 					3: {
@@ -3006,7 +3006,7 @@ TerrariaCompat: {
 				Build: {
 					1: {
 						OldString: "Area: "
-						NewString: "范围："
+						NewString: 范围：
 					}
 
 					2: {
@@ -3016,7 +3016,7 @@ TerrariaCompat: {
 
 					3: {
 						OldString: "Draw: "
-						NewString: "功耗："
+						NewString: 功耗：
 					}
 
 					4: {
@@ -3052,7 +3052,7 @@ TerrariaCompat: {
 				ItemSummary: {
 					1: {
 						OldString: ", "
-						NewString: "，"
+						NewString: ，
 					}
 
 					2: {
@@ -3069,7 +3069,7 @@ TerrariaCompat: {
 				FluidSummary: {
 					1: {
 						OldString: ", "
-						NewString: "，"
+						NewString: ，
 					}
 
 					2: {
@@ -3184,7 +3184,7 @@ TerrariaCompat: {
 				Build: {
 					1: {
 						OldString: "Area: "
-						NewString: "范围："
+						NewString: 范围：
 					}
 
 					2: {
@@ -3194,7 +3194,7 @@ TerrariaCompat: {
 
 					3: {
 						OldString: "Draw: "
-						NewString: "功耗："
+						NewString: 功耗：
 					}
 
 					4: {
@@ -3237,7 +3237,7 @@ TerrariaCompat: {
 
 					8: {
 						OldString: ":"
-						NewString: "："
+						NewString: ：
 					}
 
 					9: {
@@ -3314,7 +3314,7 @@ TerrariaCompat: {
 				Build: {
 					1: {
 						OldString: "Area: "
-						NewString: "范围："
+						NewString: 范围：
 					}
 
 					2: {
@@ -3324,7 +3324,7 @@ TerrariaCompat: {
 
 					3: {
 						OldString: "Speed: "
-						NewString: "速度："
+						NewString: 速度：
 					}
 
 					4: {
@@ -3334,7 +3334,7 @@ TerrariaCompat: {
 
 					5: {
 						OldString: "Steam: "
-						NewString: "蒸汽："
+						NewString: 蒸汽：
 					}
 
 					6: {
@@ -3434,7 +3434,7 @@ TerrariaCompat: {
 				Build: {
 					1: {
 						OldString: "Area: "
-						NewString: "范围："
+						NewString: 范围：
 					}
 
 					2: {
@@ -3449,7 +3449,7 @@ TerrariaCompat: {
 
 					4: {
 						OldString: "Draw: "
-						NewString: "功耗："
+						NewString: 功耗：
 					}
 
 					5: {
@@ -3554,7 +3554,7 @@ TerrariaCompat: {
 				<Build>b__9: {
 					1: {
 						OldString: "Avg I/O: "
-						NewString: "平均 I/O："
+						NewString: 平均 I/O：
 					}
 
 					2: {
@@ -3657,7 +3657,7 @@ TerrariaCompat: {
 				<BuildFilterEditor>b__6: {
 					1: {
 						OldString: "Ignore NBT: "
-						NewString: "忽略 NBT："
+						NewString: 忽略 NBT：
 					}
 
 					2: {
@@ -3674,7 +3674,7 @@ TerrariaCompat: {
 				<BuildFilterEditor>b__9: {
 					1: {
 						OldString: "Range: "
-						NewString: "范围："
+						NewString: 范围：
 					}
 
 					2: {
@@ -3698,7 +3698,7 @@ TerrariaCompat: {
 				<Build>b__0: {
 					1: {
 						OldString: "Filter: "
-						NewString: "过滤："
+						NewString: 过滤：
 					}
 
 					2: {
@@ -3777,7 +3777,7 @@ TerrariaCompat: {
 				<Build>b__0: {
 					1: {
 						OldString: "Problems: "
-						NewString: "问题："
+						NewString: 问题：
 					}
 
 					2: {
@@ -3860,7 +3860,7 @@ TerrariaCompat: {
 				<Build>b__0: {
 					1: {
 						OldString: "Parallel: "
-						NewString: "并行："
+						NewString: 并行：
 					}
 
 					2: {
@@ -4154,7 +4154,7 @@ TerrariaCompat: {
 			<BuildAdvancedVoiding>b__5: {
 				1: {
 					OldString: "Keep: "
-					NewString: "保留："
+					NewString: 保留：
 				}
 			}
 		}
@@ -4163,14 +4163,14 @@ TerrariaCompat: {
 			<BuildMachineController>b__0: {
 				1: {
 					OldString: "Controls: "
-					NewString: "控制："
+					NewString: 控制：
 				}
 			}
 
 			<BuildMachineController>b__3: {
 				1: {
 					OldString: "Inverted: "
-					NewString: "反转："
+					NewString: 反转：
 				}
 
 				2: {
@@ -4187,7 +4187,7 @@ TerrariaCompat: {
 			<BuildMachineController>b__6: {
 				1: {
 					OldString: "Prevent power-fail: "
-					NewString: "防止断电："
+					NewString: 防止断电：
 				}
 
 				2: {
@@ -4206,7 +4206,7 @@ TerrariaCompat: {
 			<BuildAdvancedDetector>b__1: {
 				1: {
 					OldString: "Inverted: "
-					NewString: "反转："
+					NewString: 反转：
 				}
 
 				2: {
@@ -4223,21 +4223,21 @@ TerrariaCompat: {
 			<BuildAdvancedDetector>b__4: {
 				1: {
 					OldString: "Min: "
-					NewString: "最小值："
+					NewString: 最小值：
 				}
 			}
 
 			<BuildAdvancedDetector>b__7: {
 				1: {
 					OldString: "Max: "
-					NewString: "最大值："
+					NewString: 最大值：
 				}
 			}
 
 			<BuildAdvancedDetector>b__10: {
 				1: {
 					OldString: "Mode: "
-					NewString: "模式："
+					NewString: 模式：
 				}
 
 				2: {
@@ -4254,7 +4254,7 @@ TerrariaCompat: {
 			<BuildAdvancedDetector>b__13: {
 				1: {
 					OldString: "Latched: "
-					NewString: "锁存："
+					NewString: 锁存：
 				}
 
 				2: {
@@ -4294,7 +4294,7 @@ TerrariaCompat: {
 			<BuildIOCover>b__1: {
 				1: {
 					OldString: "Mode: "
-					NewString: "模式："
+					NewString: 模式：
 				}
 
 				2: {
@@ -4311,14 +4311,14 @@ TerrariaCompat: {
 			<BuildIOCover>b__3: {
 				1: {
 					OldString: "Manual I/O: "
-					NewString: "手动 I/O："
+					NewString: 手动 I/O：
 				}
 			}
 
 			<BuildIOCover>b__5: {
 				1: {
 					OldString: "Unit: "
-					NewString: "单位："
+					NewString: 单位：
 				}
 
 				2: {
@@ -4335,7 +4335,7 @@ TerrariaCompat: {
 			<BuildIOCover>b__10: {
 				1: {
 					OldString: "Transfer: "
-					NewString: "传输："
+					NewString: 传输：
 				}
 			}
 		}
@@ -4344,7 +4344,7 @@ TerrariaCompat: {
 			<BuildShutter>b__0: {
 				1: {
 					OldString: "Shutter: "
-					NewString: "挡板："
+					NewString: 挡板：
 				}
 
 				2: {
@@ -4375,7 +4375,7 @@ TerrariaCompat: {
 			<AppendFilterBlock>b__5: {
 				1: {
 					OldString: "Ignore NBT: "
-					NewString: "忽略 NBT："
+					NewString: 忽略 NBT：
 				}
 
 				2: {
@@ -4422,7 +4422,7 @@ TerrariaCompat: {
 			<AppendDistinctTogglePanel>b__25_1: {
 				1: {
 					OldString: "Distinct Buses: "
-					NewString: "独立总线："
+					NewString: 独立总线：
 				}
 
 				2: {
@@ -4513,7 +4513,7 @@ TerrariaCompat: {
 				AppendTooltip: {
 					1: {
 						OldString: "Range: "
-						NewString: "范围："
+						NewString: 范围：
 					}
 
 					2: {
@@ -4523,7 +4523,7 @@ TerrariaCompat: {
 
 					3: {
 						OldString: "Speed: "
-						NewString: "速度："
+						NewString: 速度：
 					}
 
 					4: {
@@ -4533,7 +4533,7 @@ TerrariaCompat: {
 
 					5: {
 						OldString: "Draw: "
-						NewString: "功耗："
+						NewString: 功耗：
 					}
 
 					6: {
@@ -4579,7 +4579,7 @@ TerrariaCompat: {
 				AppendTooltip: {
 					1: {
 						OldString: "Storage: "
-						NewString: "存储："
+						NewString: 存储：
 					}
 
 					2: {
@@ -4610,7 +4610,7 @@ TerrariaCompat: {
 				AppendTooltip: {
 					1: {
 						OldString: ": "
-						NewString: "："
+						NewString: ：
 					}
 
 					2: {
@@ -4651,7 +4651,7 @@ TerrariaCompat: {
 				AppendTooltip: {
 					1: {
 						OldString: "Speed: "
-						NewString: "速度："
+						NewString: 速度：
 					}
 
 					2: {
@@ -4666,7 +4666,7 @@ TerrariaCompat: {
 
 					4: {
 						OldString: "Draw: "
-						NewString: "功耗："
+						NewString: 功耗：
 					}
 
 					5: {
@@ -4676,7 +4676,7 @@ TerrariaCompat: {
 
 					6: {
 						OldString: "Fishing Power: "
-						NewString: "钓鱼力量："
+						NewString: 钓鱼力量：
 					}
 
 					7: {
@@ -4686,7 +4686,7 @@ TerrariaCompat: {
 
 					8: {
 						OldString: "Progress: "
-						NewString: "进度："
+						NewString: 进度：
 					}
 
 					9: {
@@ -4736,7 +4736,7 @@ TerrariaCompat: {
 				AppendTooltip: {
 					1: {
 						OldString: "Range: "
-						NewString: "范围："
+						NewString: 范围：
 					}
 
 					2: {
@@ -4751,7 +4751,7 @@ TerrariaCompat: {
 
 					4: {
 						OldString: "Draw: "
-						NewString: "功耗："
+						NewString: 功耗：
 					}
 
 					5: {
@@ -4761,7 +4761,7 @@ TerrariaCompat: {
 
 					6: {
 						OldString: "Filter: "
-						NewString: "过滤："
+						NewString: 过滤：
 					}
 
 					7: {
@@ -4806,7 +4806,7 @@ TerrariaCompat: {
 				AppendTooltip: {
 					1: {
 						OldString: "Area: "
-						NewString: "范围："
+						NewString: 范围：
 					}
 
 					2: {
@@ -4821,7 +4821,7 @@ TerrariaCompat: {
 
 					4: {
 						OldString: "Speed: "
-						NewString: "速度："
+						NewString: 速度：
 					}
 
 					5: {
@@ -4831,7 +4831,7 @@ TerrariaCompat: {
 
 					6: {
 						OldString: "Draw: "
-						NewString: "功耗："
+						NewString: 功耗：
 					}
 
 					7: {
@@ -4877,7 +4877,7 @@ TerrariaCompat: {
 				AppendTooltip: {
 					1: {
 						OldString: "Area: "
-						NewString: "范围："
+						NewString: 范围：
 					}
 
 					2: {
@@ -4892,7 +4892,7 @@ TerrariaCompat: {
 
 					4: {
 						OldString: "Speed: "
-						NewString: "速度："
+						NewString: 速度：
 					}
 
 					5: {
@@ -4902,7 +4902,7 @@ TerrariaCompat: {
 
 					6: {
 						OldString: "Draw: "
-						NewString: "功耗："
+						NewString: 功耗：
 					}
 
 					7: {
@@ -4917,7 +4917,7 @@ TerrariaCompat: {
 
 					9: {
 						OldString: "Tanks: "
-						NewString: "储罐："
+						NewString: 储罐：
 					}
 
 					10: {
@@ -4983,7 +4983,7 @@ TerrariaCompat: {
 
 					4: {
 						OldString: "Producing: "
-						NewString: "发电："
+						NewString: 发电：
 					}
 
 					5: {
@@ -5023,7 +5023,7 @@ TerrariaCompat: {
 				AppendTooltip: {
 					1: {
 						OldString: ": "
-						NewString: "："
+						NewString: ：
 					}
 
 					2: {
@@ -5048,7 +5048,7 @@ TerrariaCompat: {
 
 					6: {
 						OldString: "Locked: "
-						NewString: "已锁定："
+						NewString: 已锁定：
 					}
 
 					7: {
@@ -5074,7 +5074,7 @@ TerrariaCompat: {
 				AppendTooltip: {
 					1: {
 						OldString: ": "
-						NewString: "："
+						NewString: ：
 					}
 
 					2: {
@@ -5104,7 +5104,7 @@ TerrariaCompat: {
 
 					7: {
 						OldString: "Locked: "
-						NewString: "已锁定："
+						NewString: 已锁定：
 					}
 
 					8: {
@@ -5125,7 +5125,7 @@ TerrariaCompat: {
 				AppendTooltip: {
 					1: {
 						OldString: "Area: "
-						NewString: "范围："
+						NewString: 范围：
 					}
 
 					2: {
@@ -5140,7 +5140,7 @@ TerrariaCompat: {
 
 					4: {
 						OldString: "Picks: "
-						NewString: "选取："
+						NewString: 选取：
 					}
 
 					5: {
@@ -5150,7 +5150,7 @@ TerrariaCompat: {
 
 					6: {
 						OldString: "Draw: "
-						NewString: "功耗："
+						NewString: 功耗：
 					}
 
 					7: {
@@ -5264,7 +5264,7 @@ TerrariaCompat: {
 					AppendTooltip: {
 						1: {
 							OldString: "Source: "
-							NewString: "来源："
+							NewString: 来源：
 						}
 
 						2: {
@@ -5274,7 +5274,7 @@ TerrariaCompat: {
 
 						3: {
 							OldString: "Rate: "
-							NewString: "速率："
+							NewString: 速率：
 						}
 
 						4: {
@@ -5320,7 +5320,7 @@ TerrariaCompat: {
 
 						4: {
 							OldString: ": "
-							NewString: "："
+							NewString: ：
 						}
 
 						5: {
@@ -5350,52 +5350,51 @@ TerrariaCompat: {
 
 						10: {
 							OldString: "Avg I/O: "
-							NewString: "平均 I/O："
+							NewString: 平均 I/O：
 						}
 					}
 				}
-			}
 
-			CreativeTankTileEntity: {
-				get_Label: {
-					1: {
-						OldString: Creative Tank
-						NewString: 创造模式储罐
+				CreativeTankTileEntity: {
+					get_Label: {
+						1: {
+							OldString: Creative Tank
+							NewString: 创造储罐
+						}
+					}
+
+					AppendTooltip: {
+						1: {
+							OldString: "Source: "
+							NewString: 来源：
+						}
+
+						2: {
+							OldString: Source: (unset)
+							NewString: 来源：(未设置)
+						}
+
+						3: {
+							OldString: "Rate: "
+							NewString: 速率：
+						}
+
+						4: {
+							OldString: Auto-output: disabled
+							NewString: 自动输出：已禁用
+						}
+
+						5: {
+							OldString: "' mB / "
+							NewString: "' mB / "
+						}
+
+						6: {
+							OldString: t
+							NewString: t
+						}
 					}
 				}
-
-				AppendTooltip: {
-					1: {
-						OldString: "Source: "
-						NewString: "来源："
-					}
-
-					2: {
-						OldString: Source: (unset)
-						NewString: 来源：（未设置）
-					}
-
-					3: {
-						OldString: "Rate: "
-						NewString: "速率："
-					}
-
-					4: {
-						OldString: Auto-output: disabled
-						NewString: 自动输出：已禁用
-					}
-
-					5: {
-						OldString: "' mB / "
-						NewString: "' mB / "
-					}
-
-					6: {
-						OldString: t
-						NewString: 刻
-					}
-				}
-			}
 			}
 
 			BatteryBuffers: {
@@ -5410,22 +5409,22 @@ TerrariaCompat: {
 					AppendTooltip: {
 						1: {
 							OldString: "Battery slots: "
-							NewString: "电池槽位："
+							NewString: 电池槽位：
 						}
 
 						2: {
 							OldString: "Input: "
-							NewString: "输入："
+							NewString: 输入：
 						}
 
 						3: {
 							OldString: "A at "
-							NewString: "A 于 "
+							NewString: "A at "
 						}
 
 						4: {
 							OldString: "State: "
-							NewString: "状态："
+							NewString: 状态：
 						}
 
 						5: {
@@ -5435,7 +5434,7 @@ TerrariaCompat: {
 
 						6: {
 							OldString: "Output: "
-							NewString: "输出："
+							NewString: 输出：
 						}
 					}
 				}
@@ -6813,7 +6812,7 @@ TerrariaCompat: {
 
 				2: {
 					OldString: "Waiting: "
-					NewString: "等待："
+					NewString: 等待：
 				}
 
 				3: {
@@ -6890,7 +6889,7 @@ TerrariaCompat: {
 			AppendTooltip: {
 				1: {
 					OldString: "Stored: "
-					NewString: "已存储："
+					NewString: 已存储：
 				}
 
 				2: {
@@ -6905,7 +6904,7 @@ TerrariaCompat: {
 
 				4: {
 					OldString: "Network: "
-					NewString: "网络："
+					NewString: 网络：
 				}
 
 				5: {
@@ -7112,7 +7111,7 @@ TerrariaCompat: {
 
 				3: {
 					OldString: "Drawing: "
-					NewString: "功耗："
+					NewString: 功耗：
 				}
 
 				4: {
@@ -7136,7 +7135,7 @@ TerrariaCompat: {
 				AppendTooltip: {
 					1: {
 						OldString: "Temp: "
-						NewString: "温度："
+						NewString: 温度：
 					}
 
 					2: {
@@ -7156,7 +7155,7 @@ TerrariaCompat: {
 
 					5: {
 						OldString: "Water: "
-						NewString: "水："
+						NewString: 水：
 					}
 
 					6: {
@@ -7166,12 +7165,12 @@ TerrariaCompat: {
 
 					7: {
 						OldString: "Steam: "
-						NewString: "蒸汽："
+						NewString: 蒸汽：
 					}
 
 					8: {
 						OldString: "Output: "
-						NewString: "输出："
+						NewString: 输出：
 					}
 
 					9: {
@@ -7227,7 +7226,7 @@ TerrariaCompat: {
 				AppendTooltip: {
 					1: {
 						OldString: "Area: "
-						NewString: "范围："
+						NewString: 范围：
 					}
 
 					2: {
@@ -7242,7 +7241,7 @@ TerrariaCompat: {
 
 					4: {
 						OldString: "Speed: "
-						NewString: "速度："
+						NewString: 速度：
 					}
 
 					5: {
@@ -7252,7 +7251,7 @@ TerrariaCompat: {
 
 					6: {
 						OldString: "Steam: "
-						NewString: "蒸汽："
+						NewString: 蒸汽：
 					}
 
 					7: {
@@ -7400,7 +7399,7 @@ TerrariaCompat: {
 
 					16: {
 						OldString: ":"
-						NewString: "："
+						NewString: ：
 					}
 
 					17: {
@@ -7630,7 +7629,7 @@ TerrariaCompat: {
 
 					12: {
 						OldString: "Placed: "
-						NewString: "已放置："
+						NewString: 已放置：
 					}
 
 					13: {
@@ -7711,7 +7710,7 @@ TerrariaCompat: {
 				AppendEnergyLine: {
 					1: {
 						OldString: "Stored: "
-						NewString: "已存储："
+						NewString: 已存储：
 					}
 
 					2: {
@@ -7740,7 +7739,7 @@ TerrariaCompat: {
 
 					3: {
 						OldString: "Drawing: "
-						NewString: "功耗："
+						NewString: 功耗：
 					}
 
 					4: {
@@ -7827,7 +7826,7 @@ TerrariaCompat: {
 					AppendTooltip: {
 						1: {
 							OldString: "Provides: "
-							NewString: "提供："
+							NewString: 提供：
 						}
 					}
 				}
@@ -7879,7 +7878,7 @@ TerrariaCompat: {
 					AppendTooltip: {
 						1: {
 							OldString: "Voltage: "
-							NewString: "电压："
+							NewString: 电压：
 						}
 
 						2: {
@@ -7899,12 +7898,12 @@ TerrariaCompat: {
 
 						5: {
 							OldString: "Amperage: "
-							NewString: "电流："
+							NewString: 电流：
 						}
 
 						6: {
 							OldString: "Capacity: "
-							NewString: "容量："
+							NewString: 容量：
 						}
 
 						7: {
@@ -7914,7 +7913,7 @@ TerrariaCompat: {
 
 						8: {
 							OldString: "Stored: "
-							NewString: "已存储："
+							NewString: 已存储：
 						}
 
 						9: {
@@ -7935,7 +7934,7 @@ TerrariaCompat: {
 					AppendTooltip: {
 						1: {
 							OldString: "Capacity: "
-							NewString: "容量："
+							NewString: 容量：
 						}
 
 						2: {
@@ -7960,7 +7959,7 @@ TerrariaCompat: {
 
 						6: {
 							OldString: "Side: "
-							NewString: "侧面："
+							NewString: 侧面：
 						}
 
 						7: {
@@ -7996,7 +7995,7 @@ TerrariaCompat: {
 					AppendTooltip: {
 						1: {
 							OldString: "Capacity: "
-							NewString: "容量："
+							NewString: 容量：
 						}
 
 						2: {
@@ -8006,7 +8005,7 @@ TerrariaCompat: {
 
 						3: {
 							OldString: "Side: "
-							NewString: "侧面："
+							NewString: 侧面：
 						}
 
 						4: {
@@ -8087,7 +8086,7 @@ TerrariaCompat: {
 
 						9: {
 							OldString: "Buffer: "
-							NewString: "缓冲区："
+							NewString: 缓冲区：
 						}
 
 						10: {
@@ -8242,7 +8241,7 @@ TerrariaCompat: {
 
 						5: {
 							OldString: "Duration Multiplier: "
-							NewString: "持续时间倍数："
+							NewString: 持续时间倍数：
 						}
 
 						6: {
@@ -8263,7 +8262,7 @@ TerrariaCompat: {
 					AppendTooltip: {
 						1: {
 							OldString: "Recovery Chance: "
-							NewString: "回收几率："
+							NewString: 回收几率：
 						}
 
 						2: {
@@ -8273,7 +8272,7 @@ TerrariaCompat: {
 
 						3: {
 							OldString: "Capacity: "
-							NewString: "容量："
+							NewString: 容量：
 						}
 
 						4: {
@@ -8634,7 +8633,7 @@ TerrariaCompat: {
 					AppendTooltip: {
 						1: {
 							OldString: "Rotor: "
-							NewString: "转子："
+							NewString: 转子：
 						}
 
 						2: {
@@ -8654,7 +8653,7 @@ TerrariaCompat: {
 
 						5: {
 							OldString: "Efficiency: "
-							NewString: "效率："
+							NewString: 效率：
 						}
 
 						6: {
@@ -8712,7 +8711,7 @@ TerrariaCompat: {
 
 						4: {
 							OldString: "Max input: "
-							NewString: "最大输入："
+							NewString: 最大输入：
 						}
 
 						5: {
@@ -8727,17 +8726,17 @@ TerrariaCompat: {
 
 						7: {
 							OldString: "Max output: "
-							NewString: "最大输出："
+							NewString: 最大输出：
 						}
 
 						8: {
 							OldString: "Avg in: "
-							NewString: "平均输入："
+							NewString: 平均输入：
 						}
 
 						9: {
 							OldString: "Avg out: "
-							NewString: "平均输出："
+							NewString: 平均输出：
 						}
 
 						10: {
@@ -8802,7 +8801,7 @@ TerrariaCompat: {
 					AppendTooltip: {
 						1: {
 							OldString: "Type: "
-							NewString: "类型："
+							NewString: 类型：
 						}
 
 						2: {
@@ -8940,7 +8939,7 @@ TerrariaCompat: {
 					AppendTooltip: {
 						1: {
 							OldString: "Capacitor: "
-							NewString: "电容器："
+							NewString: 电容器：
 						}
 
 						2: {
@@ -8960,7 +8959,7 @@ TerrariaCompat: {
 
 						5: {
 							OldString: "Heat: "
-							NewString: "热量："
+							NewString: 热量：
 						}
 					}
 				}
@@ -9094,7 +9093,7 @@ TerrariaCompat: {
 
 						4: {
 							OldString: "Stored: "
-							NewString: "已存储："
+							NewString: 已存储：
 						}
 
 						5: {
@@ -9277,7 +9276,7 @@ TerrariaCompat: {
 			ModifyTooltips: {
 				1: {
 					OldString: "Configuration: "
-					NewString: "配置："
+					NewString: 配置：
 				}
 			}
 		}
@@ -9286,7 +9285,7 @@ TerrariaCompat: {
 			ModifyTooltips: {
 				1: {
 					OldString: "Research Data: "
-					NewString: "研究数据："
+					NewString: 研究数据：
 				}
 
 				2: {
@@ -9309,7 +9308,7 @@ TerrariaCompat: {
 			ModifyTooltips: {
 				1: {
 					OldString: "Efficiency: "
-					NewString: "效率："
+					NewString: 效率：
 				}
 
 				2: {
@@ -9319,7 +9318,7 @@ TerrariaCompat: {
 
 				3: {
 					OldString: "Power: "
-					NewString: "功率："
+					NewString: 功率：
 				}
 			}
 		}
@@ -9359,8 +9358,8 @@ TerrariaCompat: {
 
 				ToolDescription: {
 					1: {
-						OldString: Quickly digs soft ground (~3x pickaxe speed). Cannot break stone.
-						NewString: 快速挖掘软地面（约3倍镐速）。不能破坏石头。
+						OldString: "Quickly digs soft ground (~3x pickaxe speed). Cannot break stone. "
+						NewString: "快速挖掘松软地面(约 3 倍镐速)。无法破坏石头。 "
 					}
 
 					2: {
@@ -9439,13 +9438,13 @@ TerrariaCompat: {
 					}
 
 					17: {
-						OldString: Pokes like a spear (0.75x a screwdriver's power). Crafting tool.
-						NewString: 像长矛一样刺击（0.75倍螺丝刀功率）。合成工具。
+						OldString: Pokes like a spear (0.75x a screwdriver's power).
+						NewString: 像长矛一样刺击(力度为螺丝刀的 0.75 倍)。
 					}
 
 					18: {
-						OldString: Weak pickaxe - mined stone becomes Silt, dirt becomes Sand. Crafting tool.
-						NewString: 弱镐 - 挖掘的石头变为淤泥，泥土变为沙子。合成工具。
+						OldString: Weak pickaxe - grinds mined ground: stone -> silt -> dirt -> clay -> sand.
+						NewString: 低威力镐 - 研磨已开采的地面:石头 → 泥沙 → 泥土 → 黏土 → 沙子。
 					}
 
 					19: {
@@ -9465,12 +9464,12 @@ TerrariaCompat: {
 
 					22: {
 						OldString: "Absorbs liquid in a 3x3 area. Cooldown: "
-						NewString: "吸收3x3区域内的液体。冷却："
+						NewString: 吸收3x3区域内的液体。冷却：
 					}
 
 					23: {
-						OldString: "' ticks."
-						NewString: "' 刻。"
+						OldString: " ticks."
+						NewString: " 个游戏刻。"
 					}
 
 					24: {
@@ -9479,13 +9478,13 @@ TerrariaCompat: {
 					}
 
 					25: {
-						OldString: "' bonus seeds."
-						NewString: "' 额外种子。"
+						OldString: " bonus seeds."
+						NewString: " 份额外种子。"
 					}
 
 					26: {
-						OldString: "' bonus seeds and an extra herb."
-						NewString: "' 额外种子和额外药草。"
+						OldString: " bonus seeds and an extra herb."
+						NewString: " 份额外种子和一株额外药草。"
 					}
 
 					27: {
@@ -9537,7 +9536,7 @@ TerrariaCompat: {
 
 					3: {
 						OldString: "Harvest level: "
-						NewString: "采集等级："
+						NewString: 采集等级：
 					}
 
 					4: {
@@ -9547,7 +9546,7 @@ TerrariaCompat: {
 
 					5: {
 						OldString: "Mining speed: "
-						NewString: "挖掘速度："
+						NewString: 挖掘速度：
 					}
 
 					6: {
@@ -10068,7 +10067,7 @@ TerrariaCompat: {
 				AppendTierTooltip: {
 					1: {
 						OldString: "Storage: "
-						NewString: "存储："
+						NewString: 存储：
 					}
 
 					2: {
@@ -10087,7 +10086,7 @@ TerrariaCompat: {
 
 					2: {
 						OldString: "Fluid capacity: "
-						NewString: "流体容量："
+						NewString: 流体容量：
 					}
 
 					3: {
@@ -10299,7 +10298,7 @@ TerrariaCompat: {
 
 					5: {
 						OldString: "Capacity: "
-						NewString: "容量："
+						NewString: 容量：
 					}
 				}
 			}
@@ -10390,7 +10389,7 @@ TerrariaCompat: {
 
 					8: {
 						OldString: "Loss: "
-						NewString: "损耗："
+						NewString: 损耗：
 					}
 
 					9: {
@@ -10422,112 +10421,114 @@ TerrariaCompat: {
 
 					3: {
 						OldString: "[c/A0E0FF:LMB]: Place "
-							NewString: "[c/A0E0FF:左键]：放置 "
-						}
+						NewString: "[c/A0E0FF:左键]：放置 "
+					}
 
-						4: {
-							OldString: "'   [c/FFA0A0:RMB]: Remove "
-							NewString: "'   [c/FFA0A0:右键]：移除 "
-						}
+					4: {
+						OldString: "'   [c/FFA0A0:RMB]: Remove "
+						NewString: "'   [c/FFA0A0:右键]：移除 "
+					}
 
-						5: {
-							OldString: "' "
-							NewString: "' "
-						}
+					5: {
+						OldString: "' "
+						NewString: "' "
+					}
 
-						6: {
-							OldString: ""
-							NewString: ""
-						}
+					6: {
+						OldString: ""
+						NewString: ""
+					}
 
-						7: {
-							OldString: N0
-							NewString: N0
-						}
+					7: {
+						OldString: N0
+						NewString: N0
+					}
 
-						8: {
-							OldString: "' EU/t  *  "
-							NewString: "' EU/t  *  "
-						}
+					8: {
+						OldString: "' EU/t  *  "
+						NewString: "' EU/t  *  "
+					}
 
-						9: {
-							OldString: "A  *  loss "
-							NewString: "安  *  损耗 "
-						}
+					9: {
+						OldString: "A  *  loss "
+						NewString: "安  *  损耗 "
+					}
 
-						10: {
-							OldString: /A
-							NewString: /安
-						}
+					10: {
+						OldString: /A
+						NewString: /安
+					}
 
-						11: {
-							OldString: Network: not initialized
-							NewString: 网络：未初始化
-						}
+					11: {
+						OldString: Network: not initialized
+						NewString: 网络：未初始化
+					}
 
-						12: {
-							OldString: "Network: "
-							NewString: "网络："
-						}
+					12: {
+						OldString: "Network: "
+						NewString: 网络：
+					}
 
-						13: {
-							OldString: "' cables  *  effective "
-							NewString: "' 线缆  *  有效 "
-						}
+					13: {
+						OldString: "' cables  *  effective "
+						NewString: "' 线缆  *  有效 "
+					}
 
-						14: {
-							OldString: "A (cap "
-							NewString: "安（上限 "
-						}
+					14: {
+						OldString: "A (cap "
+						NewString: "安（上限 "
+					}
 
-						15: {
-							OldString: "' EU/t)"
-							NewString: "' EU/t）"
-						}
+					15: {
+						OldString: "' EU/t)"
+						NewString: "' EU/t）"
+					}
 
-						16: {
-							OldString: Endpoints: -
-							NewString: 端点：-
-						}
+					16: {
+						OldString: Endpoints: -
+						NewString: 端点：-
+					}
 
-						17: {
-							OldString: "Endpoints: "
-							NewString: "端点："
-						}
+					17: {
+						OldString: "Endpoints: "
+						NewString: 端点：
+					}
 
-						18: {
-							OldString: "' producers, "
-							NewString: "' 生产者，"
-						}
+					18: {
+						OldString: "' producers, "
+						NewString: "' 生产者，"
+					}
 
-						19: {
-							OldString: "' consumers"
-							NewString: "' 消费者"
-						}
+					19: {
+						OldString: "' consumers"
+						NewString: "' 消费者"
+					}
 
-						20: {
-							OldString: "Throughput: "
-							NewString: "吞吐量："
-						}
+					20: {
+						OldString: "Throughput: "
+						NewString: 吞吐量：
+					}
 
-						21: {
-							OldString: "' / "
-							NewString: "' / "
-						}
+					21: {
+						OldString: "' / "
+						NewString: "' / "
+					}
 
-						22: {
-							OldString: "' EU/t  *  loss "
-							NewString: "' EU/t  *  损耗 "
-						}
+					22: {
+						OldString: "' EU/t  *  loss "
+						NewString: "' EU/t  *  损耗 "
+					}
 
-						23: {
-							OldString: Throughput: -
-							NewString: 吞吐量：-
-						}
+					23: {
+						OldString: Throughput: -
+						NewString: 吞吐量：-
+					}
 
-						24: {
-							OldString: "[c/FF5555:! High-loss path: ~"
-							NewString: "[c/FF5555:！高损耗路径：~"
+					24: {
+						OldString: "[c/FF5555:! High-loss path: ~"
+						NewString: "[c/FF5555:！高损耗路径：~"
+					}
+
 					25: {
 						OldString:
 							'''
@@ -10536,7 +10537,7 @@ TerrariaCompat: {
 							'''
 						NewString:
 							'''
-							% of source voltage already lost here]
+							% 的源电压已在此处损耗]
 
 							'''
 					}
@@ -10549,14 +10550,14 @@ TerrariaCompat: {
 							'''
 						NewString:
 							'''
-							[c/FF8888:Energy delivered downstream of this cable is heavily reduced.]
+							[c/FF8888:该线缆下游输送的能量已大幅降低。]
 
 							'''
 					}
 
 					27: {
 						OldString: "[c/FF8888:Shorten the cable run, use a higher-tier wire (lower loss), or insulate it.]"
-						NewString: "[c/FF8888:缩短线缆路径，使用更高等级的导线（更低损耗），或进行绝缘处理。]"
+						NewString: "[c/FF8888:缩短线缆长度、改用更高等级的导线（损耗更低）或为其绝缘。]"
 					}
 
 					28: {
@@ -10568,27 +10569,27 @@ TerrariaCompat: {
 				WireSizeWord: {
 					1: {
 						OldString: single
-						NewString: 单股
+						NewString: single
 					}
 
 					2: {
 						OldString: double
-						NewString: 双股
+						NewString: double
 					}
 
 					3: {
 						OldString: quadruple
-						NewString: 四股
+						NewString: quadruple
 					}
 
 					4: {
 						OldString: octal
-						NewString: 八股
+						NewString: octal
 					}
 
 					5: {
 						OldString: hex
-						NewString: 十六股
+						NewString: hex
 					}
 				}
 			}
@@ -10604,7 +10605,7 @@ TerrariaCompat: {
 
 					2: {
 						OldString: "' EU  ("
-						NewString: "' EU  （"
+						NewString: "' EU  ("
 					}
 
 					3: {
@@ -10614,7 +10615,7 @@ TerrariaCompat: {
 
 					4: {
 						OldString: %)
-						NewString: %）
+						NewString: %)
 					}
 
 					5: {
@@ -10624,7 +10625,7 @@ TerrariaCompat: {
 
 					6: {
 						OldString: "' EU/t max"
-						NewString: "' EU/t 最大"
+						NewString: "' EU/t 上限"
 					}
 				}
 			}
@@ -10640,27 +10641,27 @@ TerrariaCompat: {
 
 					2: {
 						OldString: "' EU  ("
-						NewString: "' EU  （"
+						NewString: "' EU  ("
 					}
 
 					3: {
 						OldString: %)
-						NewString: %）
+						NewString: %)
 					}
 
 					4: {
 						OldString: Drained - charge in a machine charger slot
-						NewString: 耗尽 - 在机器充电槽中充电
+						NewString: 电量耗尽 - 请放入机器充电槽充电
 					}
 
 					5: {
 						OldString: Powered - full protection
-						NewString: 已供电 - 完全保护
+						NewString: 供电中 - 完整防护
 					}
 
 					6: {
 						OldString: Hold Jump to fly while charged
-						NewString: 按住跳跃以在充能时飞行
+						NewString: 有电量时按住跳跃键飞行
 					}
 				}
 			}
@@ -10682,17 +10683,17 @@ TerrariaCompat: {
 
 				3: {
 					OldString: Idle: nighttime
-					NewString: 空闲：夜间
+					NewString: 停机：夜间
 				}
 
 				4: {
 					OldString: Idle: raining
-					NewString: 空闲：下雨
+					NewString: 停机：下雨
 				}
 
 				5: {
 					OldString: Idle: below the surface
-					NewString: 空闲：地表以下
+					NewString: 停机：位于地表以下
 				}
 			}
 		}
@@ -10757,7 +10758,7 @@ Common: {
 				GetTooltips: {
 					1: {
 						OldString: "Requires biome: "
-						NewString: "需要生物群系："
+						NewString: 需要生物群系：
 					}
 				}
 			}
@@ -10766,7 +10767,7 @@ Common: {
 				GetTooltips: {
 					1: {
 						OldString: "Requires biome tag: "
-						NewString: "需要生物群系标签："
+						NewString: 需要生物群系标签：
 					}
 				}
 			}
@@ -10775,7 +10776,7 @@ Common: {
 				GetTooltips: {
 					1: {
 						OldString: "Requires cleanroom: "
-						NewString: "需要洁净室："
+						NewString: 需要洁净室：
 					}
 				}
 
@@ -10792,7 +10793,7 @@ Common: {
 
 					3: {
 						OldString: "Unknown cleanroom type: "
-						NewString: "未知洁净室类型："
+						NewString: 未知洁净室类型：
 					}
 
 					4: {
@@ -10812,7 +10813,7 @@ Common: {
 
 					7: {
 						OldString: "Requires cleanroom: "
-						NewString: "需要洁净室："
+						NewString: 需要洁净室：
 					}
 				}
 			}
@@ -10835,7 +10836,7 @@ Common: {
 				GetTooltips: {
 					1: {
 						OldString: "Requires dimension: "
-						NewString: "需要维度："
+						NewString: 需要维度：
 					}
 				}
 			}
@@ -10844,7 +10845,7 @@ Common: {
 				GetTooltips: {
 					1: {
 						OldString: "Requires environmental hazard: "
-						NewString: "需要环境危害："
+						NewString: 需要环境危害：
 					}
 				}
 			}
@@ -10910,7 +10911,7 @@ Common: {
 				GetTooltips: {
 					1: {
 						OldString: "Requires research: "
-						NewString: "需要研究："
+						NewString: 需要研究：
 					}
 				}
 			}
@@ -10952,7 +10953,7 @@ Api: {
 			GetToolTips: {
 				1: {
 					OldString: "Exactly "
-					NewString: "恰好"
+					NewString: 恰好
 				}
 
 				2: {

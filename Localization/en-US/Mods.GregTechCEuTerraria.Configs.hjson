@@ -60,6 +60,26 @@ GTConfig: {
 		Tooltip: ""
 		Label: Allow Shimmer Dupes
 	}
+
+	MultiblocksNeedCleanroom: {
+		Label: Multiblocks need cleanroom
+		Tooltip: If disabled, multiblocks ignore all cleanroom requirements. Does nothing while Enable Cleanroom is off
+	}
+
+	FreeMePatterns: {
+		Tooltip: ""
+		Label: Free Me Patterns
+	}
+
+	CraftingCalculationTimePerTick: {
+		Tooltip: ""
+		Label: Crafting Calculation Time Per Tick
+	}
+
+	CraftingSimulatedExtraction: {
+		Tooltip: ""
+		Label: Crafting Simulated Extraction
+	}
 }
 
 GTClientConfig: {
@@ -74,4 +94,29 @@ GTClientConfig: {
 	}
 
 	DisplayName: G T Client Config
+
+	DebugScreenLayout: {
+		Tooltip: ""
+		Label: Debug Screen Layout
+	}
+
+	ShowHistoryPanel: {
+		Tooltip: ""
+		Label: Show History Panel
+	}
+
+	ShowFavoritesPanel: {
+		Tooltip: ""
+		Label: Show Favorites Panel
+	}
+
+	OpenDockedBrowserOnLaunch: {
+		Tooltip: ""
+		Label: Open Docked Browser On Launch
+	}
+
+	PinAutoCraftedItems: {
+		Tooltip: ""
+		Label: Pin Auto Crafted Items
+	}
 }

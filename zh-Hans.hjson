@@ -3,6 +3,11 @@ Mods: {
 		Keybinds: {
 			RecipeBrowserHowToObtain.DisplayName: 配方浏览器 - 查看悬停物品的获取方式
 			RecipeBrowserUsedAsIngredient.DisplayName: 配方浏览器 - 查看悬停物品的用途
+			MultitoolEyedropper.DisplayName: 格雷多功能工具 - 吸取器
+			OpenRecipeBrowser.DisplayName: 打开配方浏览器
+			OpenQuestbook.DisplayName: 打开任务书
+			ToggleDockedBrowser.DisplayName: 切换停靠式配方浏览器
+			ToggleSidePanels.DisplayName: 切换收藏与历史面板
 		}
 
 		ArmorSet: {
@@ -52,12 +57,45 @@ Mods: {
 					Princess_LovesNPC: 我喜欢{NPCName}。
 				}
 
-				// Bestiary: The spirit of a Electric Blast Furnace, settled and friendly now that her Fallen shell is dealt with. She runs a little stall of heat-treated ingredients - and is always hot to the touch.
-				// DeathMessage: "{0} let her coils go cold..."
+				Bestiary: 电力高炉的灵魂，在解决了她的“坠落”躯壳后安顿下来，变得友善。她经营着一个小摊，售卖热处理过的食材——而且摸上去总是滚烫的。
+				DeathMessage: "{0} 让她的线圈冷却了……"
 				Census.SpawnCondition: "{$Census.SpawnConditions.Guide}"
-				// Chat1: Hold on, I'm still cooking your kanthal ingot...
-				// Chat2: Don't touch the casing. It's hot. Everything's hot.
-				// Chat3: Overclock responsibly. I've seen what happens when you don't.
+				Chat1: 等一下，你的坎塔尔合金锭还在烧呢……
+				Chat2: 别碰外壳。很烫。什么都很烫。
+				Chat3: 负责任地超频。我见过不这么做的后果。
+				Chat:
+					'''
+					V 下面有“更多提示”按钮 V
+
+					不喜欢微型合成 - 安装 MagicStorage。注意：MagicStorage 暂时还不能进行流体合成（例如浸渍木材）
+
+					不喜欢挖矿 - 试试采矿锤，它挖得飞快
+
+					不喜欢原始时代 - 我把原始高炉（PBF）的速度提升到了疯狂的程度，你不用再苦等钢材
+
+					怎么看配方 - 点物品栏右侧的 TMI 按钮
+
+					怎么推进度 - 点物品栏右侧的任务书按钮（暂时不太准确）
+
+					怎么让管道交叉 - 使用“管道交叉口”物品（用石头合成）
+
+					怎么连接管道 - 把管道放在机器旁边，然后空手右键点击管道
+
+					怎么连接导线 - 放在机器后面
+
+					怎么搭建多方块 - 放置多方块控制器，它会显示虚影方块
+
+					怎么获得橡胶 - 1. 用凝胶 2. 用锯子砍树获取橡胶木，再放入提取机 3. 找 EBF酱
+
+					怎么获得硫 - 1. 去地狱 2. 矿石处理 3. 找 EBF酱
+
+					怎么获得矿石 - 洞穴上层生成 GT 主世界矿石，下层和地狱生成下界/末地 GT 矿石
+
+					怎么储存大量蒸汽 - 看看大型钢储罐
+
+					怎么获得大量资源 - 1. 蒸汽/电力采矿机 2. 提炼机可以接管道 3. 大型采矿机/钻井机
+					'''
+				MoreTips: 更多提示
 			}
 
 			EBFChan: {
@@ -98,9 +136,87 @@ Mods: {
 			ButcheryKnifeProjectile.DisplayName: 屠宰刀弹
 			DrillHeldProjectile.DisplayName: 钻头持握弹
 			ToolPokeProjectile.DisplayName: 工具戳刺弹
-			// RoundProjectile.DisplayName: Round Projectile
+			RoundProjectile.DisplayName: 圆形弹丸
 		}
 
 		RecipeConditions.FluidContainer: 需要将流体装入单元或桶中
+		Condition.ShimmerDupesAllowed: 允许微光复制
+
+		AppliedEnergistics: {
+			Craft: {
+				Items: 物品
+				Someone: 某人
+				Done: "[ME] {0} 在 {3} 上合成了 {1}x {2}（已处理 {4}）"
+			}
+
+			CraftSubmit: {
+				MissingGeneric: 缺少材料
+				Missing: 缺少 {0}x {1}
+				CpuTooSmall: 合成CPU容量过小，无法执行此任务
+				CpuOffline: 合成CPU处于离线状态
+				CpuBusy: 合成CPU正忙
+				NoCpu: 没有可用的合成CPU
+				IncompletePlan: 缺少物品 - 无法合成
+				Ok: 合成已开始
+			}
+
+			Storage: {
+				External: 外部存储
+				MENetwork: ME网络存储
+			}
+
+			KeyType: {
+				Fluids: 流体
+				Items: 物品
+			}
+
+			SelectItemFluid: 选择物品/流体
+
+			Terminal: {
+				StorageDevices: "{0} 个存储设备"
+				NotConnected: 未连接
+			}
+		}
+
+		ExquisiteGem: {
+			Effect: {
+				emerald: +{0}防御力
+				almandine: 10%荆棘
+				amethyst: +4%魔法伤害
+				andradite: +2%近战暴击率
+				apatite: +5钓鱼力
+				blue_topaz: +2%魔法暴击率
+				certus_quartz: +2%魔法暴击率
+				cinnabar: 免疫中毒
+				coal: 发出光芒
+				coke: 免疫“着火了！”
+				diamond: 2%伤害减免
+				echo_shard: 赋予危险感
+				glass: +25%暴击率，但受到的伤害增加50%
+				green_sapphire: 跳跃高度提升
+				lapis: +15魔力上限
+				lazurite: +10魔力上限
+				malachite: +8%挖掘速度
+				monazite: +1仆从上限
+				nether_quartz: +3%魔法伤害
+				olivine: +3%移动速度
+				opal: +2%伤害
+				pyrope: +5生命上限
+				quartzite: +2物块触及范围
+				realgar: +3%近战伤害
+				red_garnet: +4%近战伤害
+				ruby: +5生命上限
+				salt: 降低敌怪仇恨
+				sapphire: +10魔力上限
+				sodalite: 魔力消耗降低3%
+				spessartine: +4%召唤伤害
+				topaz: +4%远程伤害
+				uvarovite: +2%召唤伤害
+				yellow_garnet: +2%远程暴击率
+			}
+
+			Scaling: 效果随装备堆叠数量提升：10 / 100 / 1000
+			Equip: 作为配饰装备
+		}
 	}
 }

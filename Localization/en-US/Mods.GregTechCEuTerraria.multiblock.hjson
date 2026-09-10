@@ -97,3 +97,8 @@ dimensions: {
 	0: Dimensions:
 	1.2d: "[c/55FF55:{0}]x[c/55FF55:{1}]"
 }
+
+fusion_reactor: {
+	energy: Capacitor: [c/55FF55:{0}] / [c/55FF55:{1}] EU
+	heat: Heat: [c/55FF55:{0}] EU
+}

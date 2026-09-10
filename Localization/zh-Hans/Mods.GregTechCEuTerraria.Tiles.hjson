@@ -1844,287 +1844,6 @@ zpm_transformer_2a.MapEntry: 零点压进阶变压器（ZPM）
 zpm_transformer_4a.MapEntry: 零点压高流变压器（ZPM）
 zpm_wiremill.MapEntry: 精英线材轧机 III
 zpm_world_accelerator.MapEntry: 精英世界加速器 III
-TooManyItemsTile.MapEntry: 太多物品
-aluminium_frame.MapEntry: 铝框架
-black_steel_frame.MapEntry: 黑钢框架
-blue_steel_frame.MapEntry: 蓝钢框架
-bronze_frame.MapEntry: 青铜框架
-europium_frame.MapEntry: 铕框架
-glowstone_block.MapEntry: 荧石块
-hastelloy_c_276_frame.MapEntry: 哈斯特洛依合金 C-276框架
-hastelloy_x_frame.MapEntry: 哈斯特洛依合金-X框架
-hsla_steel_frame.MapEntry: HSLA钢框架
-hsse_frame.MapEntry: 高速钢-E框架
-hssg_frame.MapEntry: 高速钢-G框架
-hsss_frame.MapEntry: 高速钢-S框架
-incoloy_ma_956_frame.MapEntry: 耐热铬铁合金 MA-956框架
-invar_frame.MapEntry: 殷钢框架
-iridium_frame.MapEntry: 铱框架
-maraging_steel_300_frame.MapEntry: 马氏体时效钢-300框架
-naquadah_alloy_frame.MapEntry: 硅岩合金框架
-neutronium_frame.MapEntry: 中子素框架
-polytetrafluoroethylene_frame.MapEntry: 聚四氟乙烯框架
-raw_almandine_block.MapEntry: 粗铁铝榴石块
-raw_aluminium_block.MapEntry: 粗铝块
-raw_alunite_block.MapEntry: 粗明矾石块
-raw_amethyst_block.MapEntry: 粗紫水晶块
-raw_apatite_block.MapEntry: 粗磷灰石块
-raw_asbestos_block.MapEntry: 粗石棉块
-raw_barite_block.MapEntry: 粗重晶石块
-raw_basaltic_mineral_sand_block.MapEntry: 粗玄武岩矿砂块
-raw_bastnasite_block.MapEntry: 粗氟碳镧铈矿块
-raw_bauxite_block.MapEntry: 粗铝土矿块
-raw_bentonite_block.MapEntry: 粗膨润土块
-raw_beryllium_block.MapEntry: 粗铍块
-raw_blue_topaz_block.MapEntry: 粗蓝黄玉块
-raw_bornite_block.MapEntry: 粗斑铜矿块
-raw_calcite_block.MapEntry: 粗方解石块
-raw_cassiterite_block.MapEntry: 粗锡石块
-raw_cassiterite_sand_block.MapEntry: 粗锡石矿砂块
-raw_certus_quartz_block.MapEntry: 粗赛特斯石英块
-raw_chalcocite_block.MapEntry: 粗辉铜矿块
-raw_chalcopyrite_block.MapEntry: 粗黄铜矿块
-raw_chromite_block.MapEntry: 粗铬铁矿块
-raw_cinnabar_block.MapEntry: 粗朱砂块
-raw_coal_block.MapEntry: 粗煤炭块
-raw_cobalt_block.MapEntry: 粗钴块
-raw_cobaltite_block.MapEntry: 粗辉钴矿块
-raw_cooperite_block.MapEntry: 粗谢尔顿矿块
-raw_copper_block.MapEntry: 粗铜块
-raw_diamond_block.MapEntry: 粗钻石块
-raw_diatomite_block.MapEntry: 粗硅藻土块
-raw_electrotine_block.MapEntry: 粗蓝石块
-raw_emerald_block.MapEntry: 粗绿宝石块
-raw_fullers_earth_block.MapEntry: 粗漂白土块
-raw_galena_block.MapEntry: 粗方铅矿块
-raw_garnet_sand_block.MapEntry: 粗石榴石砂块
-raw_garnierite_block.MapEntry: 粗硅镁镍矿块
-raw_glauconite_sand_block.MapEntry: 粗海绿石砂块
-raw_goethite_block.MapEntry: 粗针铁矿块
-raw_gold_block.MapEntry: 粗金块
-raw_granitic_mineral_sand_block.MapEntry: 粗花岗岩矿砂块
-raw_graphite_block.MapEntry: 粗石墨块
-raw_green_sapphire_block.MapEntry: 粗绿色蓝宝石块
-raw_grossular_block.MapEntry: 粗钙铝榴石块
-raw_gypsum_block.MapEntry: 粗石膏块
-raw_hematite_block.MapEntry: 粗赤铁矿块
-raw_ilmenite_block.MapEntry: 粗钛铁矿块
-raw_iron_block.MapEntry: 粗铁块
-raw_kyanite_block.MapEntry: 粗蓝晶石块
-raw_lapis_block.MapEntry: 粗青金石块
-raw_lazurite_block.MapEntry: 粗蓝金石块
-raw_lead_block.MapEntry: 粗铅块
-raw_lepidolite_block.MapEntry: 粗锂云母块
-raw_lithium_block.MapEntry: 粗锂块
-raw_magnesite_block.MapEntry: 粗菱镁矿块
-raw_magnetite_block.MapEntry: 粗磁铁矿块
-raw_malachite_block.MapEntry: 粗孔雀石块
-raw_mica_block.MapEntry: 粗云母块
-raw_molybdenite_block.MapEntry: 粗辉钼矿块
-raw_molybdenum_block.MapEntry: 粗钼块
-raw_monazite_block.MapEntry: 粗独居石块
-raw_naquadah_block.MapEntry: 粗硅岩块
-raw_neodymium_block.MapEntry: 粗钕块
-raw_nether_quartz_block.MapEntry: 粗下界石英块
-raw_nickel_block.MapEntry: 粗镍块
-raw_oilsands_block.MapEntry: 粗油砂块
-raw_olivine_block.MapEntry: 粗橄榄石块
-raw_opal_block.MapEntry: 粗猫眼石块
-raw_palladium_block.MapEntry: 粗钯块
-raw_pentlandite_block.MapEntry: 粗镍黄铁矿块
-raw_pitchblende_block.MapEntry: 粗沥青铀矿块
-raw_platinum_block.MapEntry: 粗铂块
-raw_plutonium_block.MapEntry: 粗钚块
-raw_pollucite_block.MapEntry: 粗铯榴石块
-raw_powellite_block.MapEntry: 粗钼钙矿块
-raw_pyrite_block.MapEntry: 粗黄铁矿块
-raw_pyrochlore_block.MapEntry: 粗烧绿石块
-raw_pyrolusite_block.MapEntry: 粗软锰矿块
-raw_pyrope_block.MapEntry: 粗镁铝榴石块
-raw_quartzite_block.MapEntry: 粗石英岩块
-raw_realgar_block.MapEntry: 粗雄黄块
-raw_red_garnet_block.MapEntry: 粗红石榴石块
-raw_redstone_block.MapEntry: 粗红石块
-raw_rock_salt_block.MapEntry: 粗岩盐块
-raw_ruby_block.MapEntry: 粗红宝石块
-raw_salt_block.MapEntry: 粗盐块
-raw_saltpeter_block.MapEntry: 粗硝石块
-raw_sapphire_block.MapEntry: 粗蓝宝石块
-raw_scheelite_block.MapEntry: 粗白钨矿块
-raw_silver_block.MapEntry: 粗银块
-raw_soapstone_block.MapEntry: 粗皂石块
-raw_sodalite_block.MapEntry: 粗方钠石块
-raw_spessartine_block.MapEntry: 粗锰铝榴石块
-raw_sphalerite_block.MapEntry: 粗闪锌矿块
-raw_spodumene_block.MapEntry: 粗锂辉石块
-raw_stibnite_block.MapEntry: 粗辉锑矿块
-raw_sulfur_block.MapEntry: 粗硫块
-raw_talc_block.MapEntry: 粗滑石块
-raw_tantalite_block.MapEntry: 粗钽铁矿块
-raw_tetrahedrite_block.MapEntry: 粗黝铜矿块
-raw_thorium_block.MapEntry: 粗钍块
-raw_tin_block.MapEntry: 粗锡块
-raw_topaz_block.MapEntry: 粗黄玉块
-raw_tricalcium_phosphate_block.MapEntry: 粗磷酸三钙块
-raw_trona_block.MapEntry: 粗天然碱块
-raw_tungstate_block.MapEntry: 粗钨酸锂块
-raw_uraninite_block.MapEntry: 粗晶质铀矿块
-raw_vanadium_magnetite_block.MapEntry: 粗钒磁铁矿块
-raw_wulfenite_block.MapEntry: 粗钼铅矿块
-raw_yellow_garnet_block.MapEntry: 粗黄石榴石块
-raw_yellow_limonite_block.MapEntry: 粗黄褐铁矿块
-raw_zeolite_block.MapEntry: 粗沸石块
-redstone_block.MapEntry: 红石块
-ruridit_frame.MapEntry: 钌铱合金框架
-stainless_steel_frame.MapEntry: 不锈钢框架
-steel_frame.MapEntry: 钢框架
-titanium_frame.MapEntry: 钛框架
-treated_wood_frame.MapEntry: 防腐木框架
-tritanium_frame.MapEntry: 三钛框架
-tungsten_carbide_frame.MapEntry: 碳化钨框架
-tungsten_frame.MapEntry: 钨框架
-tungsten_steel_frame.MapEntry: 钨钢框架
-ultimet_frame.MapEntry: 哈氏合金框架
-watertight_steel_frame.MapEntry: 防水钢框架
-wood_frame.MapEntry: 木框架
-ulv_macerator.MapEntry: 原始研磨机
-max_macerator.MapEntry: 极限研磨机
-ulv_alloy_smelter.MapEntry: 原始合金炉
-max_alloy_smelter.MapEntry: 极限合金炉
-ulv_brewery.MapEntry: 原始酿造室
-max_brewery.MapEntry: 极限酿造室
-ulv_compressor.MapEntry: 原始压缩机
-max_compressor.MapEntry: 极限压缩机
-ulv_extractor.MapEntry: 原始提取机
-max_extractor.MapEntry: 极限提取机
-ulv_forge_hammer.MapEntry: 原始锻造锤
-max_forge_hammer.MapEntry: 极限锻造锤
-ulv_bender.MapEntry: 原始卷板机
-max_bender.MapEntry: 极限卷板机
-ulv_lathe.MapEntry: 原始车床
-max_lathe.MapEntry: 极限车床
-ulv_polarizer.MapEntry: 原始两极磁化机
-max_polarizer.MapEntry: 极限两极磁化机
-ulv_wiremill.MapEntry: 原始线材轧机
-max_wiremill.MapEntry: 极限线材轧机
-ulv_electromagnetic_separator.MapEntry: 原始电磁选矿机
-max_electromagnetic_separator.MapEntry: 极限电磁选矿机
-ulv_packer.MapEntry: 原始打包机
-max_packer.MapEntry: 极限打包机
-ulv_fluid_solidifier.MapEntry: 原始流体固化器
-max_fluid_solidifier.MapEntry: 极限流体固化器
-ulv_chemical_reactor.MapEntry: 原始化学反应釜
-max_chemical_reactor.MapEntry: 极限化学反应釜
-ulv_electrolyzer.MapEntry: 原始电解机
-max_electrolyzer.MapEntry: 极限电解机
-ulv_centrifuge.MapEntry: 原始离心机
-max_centrifuge.MapEntry: 极限离心机
-ulv_arc_furnace.MapEntry: 原始电弧炉
-max_arc_furnace.MapEntry: 极限电弧炉
-ulv_cutter.MapEntry: 原始切割机
-max_cutter.MapEntry: 极限切割机
-ulv_extruder.MapEntry: 原始压模器
-max_extruder.MapEntry: 极限压模器
-ulv_scanner.MapEntry: 原始扫描仪
-max_scanner.MapEntry: 极限扫描仪
-ulv_laser_engraver.MapEntry: 原始激光蚀刻机
-max_laser_engraver.MapEntry: 极限激光蚀刻机
-ulv_sifter.MapEntry: 原始筛选机
-max_sifter.MapEntry: 极限筛选机
-ulv_thermal_centrifuge.MapEntry: 原始热力离心机
-max_thermal_centrifuge.MapEntry: 极限热力离心机
-ulv_gas_collector.MapEntry: 原始集气室
-max_gas_collector.MapEntry: 极限集气室
-ulv_air_scrubber.MapEntry: 原始空气净化器
-iv_air_scrubber.MapEntry: 精英空气净化器
-luv_air_scrubber.MapEntry: 精英空气净化器 II
-zpm_air_scrubber.MapEntry: 精英空气净化器 III
-uv_air_scrubber.MapEntry: 终极空气净化器
-uhv_air_scrubber.MapEntry: 史诗空气净化器
-uev_air_scrubber.MapEntry: 史诗空气净化器 II
-uiv_air_scrubber.MapEntry: 史诗空气净化器 III
-uxv_air_scrubber.MapEntry: 史诗空气净化器 IV
-opv_air_scrubber.MapEntry: 传奇空气净化器
-max_air_scrubber.MapEntry: 极限空气净化器
-ulv_electric_furnace.MapEntry: 原始电炉
-max_electric_furnace.MapEntry: 极限电炉
-ulv_rock_crusher.MapEntry: 原始碎岩机
-max_rock_crusher.MapEntry: 极限碎岩机
-ulv_distillery.MapEntry: 原始蒸馏室
-max_distillery.MapEntry: 极限蒸馏室
-ulv_mixer.MapEntry: 原始搅拌机
-max_mixer.MapEntry: 极限搅拌机
-ulv_autoclave.MapEntry: 原始高压釜
-max_autoclave.MapEntry: 极限高压釜
-ulv_ore_washer.MapEntry: 原始洗矿厂
-max_ore_washer.MapEntry: 极限洗矿厂
-ulv_chemical_bath.MapEntry: 原始化学浸洗机
-max_chemical_bath.MapEntry: 极限化学浸洗机
-ulv_fluid_heater.MapEntry: 原始流体加热器
-max_fluid_heater.MapEntry: 极限流体加热器
-ulv_fermenter.MapEntry: 原始发酵槽
-max_fermenter.MapEntry: 极限发酵槽
-ulv_canner.MapEntry: 原始装罐机
-max_canner.MapEntry: 极限装罐机
-ulv_assembler.MapEntry: 原始组装机
-max_assembler.MapEntry: 极限组装机
-ulv_forming_press.MapEntry: 原始冲压机床
-max_forming_press.MapEntry: 极限冲压机床
-ulv_circuit_assembler.MapEntry: 原始电路组装机
-max_circuit_assembler.MapEntry: 极限电路组装机
-ulv_steam_turbine.MapEntry: 原始蒸汽轮机
-ev_steam_turbine.MapEntry: 进阶蒸汽轮机 III
-iv_steam_turbine.MapEntry: 精英蒸汽轮机
-luv_steam_turbine.MapEntry: 精英蒸汽轮机 II
-zpm_steam_turbine.MapEntry: 精英蒸汽轮机 III
-uv_steam_turbine.MapEntry: 终极蒸汽轮机
-uhv_steam_turbine.MapEntry: 史诗蒸汽轮机
-uev_steam_turbine.MapEntry: 史诗蒸汽轮机 II
-uiv_steam_turbine.MapEntry: 史诗蒸汽轮机 III
-uxv_steam_turbine.MapEntry: 史诗蒸汽轮机 IV
-opv_steam_turbine.MapEntry: 传奇蒸汽轮机
-max_steam_turbine.MapEntry: 极限蒸汽轮机
-ulv_solar_panel_machine.MapEntry: 原始太阳能板
-lv_solar_panel_machine.MapEntry: 基础太阳能板
-mv_solar_panel_machine.MapEntry: 进阶太阳能板
-hv_solar_panel_machine.MapEntry: 进阶太阳能板 II
-ev_solar_panel_machine.MapEntry: 进阶太阳能板 III
-iv_solar_panel_machine.MapEntry: 精英太阳能板
-luv_solar_panel_machine.MapEntry: 精英太阳能板 II
-zpm_solar_panel_machine.MapEntry: 精英太阳能板 III
-uv_solar_panel_machine.MapEntry: 终极太阳能板
-uhv_solar_panel_machine.MapEntry: 史诗太阳能板
-uev_solar_panel_machine.MapEntry: 史诗太阳能板 II
-uiv_solar_panel_machine.MapEntry: 史诗太阳能板 III
-uxv_solar_panel_machine.MapEntry: 史诗太阳能板 IV
-opv_solar_panel_machine.MapEntry: 传奇太阳能板
-max_solar_panel_machine.MapEntry: 极限太阳能板
-ulv_lamp.MapEntry: 原始灯
-lv_lamp.MapEntry: 基础灯
-mv_lamp.MapEntry: 进阶灯
-hv_lamp.MapEntry: 进阶灯 II
-ev_lamp.MapEntry: 进阶灯 III
-iv_lamp.MapEntry: 精英灯
-luv_lamp.MapEntry: 精英灯 II
-zpm_lamp.MapEntry: 精英灯 III
-uv_lamp.MapEntry: 终极灯
-uhv_lamp.MapEntry: 史诗灯
-uev_lamp.MapEntry: 史诗灯 II
-uiv_lamp.MapEntry: 史诗灯 III
-uxv_lamp.MapEntry: 史诗灯 IV
-opv_lamp.MapEntry: 传奇灯
-max_lamp.MapEntry: 极限灯
-iv_block_breaker.MapEntry: 精英方块破坏器
-luv_block_breaker.MapEntry: 精英方块破坏器 II
-zpm_block_breaker.MapEntry: 精英方块破坏器 III
-ev_miner.MapEntry: 进阶采矿机 III
-max_256a_laser_target_hatch.MapEntry: 256A 极限激光靶仓
-max_256a_laser_source_hatch.MapEntry: 256A 极限激光源仓
-max_1024a_laser_target_hatch.MapEntry: 1024A 极限激光靶仓
-max_1024a_laser_source_hatch.MapEntry: 1024A 极限激光源仓
-max_4096a_laser_target_hatch.MapEntry: 4096A 极限激光靶仓
-max_4096a_laser_source_hatch.MapEntry: 4096A 极限激光源仓
-pipe_intersection.MapEntry: 管道交叉口
 ultimate_manual.MapEntry: 终极手动合成站
 manual_crowbar.MapEntry: 手动撬棍合成站
 manual_mortar.MapEntry: 手动研钵合成站
@@ -2136,3 +1855,291 @@ manual_file.MapEntry: 手动锉刀合成站
 manual_knife.MapEntry: 手动小刀合成站
 manual_mallet.MapEntry: 手动木槌合成站
 manual_hammer.MapEntry: 手动锤子合成站
+max_4096a_laser_source_hatch.MapEntry: 4096A 极限激光源仓
+max_4096a_laser_target_hatch.MapEntry: 4096A 极限激光靶仓
+max_1024a_laser_source_hatch.MapEntry: 1024A 极限激光源仓
+max_1024a_laser_target_hatch.MapEntry: 1024A 极限激光靶仓
+max_256a_laser_source_hatch.MapEntry: 256A 极限激光源仓
+max_256a_laser_target_hatch.MapEntry: 256A 极限激光靶仓
+ev_miner.MapEntry: 进阶采矿机 III
+zpm_block_breaker.MapEntry: 精英方块破坏器 III
+luv_block_breaker.MapEntry: 精英方块破坏器 II
+iv_block_breaker.MapEntry: 精英方块破坏器
+max_lamp.MapEntry: 极限灯
+opv_lamp.MapEntry: 传奇灯
+uxv_lamp.MapEntry: 史诗灯 IV
+uiv_lamp.MapEntry: 史诗灯 III
+uev_lamp.MapEntry: 史诗灯 II
+uhv_lamp.MapEntry: 史诗灯
+uv_lamp.MapEntry: 终极灯
+zpm_lamp.MapEntry: 精英灯 III
+luv_lamp.MapEntry: 精英灯 II
+iv_lamp.MapEntry: 精英灯
+ev_lamp.MapEntry: 进阶灯 III
+hv_lamp.MapEntry: 进阶灯 II
+mv_lamp.MapEntry: 进阶灯
+lv_lamp.MapEntry: 基础灯
+ulv_lamp.MapEntry: 原始灯
+max_solar_panel_machine.MapEntry: 极限太阳能板
+opv_solar_panel_machine.MapEntry: 传奇太阳能板
+uxv_solar_panel_machine.MapEntry: 史诗太阳能板 IV
+uiv_solar_panel_machine.MapEntry: 史诗太阳能板 III
+uev_solar_panel_machine.MapEntry: 史诗太阳能板 II
+uhv_solar_panel_machine.MapEntry: 史诗太阳能板
+uv_solar_panel_machine.MapEntry: 终极太阳能板
+zpm_solar_panel_machine.MapEntry: 精英太阳能板 III
+luv_solar_panel_machine.MapEntry: 精英太阳能板 II
+iv_solar_panel_machine.MapEntry: 精英太阳能板
+ev_solar_panel_machine.MapEntry: 进阶太阳能板 III
+hv_solar_panel_machine.MapEntry: 进阶太阳能板 II
+mv_solar_panel_machine.MapEntry: 进阶太阳能板
+lv_solar_panel_machine.MapEntry: 基础太阳能板
+ulv_solar_panel_machine.MapEntry: 原始太阳能板
+max_steam_turbine.MapEntry: 极限蒸汽轮机
+opv_steam_turbine.MapEntry: 传奇蒸汽轮机
+uxv_steam_turbine.MapEntry: 史诗蒸汽轮机 IV
+uiv_steam_turbine.MapEntry: 史诗蒸汽轮机 III
+uev_steam_turbine.MapEntry: 史诗蒸汽轮机 II
+uhv_steam_turbine.MapEntry: 史诗蒸汽轮机
+uv_steam_turbine.MapEntry: 终极蒸汽轮机
+zpm_steam_turbine.MapEntry: 精英蒸汽轮机 III
+luv_steam_turbine.MapEntry: 精英蒸汽轮机 II
+iv_steam_turbine.MapEntry: 精英蒸汽轮机
+ev_steam_turbine.MapEntry: 进阶蒸汽轮机 III
+ulv_steam_turbine.MapEntry: 原始蒸汽轮机
+max_circuit_assembler.MapEntry: 极限电路组装机
+ulv_circuit_assembler.MapEntry: 原始电路组装机
+max_forming_press.MapEntry: 极限冲压机床
+ulv_forming_press.MapEntry: 原始冲压机床
+max_assembler.MapEntry: 极限组装机
+ulv_assembler.MapEntry: 原始组装机
+max_canner.MapEntry: 极限装罐机
+ulv_canner.MapEntry: 原始装罐机
+max_fermenter.MapEntry: 极限发酵槽
+ulv_fermenter.MapEntry: 原始发酵槽
+max_fluid_heater.MapEntry: 极限流体加热器
+ulv_fluid_heater.MapEntry: 原始流体加热器
+max_chemical_bath.MapEntry: 极限化学浸洗机
+ulv_chemical_bath.MapEntry: 原始化学浸洗机
+max_ore_washer.MapEntry: 极限洗矿厂
+ulv_ore_washer.MapEntry: 原始洗矿厂
+max_autoclave.MapEntry: 极限高压釜
+ulv_autoclave.MapEntry: 原始高压釜
+max_mixer.MapEntry: 极限搅拌机
+ulv_mixer.MapEntry: 原始搅拌机
+max_distillery.MapEntry: 极限蒸馏室
+ulv_distillery.MapEntry: 原始蒸馏室
+max_rock_crusher.MapEntry: 极限碎岩机
+ulv_rock_crusher.MapEntry: 原始碎岩机
+max_electric_furnace.MapEntry: 极限电炉
+ulv_electric_furnace.MapEntry: 原始电炉
+max_air_scrubber.MapEntry: 极限空气净化器
+opv_air_scrubber.MapEntry: 传奇空气净化器
+uxv_air_scrubber.MapEntry: 史诗空气净化器 IV
+uiv_air_scrubber.MapEntry: 史诗空气净化器 III
+uev_air_scrubber.MapEntry: 史诗空气净化器 II
+uhv_air_scrubber.MapEntry: 史诗空气净化器
+uv_air_scrubber.MapEntry: 终极空气净化器
+zpm_air_scrubber.MapEntry: 精英空气净化器 III
+luv_air_scrubber.MapEntry: 精英空气净化器 II
+iv_air_scrubber.MapEntry: 精英空气净化器
+ulv_air_scrubber.MapEntry: 原始空气净化器
+max_gas_collector.MapEntry: 极限集气室
+ulv_gas_collector.MapEntry: 原始集气室
+max_thermal_centrifuge.MapEntry: 极限热力离心机
+ulv_thermal_centrifuge.MapEntry: 原始热力离心机
+max_sifter.MapEntry: 极限筛选机
+ulv_sifter.MapEntry: 原始筛选机
+max_laser_engraver.MapEntry: 极限激光蚀刻机
+ulv_laser_engraver.MapEntry: 原始激光蚀刻机
+max_scanner.MapEntry: 极限扫描仪
+ulv_scanner.MapEntry: 原始扫描仪
+max_extruder.MapEntry: 极限压模器
+ulv_extruder.MapEntry: 原始压模器
+max_cutter.MapEntry: 极限切割机
+ulv_cutter.MapEntry: 原始切割机
+max_arc_furnace.MapEntry: 极限电弧炉
+ulv_arc_furnace.MapEntry: 原始电弧炉
+max_centrifuge.MapEntry: 极限离心机
+ulv_centrifuge.MapEntry: 原始离心机
+max_electrolyzer.MapEntry: 极限电解机
+ulv_electrolyzer.MapEntry: 原始电解机
+max_chemical_reactor.MapEntry: 极限化学反应釜
+ulv_chemical_reactor.MapEntry: 原始化学反应釜
+max_fluid_solidifier.MapEntry: 极限流体固化器
+ulv_fluid_solidifier.MapEntry: 原始流体固化器
+max_packer.MapEntry: 极限打包机
+ulv_packer.MapEntry: 原始打包机
+max_electromagnetic_separator.MapEntry: 极限电磁选矿机
+ulv_electromagnetic_separator.MapEntry: 原始电磁选矿机
+max_wiremill.MapEntry: 极限线材轧机
+ulv_wiremill.MapEntry: 原始线材轧机
+max_polarizer.MapEntry: 极限两极磁化机
+ulv_polarizer.MapEntry: 原始两极磁化机
+max_lathe.MapEntry: 极限车床
+ulv_lathe.MapEntry: 原始车床
+max_bender.MapEntry: 极限卷板机
+ulv_bender.MapEntry: 原始卷板机
+max_forge_hammer.MapEntry: 极限锻造锤
+ulv_forge_hammer.MapEntry: 原始锻造锤
+max_extractor.MapEntry: 极限提取机
+ulv_extractor.MapEntry: 原始提取机
+max_compressor.MapEntry: 极限压缩机
+ulv_compressor.MapEntry: 原始压缩机
+max_brewery.MapEntry: 极限酿造室
+ulv_brewery.MapEntry: 原始酿造室
+max_alloy_smelter.MapEntry: 极限合金炉
+ulv_alloy_smelter.MapEntry: 原始合金炉
+max_macerator.MapEntry: 极限研磨机
+ulv_macerator.MapEntry: 原始研磨机
+wood_frame.MapEntry: 木框架
+watertight_steel_frame.MapEntry: 防水钢框架
+ultimet_frame.MapEntry: 哈氏合金框架
+tungsten_steel_frame.MapEntry: 钨钢框架
+tungsten_frame.MapEntry: 钨框架
+tungsten_carbide_frame.MapEntry: 碳化钨框架
+tritanium_frame.MapEntry: 三钛框架
+treated_wood_frame.MapEntry: 防腐木框架
+titanium_frame.MapEntry: 钛框架
+steel_frame.MapEntry: 钢框架
+stainless_steel_frame.MapEntry: 不锈钢框架
+ruridit_frame.MapEntry: 钌铱合金框架
+redstone_block.MapEntry: 红石块
+raw_zeolite_block.MapEntry: 粗沸石块
+raw_yellow_limonite_block.MapEntry: 粗黄褐铁矿块
+raw_yellow_garnet_block.MapEntry: 粗黄石榴石块
+raw_wulfenite_block.MapEntry: 粗钼铅矿块
+raw_vanadium_magnetite_block.MapEntry: 粗钒磁铁矿块
+raw_uraninite_block.MapEntry: 粗晶质铀矿块
+raw_tungstate_block.MapEntry: 粗钨酸锂块
+raw_trona_block.MapEntry: 粗天然碱块
+raw_tricalcium_phosphate_block.MapEntry: 粗磷酸三钙块
+raw_topaz_block.MapEntry: 粗黄玉块
+raw_tin_block.MapEntry: 粗锡块
+raw_thorium_block.MapEntry: 粗钍块
+raw_tetrahedrite_block.MapEntry: 粗黝铜矿块
+raw_tantalite_block.MapEntry: 粗钽铁矿块
+raw_talc_block.MapEntry: 粗滑石块
+raw_sulfur_block.MapEntry: 粗硫块
+raw_stibnite_block.MapEntry: 粗辉锑矿块
+raw_spodumene_block.MapEntry: 粗锂辉石块
+raw_sphalerite_block.MapEntry: 粗闪锌矿块
+raw_spessartine_block.MapEntry: 粗锰铝榴石块
+raw_sodalite_block.MapEntry: 粗方钠石块
+raw_soapstone_block.MapEntry: 粗皂石块
+raw_silver_block.MapEntry: 粗银块
+raw_scheelite_block.MapEntry: 粗白钨矿块
+raw_sapphire_block.MapEntry: 粗蓝宝石块
+raw_saltpeter_block.MapEntry: 粗硝石块
+raw_salt_block.MapEntry: 粗盐块
+raw_ruby_block.MapEntry: 粗红宝石块
+raw_rock_salt_block.MapEntry: 粗岩盐块
+raw_redstone_block.MapEntry: 粗红石块
+raw_red_garnet_block.MapEntry: 粗红石榴石块
+raw_realgar_block.MapEntry: 粗雄黄块
+raw_quartzite_block.MapEntry: 粗石英岩块
+raw_pyrope_block.MapEntry: 粗镁铝榴石块
+raw_pyrolusite_block.MapEntry: 粗软锰矿块
+raw_pyrochlore_block.MapEntry: 粗烧绿石块
+raw_pyrite_block.MapEntry: 粗黄铁矿块
+raw_powellite_block.MapEntry: 粗钼钙矿块
+raw_pollucite_block.MapEntry: 粗铯榴石块
+raw_plutonium_block.MapEntry: 粗钚块
+raw_platinum_block.MapEntry: 粗铂块
+raw_pitchblende_block.MapEntry: 粗沥青铀矿块
+raw_pentlandite_block.MapEntry: 粗镍黄铁矿块
+raw_palladium_block.MapEntry: 粗钯块
+raw_opal_block.MapEntry: 粗猫眼石块
+raw_olivine_block.MapEntry: 粗橄榄石块
+raw_oilsands_block.MapEntry: 粗油砂块
+raw_nickel_block.MapEntry: 粗镍块
+raw_nether_quartz_block.MapEntry: 粗下界石英块
+raw_neodymium_block.MapEntry: 粗钕块
+raw_naquadah_block.MapEntry: 粗硅岩块
+raw_monazite_block.MapEntry: 粗独居石块
+raw_molybdenum_block.MapEntry: 粗钼块
+raw_molybdenite_block.MapEntry: 粗辉钼矿块
+raw_mica_block.MapEntry: 粗云母块
+raw_malachite_block.MapEntry: 粗孔雀石块
+raw_magnetite_block.MapEntry: 粗磁铁矿块
+raw_magnesite_block.MapEntry: 粗菱镁矿块
+raw_lithium_block.MapEntry: 粗锂块
+raw_lepidolite_block.MapEntry: 粗锂云母块
+raw_lead_block.MapEntry: 粗铅块
+raw_lazurite_block.MapEntry: 粗蓝金石块
+raw_lapis_block.MapEntry: 粗青金石块
+raw_kyanite_block.MapEntry: 粗蓝晶石块
+raw_iron_block.MapEntry: 粗铁块
+raw_ilmenite_block.MapEntry: 粗钛铁矿块
+raw_hematite_block.MapEntry: 粗赤铁矿块
+raw_gypsum_block.MapEntry: 粗石膏块
+raw_grossular_block.MapEntry: 粗钙铝榴石块
+raw_green_sapphire_block.MapEntry: 粗绿色蓝宝石块
+raw_graphite_block.MapEntry: 粗石墨块
+raw_granitic_mineral_sand_block.MapEntry: 粗花岗岩矿砂块
+raw_gold_block.MapEntry: 粗金块
+raw_goethite_block.MapEntry: 粗针铁矿块
+raw_glauconite_sand_block.MapEntry: 粗海绿石砂块
+raw_garnierite_block.MapEntry: 粗硅镁镍矿块
+raw_garnet_sand_block.MapEntry: 粗石榴石砂块
+raw_galena_block.MapEntry: 粗方铅矿块
+raw_fullers_earth_block.MapEntry: 粗漂白土块
+raw_emerald_block.MapEntry: 粗绿宝石块
+raw_electrotine_block.MapEntry: 粗蓝石块
+raw_diatomite_block.MapEntry: 粗硅藻土块
+raw_diamond_block.MapEntry: 粗钻石块
+raw_copper_block.MapEntry: 粗铜块
+raw_cooperite_block.MapEntry: 粗谢尔顿矿块
+raw_cobaltite_block.MapEntry: 粗辉钴矿块
+raw_cobalt_block.MapEntry: 粗钴块
+raw_coal_block.MapEntry: 粗煤炭块
+raw_cinnabar_block.MapEntry: 粗朱砂块
+raw_chromite_block.MapEntry: 粗铬铁矿块
+raw_chalcopyrite_block.MapEntry: 粗黄铜矿块
+raw_chalcocite_block.MapEntry: 粗辉铜矿块
+raw_certus_quartz_block.MapEntry: 粗赛特斯石英块
+raw_cassiterite_sand_block.MapEntry: 粗锡石矿砂块
+raw_cassiterite_block.MapEntry: 粗锡石块
+raw_calcite_block.MapEntry: 粗方解石块
+raw_bornite_block.MapEntry: 粗斑铜矿块
+raw_blue_topaz_block.MapEntry: 粗蓝黄玉块
+raw_beryllium_block.MapEntry: 粗铍块
+raw_bentonite_block.MapEntry: 粗膨润土块
+raw_bauxite_block.MapEntry: 粗铝土矿块
+raw_bastnasite_block.MapEntry: 粗氟碳镧铈矿块
+raw_basaltic_mineral_sand_block.MapEntry: 粗玄武岩矿砂块
+raw_barite_block.MapEntry: 粗重晶石块
+raw_asbestos_block.MapEntry: 粗石棉块
+raw_apatite_block.MapEntry: 粗磷灰石块
+raw_amethyst_block.MapEntry: 粗紫水晶块
+raw_alunite_block.MapEntry: 粗明矾石块
+raw_aluminium_block.MapEntry: 粗铝块
+raw_almandine_block.MapEntry: 粗铁铝榴石块
+polytetrafluoroethylene_frame.MapEntry: 聚四氟乙烯框架
+neutronium_frame.MapEntry: 中子素框架
+naquadah_alloy_frame.MapEntry: 硅岩合金框架
+maraging_steel_300_frame.MapEntry: 马氏体时效钢-300框架
+iridium_frame.MapEntry: 铱框架
+invar_frame.MapEntry: 殷钢框架
+incoloy_ma_956_frame.MapEntry: 耐热铬铁合金 MA-956框架
+hsss_frame.MapEntry: 高速钢-S框架
+hssg_frame.MapEntry: 高速钢-G框架
+hsse_frame.MapEntry: 高速钢-E框架
+hsla_steel_frame.MapEntry: HSLA钢框架
+hastelloy_x_frame.MapEntry: 哈斯特洛依合金-X框架
+hastelloy_c_276_frame.MapEntry: 哈斯特洛依合金 C-276框架
+glowstone_block.MapEntry: 荧石块
+europium_frame.MapEntry: 铕框架
+bronze_frame.MapEntry: 青铜框架
+blue_steel_frame.MapEntry: 蓝钢框架
+black_steel_frame.MapEntry: 黑钢框架
+aluminium_frame.MapEntry: 铝框架
+TooManyItemsTile.MapEntry: 太多物品
+pipe_intersection.MapEntry: 管道交叉口
+me_interface.MapEntry: ME接口
+me_pattern_provider.MapEntry: ME样板供应器
+me_modular_terminal.MapEntry: ME终端
+quantum_computer.MapEntry: 量子计算机
+me_storage.MapEntry: ME存储
+neon_sign.MapEntry: 霓虹灯牌
+gregtech_toilet.MapEntry: 格雷科技马桶

@@ -477,3 +477,12 @@ long_distance_item_pipeline_endpoint_3: "[c/AAAAAA:2. Place a matching endpoint 
 long_distance_item_pipeline_endpoint_2: "[c/AAAAAA:1. Connect to the end of a long-distance pipe run.]"
 long_distance_item_pipeline_endpoint_1: "[c/AAFFAA:Teleports items to a far-away partner endpoint.]"
 long_distance_item_pipeline_endpoint_0: "[c/AAFFAA:Endpoint for a Long Distance Item Pipeline.]"
+luv_fusion_reactor_0: "[c/AAAAAA:Maximum Energy Storage:] [c/FFFF55:%sM EU]"
+luv_fusion_reactor_1: Overclocks double energy and halve duration.
+luv_fusion_reactor_2: The Fusion Reactor MK 1 is a large multiblock structure used for fusing elements into heavier ones. It can only use LuV, ZPM, and UV Energy Hatches. For every Hatch it has, its buffer increases by 10M EU, and has a maximum of 160M.
+uv_fusion_reactor_0: "[c/AAAAAA:Maximum Energy Storage:] [c/FFFF55:%sM EU]"
+uv_fusion_reactor_1: Overclocks double energy and halve duration.
+uv_fusion_reactor_2: The Fusion Reactor MK 3 is a large multiblock structure used for fusing elements into heavier ones. It can only use UV Energy Hatches. For every Hatch it has, its buffer increases by 40M EU, and has a maximum of 640M.
+zpm_fusion_reactor_0: "[c/AAAAAA:Maximum Energy Storage:] [c/FFFF55:%sM EU]"
+zpm_fusion_reactor_1: Overclocks double energy and halve duration.
+zpm_fusion_reactor_2: The Fusion Reactor MK 2 is a large multiblock structure used for fusing elements into heavier ones. It can only use ZPM and UV Energy Hatches. For every Hatch it has, its buffer increases by 20M EU, and has a maximum of 320M.

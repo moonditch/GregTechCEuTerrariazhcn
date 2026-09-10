@@ -40124,3 +40124,8 @@ netherite_gregith: {
 	DisplayName: Netherite Gregith
 	Tooltip: ""
 }
+
+compressed_energy_substance: {
+	Tooltip: 16 Energy Clusters pressed into one stackable unit
+	DisplayName: Compressed Energy Substance
+}
