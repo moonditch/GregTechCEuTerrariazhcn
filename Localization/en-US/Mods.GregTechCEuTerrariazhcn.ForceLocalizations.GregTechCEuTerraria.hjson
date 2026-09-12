@@ -2864,6 +2864,25 @@ TerrariaCompat: {
 						OldString: Fluid Amount
 						NewString: Fluid Amount
 					}
+
+					2: {
+						OldString: Fluid Locking Disabled
+						NewString: Fluid Locking Disabled
+					}
+				}
+			}
+
+			FluidHatchLayout+<>c: {
+				<BuildSingle>b__4: {
+					1: {
+						OldString: Fluid Locking Enabled
+						NewString: Fluid Locking Enabled
+					}
+
+					2: {
+						OldString: Fluid Locking Disabled
+						NewString: Fluid Locking Disabled
+					}
 				}
 			}
 
