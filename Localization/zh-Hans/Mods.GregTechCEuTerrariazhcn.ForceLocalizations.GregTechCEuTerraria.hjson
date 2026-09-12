@@ -10854,17 +10854,17 @@ Common: {
 			DimensionCondition: {
 				GetTooltips: {
 					1: {
-						OldString: "Requires zone: Surface"
+						OldString: Requires zone: Surface
 						NewString: 需要区域：地表
 					}
 
 					2: {
-						OldString: "Requires zone: The Underworld"
+						OldString: Requires zone: The Underworld
 						NewString: 需要区域：地狱
 					}
 
 					3: {
-						OldString: "Requires zone: Space"
+						OldString: Requires zone: Space
 						NewString: 需要区域：太空
 					}
 				}
