@@ -10854,8 +10854,18 @@ Common: {
 			DimensionCondition: {
 				GetTooltips: {
 					1: {
-						OldString: "Requires dimension: "
-						NewString: "Requires dimension: "
+						OldString: "Requires zone: Surface"
+						NewString: "Requires zone: Surface"
+					}
+
+					2: {
+						OldString: "Requires zone: The Underworld"
+						NewString: "Requires zone: The Underworld"
+					}
+
+					3: {
+						OldString: "Requires zone: Space"
+						NewString: "Requires zone: Space"
 					}
 				}
 			}
