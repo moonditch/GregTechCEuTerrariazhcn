@@ -967,6 +967,537 @@ TerrariaCompat: {
 			}
 		}
 
+
+		MeCraft: {
+			CraftAmountWindow: {
+				*ctor: {
+					1: {
+						OldString: "Request Crafting"
+						NewString: "请求合成"
+					}
+
+					2: {
+						OldString: "Next"
+						NewString: "下一步"
+					}
+
+					3: {
+						OldString: "Calculate the crafting plan"
+						NewString: "计算合成计划"
+					}
+				}
+
+				Bind_Point16_AEKey_Int64: {
+					1: {
+						OldString: "Request Crafting"
+						NewString: "请求合成"
+					}
+
+					2: {
+						OldString: "Next"
+						NewString: "下一步"
+					}
+
+					3: {
+						OldString: "Calculate the crafting plan"
+						NewString: "计算合成计划"
+					}
+				}
+			}
+
+			CraftConfirmWindow: {
+				BuildPanel: {
+					1: {
+						OldString: "Crafting Plan"
+						NewString: "合成计划"
+					}
+
+					2: {
+						OldString: "Bytes used: "
+						NewString: "已用字节："
+					}
+
+					3: {
+						OldString: "[c/FF8888:No available Crafting CPU]    "
+						NewString: "[c/FF8888:没有可用的合成CPU]    "
+					}
+
+					4: {
+						OldString: " bytes"
+						NewString: " 字节"
+					}
+
+					5: {
+						OldString: "[c/FF8888:Cannot start - missing crafting station(s) (see red items)]    "
+						NewString: "[c/FF8888:无法开始 - 缺少合成站（见红色条目）]    "
+					}
+
+					6: {
+						OldString: "[c/FF8888:Missing items - cannot craft]    "
+						NewString: "[c/FF8888:缺少物品 - 无法合成]    "
+					}
+
+					7: {
+						OldString: "[c/FF8888:Not enough ingredients in the network]"
+						NewString: "[c/FF8888:网络内材料不足]"
+					}
+
+					8: {
+						OldString: "Choose which Crafting CPU runs this job"
+						NewString: "选择执行此任务的合成CPU"
+					}
+
+					9: {
+						OldString: "Reopen the craft window and try again"
+						NewString: "重新打开合成窗口后重试"
+					}
+
+					10: {
+						OldString: "Recompute the plan against the current network contents"
+						NewString: "根据网络当前内容重新计算"
+					}
+
+					11: {
+						OldString: "Begin crafting"
+						NewString: "开始合成"
+					}
+				}
+
+				CpuLabel: {
+					1: {
+						OldString: "No Crafting CPUs"
+						NewString: "没有可用的合成CPU"
+					}
+
+					2: {
+						OldString: "CPU: Automatic"
+						NewString: "CPU：自动"
+					}
+
+					3: {
+						OldString: "CPU: ("
+						NewString: "CPU：("
+					}
+
+					4: {
+						OldString: ")  "
+						NewString: "） "
+					}
+
+					5: {
+						OldString: "b"
+						NewString: " 字节"
+					}
+				}
+
+				<BuildPanel>b__19_2: {
+					1: {
+						OldString: "Show Missing"
+						NewString: "显示缺失"
+					}
+
+					2: {
+						OldString: "Show All"
+						NewString: "显示全部"
+					}
+				}
+
+				<BuildPanel>b__19_4: {
+					1: {
+						OldString: "Show Graph"
+						NewString: "显示图表"
+					}
+
+					2: {
+						OldString: "Show List"
+						NewString: "显示列表"
+					}
+				}
+			}
+
+			CraftConfirmWindow+<>c: {
+				<BuildPanel>b__19_7: {
+					1: {
+						OldString: "Retry"
+						NewString: "重试"
+					}
+				}
+
+				<BuildPanel>b__19_8: {
+					1: {
+						OldString: "Close"
+						NewString: "关闭"
+					}
+				}
+
+				<BuildPanel>b__19_9: {
+					1: {
+						OldString: "Close"
+						NewString: "关闭"
+					}
+				}
+
+				<BuildPanel>b__19_10: {
+					1: {
+						OldString: "Replan"
+						NewString: "重新计算"
+					}
+				}
+
+				<BuildPanel>b__19_11: {
+					1: {
+						OldString: "Start"
+						NewString: "开始"
+					}
+				}
+			}
+
+			CraftStatusView: {
+				*ctor: {
+					1: {
+						OldString: "Cancel the selected CPU's crafting job"
+						NewString: "取消所选合成CPU的任务"
+					}
+				}
+			}
+
+			CraftStatusView+<>c: {
+				<*ctor>b__1_0: {
+					1: {
+						OldString: "Cancel Job"
+						NewString: "取消任务"
+					}
+				}
+			}
+
+			CraftStatusWindow: {
+				BuildPanel: {
+					1: {
+						OldString: "Crafting Status"
+						NewString: "合成状态"
+					}
+
+					2: {
+						OldString: "Click a slot to see where it's crafted"
+						NewString: "点击槽位查看其合成来源"
+					}
+
+					3: {
+						OldString: "Cancel the selected CPU's crafting job"
+						NewString: "取消所选合成CPU的任务"
+					}
+				}
+
+				TitleText: {
+					1: {
+						OldString: "Crafting Status"
+						NewString: "合成状态"
+					}
+
+					2: {
+						OldString: "  [c/FF5555:(full)]"
+						NewString: "  [c/FF5555:（已满）]"
+					}
+				}
+			}
+
+			CraftStatusWindow+CpuList: {
+				DrawSelf: {
+					1: {
+						OldString: "Crafting CPUs"
+						NewString: "合成CPU"
+					}
+
+					2: {
+						OldString: "Can't store results"
+						NewString: "无法存储产物"
+					}
+
+					3: {
+						OldString: "Idle"
+						NewString: "空闲"
+					}
+				}
+
+				EmitCpuTooltip: {
+					1: {
+						OldString: "\n[c/C8C8C8:Storage: "
+						NewString: "\n[c/C8C8C8:存储："
+					}
+
+					2: {
+						OldString: " bytes]"
+						NewString: " 字节]"
+					}
+
+					3: {
+						OldString: "\n[c/C8C8C8:Co-processors: "
+						NewString: "\n[c/C8C8C8:协处理器："
+					}
+
+					4: {
+						OldString: "\n[c/7CFF7C:Crafting "
+						NewString: "\n[c/7CFF7C:正在合成 "
+					}
+
+					5: {
+						OldString: "% done]"
+						NewString: "% 已完成]"
+					}
+
+					6: {
+						OldString: "\n[c/AAAAAA:Idle]"
+						NewString: "\n[c/AAAAAA:空闲]"
+					}
+				}
+			}
+
+			CraftStatusWindow+StatusTable: {
+				DrawSelf: {
+					1: {
+						OldString: "Stalled - "
+						NewString: "已停滞 - "
+					}
+
+					2: {
+						OldString: "Nothing crafting"
+						NewString: "当前没有合成任务"
+					}
+				}
+
+				Breakdown: {
+					1: {
+						OldString: "Crafting: "
+						NewString: "合成中："
+					}
+
+					2: {
+						OldString: "Scheduled: "
+						NewString: "已排程："
+					}
+
+					3: {
+						OldString: "Stored: "
+						NewString: "已存储："
+					}
+				}
+			}
+
+			CraftStatusWindow+<>c: {
+				<BuildPanel>b__4_0: {
+					1: {
+						OldString: "Cancel Job"
+						NewString: "取消任务"
+					}
+				}
+
+				<BuildPanel>b__4_1: {
+					1: {
+						OldString: "Close"
+						NewString: "关闭"
+					}
+				}
+			}
+
+			StationCraftWindow: {
+				BuildPanel: {
+					1: {
+						OldString: "Request Crafting"
+						NewString: "请求合成"
+					}
+
+					2: {
+						OldString: "Set to the maximum craftable with the current network contents"
+						NewString: "设为当前网络可合成的最大数量"
+					}
+				}
+			}
+
+			StationCraftWindow+RecipeListView: {
+				DrawSelf: {
+					1: {
+						OldString: "Add this recipe as a pattern"
+						NewString: "将此配方保存为样板"
+					}
+				}
+			}
+
+			StationCraftWindow+<>c: {
+				<BuildPanel>b__25_3: {
+					1: {
+						OldString: "Max"
+						NewString: "最大"
+					}
+				}
+
+				<BuildPanel>b__25_4: {
+					1: {
+						OldString: "Craft"
+						NewString: "合成"
+					}
+				}
+			}
+		}
+
+		Terminal: {
+			CraftingStationsWindow: {
+				BuildPanel: {
+					1: {
+						OldString: "Crafting Stations"
+						NewString: "合成站"
+					}
+
+					2: {
+						OldString: "Missing"
+						NewString: "未覆盖"
+					}
+
+					3: {
+						OldString: "Covered"
+						NewString: "已覆盖"
+					}
+				}
+			}
+
+			MeModularTerminalHud: {
+				BuildModeToggles: {
+					1: {
+						OldString: "Terminal"
+						NewString: "终端"
+					}
+
+					2: {
+						OldString: "Crafting Status"
+						NewString: "合成状态"
+					}
+
+					3: {
+						OldString: "Pattern Access"
+						NewString: "样板管理"
+					}
+				}
+
+				BuildUpper: {
+					1: {
+						OldString: "Configure which crafting stations this terminal can use"
+						NewString: "配置此终端可使用的合成站"
+					}
+				}
+
+				BuildCraftableRow: {
+					1: {
+						OldString: "Show manual craft:"
+						NewString: "显示手动合成："
+					}
+				}
+
+				UpgradeSlotHint: {
+					1: {
+						OldString: "Available terminal upgrades can be put here:"
+						NewString: "可在此处放入可用的终端升级卡："
+					}
+				}
+
+				BuildEncoding: {
+					1: {
+						OldString: "Pattern Encoding"
+						NewString: "样板编码"
+					}
+				}
+
+				SortLabel: {
+					1: {
+						OldString: "Name"
+						NewString: "名称"
+					}
+
+					2: {
+						OldString: "Amount"
+						NewString: "数量"
+					}
+
+					3: {
+						OldString: "Mod"
+						NewString: "模组"
+					}
+				}
+
+				ViewLabel: {
+					1: {
+						OldString: "All"
+						NewString: "全部"
+					}
+
+					2: {
+						OldString: "Stored"
+						NewString: "已存储"
+					}
+
+					3: {
+						OldString: "Autocraftable"
+						NewString: "可自动合成"
+					}
+				}
+			}
+
+			MeModularTerminalHud+<>c: {
+				<BuildUpper>b__12_1: {
+					1: {
+						OldString: "Crafting Stations"
+						NewString: "合成站"
+					}
+				}
+
+				<BuildSortRow>b__14_3: {
+					1: {
+						OldString: "Search: Don't keep"
+						NewString: "搜索：不保留"
+					}
+
+					2: {
+						OldString: "Search: Keep on close"
+						NewString: "搜索：关闭时保留"
+					}
+				}
+			}
+
+			MeModularTerminalHud+<>c__DisplayClass14_0: {
+				<BuildSortRow>b__0: {
+					1: {
+						OldString: "Sort: "
+						NewString: "排序："
+					}
+				}
+
+				<BuildSortRow>b__1: {
+					1: {
+						OldString: "Direction: Descending"
+						NewString: "方向：降序"
+					}
+
+					2: {
+						OldString: "Direction: Ascending"
+						NewString: "方向：升序"
+					}
+				}
+
+				<BuildSortRow>b__2: {
+					1: {
+						OldString: "View: "
+						NewString: "视图："
+					}
+				}
+			}
+
+			StationCapabilities: {
+				NameFor: {
+					1: {
+						OldString: "Tile "
+						NewString: "物块 "
+					}
+				}
+			}
+		}
 		Widgets: {
 			BrowserFluidSlot: {
 				Draw: {
@@ -994,6 +1525,134 @@ TerrariaCompat: {
 					1: {
 						OldString: "From: "
 						NewString: 来自：
+					}
+				}
+			}
+
+			MePatternEncodingBar: {
+				*ctor: {
+					1: {
+						OldString: "Crafting pattern - put pattern provider touching Terraria crafting station"
+						NewString: "合成样板 - 将样板供应器贴着泰拉瑞亚合成站放置"
+					}
+
+					2: {
+						OldString: "Processing pattern - put pattern provider touching chest or another storage container"
+						NewString: "处理样板 - 将样板供应器贴着箱子或其他存储容器放置"
+					}
+
+					3: {
+						OldString: "Put blank ME patterns here"
+						NewString: "将空白 ME 样板放于此处"
+					}
+
+					4: {
+						OldString: "The encoded pattern appears here - take it out and drop it in a Pattern\nProvider. Drop an existing pattern here to load it back into the grid for editing"
+						NewString: "编码好的样板会出现在这里 - 取出后放入样板供应器。\n把已有样板放回此处，可重新载入网格编辑"
+					}
+
+					5: {
+						OldString: "Can't encode: in Crafting mode this recipe has no vanilla station form (switch to Processing), or there's nothing to encode"
+						NewString: "无法编码：合成模式下此配方没有对应的原版合成站（请切换到处理模式），或没有可编码的内容"
+					}
+
+					6: {
+						OldString: "Rotate which output is the primary (first) output"
+						NewString: "轮换主（第一）产物"
+					}
+
+					7: {
+						OldString: "Double every input and output amount"
+						NewString: "所有输入与输出数量翻倍"
+					}
+
+					8: {
+						OldString: "Halve every input and output amount"
+						NewString: "所有输入与输出数量减半"
+					}
+
+					9: {
+						OldString: "Can't halve: some amount is odd"
+						NewString: "无法减半：存在奇数数量"
+					}
+				}
+			}
+
+			MeTerminalSortBar: {
+				*ctor: {
+					1: {
+						OldString: "Sort order: Name / Amount / Mod"
+						NewString: "排序依据：名称 / 数量 / 模组"
+					}
+
+					2: {
+						OldString: "Sort direction"
+						NewString: "排序方向"
+					}
+
+					3: {
+						OldString: "View: All / Stored / Craftable"
+						NewString: "视图：全部 / 已存储 / 可合成"
+					}
+				}
+
+				SortLabel: {
+					1: {
+						OldString: "Name"
+						NewString: "名称"
+					}
+
+					2: {
+						OldString: "Amount"
+						NewString: "数量"
+					}
+
+					3: {
+						OldString: "Mod"
+						NewString: "模组"
+					}
+				}
+
+				ViewLabel: {
+					1: {
+						OldString: "All"
+						NewString: "全部"
+					}
+
+					2: {
+						OldString: "Stored"
+						NewString: "已存储"
+					}
+
+					3: {
+						OldString: "Craftable"
+						NewString: "可合成"
+					}
+				}
+
+				<*ctor>b__1_0: {
+					1: {
+						OldString: "Sort: "
+						NewString: "排序："
+					}
+				}
+
+				<*ctor>b__1_1: {
+					1: {
+						OldString: "Direction: Descending"
+						NewString: "方向：降序"
+					}
+
+					2: {
+						OldString: "Direction: Ascending"
+						NewString: "方向：升序"
+					}
+				}
+
+				<*ctor>b__1_2: {
+					1: {
+						OldString: "View: "
+						NewString: "视图："
 					}
 				}
 			}
@@ -1201,6 +1860,30 @@ TerrariaCompat: {
 
 							（未解析）
 							'''
+					}
+				}
+			}
+
+			TerminalCraftableView: {
+				Label: {
+					1: {
+						OldString: "None"
+						NewString: "无"
+					}
+
+					2: {
+						OldString: "Craftable"
+						NewString: "可合成"
+					}
+
+					3: {
+						OldString: "All"
+						NewString: "全部"
+					}
+
+					4: {
+						OldString: "All + GT"
+						NewString: "全部+GT"
 					}
 				}
 			}
@@ -1528,6 +2211,101 @@ TerrariaCompat: {
 				}
 			}
 
+			UIMeTerminalGrid: {
+				*ctor: {
+					1: {
+						OldString: "Search...   RMB clear   @mod $tag *id"
+						NewString: "搜索...   右键清除   @mod $tag *id"
+					}
+				}
+
+				DrawSelf: {
+					1: {
+						OldString: "Network empty. Put ME cable near\nchests/tanks/Magic Storage Access tiles and\nsetup Storage Bus on a cable to connect\nthem to the network"
+						NewString: "网络为空。将 ME 线缆放在箱子、储罐或魔法存储\n访问站附近，并在线缆上设置存储总线，即可将\n它们接入网络"
+					}
+
+					2: {
+						OldString: "No matching items"
+						NewString: "没有匹配的物品"
+					}
+
+					3: {
+						OldString: "[Not connected]"
+						NewString: "[未连接]"
+					}
+
+					4: {
+						OldString: "Craft"
+						NewString: "合成"
+					}
+
+					5: {
+						OldString: "MMB - request crafting"
+						NewString: "中键 - 请求合成"
+					}
+				}
+			}
+
+			UINumericStepper: {
+				*ctor: {
+					1: {
+						OldString: "(Shift x10, Ctrl x100; RMB inverts)"
+						NewString: "(Shift ×10, Ctrl ×100; 右键反向)"
+					}
+				}
+			}
+
+			UIPatternAccessList: {
+				*ctor: {
+					1: {
+						OldString: "Search name / output...   RMB clear"
+						NewString: "搜索名称 / 产物...   右键清除"
+					}
+
+					2: {
+						OldString: "Which providers to list:\nVisible (not hidden) / Not Full / All"
+						NewString: "列出哪些供应器：\n可见（未被隐藏）/ 未满 / 全部"
+					}
+				}
+
+				ShowModeLabel: {
+					1: {
+						OldString: "Not Full"
+						NewString: "未满"
+					}
+
+					2: {
+						OldString: "All"
+						NewString: "全部"
+					}
+
+					3: {
+						OldString: "Visible"
+						NewString: "可见"
+					}
+				}
+
+				DrawSelf: {
+					1: {
+						OldString: "No pattern providers"
+						NewString: "没有样板供应器"
+					}
+
+					2: {
+						OldString: "[Not connected]"
+						NewString: "[未连接]"
+					}
+				}
+
+				<*ctor>b__29_1: {
+					1: {
+						OldString: "Show: "
+						NewString: "显示："
+					}
+				}
+			}
+
 			UIPhantomFluidSlot: {
 				BuildTooltip: {
 					1: {
@@ -1738,6 +2516,54 @@ TerrariaCompat: {
 					}
 				}
 			}
+			MePatternEncodingBar+<>c: {
+				<*ctor>b__8_4: {
+					1: {
+						OldString: "Select Recipe"
+						NewString: "选择配方"
+					}
+				}
+
+				<*ctor>b__8_7: {
+					1: {
+						OldString: "Clear"
+						NewString: "清空"
+					}
+				}
+
+				<*ctor>b__8_9: {
+					1: {
+						OldString: "Encode"
+						NewString: "编码"
+					}
+				}
+
+				<*ctor>b__8_12: {
+					1: {
+						OldString: "Cycle Output"
+						NewString: "轮换产物"
+					}
+				}
+			}
+
+			MePatternEncodingBar+<>c__DisplayClass8_0: {
+				<*ctor>b__6: {
+					1: {
+						OldString: "Use\n\"Select\nRecipe\""
+						NewString: "请使用\n「选择\n配方」"
+					}
+				}
+			}
+
+			UIPatternAccessList+<>c: {
+				<BuildCard>b__42_0: {
+					1: {
+						OldString: "Show in World"
+						NewString: "在世界中定位"
+					}
+				}
+			}
+
 		}
 
 		Profiler: {
@@ -2873,7 +3699,7 @@ TerrariaCompat: {
 			}
 
 			FluidHatchLayout+<>c: {
-				<BuildSingle>b__4: {
+				<BuildSingle>b__5_6: {
 					1: {
 						OldString: Fluid Locking Enabled
 						NewString: 流体锁定：开启
@@ -3017,6 +3843,95 @@ TerrariaCompat: {
 					4: {
 						OldString: Fuel
 						NewString: 燃料
+					}
+				}
+			}
+
+			MeInterfaceLayout: {
+				Build: {
+					1: {
+						OldString: "Priority"
+						NewString: "优先级"
+					}
+
+					2: {
+						OldString: "Request autocrafting for configured items the network can't supply."
+						NewString: "为库存配置中网络无法供应的物品自动请求合成。"
+					}
+
+					3: {
+						OldString: "Settings"
+						NewString: "设置"
+					}
+
+					4: {
+						OldString: "Stock"
+						NewString: "库存"
+					}
+
+					5: {
+						OldString: "Stocked"
+						NewString: "已库存"
+					}
+				}
+			}
+
+			MePatternProviderLayout: {
+				Build: {
+					1: {
+						OldString: "Blocking Mode: when ON, won't push a pattern's inputs into an adjacent\nmachine that still holds them (waits for the previous batch to finish)"
+						NewString: "阻挡模式：开启时，不会把样板材料推入仍持有上一批\n材料的相邻机器（等待上一批完成）"
+					}
+
+					2: {
+						OldString: "Block next request until some condition"
+						NewString: "在满足某条件前阻塞下一次请求"
+					}
+
+					3: {
+						OldString: "Whether this provider appears in the ME Pattern Access Terminal"
+						NewString: "此供应器是否显示在 ME 样板管理终端中"
+					}
+
+					4: {
+						OldString: "Push side"
+						NewString: "推送面"
+					}
+
+					5: {
+						OldString: "Settings"
+						NewString: "设置"
+					}
+
+					6: {
+						OldString: "Patterns (put encoded patterns in empty slots)"
+						NewString: "样板（将已编码样板放入空槽位）"
+					}
+				}
+
+				LockModeLabel: {
+					1: {
+						OldString: "Red wire signal"
+						NewString: "红线信号"
+					}
+
+					2: {
+						OldString: "Until result returns"
+						NewString: "直至产物返回"
+					}
+
+					3: {
+						OldString: "None"
+						NewString: "无"
+					}
+				}
+			}
+
+			MeStorageLayout: {
+				Build: {
+					1: {
+						OldString: "Network Storage"
+						NewString: "ME网络存储"
 					}
 				}
 			}
@@ -3831,6 +4746,84 @@ TerrariaCompat: {
 					2: {
 						OldString: F2
 						NewString: F2
+					}
+				}
+			}
+
+			MeInterfaceLayout+<>c__DisplayClass0_0: {
+				<Build>b__2: {
+					1: {
+						OldString: "Craft Missing: OFF"
+						NewString: "缺货自动合成：关"
+					}
+
+					2: {
+						OldString: "Craft Missing: ON"
+						NewString: "缺货自动合成：开"
+					}
+				}
+			}
+
+			MePatternProviderLayout+<>c__DisplayClass0_0: {
+				<Build>b__3: {
+					1: {
+						OldString: "Blocking: OFF"
+						NewString: "阻挡：关"
+					}
+
+					2: {
+						OldString: "Blocking: ON"
+						NewString: "阻挡：开"
+					}
+				}
+
+				<Build>b__6: {
+					1: {
+						OldString: "Lock: "
+						NewString: "锁定："
+					}
+				}
+
+				<Build>b__9: {
+					1: {
+						OldString: "In Access Terminal: HIDDEN"
+						NewString: "样板管理终端中：隐藏"
+					}
+
+					2: {
+						OldString: "In Access Terminal: SHOWN"
+						NewString: "样板管理终端中：显示"
+					}
+				}
+			}
+
+			MeStorageLayout+<>c__DisplayClass0_0: {
+				<Build>b__0: {
+					1: {
+						OldString: " cables, "
+						NewString: " 根线缆，"
+					}
+
+					2: {
+						OldString: " devices"
+						NewString: " 个设备"
+					}
+
+					3: {
+						OldString: "[c/FF8888:Not connected]"
+						NewString: "[c/FF8888:未连接]"
+					}
+				}
+
+				<Build>b__1: {
+					1: {
+						OldString: " types   "
+						NewString: " 种   "
+					}
+
+					2: {
+						OldString: " units"
+						NewString: " 个"
 					}
 				}
 			}
@@ -9319,6 +10312,41 @@ TerrariaCompat: {
 				1: {
 					OldString: Right-click an unformed multiblock controller to auto-build its structure from blocks in your inventory
 					NewString: 右键点击未成型的多方块控制器，从背包中的方块自动构建其结构
+				}
+			}
+		}
+
+		Terminal: {
+			MeTerminalUpgradeCardItem: {
+				ModifyTooltips: {
+					1: {
+						OldString: "Install in an ME Terminal upgrade slot"
+						NewString: "安装到 ME 终端的升级槽中"
+					}
+				}
+			}
+
+			MeTerminalUpgradeLoader: {
+				Register: {
+					1: {
+						OldString: "Crafting Terminal Card"
+						NewString: "合成终端卡"
+					}
+
+					2: {
+						OldString: "Crafting Status Terminal Card"
+						NewString: "合成状态终端卡"
+					}
+
+					3: {
+						OldString: "Pattern Access Terminal Card"
+						NewString: "样板管理终端卡"
+					}
+
+					4: {
+						OldString: "Pattern Encoding Terminal Card"
+						NewString: "样板编码终端卡"
+					}
 				}
 			}
 		}
