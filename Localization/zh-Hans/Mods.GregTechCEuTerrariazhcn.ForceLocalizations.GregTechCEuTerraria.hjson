@@ -483,17 +483,16 @@ TerrariaCompat: {
 			}
 		}
 
-
 		FreeModalWindow: {
 			LayoutHeaderButtons: {
 				1: {
-					OldString: "Close"
-					NewString: "关闭"
+					OldString: Close
+					NewString: 关闭
 				}
 
 				2: {
-					OldString: "Pin open (Escape won't close it)"
-					NewString: "固定打开（按 Esc 也不会关闭）"
+					OldString: Pin open (Escape won't close it)
+					NewString: 固定打开（按 Esc 也不会关闭）
 				}
 			}
 		}
@@ -501,11 +500,12 @@ TerrariaCompat: {
 		FreeModalWindow+<>c: {
 			<LayoutHeaderButtons>b__49_2: {
 				1: {
-					OldString: "Pin"
-					NewString: "固定"
+					OldString: Pin
+					NewString: 固定
 				}
 			}
 		}
+
 		GlobalRecipeBrowserState: {
 			HintFor: {
 				1: {
@@ -562,22 +562,30 @@ TerrariaCompat: {
 
 				5: {
 					OldString: "Tip: hover an item and press "
-					NewString: "提示：悬停物品并按"
+					NewString: 提示：悬停物品并按
 				}
 
 				6: {
 					OldString: " (how to obtain) or "
-					NewString: "（如何获取）或"
+					NewString: （如何获取）或
 				}
 
 				7: {
-					OldString: " (used as ingredient)\n"
-					NewString: "（用作材料）\n"
+					OldString:
+						'''
+						 (used as ingredient)
+
+						'''
+					NewString:
+						'''
+						（用作材料）
+
+						'''
 				}
 
 				8: {
-					OldString: "Ctrl+LMB: cheat 1 to inventory   Ctrl+RMB: a full stack (Journey Mode)"
-					NewString: "Ctrl+左键：作弊添加1个到背包   Ctrl+右键：整组（旅行模式）"
+					OldString: Ctrl+LMB: cheat 1 to inventory   Ctrl+RMB: a full stack (Journey Mode)
+					NewString: Ctrl+左键：作弊添加1个到背包   Ctrl+右键：整组（旅行模式）
 				}
 			}
 
@@ -723,13 +731,13 @@ TerrariaCompat: {
 				}
 
 				4: {
-					OldString: "Terraria"
-					NewString: "泰拉瑞亚"
+					OldString: Terraria
+					NewString: 泰拉瑞亚
 				}
 
 				5: {
-					OldString: "GregTechCEuTerraria"
-					NewString: "格雷科技"
+					OldString: GregTechCEuTerraria
+					NewString: 格雷科技
 				}
 			}
 
@@ -789,155 +797,217 @@ TerrariaCompat: {
 
 			RebuildWindow: {
 				1: {
-					OldString: "History"
-					NewString: "历史"
+					OldString: History
+					NewString: 历史
 				}
 
 				2: {
-					OldString: "lookups appear here"
-					NewString: "查询记录会显示在这里"
+					OldString: lookups appear here
+					NewString: 查询记录会显示在这里
 				}
 
 				3: {
-					OldString: "Search...  |  RMB to clear"
-					NewString: "搜索...  |  右键清除"
+					OldString: Search...  |  RMB to clear
+					NewString: 搜索...  |  右键清除
 				}
 
 				4: {
-					OldString: "Drag to move the browser"
-					NewString: "拖动移动浏览器"
+					OldString: Drag to move the browser
+					NewString: 拖动移动浏览器
 				}
 
 				5: {
-					OldString: "Settings"
-					NewString: "设置"
+					OldString: Settings
+					NewString: 设置
 				}
 
 				6: {
-					OldString: "Recipes"
-					NewString: "配方"
+					OldString: Recipes
+					NewString: 配方
 				}
 
 				7: {
-					OldString: "Items"
-					NewString: "物品"
+					OldString: Items
+					NewString: 物品
 				}
 
 				8: {
-					OldString: "Loot"
-					NewString: "战利品"
+					OldString: Loot
+					NewString: 战利品
 				}
 
 				9: {
-					OldString: "Equippable"
-					NewString: "装备"
+					OldString: Equippable
+					NewString: 装备
 				}
 
 				10: {
-					OldString: "Show or hide recipe filters"
-					NewString: "显示或隐藏配方过滤器"
+					OldString: Show or hide recipe filters
+					NewString: 显示或隐藏配方过滤器
 				}
 
 				11: {
-					OldString: "Close docked browser"
-					NewString: "关闭停靠的浏览器"
+					OldString: Close docked browser
+					NewString: 关闭停靠的浏览器
 				}
 
 				12: {
-					OldString: "Hide useless recipes (machines recycling, extracting, etc.)"
-					NewString: "隐藏无用配方（机器回收、萃取等）"
+					OldString: Hide useless recipes (machines recycling, extracting, etc.)
+					NewString: 隐藏无用配方（机器回收、萃取等）
 				}
 
 				13: {
-					OldString: "Show only recipes you can craft from current inventory"
-					NewString: "仅显示当前背包可合成的配方"
+					OldString: Show only recipes you can craft from current inventory
+					NewString: 仅显示当前背包可合成的配方
 				}
 
 				14: {
-					OldString: "Also match recipes by their ingredients, not just their results"
-					NewString: "同时按材料（而不只是产物）匹配配方"
+					OldString: Also match recipes by their ingredients, not just their results
+					NewString: 同时按材料（而不只是产物）匹配配方
 				}
 
 				15: {
-					OldString: "Click to clear the active filter"
-					NewString: "点击清除当前过滤器"
+					OldString: Click to clear the active filter
+					NewString: 点击清除当前过滤器
 				}
 
 				16: {
-					OldString: "No recipes match this search"
-					NewString: "没有符合搜索的配方"
+					OldString: No recipes match this search
+					NewString: 没有符合搜索的配方
 				}
 
 				17: {
-					OldString: "No items match this search"
-					NewString: "没有符合搜索的物品"
+					OldString: No items match this search
+					NewString: 没有符合搜索的物品
 				}
 
 				18: {
-					OldString: "No equippable items match this search"
-					NewString: "没有符合搜索的装备"
+					OldString: No equippable items match this search
+					NewString: 没有符合搜索的装备
 				}
 
 				19: {
-					OldString: "No loot matches this search"
-					NewString: "没有符合搜索的战利品"
+					OldString: No loot matches this search
+					NewString: 没有符合搜索的战利品
 				}
 
 				20: {
-					OldString: "Drag to resize the browser"
-					NewString: "拖动调整浏览器大小"
+					OldString: Drag to resize the browser
+					NewString: 拖动调整浏览器大小
 				}
 			}
 
 			*cctor: {
 				1: {
-					OldString: "Helmets"
-					NewString: "头盔"
+					OldString: Helmets
+					NewString: 头盔
 				}
 
 				2: {
-					OldString: "Shirts"
-					NewString: "上衣"
+					OldString: Shirts
+					NewString: 上衣
 				}
 
 				3: {
-					OldString: "Pants"
-					NewString: "裤子"
+					OldString: Pants
+					NewString: 裤子
 				}
 
 				4: {
-					OldString: "Trinkets"
-					NewString: "饰品"
+					OldString: Trinkets
+					NewString: 饰品
 				}
 
 				5: {
-					OldString: "Dyes"
-					NewString: "染料"
+					OldString: Dyes
+					NewString: 染料
 				}
 
 				6: {
-					OldString: "Mounts"
-					NewString: "坐骑"
+					OldString: Mounts
+					NewString: 坐骑
 				}
 
 				7: {
-					OldString: "Hooks"
-					NewString: "抓钩"
+					OldString: Hooks
+					NewString: 抓钩
 				}
 
 				8: {
-					OldString: "Minecarts"
-					NewString: "矿车"
+					OldString: Minecarts
+					NewString: 矿车
 				}
 
 				9: {
-					OldString: "Pet"
-					NewString: "宠物"
+					OldString: Pet
+					NewString: 宠物
 				}
 
 				10: {
-					OldString: "Light Pet"
-					NewString: "光源宠物"
+					OldString: Light Pet
+					NewString: 光源宠物
+				}
+			}
+		}
+
+		GlobalRecipeBrowserState+<>c: {
+			<RebuildWindow>b__93_12: {
+				1: {
+					OldString: "Hide obvious"
+					NewString: "隐藏明显"
+				}
+			}
+
+			<RebuildWindow>b__93_14: {
+				1: {
+					OldString: "Have ingredients"
+					NewString: "拥有材料"
+				}
+			}
+
+			<RebuildWindow>b__93_16: {
+				1: {
+					OldString: "Search ingredients"
+					NewString: "搜索材料"
+				}
+			}
+
+			<RebuildWindow>b__93_22: {
+				1: {
+					OldString: "< Back"
+					NewString: "< 返回"
+				}
+			}
+
+			<RebuildModToggles>b__122_0: {
+				1: {
+					OldString: "Show everything"
+					NewString: "显示全部"
+				}
+			}
+
+			<BuildEquipToggles>b__144_0: {
+				1: {
+					OldString: "Show all types"
+					NewString: "显示所有类型"
+				}
+			}
+		}
+
+		GlobalRecipeBrowserState+<>c__DisplayClass122_0: {
+			<RebuildModToggles>b__3: {
+				1: {
+					OldString: "Show "
+					NewString: "显示 "
+				}
+			}
+		}
+
+		GlobalRecipeBrowserState+<>c__DisplayClass144_0: {
+			<BuildEquipToggles>b__3: {
+				1: {
+					OldString: "Show "
+					NewString: "显示 "
 				}
 			}
 		}
@@ -952,13 +1022,13 @@ TerrariaCompat: {
 
 			DrawDockedButton: {
 				1: {
-					OldString: "Open Too Many Items docked"
-					NewString: "打开 太多物品了（停靠）"
+					OldString: Open Too Many Items docked
+					NewString: 打开 太多物品了（停靠）
 				}
 
 				2: {
-					OldString: "Close Too Many Items docked"
-					NewString: "关闭 太多物品了（停靠）"
+					OldString: Close Too Many Items docked
+					NewString: 关闭 太多物品了（停靠）
 				}
 			}
 		}
@@ -972,22 +1042,53 @@ TerrariaCompat: {
 			}
 		}
 
-
 		UILayers: {
 			DrawHotkeyTooltip: {
 				1: {
-					OldString: "\nHotkey: "
-					NewString: "\n热键："
+					OldString:
+						'''
+
+						Hotkey: 
+						'''
+					NewString:
+						'''
+
+						热键：
+						'''
 				}
 			}
 
 			HotkeyLabel: {
 				1: {
-					OldString: "ASSIGN IN SETTINGS"
-					NewString: "在设置中指定"
+					OldString: ASSIGN IN SETTINGS
+					NewString: 在设置中指定
 				}
 			}
 		}
+
+		UILayers+<>c: {
+			<Insert>b__37_0: {
+				1: {
+					OldString: "Vanilla: Mouse Text"
+					NewString: "原版：鼠标文本"
+				}
+			}
+
+			<Insert>b__37_1: {
+				1: {
+					OldString: "Vanilla: Info Accessories Bar"
+					NewString: "原版：信息饰品栏"
+				}
+			}
+
+			<Insert>b__37_2: {
+				1: {
+					OldString: "Vanilla: Inventory"
+					NewString: "原版：物品栏"
+				}
+			}
+		}
+
 		MachineUIState: {
 			AppendIOConfigPanel: {
 				1: {
@@ -1202,294 +1303,369 @@ TerrariaCompat: {
 			}
 		}
 
-
-
 		MeBus: {
 			MeBusSettingsState: {
 				SideWord: {
 					1: {
-						OldString: "Up"
-						NewString: "上"
+						OldString: Up
+						NewString: 上
 					}
 
 					2: {
-						OldString: "Down"
-						NewString: "下"
+						OldString: Down
+						NewString: 下
 					}
 
 					3: {
-						OldString: "Left"
-						NewString: "左"
+						OldString: Left
+						NewString: 左
 					}
 
 					4: {
-						OldString: "Right"
-						NewString: "右"
+						OldString: Right
+						NewString: 右
 					}
 				}
 
 				BuildSideCell: {
 					1: {
 						OldString: ": "
-						NewString: "："
+						NewString: ：
 					}
 
 					2: {
-						OldString: "None"
-						NewString: "无"
+						OldString: None
+						NewString: 无
 					}
 
 					3: {
-						OldString: "Storage"
-						NewString: "存储"
+						OldString: Storage
+						NewString: 存储
 					}
 
 					4: {
-						OldString: "Import"
-						NewString: "导入"
+						OldString: Import
+						NewString: 导入
 					}
 
 					5: {
-						OldString: "Export"
-						NewString: "导出"
+						OldString: Export
+						NewString: 导出
 					}
 				}
 
 				BuildCenterCell: {
 					1: {
-						OldString: "ME Network"
-						NewString: "ME网络"
+						OldString: ME Network
+						NewString: ME网络
 					}
 
 					2: {
-						OldString: "("
-						NewString: "（"
+						OldString: (
+						NewString: （
 					}
 
 					3: {
 						OldString: ", "
-						NewString: "，"
+						NewString: ，
 					}
 
 					4: {
-						OldString: ")"
-						NewString: "）"
+						OldString: )
+						NewString: ）
 					}
 				}
 
 				<BuildCenterCell>b__50_0: {
 					1: {
 						OldString: "Cables: "
-						NewString: "线缆："
+						NewString: 线缆：
 					}
 
 					2: {
-						OldString: "Cables: -"
-						NewString: "线缆：-"
+						OldString: Cables: -
+						NewString: 线缆：-
 					}
 				}
 
 				<BuildCenterCell>b__50_1: {
 					1: {
 						OldString: "Storage devices: "
-						NewString: "存储设备："
+						NewString: 存储设备：
 					}
 
 					2: {
-						OldString: "Storage devices: -"
-						NewString: "存储设备：-"
+						OldString: Storage devices: -
+						NewString: 存储设备：-
 					}
 				}
 
 				<BuildCenterCell>b__50_2: {
 					1: {
 						OldString: "Providers: "
-						NewString: "供应器："
+						NewString: 供应器：
 					}
 
 					2: {
-						OldString: "Providers: -"
-						NewString: "供应器：-"
+						OldString: Providers: -
+						NewString: 供应器：-
 					}
 				}
 
 				<BuildCenterCell>b__50_3: {
 					1: {
 						OldString: "Interfaces: "
-						NewString: "接口："
+						NewString: 接口：
 					}
 
 					2: {
-						OldString: "Interfaces: -"
-						NewString: "接口：-"
+						OldString: Interfaces: -
+						NewString: 接口：-
 					}
 				}
 
 				<BuildCenterCell>b__50_4: {
 					1: {
 						OldString: "Types: "
-						NewString: "种类："
+						NewString: 种类：
 					}
 
 					2: {
-						OldString: "Types: -"
-						NewString: "种类：-"
+						OldString: Types: -
+						NewString: 种类：-
 					}
 				}
 
 				BuildFilterZone: {
 					1: {
-						OldString: "Export list"
-						NewString: "导出列表"
+						OldString: Export list
+						NewString: 导出列表
 					}
 
 					2: {
-						OldString: "Filter (empty = all)"
-						NewString: "过滤（留空 = 全部）"
+						OldString: Filter (empty = all)
+						NewString: 过滤（留空 = 全部）
 					}
 
 					3: {
-						OldString: "Speed"
-						NewString: "速度"
+						OldString: Speed
+						NewString: 速度
 					}
 				}
 
 				AppendSchedulingRow: {
 					1: {
-						OldString: "Export list traversal order"
-						NewString: "导出列表的遍历顺序"
+						OldString: Export list traversal order
+						NewString: 导出列表的遍历顺序
 					}
 				}
 
 				BuildStorageZone: {
 					1: {
-						OldString: "Network access"
-						NewString: "网络访问"
+						OldString: Network access
+						NewString: 网络访问
 					}
 
 					2: {
-						OldString: "Read+Write"
-						NewString: "可读可写"
+						OldString: Read+Write
+						NewString: 可读可写
 					}
 
 					3: {
-						OldString: "Read Only"
-						NewString: "只读"
+						OldString: Read Only
+						NewString: 只读
 					}
 
 					4: {
-						OldString: "Write Only"
-						NewString: "只写"
+						OldString: Write Only
+						NewString: 只写
 					}
 
 					5: {
-						OldString: "Priority"
-						NewString: "优先级"
+						OldString: Priority
+						NewString: 优先级
 					}
 
 					6: {
-						OldString: "Partition (empty = any)"
-						NewString: "分区（留空 = 任意）"
+						OldString: Partition (empty = any)
+						NewString: 分区（留空 = 任意）
 					}
 				}
 
 				AppendStorageToggle: {
 					1: {
-						OldString: "Whether input-only slots are visible to network"
-						NewString: "仅用于输入的槽位是否对网络可见"
+						OldString: Whether input-only slots are visible to network
+						NewString: 仅用于输入的槽位是否对网络可见
 					}
 
 					2: {
-						OldString: "Whether the partition filter also restricts what the network can extract."
-						NewString: "分区过滤是否同时限制网络能提取的内容。"
+						OldString: Whether the partition filter also restricts what the network can extract.
+						NewString: 分区过滤是否同时限制网络能提取的内容。
 					}
 				}
 
 				AppendAccessButton: {
 					1: {
-						OldString: "Network can insert and extract through this inventory"
-						NewString: "网络可通过此库存存入和提取"
+						OldString: Network can insert and extract through this inventory
+						NewString: 网络可通过此库存存入和提取
 					}
 
 					2: {
-						OldString: "Network can only extract from this inventory"
-						NewString: "网络只能从此库存提取"
+						OldString: Network can only extract from this inventory
+						NewString: 网络只能从此库存提取
 					}
 
 					3: {
-						OldString: "Network can only insert into this inventory"
-						NewString: "网络只能向此库存存入"
+						OldString: Network can only insert into this inventory
+						NewString: 网络只能向此库存存入
 					}
 				}
 
 				CraftModeLabel: {
 					1: {
-						OldString: "Craft Missing"
-						NewString: "缺货自动合成"
+						OldString: Craft Missing
+						NewString: 缺货自动合成
 					}
 
 					2: {
-						OldString: "Craft Only"
-						NewString: "仅合成"
+						OldString: Craft Only
+						NewString: 仅合成
 					}
 
 					3: {
-						OldString: "OFF"
-						NewString: "关"
+						OldString: OFF
+						NewString: 关
 					}
 				}
 
 				AppendKindButton: {
 					1: {
-						OldString: "Expose container contents to the network"
-						NewString: "把容器内容公开给网络"
+						OldString: Expose container contents to the network
+						NewString: 把容器内容公开给网络
 					}
 
 					2: {
-						OldString: "Pull from container into network"
-						NewString: "从容器拉取进网络"
+						OldString: Pull from container into network
+						NewString: 从容器拉取进网络
 					}
 
 					3: {
-						OldString: "Push from container into network"
-						NewString: "把容器内容推入网络"
+						OldString: Push from container into network
+						NewString: 从网络推入容器
 					}
 				}
 			}
+			MeBusSettingsState+<>c__DisplayClass24_0: {
+				<BuildFilterZone>b__2: {
+					1: {
+						OldString: " items per tick"
+						NewString: " 物品/tick"
+					}
+				}
+			}
+
+			MeBusSettingsState+<>c__DisplayClass25_0: {
+				<AppendSchedulingRow>b__0: {
+					1: {
+						OldString: "Round Robin"
+						NewString: "轮流分配"
+					}
+
+					2: {
+						OldString: "Random"
+						NewString: "随机"
+					}
+
+					3: {
+						OldString: "Default"
+						NewString: "默认"
+					}
+
+					4: {
+						OldString: "Order: "
+						NewString: "顺序："
+					}
+				}
+			}
+
+			MeBusSettingsState+<>c__DisplayClass30_0: {
+				<AppendStorageToggle>b__0: {
+					1: {
+						OldString: "Show: "
+						NewString: "显示："
+					}
+
+					2: {
+						OldString: "All"
+						NewString: "全部"
+					}
+
+					3: {
+						OldString: "Extractable"
+						NewString: "可提取"
+					}
+
+					4: {
+						OldString: "Filter on Extract: "
+						NewString: "提取时过滤："
+					}
+
+					5: {
+						OldString: "Off"
+						NewString: "关"
+					}
+
+					6: {
+						OldString: "On"
+						NewString: "开"
+					}
+				}
+			}
+
+			MeBusSettingsState+<>c__DisplayClass34_0: {
+				<AppendCraftCardRow>b__0: {
+					1: {
+						OldString: "Request Crafting: "
+						NewString: "请求合成："
+					}
+				}
+			}
+
 		}
+
 		MeCraft: {
 			CraftAmountWindow: {
 				*ctor: {
 					1: {
-						OldString: "Request Crafting"
-						NewString: "请求合成"
+						OldString: Request Crafting
+						NewString: 请求合成
 					}
 
 					2: {
-						OldString: "Next"
-						NewString: "下一步"
+						OldString: Next
+						NewString: 下一步
 					}
 
 					3: {
-						OldString: "Calculate the crafting plan"
-						NewString: "计算合成计划"
+						OldString: Calculate the crafting plan
+						NewString: 计算合成计划
 					}
 				}
 
 				Bind_Point16_AEKey_Int64: {
 					1: {
-						OldString: "Request Crafting"
-						NewString: "请求合成"
+						OldString: Request Crafting
+						NewString: 请求合成
 					}
 
 					2: {
-						OldString: "Next"
-						NewString: "下一步"
+						OldString: Next
+						NewString: 下一步
 					}
 
 					3: {
-						OldString: "Calculate the crafting plan"
-						NewString: "计算合成计划"
+						OldString: Calculate the crafting plan
+						NewString: 计算合成计划
 					}
 				}
 			}
@@ -1497,13 +1673,13 @@ TerrariaCompat: {
 			CraftConfirmWindow: {
 				BuildPanel: {
 					1: {
-						OldString: "Crafting Plan"
-						NewString: "合成计划"
+						OldString: Crafting Plan
+						NewString: 合成计划
 					}
 
 					2: {
 						OldString: "Bytes used: "
-						NewString: "已用字节："
+						NewString: 已用字节：
 					}
 
 					3: {
@@ -1532,40 +1708,40 @@ TerrariaCompat: {
 					}
 
 					8: {
-						OldString: "Choose which Crafting CPU runs this job"
-						NewString: "选择执行此任务的合成CPU"
+						OldString: Choose which Crafting CPU runs this job
+						NewString: 选择执行此任务的合成CPU
 					}
 
 					9: {
-						OldString: "Reopen the craft window and try again"
-						NewString: "重新打开合成窗口后重试"
+						OldString: Reopen the craft window and try again
+						NewString: 重新打开合成窗口后重试
 					}
 
 					10: {
-						OldString: "Recompute the plan against the current network contents"
-						NewString: "根据网络当前内容重新计算"
+						OldString: Recompute the plan against the current network contents
+						NewString: 根据网络当前内容重新计算
 					}
 
 					11: {
-						OldString: "Begin crafting"
-						NewString: "开始合成"
+						OldString: Begin crafting
+						NewString: 开始合成
 					}
 				}
 
 				CpuLabel: {
 					1: {
-						OldString: "No Crafting CPUs"
-						NewString: "没有可用的合成CPU"
+						OldString: No Crafting CPUs
+						NewString: 没有可用的合成CPU
 					}
 
 					2: {
-						OldString: "CPU: Automatic"
-						NewString: "CPU：自动"
+						OldString: CPU: Automatic
+						NewString: CPU：自动
 					}
 
 					3: {
-						OldString: "CPU: ("
-						NewString: "CPU：("
+						OldString: CPU: (
+						NewString: CPU：(
 					}
 
 					4: {
@@ -1574,32 +1750,32 @@ TerrariaCompat: {
 					}
 
 					5: {
-						OldString: "b"
+						OldString: b
 						NewString: " 字节"
 					}
 				}
 
 				<BuildPanel>b__19_2: {
 					1: {
-						OldString: "Show Missing"
-						NewString: "显示缺失"
+						OldString: Show Missing
+						NewString: 显示缺失
 					}
 
 					2: {
-						OldString: "Show All"
-						NewString: "显示全部"
+						OldString: Show All
+						NewString: 显示全部
 					}
 				}
 
 				<BuildPanel>b__19_4: {
 					1: {
-						OldString: "Show Graph"
-						NewString: "显示图表"
+						OldString: Show Graph
+						NewString: 显示图表
 					}
 
 					2: {
-						OldString: "Show List"
-						NewString: "显示列表"
+						OldString: Show List
+						NewString: 显示列表
 					}
 				}
 			}
@@ -1607,36 +1783,36 @@ TerrariaCompat: {
 			CraftConfirmWindow+<>c: {
 				<BuildPanel>b__19_7: {
 					1: {
-						OldString: "Retry"
-						NewString: "重试"
+						OldString: Retry
+						NewString: 重试
 					}
 				}
 
 				<BuildPanel>b__19_8: {
 					1: {
-						OldString: "Close"
-						NewString: "关闭"
+						OldString: Close
+						NewString: 关闭
 					}
 				}
 
 				<BuildPanel>b__19_9: {
 					1: {
-						OldString: "Close"
-						NewString: "关闭"
+						OldString: Close
+						NewString: 关闭
 					}
 				}
 
 				<BuildPanel>b__19_10: {
 					1: {
-						OldString: "Replan"
-						NewString: "重新计算"
+						OldString: Replan
+						NewString: 重新计算
 					}
 				}
 
 				<BuildPanel>b__19_11: {
 					1: {
-						OldString: "Start"
-						NewString: "开始"
+						OldString: Start
+						NewString: 开始
 					}
 				}
 			}
@@ -1644,8 +1820,8 @@ TerrariaCompat: {
 			CraftStatusView: {
 				*ctor: {
 					1: {
-						OldString: "Cancel the selected CPU's crafting job"
-						NewString: "取消所选合成CPU的任务"
+						OldString: Cancel the selected CPU's crafting job
+						NewString: 取消所选合成CPU的任务
 					}
 				}
 			}
@@ -1653,8 +1829,8 @@ TerrariaCompat: {
 			CraftStatusView+<>c: {
 				<*ctor>b__1_0: {
 					1: {
-						OldString: "Cancel Job"
-						NewString: "取消任务"
+						OldString: Cancel Job
+						NewString: 取消任务
 					}
 				}
 			}
@@ -1662,25 +1838,25 @@ TerrariaCompat: {
 			CraftStatusWindow: {
 				BuildPanel: {
 					1: {
-						OldString: "Crafting Status"
-						NewString: "合成状态"
+						OldString: Crafting Status
+						NewString: 合成状态
 					}
 
 					2: {
-						OldString: "Click a slot to see where it's crafted"
-						NewString: "点击槽位查看其合成来源"
+						OldString: Click a slot to see where it's crafted
+						NewString: 点击槽位查看其合成来源
 					}
 
 					3: {
-						OldString: "Cancel the selected CPU's crafting job"
-						NewString: "取消所选合成CPU的任务"
+						OldString: Cancel the selected CPU's crafting job
+						NewString: 取消所选合成CPU的任务
 					}
 				}
 
 				TitleText: {
 					1: {
-						OldString: "Crafting Status"
-						NewString: "合成状态"
+						OldString: Crafting Status
+						NewString: 合成状态
 					}
 
 					2: {
@@ -1693,25 +1869,33 @@ TerrariaCompat: {
 			CraftStatusWindow+CpuList: {
 				DrawSelf: {
 					1: {
-						OldString: "Crafting CPUs"
-						NewString: "合成CPU"
+						OldString: Crafting CPUs
+						NewString: 合成CPU
 					}
 
 					2: {
-						OldString: "Can't store results"
-						NewString: "无法存储产物"
+						OldString: Can't store results
+						NewString: 无法存储产物
 					}
 
 					3: {
-						OldString: "Idle"
-						NewString: "空闲"
+						OldString: Idle
+						NewString: 空闲
 					}
 				}
 
 				EmitCpuTooltip: {
 					1: {
-						OldString: "\n[c/C8C8C8:Storage: "
-						NewString: "\n[c/C8C8C8:存储："
+						OldString:
+							'''
+
+							[c/C8C8C8:Storage: 
+							'''
+						NewString:
+							'''
+
+							[c/C8C8C8:存储：
+							'''
 					}
 
 					2: {
@@ -1720,23 +1904,47 @@ TerrariaCompat: {
 					}
 
 					3: {
-						OldString: "\n[c/C8C8C8:Co-processors: "
-						NewString: "\n[c/C8C8C8:协处理器："
+						OldString:
+							'''
+
+							[c/C8C8C8:Co-processors: 
+							'''
+						NewString:
+							'''
+
+							[c/C8C8C8:协处理器：
+							'''
 					}
 
 					4: {
-						OldString: "\n[c/7CFF7C:Crafting "
-						NewString: "\n[c/7CFF7C:正在合成 "
+						OldString:
+							'''
+
+							[c/7CFF7C:Crafting 
+							'''
+						NewString:
+							'''
+
+							[c/7CFF7C:正在合成 
+							'''
 					}
 
 					5: {
-						OldString: "% done]"
-						NewString: "% 已完成]"
+						OldString: % done]
+						NewString: % 已完成]
 					}
 
 					6: {
-						OldString: "\n[c/AAAAAA:Idle]"
-						NewString: "\n[c/AAAAAA:空闲]"
+						OldString:
+							'''
+
+							[c/AAAAAA:Idle]
+							'''
+						NewString:
+							'''
+
+							[c/AAAAAA:空闲]
+							'''
 					}
 				}
 			}
@@ -1749,25 +1957,25 @@ TerrariaCompat: {
 					}
 
 					2: {
-						OldString: "Nothing crafting"
-						NewString: "当前没有合成任务"
+						OldString: Nothing crafting
+						NewString: 当前没有合成任务
 					}
 				}
 
 				Breakdown: {
 					1: {
 						OldString: "Crafting: "
-						NewString: "合成中："
+						NewString: 合成中：
 					}
 
 					2: {
 						OldString: "Scheduled: "
-						NewString: "已排程："
+						NewString: 已排程：
 					}
 
 					3: {
 						OldString: "Stored: "
-						NewString: "已存储："
+						NewString: 已存储：
 					}
 				}
 			}
@@ -1775,15 +1983,15 @@ TerrariaCompat: {
 			CraftStatusWindow+<>c: {
 				<BuildPanel>b__4_0: {
 					1: {
-						OldString: "Cancel Job"
-						NewString: "取消任务"
+						OldString: Cancel Job
+						NewString: 取消任务
 					}
 				}
 
 				<BuildPanel>b__4_1: {
 					1: {
-						OldString: "Close"
-						NewString: "关闭"
+						OldString: Close
+						NewString: 关闭
 					}
 				}
 			}
@@ -1791,13 +1999,13 @@ TerrariaCompat: {
 			StationCraftWindow: {
 				BuildPanel: {
 					1: {
-						OldString: "Request Crafting"
-						NewString: "请求合成"
+						OldString: Request Crafting
+						NewString: 请求合成
 					}
 
 					2: {
-						OldString: "Set to the maximum craftable with the current network contents"
-						NewString: "设为当前网络可合成的最大数量"
+						OldString: Set to the maximum craftable with the current network contents
+						NewString: 设为当前网络可合成的最大数量
 					}
 				}
 			}
@@ -1805,8 +2013,8 @@ TerrariaCompat: {
 			StationCraftWindow+RecipeListView: {
 				DrawSelf: {
 					1: {
-						OldString: "Add this recipe as a pattern"
-						NewString: "将此配方保存为样板"
+						OldString: Add this recipe as a pattern
+						NewString: 将此配方保存为样板
 					}
 				}
 			}
@@ -1814,15 +2022,15 @@ TerrariaCompat: {
 			StationCraftWindow+<>c: {
 				<BuildPanel>b__25_3: {
 					1: {
-						OldString: "Max"
-						NewString: "最大"
+						OldString: Max
+						NewString: 最大
 					}
 				}
 
 				<BuildPanel>b__25_4: {
 					1: {
-						OldString: "Craft"
-						NewString: "合成"
+						OldString: Craft
+						NewString: 合成
 					}
 				}
 			}
@@ -1832,18 +2040,18 @@ TerrariaCompat: {
 			CraftingStationsWindow: {
 				BuildPanel: {
 					1: {
-						OldString: "Crafting Stations"
-						NewString: "合成站"
+						OldString: Crafting Stations
+						NewString: 合成站
 					}
 
 					2: {
-						OldString: "Missing"
-						NewString: "未覆盖"
+						OldString: Missing
+						NewString: 未覆盖
 					}
 
 					3: {
-						OldString: "Covered"
-						NewString: "已覆盖"
+						OldString: Covered
+						NewString: 已覆盖
 					}
 				}
 			}
@@ -1851,80 +2059,80 @@ TerrariaCompat: {
 			MeModularTerminalHud: {
 				BuildModeToggles: {
 					1: {
-						OldString: "Terminal"
-						NewString: "终端"
+						OldString: Terminal
+						NewString: 终端
 					}
 
 					2: {
-						OldString: "Crafting Status"
-						NewString: "合成状态"
+						OldString: Crafting Status
+						NewString: 合成状态
 					}
 
 					3: {
-						OldString: "Pattern Access"
-						NewString: "样板管理"
+						OldString: Pattern Access
+						NewString: 样板管理
 					}
 				}
 
 				BuildUpper: {
 					1: {
-						OldString: "Configure which crafting stations this terminal can use"
-						NewString: "配置此终端可使用的合成站"
+						OldString: Configure which crafting stations this terminal can use
+						NewString: 配置此终端可使用的合成站
 					}
 				}
 
 				BuildCraftableRow: {
 					1: {
-						OldString: "Show manual craft:"
-						NewString: "显示手动合成："
+						OldString: Show manual craft:
+						NewString: 显示手动合成：
 					}
 				}
 
 				UpgradeSlotHint: {
 					1: {
-						OldString: "Available terminal upgrades can be put here:"
-						NewString: "可在此处放入可用的终端升级卡："
+						OldString: Available terminal upgrades can be put here:
+						NewString: 可在此处放入可用的终端升级卡：
 					}
 				}
 
 				BuildEncoding: {
 					1: {
-						OldString: "Pattern Encoding"
-						NewString: "样板编码"
+						OldString: Pattern Encoding
+						NewString: 样板编码
 					}
 				}
 
 				SortLabel: {
 					1: {
-						OldString: "Name"
-						NewString: "名称"
+						OldString: Name
+						NewString: 名称
 					}
 
 					2: {
-						OldString: "Amount"
-						NewString: "数量"
+						OldString: Amount
+						NewString: 数量
 					}
 
 					3: {
-						OldString: "Mod"
-						NewString: "模组"
+						OldString: Mod
+						NewString: 模组
 					}
 				}
 
 				ViewLabel: {
 					1: {
-						OldString: "All"
-						NewString: "全部"
+						OldString: All
+						NewString: 全部
 					}
 
 					2: {
-						OldString: "Stored"
-						NewString: "已存储"
+						OldString: Stored
+						NewString: 已存储
 					}
 
 					3: {
-						OldString: "Autocraftable"
-						NewString: "可自动合成"
+						OldString: Autocraftable
+						NewString: 可自动合成
 					}
 				}
 			}
@@ -1932,20 +2140,20 @@ TerrariaCompat: {
 			MeModularTerminalHud+<>c: {
 				<BuildUpper>b__12_1: {
 					1: {
-						OldString: "Crafting Stations"
-						NewString: "合成站"
+						OldString: Crafting Stations
+						NewString: 合成站
 					}
 				}
 
 				<BuildSortRow>b__14_3: {
 					1: {
-						OldString: "Search: Don't keep"
-						NewString: "搜索：不保留"
+						OldString: Search: Don't keep
+						NewString: 搜索：不保留
 					}
 
 					2: {
-						OldString: "Search: Keep on close"
-						NewString: "搜索：关闭时保留"
+						OldString: Search: Keep on close
+						NewString: 搜索：关闭时保留
 					}
 				}
 			}
@@ -1954,26 +2162,26 @@ TerrariaCompat: {
 				<BuildSortRow>b__0: {
 					1: {
 						OldString: "Sort: "
-						NewString: "排序："
+						NewString: 排序：
 					}
 				}
 
 				<BuildSortRow>b__1: {
 					1: {
-						OldString: "Direction: Descending"
-						NewString: "方向：降序"
+						OldString: Direction: Descending
+						NewString: 方向：降序
 					}
 
 					2: {
-						OldString: "Direction: Ascending"
-						NewString: "方向：升序"
+						OldString: Direction: Ascending
+						NewString: 方向：升序
 					}
 				}
 
 				<BuildSortRow>b__2: {
 					1: {
 						OldString: "View: "
-						NewString: "视图："
+						NewString: 视图：
 					}
 				}
 			}
@@ -1987,6 +2195,7 @@ TerrariaCompat: {
 				}
 			}
 		}
+
 		Widgets: {
 			BrowserFluidSlot: {
 				Draw: {
@@ -2021,48 +2230,56 @@ TerrariaCompat: {
 			MePatternEncodingBar: {
 				*ctor: {
 					1: {
-						OldString: "Crafting pattern - put pattern provider touching Terraria crafting station"
-						NewString: "合成样板 - 将样板供应器贴着泰拉瑞亚合成站放置"
+						OldString: Crafting pattern - put pattern provider touching Terraria crafting station
+						NewString: 合成样板 - 将样板供应器贴着泰拉瑞亚合成站放置
 					}
 
 					2: {
-						OldString: "Processing pattern - put pattern provider touching chest or another storage container"
-						NewString: "处理样板 - 将样板供应器贴着箱子或其他存储容器放置"
+						OldString: Processing pattern - put pattern provider touching chest or another storage container
+						NewString: 处理样板 - 将样板供应器贴着箱子或其他存储容器放置
 					}
 
 					3: {
-						OldString: "Put blank ME patterns here"
-						NewString: "将空白 ME 样板放于此处"
+						OldString: Put blank ME patterns here
+						NewString: 将空白 ME 样板放于此处
 					}
 
 					4: {
-						OldString: "The encoded pattern appears here - take it out and drop it in a Pattern\nProvider. Drop an existing pattern here to load it back into the grid for editing"
-						NewString: "编码好的样板会出现在这里 - 取出后放入样板供应器。\n把已有样板放回此处，可重新载入网格编辑"
+						OldString:
+							'''
+							The encoded pattern appears here - take it out and drop it in a Pattern
+							Provider. Drop an existing pattern here to load it back into the grid for editing
+							'''
+						NewString:
+							'''
+							编码好的样板会出现在这里 - 取出后放入样板供应器。
+							把已有样板放回此处，可重新载入网格编辑
+							'''
 					}
 
 					5: {
-						OldString: "Can't encode: in Crafting mode this recipe has no vanilla station form (switch to Processing), or there's nothing to encode"
-						NewString: "无法编码：合成模式下此配方没有对应的原版合成站（请切换到处理模式），或没有可编码的内容"
+						OldString: Can't encode: in Crafting mode this recipe has no vanilla station form (switch to Processing), or there's nothing to encode
+						NewString: 无法编码：合成模式下此配方没有对应的原版合成站（请切换到处理模式），或没有可编码的内容
 					}
 
 					6: {
-						OldString: "Rotate which output is the primary (first) output"
-						NewString: "轮换主（第一）产物"
+						OldString: Rotate which output is the primary (first) output
+						NewString: 轮换主（第一）产物
 					}
 
 					7: {
-						OldString: "Double every input and output amount"
-						NewString: "所有输入与输出数量翻倍"
+						OldString: Double every input and output amount
+						NewString: 所有输入与输出数量翻倍
 					}
 
 					8: {
-						OldString: "Halve every input and output amount"
-						NewString: "所有输入与输出数量减半"
+						OldString: Halve every input and output amount
+						NewString: 所有输入与输出数量减半
 					}
 
 					9: {
-						OldString: "Can't halve: some amount is odd"
-						NewString: "无法减半：存在奇数数量"
+						OldString: Can't halve: some amount is odd
+						NewString: 无法减半：存在奇数数量
 					}
 				}
 			}
@@ -2070,78 +2287,78 @@ TerrariaCompat: {
 			MeTerminalSortBar: {
 				*ctor: {
 					1: {
-						OldString: "Sort order: Name / Amount / Mod"
-						NewString: "排序依据：名称 / 数量 / 模组"
+						OldString: Sort order: Name / Amount / Mod
+						NewString: 排序依据：名称 / 数量 / 模组
 					}
 
 					2: {
-						OldString: "Sort direction"
-						NewString: "排序方向"
+						OldString: Sort direction
+						NewString: 排序方向
 					}
 
 					3: {
-						OldString: "View: All / Stored / Craftable"
-						NewString: "视图：全部 / 已存储 / 可合成"
+						OldString: View: All / Stored / Craftable
+						NewString: 视图：全部 / 已存储 / 可合成
 					}
 				}
 
 				SortLabel: {
 					1: {
-						OldString: "Name"
-						NewString: "名称"
+						OldString: Name
+						NewString: 名称
 					}
 
 					2: {
-						OldString: "Amount"
-						NewString: "数量"
+						OldString: Amount
+						NewString: 数量
 					}
 
 					3: {
-						OldString: "Mod"
-						NewString: "模组"
+						OldString: Mod
+						NewString: 模组
 					}
 				}
 
 				ViewLabel: {
 					1: {
-						OldString: "All"
-						NewString: "全部"
+						OldString: All
+						NewString: 全部
 					}
 
 					2: {
-						OldString: "Stored"
-						NewString: "已存储"
+						OldString: Stored
+						NewString: 已存储
 					}
 
 					3: {
-						OldString: "Craftable"
-						NewString: "可合成"
+						OldString: Craftable
+						NewString: 可合成
 					}
 				}
 
 				<*ctor>b__1_0: {
 					1: {
 						OldString: "Sort: "
-						NewString: "排序："
+						NewString: 排序：
 					}
 				}
 
 				<*ctor>b__1_1: {
 					1: {
-						OldString: "Direction: Descending"
-						NewString: "方向：降序"
+						OldString: Direction: Descending
+						NewString: 方向：降序
 					}
 
 					2: {
-						OldString: "Direction: Ascending"
-						NewString: "方向：升序"
+						OldString: Direction: Ascending
+						NewString: 方向：升序
 					}
 				}
 
 				<*ctor>b__1_2: {
 					1: {
 						OldString: "View: "
-						NewString: "视图："
+						NewString: 视图：
 					}
 				}
 			}
@@ -2356,23 +2573,23 @@ TerrariaCompat: {
 			TerminalCraftableView: {
 				Label: {
 					1: {
-						OldString: "None"
-						NewString: "无"
+						OldString: None
+						NewString: 无
 					}
 
 					2: {
-						OldString: "Craftable"
-						NewString: "可合成"
+						OldString: Craftable
+						NewString: 可合成
 					}
 
 					3: {
-						OldString: "All"
-						NewString: "全部"
+						OldString: All
+						NewString: 全部
 					}
 
 					4: {
-						OldString: "All + GT"
-						NewString: "全部+GT"
+						OldString: All + GT
+						NewString: 全部+GT
 					}
 				}
 			}
@@ -2615,13 +2832,21 @@ TerrariaCompat: {
 
 				*ctor: {
 					1: {
-						OldString: "Favorites"
-						NewString: "收藏"
+						OldString: Favorites
+						NewString: 收藏
 					}
 
 					2: {
-						OldString: "Alt+click\nto pin"
-						NewString: "Alt+点击\n以固定"
+						OldString:
+							'''
+							Alt+click
+							to pin
+							'''
+						NewString:
+							'''
+							Alt+点击
+							以固定
+							'''
 					}
 				}
 			}
@@ -2715,20 +2940,31 @@ TerrariaCompat: {
 			UIMeTerminalGrid: {
 				*ctor: {
 					1: {
-						OldString: "Search...   RMB clear   @mod $tag *id"
-						NewString: "搜索...   右键清除   @mod $tag *id"
+						OldString: Search...   RMB clear   @mod $tag *id
+						NewString: 搜索...   右键清除   @mod $tag *id
 					}
 				}
 
 				DrawSelf: {
 					1: {
-						OldString: "Network empty. Put ME cable near\nchests/tanks/Magic Storage Access tiles and\nsetup Storage Bus on a cable to connect\nthem to the network"
-						NewString: "网络为空。将 ME 线缆放在箱子、储罐或魔法存储\n访问站附近，并在线缆上设置存储总线，即可将\n它们接入网络"
+						OldString:
+							'''
+							Network empty. Put ME cable near
+							chests/tanks/Magic Storage Access tiles and
+							setup Storage Bus on a cable to connect
+							them to the network
+							'''
+						NewString:
+							'''
+							网络为空。将 ME 线缆放在箱子、储罐或魔法存储
+							访问站附近，并在线缆上设置存储总线，即可将
+							它们接入网络
+							'''
 					}
 
 					2: {
-						OldString: "No matching items"
-						NewString: "没有匹配的物品"
+						OldString: No matching items
+						NewString: 没有匹配的物品
 					}
 
 					3: {
@@ -2737,13 +2973,13 @@ TerrariaCompat: {
 					}
 
 					4: {
-						OldString: "Craft"
-						NewString: "合成"
+						OldString: Craft
+						NewString: 合成
 					}
 
 					5: {
-						OldString: "MMB - request crafting"
-						NewString: "中键 - 请求合成"
+						OldString: MMB - request crafting
+						NewString: 中键 - 请求合成
 					}
 				}
 			}
@@ -2751,8 +2987,8 @@ TerrariaCompat: {
 			UINumericStepper: {
 				*ctor: {
 					1: {
-						OldString: "(Shift x10, Ctrl x100; RMB inverts)"
-						NewString: "(Shift ×10, Ctrl ×100; 右键反向)"
+						OldString: (Shift x10, Ctrl x100; RMB inverts)
+						NewString: (Shift ×10, Ctrl ×100; 右键反向)
 					}
 				}
 			}
@@ -2760,37 +2996,45 @@ TerrariaCompat: {
 			UIPatternAccessList: {
 				*ctor: {
 					1: {
-						OldString: "Search name / output...   RMB clear"
-						NewString: "搜索名称 / 产物...   右键清除"
+						OldString: Search name / output...   RMB clear
+						NewString: 搜索名称 / 产物...   右键清除
 					}
 
 					2: {
-						OldString: "Which providers to list:\nVisible (not hidden) / Not Full / All"
-						NewString: "列出哪些供应器：\n可见（未被隐藏）/ 未满 / 全部"
+						OldString:
+							'''
+							Which providers to list:
+							Visible (not hidden) / Not Full / All
+							'''
+						NewString:
+							'''
+							列出哪些供应器：
+							可见（未被隐藏）/ 未满 / 全部
+							'''
 					}
 				}
 
 				ShowModeLabel: {
 					1: {
-						OldString: "Not Full"
-						NewString: "未满"
+						OldString: Not Full
+						NewString: 未满
 					}
 
 					2: {
-						OldString: "All"
-						NewString: "全部"
+						OldString: All
+						NewString: 全部
 					}
 
 					3: {
-						OldString: "Visible"
-						NewString: "可见"
+						OldString: Visible
+						NewString: 可见
 					}
 				}
 
 				DrawSelf: {
 					1: {
-						OldString: "No pattern providers"
-						NewString: "没有样板供应器"
+						OldString: No pattern providers
+						NewString: 没有样板供应器
 					}
 
 					2: {
@@ -2802,7 +3046,7 @@ TerrariaCompat: {
 				<*ctor>b__29_1: {
 					1: {
 						OldString: "Show: "
-						NewString: "显示："
+						NewString: 显示：
 					}
 				}
 			}
@@ -3017,32 +3261,33 @@ TerrariaCompat: {
 					}
 				}
 			}
+
 			MePatternEncodingBar+<>c: {
 				<*ctor>b__8_4: {
 					1: {
-						OldString: "Select Recipe"
-						NewString: "选择配方"
+						OldString: Select Recipe
+						NewString: 选择配方
 					}
 				}
 
 				<*ctor>b__8_7: {
 					1: {
-						OldString: "Clear"
-						NewString: "清空"
+						OldString: Clear
+						NewString: 清空
 					}
 				}
 
 				<*ctor>b__8_9: {
 					1: {
-						OldString: "Encode"
-						NewString: "编码"
+						OldString: Encode
+						NewString: 编码
 					}
 				}
 
 				<*ctor>b__8_12: {
 					1: {
-						OldString: "Cycle Output"
-						NewString: "轮换产物"
+						OldString: Cycle Output
+						NewString: 轮换产物
 					}
 				}
 			}
@@ -3050,8 +3295,18 @@ TerrariaCompat: {
 			MePatternEncodingBar+<>c__DisplayClass8_0: {
 				<*ctor>b__6: {
 					1: {
-						OldString: "Use\n\"Select\nRecipe\""
-						NewString: "请使用\n「选择\n配方」"
+						OldString:
+							'''
+							Use
+							"Select
+							Recipe"
+							'''
+						NewString:
+							'''
+							请使用
+							「选择
+							配方」
+							'''
 					}
 				}
 			}
@@ -3059,12 +3314,11 @@ TerrariaCompat: {
 			UIPatternAccessList+<>c: {
 				<BuildCard>b__42_0: {
 					1: {
-						OldString: "Show in World"
-						NewString: "在世界中定位"
+						OldString: Show in World
+						NewString: 在世界中定位
 					}
 				}
 			}
-
 		}
 
 		Profiler: {
@@ -4351,28 +4605,28 @@ TerrariaCompat: {
 			MeInterfaceLayout: {
 				Build: {
 					1: {
-						OldString: "Priority"
-						NewString: "优先级"
+						OldString: Priority
+						NewString: 优先级
 					}
 
 					2: {
-						OldString: "Request autocrafting for configured items the network can't supply."
-						NewString: "为库存配置中网络无法供应的物品自动请求合成。"
+						OldString: Request autocrafting for configured items the network can't supply.
+						NewString: 为库存配置中网络无法供应的物品自动请求合成。
 					}
 
 					3: {
-						OldString: "Settings"
-						NewString: "设置"
+						OldString: Settings
+						NewString: 设置
 					}
 
 					4: {
-						OldString: "Stock"
-						NewString: "库存"
+						OldString: Stock
+						NewString: 库存
 					}
 
 					5: {
-						OldString: "Stocked"
-						NewString: "已库存"
+						OldString: Stocked
+						NewString: 已库存
 					}
 				}
 			}
@@ -4380,50 +4634,58 @@ TerrariaCompat: {
 			MePatternProviderLayout: {
 				Build: {
 					1: {
-						OldString: "Blocking Mode: when ON, won't push a pattern's inputs into an adjacent\nmachine that still holds them (waits for the previous batch to finish)"
-						NewString: "阻挡模式：开启时，不会把样板材料推入仍持有上一批\n材料的相邻机器（等待上一批完成）"
+						OldString:
+							'''
+							Blocking Mode: when ON, won't push a pattern's inputs into an adjacent
+							machine that still holds them (waits for the previous batch to finish)
+							'''
+						NewString:
+							'''
+							阻挡模式：开启时，不会把样板材料推入仍持有上一批
+							材料的相邻机器（等待上一批完成）
+							'''
 					}
 
 					2: {
-						OldString: "Block next request until some condition"
-						NewString: "在满足某条件前阻塞下一次请求"
+						OldString: Block next request until some condition
+						NewString: 在满足某条件前阻塞下一次请求
 					}
 
 					3: {
-						OldString: "Whether this provider appears in the ME Pattern Access Terminal"
-						NewString: "此供应器是否显示在 ME 样板管理终端中"
+						OldString: Whether this provider appears in the ME Pattern Access Terminal
+						NewString: 此供应器是否显示在 ME 样板管理终端中
 					}
 
 					4: {
-						OldString: "Push side"
-						NewString: "推送面"
+						OldString: Push side
+						NewString: 推送面
 					}
 
 					5: {
-						OldString: "Settings"
-						NewString: "设置"
+						OldString: Settings
+						NewString: 设置
 					}
 
 					6: {
-						OldString: "Patterns (put encoded patterns in empty slots)"
-						NewString: "样板（将已编码样板放入空槽位）"
+						OldString: Patterns (put encoded patterns in empty slots)
+						NewString: 样板（将已编码样板放入空槽位）
 					}
 				}
 
 				LockModeLabel: {
 					1: {
-						OldString: "Red wire signal"
-						NewString: "红线信号"
+						OldString: Red wire signal
+						NewString: 红线信号
 					}
 
 					2: {
-						OldString: "Until result returns"
-						NewString: "直至产物返回"
+						OldString: Until result returns
+						NewString: 直至产物返回
 					}
 
 					3: {
-						OldString: "None"
-						NewString: "无"
+						OldString: None
+						NewString: 无
 					}
 				}
 			}
@@ -4431,8 +4693,8 @@ TerrariaCompat: {
 			MeStorageLayout: {
 				Build: {
 					1: {
-						OldString: "Network Storage"
-						NewString: "ME网络存储"
+						OldString: Network Storage
+						NewString: ME网络存储
 					}
 				}
 			}
@@ -5254,13 +5516,13 @@ TerrariaCompat: {
 			MeInterfaceLayout+<>c__DisplayClass0_0: {
 				<Build>b__2: {
 					1: {
-						OldString: "Craft Missing: OFF"
-						NewString: "缺货自动合成：关"
+						OldString: Craft Missing: OFF
+						NewString: 缺货自动合成：关
 					}
 
 					2: {
-						OldString: "Craft Missing: ON"
-						NewString: "缺货自动合成：开"
+						OldString: Craft Missing: ON
+						NewString: 缺货自动合成：开
 					}
 				}
 			}
@@ -5268,32 +5530,32 @@ TerrariaCompat: {
 			MePatternProviderLayout+<>c__DisplayClass0_0: {
 				<Build>b__3: {
 					1: {
-						OldString: "Blocking: OFF"
-						NewString: "阻挡：关"
+						OldString: Blocking: OFF
+						NewString: 阻挡：关
 					}
 
 					2: {
-						OldString: "Blocking: ON"
-						NewString: "阻挡：开"
+						OldString: Blocking: ON
+						NewString: 阻挡：开
 					}
 				}
 
 				<Build>b__6: {
 					1: {
 						OldString: "Lock: "
-						NewString: "锁定："
+						NewString: 锁定：
 					}
 				}
 
 				<Build>b__9: {
 					1: {
-						OldString: "In Access Terminal: HIDDEN"
-						NewString: "样板管理终端中：隐藏"
+						OldString: In Access Terminal: HIDDEN
+						NewString: 样板管理终端中：隐藏
 					}
 
 					2: {
-						OldString: "In Access Terminal: SHOWN"
-						NewString: "样板管理终端中：显示"
+						OldString: In Access Terminal: SHOWN
+						NewString: 样板管理终端中：显示
 					}
 				}
 			}
@@ -7200,20 +7462,19 @@ TerrariaCompat: {
 		}
 	}
 
-
 	AppliedEnergistics: {
 		MeStorageMachine: {
 			get_Label: {
 				1: {
-					OldString: "ME Storage"
-					NewString: "ME存储"
+					OldString: ME Storage
+					NewString: ME存储
 				}
 			}
 
 			AppendTooltip: {
 				1: {
-					OldString: "ME Network: connected"
-					NewString: "ME网络：已连接"
+					OldString: ME Network: connected
+					NewString: ME网络：已连接
 				}
 
 				2: {
@@ -7223,7 +7484,7 @@ TerrariaCompat: {
 
 				3: {
 					OldString: "Stored: "
-					NewString: "已存储："
+					NewString: 已存储：
 				}
 
 				4: {
@@ -7232,8 +7493,8 @@ TerrariaCompat: {
 				}
 
 				5: {
-					OldString: "Holds one type. Right-click to open / deposit"
-					NewString: "只能存放一种物品。右键打开 / 存入"
+					OldString: Holds one type. Right-click to open / deposit
+					NewString: 只能存放一种物品。右键打开 / 存入
 				}
 			}
 		}
@@ -7241,15 +7502,15 @@ TerrariaCompat: {
 		MeInterfaceMachine: {
 			get_Label: {
 				1: {
-					OldString: "ME Interface"
-					NewString: "ME接口"
+					OldString: ME Interface
+					NewString: ME接口
 				}
 			}
 
 			AppendTooltip: {
 				1: {
-					OldString: "ME Network: connected"
-					NewString: "ME网络：已连接"
+					OldString: ME Network: connected
+					NewString: ME网络：已连接
 				}
 
 				2: {
@@ -7258,13 +7519,13 @@ TerrariaCompat: {
 				}
 
 				3: {
-					OldString: "Passthrough (no config)"
-					NewString: "直通（未配置）"
+					OldString: Passthrough (no config)
+					NewString: 直通（未配置）
 				}
 
 				4: {
 					OldString: "Stocking: "
-					NewString: "库存："
+					NewString: 库存：
 				}
 
 				5: {
@@ -7279,7 +7540,7 @@ TerrariaCompat: {
 
 				7: {
 					OldString: "Priority: "
-					NewString: "优先级："
+					NewString: 优先级：
 				}
 
 				8: {
@@ -7292,22 +7553,22 @@ TerrariaCompat: {
 		PatternProviderMachine: {
 			get_Label: {
 				1: {
-					OldString: "ME Pattern Provider"
-					NewString: "ME样板供应器"
+					OldString: ME Pattern Provider
+					NewString: ME样板供应器
 				}
 			}
 
 			StationTileName: {
 				1: {
-					OldString: "crafting station"
-					NewString: "合成站"
+					OldString: crafting station
+					NewString: 合成站
 				}
 			}
 
 			AppendTooltip: {
 				1: {
-					OldString: "ME Network: connected"
-					NewString: "ME网络：已连接"
+					OldString: ME Network: connected
+					NewString: ME网络：已连接
 				}
 
 				2: {
@@ -7317,12 +7578,12 @@ TerrariaCompat: {
 
 				3: {
 					OldString: "Patterns: "
-					NewString: "样板："
+					NewString: 样板：
 				}
 
 				4: {
 					OldString: "Crafting: "
-					NewString: "合成中："
+					NewString: 合成中：
 				}
 
 				5: {
@@ -7335,15 +7596,15 @@ TerrariaCompat: {
 		QuantumComputerMachine: {
 			get_Label: {
 				1: {
-					OldString: "Quantum Computer"
-					NewString: "量子计算机"
+					OldString: Quantum Computer
+					NewString: 量子计算机
 				}
 			}
 
 			AppendTooltip: {
 				1: {
-					OldString: "ME Network: connected"
-					NewString: "ME网络：已连接"
+					OldString: ME Network: connected
+					NewString: ME网络：已连接
 				}
 
 				2: {
@@ -7353,7 +7614,7 @@ TerrariaCompat: {
 
 				3: {
 					OldString: "Storage: "
-					NewString: "存储："
+					NewString: 存储：
 				}
 
 				4: {
@@ -7363,16 +7624,44 @@ TerrariaCompat: {
 
 				5: {
 					OldString: "Crafting: "
-					NewString: "合成中："
+					NewString: 合成中：
 				}
 
 				6: {
-					OldString: "Idle"
-					NewString: "空闲"
+					OldString: Idle
+					NewString: 空闲
 				}
 			}
 		}
+		MeInterfaceMachine+InterfaceInventory: {
+			GetDescription: {
+				1: {
+					OldString: "ME Interface"
+					NewString: "ME接口"
+				}
+			}
+		}
+
+		MeStorageMachine+SingleTypeMeStorage: {
+			GetDescription: {
+				1: {
+					OldString: "ME Storage"
+					NewString: "ME存储"
+				}
+			}
+		}
+
+		QuantumComputerMachine+CpuSink: {
+			GetDescription: {
+				1: {
+					OldString: "Quantum Computer"
+					NewString: "量子计算机"
+				}
+			}
+		}
+
 	}
+
 	Machine: {
 		MachineDefinitions: {
 			RegisterAll: {
@@ -11005,30 +11294,29 @@ TerrariaCompat: {
 			}
 		}
 
-
 		MeCables: {
 			MeCableItem: {
 				HoldItem: {
 					1: {
-						OldString: "ME Cable"
-						NewString: "ME 线缆"
+						OldString: ME Cable
+						NewString: ME 线缆
 					}
 				}
 
 				MeCableBody: {
 					1: {
 						OldString: "ME Cable: "
-						NewString: "ME 线缆："
+						NewString: ME 线缆：
 					}
 
 					2: {
-						OldString: "Network: not initialized"
-						NewString: "网络：未初始化"
+						OldString: Network: not initialized
+						NewString: 网络：未初始化
 					}
 
 					3: {
 						OldString: "Network: "
-						NewString: "网络："
+						NewString: 网络：
 					}
 
 					4: {
@@ -11043,12 +11331,13 @@ TerrariaCompat: {
 				}
 			}
 		}
+
 		Terminal: {
 			MeTerminalUpgradeCardItem: {
 				ModifyTooltips: {
 					1: {
-						OldString: "Install in an ME Terminal upgrade slot"
-						NewString: "安装到 ME 终端的升级槽中"
+						OldString: Install in an ME Terminal upgrade slot
+						NewString: 安装到 ME 终端的升级槽中
 					}
 				}
 			}
@@ -11056,23 +11345,23 @@ TerrariaCompat: {
 			MeTerminalUpgradeLoader: {
 				Register: {
 					1: {
-						OldString: "Crafting Terminal Card"
-						NewString: "合成终端卡"
+						OldString: Crafting Terminal Card
+						NewString: 合成终端卡
 					}
 
 					2: {
-						OldString: "Crafting Status Terminal Card"
-						NewString: "合成状态终端卡"
+						OldString: Crafting Status Terminal Card
+						NewString: 合成状态终端卡
 					}
 
 					3: {
-						OldString: "Pattern Access Terminal Card"
-						NewString: "样板管理终端卡"
+						OldString: Pattern Access Terminal Card
+						NewString: 样板管理终端卡
 					}
 
 					4: {
-						OldString: "Pattern Encoding Terminal Card"
-						NewString: "样板编码终端卡"
+						OldString: Pattern Encoding Terminal Card
+						NewString: 样板编码终端卡
 					}
 				}
 			}
@@ -12369,25 +12658,25 @@ TerrariaCompat: {
 
 				HoldItem: {
 					1: {
-						OldString: "Wire"
-						NewString: "导线"
+						OldString: Wire
+						NewString: 导线
 					}
 
 					2: {
-						OldString: "Cable"
-						NewString: "线缆"
+						OldString: Cable
+						NewString: 线缆
 					}
 				}
 
 				WireBody: {
 					1: {
-						OldString: "Wire"
-						NewString: "导线"
+						OldString: Wire
+						NewString: 导线
 					}
 
 					2: {
-						OldString: "Cable"
-						NewString: "线缆"
+						OldString: Cable
+						NewString: 线缆
 					}
 
 					3: {
@@ -12396,13 +12685,13 @@ TerrariaCompat: {
 					}
 
 					4: {
-						OldString: "Network: not initialized"
-						NewString: "网络：未初始化"
+						OldString: Network: not initialized
+						NewString: 网络：未初始化
 					}
 
 					5: {
 						OldString: "Network: "
-						NewString: "网络："
+						NewString: 网络：
 					}
 
 					6: {
@@ -12416,13 +12705,13 @@ TerrariaCompat: {
 					}
 
 					8: {
-						OldString: "Endpoints: -"
-						NewString: "端点：-"
+						OldString: Endpoints: -
+						NewString: 端点：-
 					}
 
 					9: {
 						OldString: "Endpoints: "
-						NewString: "端点："
+						NewString: 端点：
 					}
 
 					10: {
@@ -12437,12 +12726,12 @@ TerrariaCompat: {
 
 					12: {
 						OldString: "Throughput: "
-						NewString: "吞吐量："
+						NewString: 吞吐量：
 					}
 
 					13: {
-						OldString: "Throughput: -"
-						NewString: "吞吐量：-"
+						OldString: Throughput: -
+						NewString: 吞吐量：-
 					}
 
 					14: {
@@ -12456,13 +12745,29 @@ TerrariaCompat: {
 					}
 
 					16: {
-						OldString: "% of source voltage already lost here]\n"
-						NewString: "% 的源电压已在此处损耗]\n"
+						OldString:
+							'''
+							% of source voltage already lost here]
+
+							'''
+						NewString:
+							'''
+							% 的源电压已在此处损耗]
+
+							'''
 					}
 
 					17: {
-						OldString: "[c/FF8888:Energy delivered downstream of this cable is heavily reduced.]\n[c/FF8888:Shorten the cable run, use a higher-tier wire (lower loss), or insulate it.]"
-						NewString: "[c/FF8888:该线缆下游输送的能量已大幅降低。]\n[c/FF8888:缩短线缆长度、改用更高等级的导线（损耗更低）或为其绝缘。]"
+						OldString:
+							'''
+							[c/FF8888:Energy delivered downstream of this cable is heavily reduced.]
+							[c/FF8888:Shorten the cable run, use a higher-tier wire (lower loss), or insulate it.]
+							'''
+						NewString:
+							'''
+							[c/FF8888:该线缆下游输送的能量已大幅降低。]
+							[c/FF8888:缩短线缆长度、改用更高等级的导线（损耗更低）或为其绝缘。]
+							'''
 					}
 				}
 			}
