@@ -729,16 +729,6 @@ TerrariaCompat: {
 					OldString: tModLoader
 					NewString: tModLoader
 				}
-
-				4: {
-					OldString: Terraria
-					NewString: 泰拉瑞亚
-				}
-
-				5: {
-					OldString: GregTechCEuTerraria
-					NewString: 格雷科技
-				}
 			}
 
 			BuildEquipToggles: {
@@ -953,43 +943,43 @@ TerrariaCompat: {
 		GlobalRecipeBrowserState+<>c: {
 			<RebuildWindow>b__93_12: {
 				1: {
-					OldString: "Hide obvious"
-					NewString: "隐藏明显"
+					OldString: Hide obvious
+					NewString: 隐藏明显
 				}
 			}
 
 			<RebuildWindow>b__93_14: {
 				1: {
-					OldString: "Have ingredients"
-					NewString: "拥有材料"
+					OldString: Have ingredients
+					NewString: 拥有材料
 				}
 			}
 
 			<RebuildWindow>b__93_16: {
 				1: {
-					OldString: "Search ingredients"
-					NewString: "搜索材料"
+					OldString: Search ingredients
+					NewString: 搜索材料
 				}
 			}
 
 			<RebuildWindow>b__93_22: {
 				1: {
-					OldString: "< Back"
-					NewString: "< 返回"
+					OldString: < Back
+					NewString: < 返回
 				}
 			}
 
 			<RebuildModToggles>b__122_0: {
 				1: {
-					OldString: "Show everything"
-					NewString: "显示全部"
+					OldString: Show everything
+					NewString: 显示全部
 				}
 			}
 
 			<BuildEquipToggles>b__144_0: {
 				1: {
-					OldString: "Show all types"
-					NewString: "显示所有类型"
+					OldString: Show all types
+					NewString: 显示所有类型
 				}
 			}
 		}
@@ -1062,29 +1052,6 @@ TerrariaCompat: {
 				1: {
 					OldString: ASSIGN IN SETTINGS
 					NewString: 在设置中指定
-				}
-			}
-		}
-
-		UILayers+<>c: {
-			<Insert>b__37_0: {
-				1: {
-					OldString: "Vanilla: Mouse Text"
-					NewString: "原版：鼠标文本"
-				}
-			}
-
-			<Insert>b__37_1: {
-				1: {
-					OldString: "Vanilla: Info Accessories Bar"
-					NewString: "原版：信息饰品栏"
-				}
-			}
-
-			<Insert>b__37_2: {
-				1: {
-					OldString: "Vanilla: Inventory"
-					NewString: "原版：物品栏"
 				}
 			}
 		}
@@ -1555,6 +1522,7 @@ TerrariaCompat: {
 					}
 				}
 			}
+
 			MeBusSettingsState+<>c__DisplayClass24_0: {
 				<BuildFilterZone>b__2: {
 					1: {
@@ -1567,23 +1535,23 @@ TerrariaCompat: {
 			MeBusSettingsState+<>c__DisplayClass25_0: {
 				<AppendSchedulingRow>b__0: {
 					1: {
-						OldString: "Round Robin"
-						NewString: "轮流分配"
+						OldString: Round Robin
+						NewString: 轮流分配
 					}
 
 					2: {
-						OldString: "Random"
-						NewString: "随机"
+						OldString: Random
+						NewString: 随机
 					}
 
 					3: {
-						OldString: "Default"
-						NewString: "默认"
+						OldString: Default
+						NewString: 默认
 					}
 
 					4: {
 						OldString: "Order: "
-						NewString: "顺序："
+						NewString: 顺序：
 					}
 				}
 			}
@@ -1592,32 +1560,32 @@ TerrariaCompat: {
 				<AppendStorageToggle>b__0: {
 					1: {
 						OldString: "Show: "
-						NewString: "显示："
+						NewString: 显示：
 					}
 
 					2: {
-						OldString: "All"
-						NewString: "全部"
+						OldString: All
+						NewString: 全部
 					}
 
 					3: {
-						OldString: "Extractable"
-						NewString: "可提取"
+						OldString: Extractable
+						NewString: 可提取
 					}
 
 					4: {
 						OldString: "Filter on Extract: "
-						NewString: "提取时过滤："
+						NewString: 提取时过滤：
 					}
 
 					5: {
-						OldString: "Off"
-						NewString: "关"
+						OldString: Off
+						NewString: 关
 					}
 
 					6: {
-						OldString: "On"
-						NewString: "开"
+						OldString: On
+						NewString: 开
 					}
 				}
 			}
@@ -1626,11 +1594,10 @@ TerrariaCompat: {
 				<AppendCraftCardRow>b__0: {
 					1: {
 						OldString: "Request Crafting: "
-						NewString: "请求合成："
+						NewString: 请求合成：
 					}
 				}
 			}
-
 		}
 
 		MeCraft: {
@@ -3330,8 +3297,8 @@ TerrariaCompat: {
 			UIRecipeList+<>c__DisplayClass18_0: {
 				<DrawSelf>b__0: {
 					1: {
-						OldString: "Select this recipe"
-						NewString: "Select this recipe"
+						OldString: Select this recipe
+						NewString: Select this recipe
 					}
 				}
 			}
@@ -3358,8 +3325,8 @@ TerrariaCompat: {
 
 				BuildStructure: {
 					1: {
-						OldString: "GregTech Profiler"
-						NewString: "GregTech Profiler"
+						OldString: GregTech Profiler
+						NewString: GregTech Profiler
 					}
 
 					2: {
@@ -3368,8 +3335,8 @@ TerrariaCompat: {
 					}
 
 					3: {
-						OldString: "Click a row to graph it"
-						NewString: "Click a row to graph it"
+						OldString: Click a row to graph it
+						NewString: Click a row to graph it
 					}
 				}
 			}
@@ -4235,8 +4202,8 @@ TerrariaCompat: {
 
 				get_LayerName: {
 					1: {
-						OldString: "GregTechCEuTerraria: Pipe Settings"
-						NewString: "GregTechCEuTerraria: Pipe Settings"
+						OldString: GregTechCEuTerraria: Pipe Settings
+						NewString: GregTechCEuTerraria: Pipe Settings
 					}
 				}
 			}
@@ -4272,8 +4239,8 @@ TerrariaCompat: {
 
 				<BuildRobotArmZone>b__50_3: {
 					1: {
-						OldString: "Push"
-						NewString: "Push"
+						OldString: Push
+						NewString: Push
 					}
 				}
 			}
@@ -5251,13 +5218,13 @@ TerrariaCompat: {
 
 				<Build>b__8: {
 					1: {
-						OldString: "Idle"
-						NewString: "Idle"
+						OldString: Idle
+						NewString: Idle
 					}
 
 					2: {
-						OldString: "Drilling..."
-						NewString: "Drilling..."
+						OldString: Drilling...
+						NewString: Drilling...
 					}
 				}
 			}
@@ -6046,15 +6013,15 @@ TerrariaCompat: {
 					}
 
 					2: {
-						OldString: "No problems"
-						NewString: "No problems"
+						OldString: No problems
+						NewString: No problems
 					}
 				}
 
 				<Build>b__1: {
 					1: {
-						OldString: "Duration x"
-						NewString: "Duration x"
+						OldString: Duration x
+						NewString: Duration x
 					}
 				}
 			}
@@ -6365,13 +6332,13 @@ TerrariaCompat: {
 				}
 
 				2: {
-					OldString: "No"
-					NewString: "No"
+					OldString: No
+					NewString: No
 				}
 
 				3: {
-					OldString: "Yes"
-					NewString: "Yes"
+					OldString: Yes
+					NewString: Yes
 				}
 			}
 		}
@@ -6430,15 +6397,15 @@ TerrariaCompat: {
 
 			<Load>b__6_0: {
 				1: {
-					OldString: "Recipe browser - how to obtain hovered item"
-					NewString: "Recipe browser - how to obtain hovered item"
+					OldString: Recipe browser - how to obtain hovered item
+					NewString: Recipe browser - how to obtain hovered item
 				}
 			}
 
 			<Load>b__6_1: {
 				1: {
-					OldString: "Recipe browser - recipes that use hovered item"
-					NewString: "Recipe browser - recipes that use hovered item"
+					OldString: Recipe browser - recipes that use hovered item
+					NewString: Recipe browser - recipes that use hovered item
 				}
 			}
 		}
@@ -6446,8 +6413,8 @@ TerrariaCompat: {
 		ItemPickerState: {
 			BuildStructure: {
 				1: {
-					OldString: "No items match this search"
-					NewString: "No items match this search"
+					OldString: No items match this search
+					NewString: No items match this search
 				}
 			}
 		}
@@ -7426,8 +7393,8 @@ TerrariaCompat: {
 
 			BuildStructure: {
 				1: {
-					OldString: "GregTech Quests"
-					NewString: "GregTech Quests"
+					OldString: GregTech Quests
+					NewString: GregTech Quests
 				}
 			}
 		}
@@ -7827,11 +7794,12 @@ TerrariaCompat: {
 				}
 			}
 		}
+
 		MeInterfaceMachine+InterfaceInventory: {
 			GetDescription: {
 				1: {
-					OldString: "ME Interface"
-					NewString: "ME接口"
+					OldString: ME Interface
+					NewString: ME接口
 				}
 			}
 		}
@@ -7839,8 +7807,8 @@ TerrariaCompat: {
 		MeStorageMachine+SingleTypeMeStorage: {
 			GetDescription: {
 				1: {
-					OldString: "ME Storage"
-					NewString: "ME存储"
+					OldString: ME Storage
+					NewString: ME存储
 				}
 			}
 		}
@@ -7848,12 +7816,11 @@ TerrariaCompat: {
 		QuantumComputerMachine+CpuSink: {
 			GetDescription: {
 				1: {
-					OldString: "Quantum Computer"
-					NewString: "量子计算机"
+					OldString: Quantum Computer
+					NewString: 量子计算机
 				}
 			}
 		}
-
 	}
 
 	Machine: {
@@ -9055,8 +9022,8 @@ TerrariaCompat: {
 
 			AppendUnformedStatus: {
 				1: {
-					OldString: "Running"
-					NewString: "Running"
+					OldString: Running
+					NewString: Running
 				}
 			}
 		}
@@ -9510,8 +9477,8 @@ TerrariaCompat: {
 
 				AppendRecipeStatus: {
 					1: {
-						OldString: "Burning"
-						NewString: "Burning"
+						OldString: Burning
+						NewString: Burning
 					}
 				}
 			}
@@ -9769,8 +9736,8 @@ TerrariaCompat: {
 
 				DescribeGroup: {
 					1: {
-						OldString: "(unknown)"
-						NewString: "(unknown)"
+						OldString: (unknown)
+						NewString: (unknown)
 					}
 				}
 			}
@@ -11148,33 +11115,33 @@ TerrariaCompat: {
 
 					PrepareTick: {
 						1: {
-							OldString: "Structure not formed"
-							NewString: "Structure not formed"
+							OldString: Structure not formed
+							NewString: Structure not formed
 						}
 
 						2: {
-							OldString: "Disabled by player"
-							NewString: "Disabled by player"
+							OldString: Disabled by player
+							NewString: Disabled by player
 						}
 
 						3: {
-							OldString: "Need an output fluid hatch"
-							NewString: "Need an output fluid hatch"
+							OldString: Need an output fluid hatch
+							NewString: Need an output fluid hatch
 						}
 
 						4: {
-							OldString: "No drillable fluid in biome"
-							NewString: "No drillable fluid in biome"
+							OldString: No drillable fluid in biome
+							NewString: No drillable fluid in biome
 						}
 
 						5: {
-							OldString: "Output hatch full"
-							NewString: "Output hatch full"
+							OldString: Output hatch full
+							NewString: Output hatch full
 						}
 
 						6: {
-							OldString: "Out of power"
-							NewString: "Out of power"
+							OldString: Out of power
+							NewString: Out of power
 						}
 					}
 				}
@@ -11290,13 +11257,13 @@ TerrariaCompat: {
 
 					PrepareTick: {
 						1: {
-							OldString: "Need an output bus"
-							NewString: "Need an output bus"
+							OldString: Need an output bus
+							NewString: Need an output bus
 						}
 
 						2: {
-							OldString: "Need drilling fluid"
-							NewString: "Need drilling fluid"
+							OldString: Need drilling fluid
+							NewString: Need drilling fluid
 						}
 					}
 				}
@@ -11697,13 +11664,13 @@ TerrariaCompat: {
 					}
 
 					3: {
-						OldString: "-tile line of soft ground (~2x pickaxe speed). Cannot break stone."
-						NewString: "-tile line of soft ground (~2x pickaxe speed). Cannot break stone."
+						OldString: -tile line of soft ground (~2x pickaxe speed). Cannot break stone.
+						NewString: -tile line of soft ground (~2x pickaxe speed). Cannot break stone.
 					}
 
 					4: {
-						OldString: "Mines blocks and ore."
-						NewString: "Mines blocks and ore."
+						OldString: Mines blocks and ore.
+						NewString: Mines blocks and ore.
 					}
 
 					5: {
@@ -11712,83 +11679,83 @@ TerrariaCompat: {
 					}
 
 					6: {
-						OldString: "-tile line of blocks."
-						NewString: "-tile line of blocks."
+						OldString: -tile line of blocks.
+						NewString: -tile line of blocks.
 					}
 
 					7: {
-						OldString: "Chops trees."
-						NewString: "Chops trees."
+						OldString: Chops trees.
+						NewString: Chops trees.
 					}
 
 					8: {
-						OldString: "Chops trees - logs come out as Rubber Wood."
-						NewString: "Chops trees - logs come out as Rubber Wood."
+						OldString: Chops trees - logs come out as Rubber Wood.
+						NewString: Chops trees - logs come out as Rubber Wood.
 					}
 
 					9: {
-						OldString: "Powered saw - chops trees into Rubber Wood."
-						NewString: "Powered saw - chops trees into Rubber Wood."
+						OldString: Powered saw - chops trees into Rubber Wood.
+						NewString: Powered saw - chops trees into Rubber Wood.
 					}
 
 					10: {
-						OldString: "Smashes walls and shapes blocks."
-						NewString: "Smashes walls and shapes blocks."
+						OldString: Smashes walls and shapes blocks.
+						NewString: Smashes walls and shapes blocks.
 					}
 
 					11: {
-						OldString: "Melee weapon with slightly extended reach."
-						NewString: "Melee weapon with slightly extended reach."
+						OldString: Melee weapon with slightly extended reach.
+						NewString: Melee weapon with slightly extended reach.
 					}
 
 					12: {
-						OldString: "Fast auto-swinging melee weapon."
-						NewString: "Fast auto-swinging melee weapon."
+						OldString: Fast auto-swinging melee weapon.
+						NewString: Fast auto-swinging melee weapon.
 					}
 
 					13: {
-						OldString: "Heavy melee weapon with strong knockback."
-						NewString: "Heavy melee weapon with strong knockback."
+						OldString: Heavy melee weapon with strong knockback.
+						NewString: Heavy melee weapon with strong knockback.
 					}
 
 					14: {
-						OldString: "Wide auto-swinging weapon. Collects Vine while cutting plants."
-						NewString: "Wide auto-swinging weapon. Collects Vine while cutting plants."
+						OldString: Wide auto-swinging weapon. Collects Vine while cutting plants.
+						NewString: Wide auto-swinging weapon. Collects Vine while cutting plants.
 					}
 
 					15: {
-						OldString: "Thrown like a knife and never consumed."
-						NewString: "Thrown like a knife and never consumed."
+						OldString: Thrown like a knife and never consumed.
+						NewString: Thrown like a knife and never consumed.
 					}
 
 					16: {
-						OldString: "Pokes like a spear. Right-click a transformer/machine to reconfigure it."
-						NewString: "Pokes like a spear. Right-click a transformer/machine to reconfigure it."
+						OldString: Pokes like a spear. Right-click a transformer/machine to reconfigure it.
+						NewString: Pokes like a spear. Right-click a transformer/machine to reconfigure it.
 					}
 
 					17: {
-						OldString: "Pokes like a spear (0.75x a screwdriver's power)."
-						NewString: "Pokes like a spear (0.75x a screwdriver's power)."
+						OldString: Pokes like a spear (0.75x a screwdriver's power).
+						NewString: Pokes like a spear (0.75x a screwdriver's power).
 					}
 
 					18: {
-						OldString: "Weak pickaxe - grinds mined ground: stone -> silt -> dirt -> clay -> sand."
-						NewString: "Weak pickaxe - grinds mined ground: stone -> silt -> dirt -> clay -> sand."
+						OldString: Weak pickaxe - grinds mined ground: stone -> silt -> dirt -> clay -> sand.
+						NewString: Weak pickaxe - grinds mined ground: stone -> silt -> dirt -> clay -> sand.
 					}
 
 					19: {
-						OldString: "Dismantles machines and cuts item/fluid pipes."
-						NewString: "Dismantles machines and cuts item/fluid pipes."
+						OldString: Dismantles machines and cuts item/fluid pipes.
+						NewString: Dismantles machines and cuts item/fluid pipes.
 					}
 
 					20: {
-						OldString: "Pauses or resumes a machine."
-						NewString: "Pauses or resumes a machine."
+						OldString: Pauses or resumes a machine.
+						NewString: Pauses or resumes a machine.
 					}
 
 					21: {
-						OldString: "Cuts cables and laser pipes."
-						NewString: "Cuts cables and laser pipes."
+						OldString: Cuts cables and laser pipes.
+						NewString: Cuts cables and laser pipes.
 					}
 
 					22: {
@@ -11822,8 +11789,8 @@ TerrariaCompat: {
 					}
 
 					28: {
-						OldString: "-tile line."
-						NewString: "-tile line."
+						OldString: -tile line.
+						NewString: -tile line.
 					}
 
 					29: {
@@ -11832,23 +11799,23 @@ TerrariaCompat: {
 					}
 
 					30: {
-						OldString: "-tile line of trees."
-						NewString: "-tile line of trees."
+						OldString: -tile line of trees.
+						NewString: -tile line of trees.
 					}
 
 					31: {
-						OldString: "Powered wire cutter - cuts cables and laser pipes."
-						NewString: "Powered wire cutter - cuts cables and laser pipes."
+						OldString: Powered wire cutter - cuts cables and laser pipes.
+						NewString: Powered wire cutter - cuts cables and laser pipes.
 					}
 
 					32: {
-						OldString: "Powered wrench - dismantles machines and cuts pipes."
-						NewString: "Powered wrench - dismantles machines and cuts pipes."
+						OldString: Powered wrench - dismantles machines and cuts pipes.
+						NewString: Powered wrench - dismantles machines and cuts pipes.
 					}
 
 					33: {
-						OldString: "Powered screwdriver - right-click a transformer/machine to reconfigure it."
-						NewString: "Powered screwdriver - right-click a transformer/machine to reconfigure it."
+						OldString: Powered screwdriver - right-click a transformer/machine to reconfigure it.
+						NewString: Powered screwdriver - right-click a transformer/machine to reconfigure it.
 					}
 				}
 
@@ -11899,8 +11866,8 @@ TerrariaCompat: {
 				CableMultitoolLayer: {
 					get_Name: {
 						1: {
-							OldString: "Cable"
-							NewString: "Cable"
+							OldString: Cable
+							NewString: Cable
 						}
 					}
 				}
@@ -11908,8 +11875,8 @@ TerrariaCompat: {
 				ItemPipeMultitoolLayer: {
 					get_Name: {
 						1: {
-							OldString: "Item Pipe"
-							NewString: "Item Pipe"
+							OldString: Item Pipe
+							NewString: Item Pipe
 						}
 					}
 				}
@@ -11917,8 +11884,8 @@ TerrariaCompat: {
 				LaserMultitoolLayer: {
 					get_Name: {
 						1: {
-							OldString: "Laser Pipe"
-							NewString: "Laser Pipe"
+							OldString: Laser Pipe
+							NewString: Laser Pipe
 						}
 					}
 				}
@@ -12207,8 +12174,8 @@ TerrariaCompat: {
 					}
 
 					4: {
-						OldString: "Simple Fluid Pipe"
-						NewString: "Simple Fluid Pipe"
+						OldString: Simple Fluid Pipe
+						NewString: Simple Fluid Pipe
 					}
 
 					5: {
@@ -12217,13 +12184,13 @@ TerrariaCompat: {
 					}
 
 					6: {
-						OldString: "Restrictive Item Pipe"
-						NewString: "Restrictive Item Pipe"
+						OldString: Restrictive Item Pipe
+						NewString: Restrictive Item Pipe
 					}
 
 					7: {
-						OldString: "Simple Item Pipe"
-						NewString: "Simple Item Pipe"
+						OldString: Simple Item Pipe
+						NewString: Simple Item Pipe
 					}
 
 					8: {
@@ -13113,8 +13080,8 @@ TerrariaCompat: {
 					}
 
 					18: {
-						OldString: "/A"
-						NewString: "/A"
+						OldString: /A
+						NewString: /A
 					}
 				}
 			}
@@ -13205,8 +13172,8 @@ TerrariaCompat: {
 			ProspectorItem: {
 				ModifyTooltips: {
 					1: {
-						OldString: "Disabled"
-						NewString: "Disabled"
+						OldString: Disabled
+						NewString: Disabled
 					}
 				}
 			}
@@ -13272,8 +13239,8 @@ TerrariaCompat: {
 			FallenEBF: {
 				StateName: {
 					1: {
-						OldString: "Charge"
-						NewString: "Charge"
+						OldString: Charge
+						NewString: Charge
 					}
 				}
 			}
@@ -13283,8 +13250,8 @@ TerrariaCompat: {
 			VacuumFreezer: {
 				StateName: {
 					1: {
-						OldString: "Pull"
-						NewString: "Pull"
+						OldString: Pull
+						NewString: Pull
 					}
 				}
 			}
@@ -13295,8 +13262,8 @@ TerrariaCompat: {
 		WorldCapability: {
 			TileDisplayName: {
 				1: {
-					OldString: "Tile"
-					NewString: "Tile"
+					OldString: Tile
+					NewString: Tile
 				}
 			}
 		}
