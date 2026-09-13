@@ -4192,20 +4192,6 @@ TerrariaCompat: {
 						NewString: "' pipes)"
 					}
 				}
-
-				ModifyInterfaceLayers: {
-					1: {
-						OldString: GregTechCEuTerraria: Pipe Settings
-						NewString: GregTechCEuTerraria: Pipe Settings
-					}
-				}
-
-				get_LayerName: {
-					1: {
-						OldString: GregTechCEuTerraria: Pipe Settings
-						NewString: GregTechCEuTerraria: Pipe Settings
-					}
-				}
 			}
 
 			PipeSettingsState+<>c: {
