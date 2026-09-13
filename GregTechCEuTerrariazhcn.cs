@@ -29,11 +29,13 @@ namespace GregTechCEuTerrariazhcn
         public override void Load()
         {
             Load_Localizers();
+            Load_ConditionValues();
         }
         public override void Unload()
         {
             Unload_Localizers();
             StationNameLocalizer.Unload();
+            ConditionValueLocalizer.Unload();
         }
 
         public override void PostSetupContent()
@@ -41,6 +43,17 @@ namespace GregTechCEuTerrariazhcn
             PostSetupContent_Localizers();
             PostSetupContent_ForceLocalizations();
             StationNameLocalizer.PostSetupContent();
+            Load_ConditionValues();
+        }
+
+        // 配方条件里的动态值 (洁净室类型/生物群系名等) 走运行时 detour, 与 TigerForce
+        // 无关; 目标模组程序集在 Load 阶段通常已就绪, 万一没有则 PostSetupContent 兜底重试。
+        private void Load_ConditionValues()
+        {
+            if (ModLoader.TryGetMod("GregTechCEuTerraria", out var gt) && gt.Code is not null)
+            {
+                ConditionValueLocalizer.Load(gt.Code, s => Logger.Info(s));
+            }
         }
 
         #region 硬编码汉化
