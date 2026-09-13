@@ -2935,6 +2935,13 @@ TerrariaCompat: {
 						NewString: ?
 					}
 				}
+
+				DrawSelf: {
+					1: {
+						OldString: "From: "
+						NewString: "来自："
+					}
+				}
 			}
 
 			UIMeTerminalGrid: {
@@ -3319,6 +3326,15 @@ TerrariaCompat: {
 					}
 				}
 			}
+
+			UIRecipeList+<>c__DisplayClass18_0: {
+				<DrawSelf>b__0: {
+					1: {
+						OldString: "Select this recipe"
+						NewString: "选择此配方"
+					}
+				}
+			}
 		}
 
 		Profiler: {
@@ -3337,6 +3353,23 @@ TerrariaCompat: {
 					3: {
 						OldString: Click a row to graph it
 						NewString: 点击行以绘制图表
+					}
+				}
+
+				BuildStructure: {
+					1: {
+						OldString: "GregTech Profiler"
+						NewString: "GregTech 分析器"
+					}
+
+					2: {
+						OldString: "[Dump JSON]"
+						NewString: "[转储 JSON]"
+					}
+
+					3: {
+						OldString: "Click a row to graph it"
+						NewString: "点击行以绘制图表"
 					}
 				}
 			}
@@ -3409,6 +3442,13 @@ TerrariaCompat: {
 
 			ProfilerUIState+<>c: {
 				<OnInitialize>b__7_0: {
+					1: {
+						OldString: "[GregTech] Profile saved to "
+						NewString: "[GregTech] 配置文件已保存至 "
+					}
+				}
+
+				<BuildStructure>b__17_0: {
 					1: {
 						OldString: "[GregTech] Profile saved to "
 						NewString: "[GregTech] 配置文件已保存至 "
@@ -4009,6 +4049,20 @@ TerrariaCompat: {
 						NewString: 网络：
 					}
 				}
+
+				<BuildCenterCell>b__52_0: {
+					1: {
+						OldString: "Throughput: "
+						NewString: "吞吐量："
+					}
+				}
+
+				<BuildCenterCell>b__52_1: {
+					1: {
+						OldString: "Network: "
+						NewString: "网络："
+					}
+				}
 			}
 
 			PipeSettingsSystem: {
@@ -4178,6 +4232,13 @@ TerrariaCompat: {
 						NewString: GregTechCEuTerraria：管道设置
 					}
 				}
+
+				get_LayerName: {
+					1: {
+						OldString: "GregTechCEuTerraria: Pipe Settings"
+						NewString: "GregTechCEuTerraria：管道设置"
+					}
+				}
 			}
 
 			PipeSettingsState+<>c: {
@@ -4206,6 +4267,13 @@ TerrariaCompat: {
 					1: {
 						OldString: +
 						NewString: +
+					}
+				}
+
+				<BuildRobotArmZone>b__50_3: {
+					1: {
+						OldString: "Push"
+						NewString: "推"
 					}
 				}
 			}
@@ -5173,6 +5241,25 @@ TerrariaCompat: {
 						NewString: 钻孔中...
 					}
 				}
+
+				<Build>b__7: {
+					1: {
+						OldString: "Range: "
+						NewString: "范围："
+					}
+				}
+
+				<Build>b__8: {
+					1: {
+						OldString: "Idle"
+						NewString: "空闲"
+					}
+
+					2: {
+						OldString: "Drilling..."
+						NewString: "钻孔中..."
+					}
+				}
 			}
 
 			CoalBoilerLayout+<>c__DisplayClass0_0: {
@@ -5234,6 +5321,16 @@ TerrariaCompat: {
 						OldString: "[Source]"
 						NewString: "[来源]"
 					}
+
+					3: {
+						OldString: "[OFF]"
+						NewString: "[关]"
+					}
+
+					4: {
+						OldString: "[ ON]"
+						NewString: "[ 开]"
+					}
 				}
 
 				<Build>b__7: {
@@ -5246,6 +5343,11 @@ TerrariaCompat: {
 						OldString: "[ ON]"
 						NewString: "[ 开]"
 					}
+
+					3: {
+						OldString: "Avg I/O: "
+						NewString: "平均 I/O："
+					}
 				}
 
 				<Build>b__9: {
@@ -5257,6 +5359,18 @@ TerrariaCompat: {
 					2: {
 						OldString: "' EU/t"
 						NewString: "' EU/t"
+					}
+				}
+
+				<Build>b__3: {
+					1: {
+						OldString: "[Sink]"
+						NewString: "[接收]"
+					}
+
+					2: {
+						OldString: "[Source]"
+						NewString: "[来源]"
 					}
 				}
 			}
@@ -5387,6 +5501,18 @@ TerrariaCompat: {
 					4: {
 						OldString: "' EU/t)"
 						NewString: "' EU/t)"
+					}
+				}
+
+				<BuildFilterEditor>b__10: {
+					1: {
+						OldString: " EU/t)"
+						NewString: " EU/t）"
+					}
+
+					2: {
+						OldString: " tiles  (draw "
+						NewString: " 格（功耗 "
 					}
 				}
 			}
@@ -5911,6 +6037,27 @@ TerrariaCompat: {
 					}
 				}
 			}
+
+			MaintenanceHatchLayout+<>c__DisplayClass2_0: {
+				<Build>b__0: {
+					1: {
+						OldString: "Problems: "
+						NewString: "问题："
+					}
+
+					2: {
+						OldString: "No problems"
+						NewString: "无问题"
+					}
+				}
+
+				<Build>b__1: {
+					1: {
+						OldString: "Duration x"
+						NewString: "时长 x"
+					}
+				}
+			}
 		}
 
 		CoverSettingsUI+<>c__DisplayClass10_0: {
@@ -6210,6 +6357,23 @@ TerrariaCompat: {
 					NewString: 是
 				}
 			}
+
+			<AppendMachineControlsPanel>b__26_5: {
+				1: {
+					OldString: "Distinct Buses: "
+					NewString: "独立总线："
+				}
+
+				2: {
+					OldString: "No"
+					NewString: "否"
+				}
+
+				3: {
+					OldString: "Yes"
+					NewString: "是"
+				}
+			}
 		}
 
 		MachineUIState+<>c__DisplayClass26_1: {
@@ -6261,6 +6425,29 @@ TerrariaCompat: {
 				1: {
 					OldString: Recipe browser - recipes that use hovered item
 					NewString: 配方浏览器 - 使用悬停物品的配方
+				}
+			}
+
+			<Load>b__6_0: {
+				1: {
+					OldString: "Recipe browser - how to obtain hovered item"
+					NewString: "配方浏览器 - 如何获取悬停的物品"
+				}
+			}
+
+			<Load>b__6_1: {
+				1: {
+					OldString: "Recipe browser - recipes that use hovered item"
+					NewString: "配方浏览器 - 使用悬停物品的配方"
+				}
+			}
+		}
+
+		ItemPickerState: {
+			BuildStructure: {
+				1: {
+					OldString: "No items match this search"
+					NewString: "没有物品匹配此搜索"
 				}
 			}
 		}
@@ -7234,6 +7421,13 @@ TerrariaCompat: {
 				1: {
 					OldString: GregTech Quests
 					NewString: GregTech 任务
+				}
+			}
+
+			BuildStructure: {
+				1: {
+					OldString: "GregTech Quests"
+					NewString: "GregTech 任务"
 				}
 			}
 		}
@@ -8858,6 +9052,13 @@ TerrariaCompat: {
 					NewString: gtceu.recipe.
 				}
 			}
+
+			AppendUnformedStatus: {
+				1: {
+					OldString: "Running"
+					NewString: "运行中"
+				}
+			}
 		}
 
 		TieredEnergyMachine: {
@@ -9306,6 +9507,13 @@ TerrariaCompat: {
 						NewString: 燃烧中
 					}
 				}
+
+				AppendRecipeStatus: {
+					1: {
+						OldString: "Burning"
+						NewString: "燃烧中"
+					}
+				}
 			}
 		}
 
@@ -9558,6 +9766,13 @@ TerrariaCompat: {
 						NewString: "' 更多"
 					}
 				}
+
+				DescribeGroup: {
+					1: {
+						OldString: "(unknown)"
+						NewString: "（未知）"
+					}
+				}
 			}
 
 			MultiblockPreviewHover: {
@@ -9735,6 +9950,13 @@ TerrariaCompat: {
 					4: {
 						OldString: "' EU/t"
 						NewString: "' EU/t"
+					}
+				}
+
+				AppendDrawingLine: {
+					1: {
+						OldString: "Drawing: "
+						NewString: "功耗："
 					}
 				}
 			}
@@ -10923,6 +11145,38 @@ TerrariaCompat: {
 							NewString: 空闲
 						}
 					}
+
+					PrepareTick: {
+						1: {
+							OldString: "Structure not formed"
+							NewString: "结构未形成"
+						}
+
+						2: {
+							OldString: "Disabled by player"
+							NewString: "已被玩家禁用"
+						}
+
+						3: {
+							OldString: "Need an output fluid hatch"
+							NewString: "需要输出流体仓"
+						}
+
+						4: {
+							OldString: "No drillable fluid in biome"
+							NewString: "当前生物群系中无可钻取流体"
+						}
+
+						5: {
+							OldString: "Output hatch full"
+							NewString: "输出仓已满"
+						}
+
+						6: {
+							OldString: "Out of power"
+							NewString: "电力耗尽"
+						}
+					}
 				}
 
 				FusionReactorMachine: {
@@ -11031,6 +11285,18 @@ TerrariaCompat: {
 						10: {
 							OldString: Idle
 							NewString: 空闲
+						}
+					}
+
+					PrepareTick: {
+						1: {
+							OldString: "Need an output bus"
+							NewString: "需要输出总线"
+						}
+
+						2: {
+							OldString: "Need drilling fluid"
+							NewString: "需要钻井液"
 						}
 					}
 				}
@@ -11628,6 +11894,35 @@ TerrariaCompat: {
 					}
 				}
 			}
+
+			Multitool: {
+				CableMultitoolLayer: {
+					get_Name: {
+						1: {
+							OldString: "Cable"
+							NewString: "线缆"
+						}
+					}
+				}
+
+				ItemPipeMultitoolLayer: {
+					get_Name: {
+						1: {
+							OldString: "Item Pipe"
+							NewString: "物品管道"
+						}
+					}
+				}
+
+				LaserMultitoolLayer: {
+					get_Name: {
+						1: {
+							OldString: "Laser Pipe"
+							NewString: "激光管道"
+						}
+					}
+				}
+			}
 		}
 
 		Pipes: {
@@ -11894,6 +12189,48 @@ TerrariaCompat: {
 						NewString: "\n"
 					}
 				}
+
+				PipeBody: {
+					1: {
+						OldString: "[c/AAAAAA:Idle]"
+						NewString: "[c/AAAAAA:空闲]"
+					}
+
+					2: {
+						OldString: "[c/55FF55:Active]"
+						NewString: "[c/55FF55:激活]"
+					}
+
+					3: {
+						OldString: " Fluid Pipe"
+						NewString: " 流体管道"
+					}
+
+					4: {
+						OldString: "Simple Fluid Pipe"
+						NewString: "简易流体管道"
+					}
+
+					5: {
+						OldString: " channel"
+						NewString: " 频道"
+					}
+
+					6: {
+						OldString: "Restrictive Item Pipe"
+						NewString: "加固物品管道"
+					}
+
+					7: {
+						OldString: "Simple Item Pipe"
+						NewString: "简易物品管道"
+					}
+
+					8: {
+						OldString: " items/s"
+						NewString: " 物品/秒"
+					}
+				}
 			}
 
 			PipeItem: {
@@ -12034,6 +12371,11 @@ TerrariaCompat: {
 					6: {
 						OldString: "[c/AAFFAA:Right-click to toggle per-side mode (Off / Insert / Extract).]"
 						NewString: "[c/AAFFAA:右键切换每侧模式（关/插入/提取）。]"
+					}
+
+					7: {
+						OldString: "[c/55FFFF:Transfer Rate:] "
+						NewString: "[c/55FFFF:传输速率：] "
 					}
 				}
 
@@ -12769,6 +13111,11 @@ TerrariaCompat: {
 							[c/FF8888:缩短线缆长度、改用更高等级的导线（损耗更低）或为其绝缘。]
 							'''
 					}
+
+					18: {
+						OldString: "/A"
+						NewString: "/安"
+					}
 				}
 			}
 		}
@@ -12844,6 +13191,26 @@ TerrariaCompat: {
 				}
 			}
 		}
+
+		GregtechToiletItem: {
+			ModifyTooltips: {
+				1: {
+					OldString: " tiles"
+					NewString: " 格"
+				}
+			}
+		}
+
+		Prospectors: {
+			ProspectorItem: {
+				ModifyTooltips: {
+					1: {
+						OldString: "Disabled"
+						NewString: "已禁用"
+					}
+				}
+			}
+		}
 	}
 
 	Cover: {
@@ -12895,6 +13262,41 @@ TerrariaCompat: {
 						OldString: "x "
 						NewString: "x "
 					}
+				}
+			}
+		}
+	}
+
+	Bosses: {
+		FallenEBF: {
+			FallenEBF: {
+				StateName: {
+					1: {
+						OldString: "Charge"
+						NewString: "充电"
+					}
+				}
+			}
+		}
+
+		VacuumFreezer: {
+			VacuumFreezer: {
+				StateName: {
+					1: {
+						OldString: "Pull"
+						NewString: "拉"
+					}
+				}
+			}
+		}
+	}
+
+	Capabilities: {
+		WorldCapability: {
+			TileDisplayName: {
+				1: {
+					OldString: "Tile"
+					NewString: "方块"
 				}
 			}
 		}
