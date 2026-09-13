@@ -483,6 +483,29 @@ TerrariaCompat: {
 			}
 		}
 
+
+		FreeModalWindow: {
+			LayoutHeaderButtons: {
+				1: {
+					OldString: "Close"
+					NewString: "关闭"
+				}
+
+				2: {
+					OldString: "Pin open (Escape won't close it)"
+					NewString: "固定打开（按 Esc 也不会关闭）"
+				}
+			}
+		}
+
+		FreeModalWindow+<>c: {
+			<LayoutHeaderButtons>b__49_2: {
+				1: {
+					OldString: "Pin"
+					NewString: "固定"
+				}
+			}
+		}
 		GlobalRecipeBrowserState: {
 			HintFor: {
 				1: {
@@ -535,6 +558,26 @@ TerrariaCompat: {
 						提示：悬停物品并按R（如何获取）或U（用作材料）
 						Ctrl+左键：作弊添加1个到背包  *  Ctrl+右键：整组（旅行模式）
 						'''
+				}
+
+				5: {
+					OldString: "Tip: hover an item and press "
+					NewString: "提示：悬停物品并按"
+				}
+
+				6: {
+					OldString: " (how to obtain) or "
+					NewString: "（如何获取）或"
+				}
+
+				7: {
+					OldString: " (used as ingredient)\n"
+					NewString: "（用作材料）\n"
+				}
+
+				8: {
+					OldString: "Ctrl+LMB: cheat 1 to inventory   Ctrl+RMB: a full stack (Journey Mode)"
+					NewString: "Ctrl+左键：作弊添加1个到背包   Ctrl+右键：整组（旅行模式）"
 				}
 			}
 
@@ -678,6 +721,16 @@ TerrariaCompat: {
 					OldString: tModLoader
 					NewString: tModLoader
 				}
+
+				4: {
+					OldString: "Terraria"
+					NewString: "泰拉瑞亚"
+				}
+
+				5: {
+					OldString: "GregTechCEuTerraria"
+					NewString: "格雷科技"
+				}
 			}
 
 			BuildEquipToggles: {
@@ -733,6 +786,160 @@ TerrariaCompat: {
 					NewString: "'      - 点击清除"
 				}
 			}
+
+			RebuildWindow: {
+				1: {
+					OldString: "History"
+					NewString: "历史"
+				}
+
+				2: {
+					OldString: "lookups appear here"
+					NewString: "查询记录会显示在这里"
+				}
+
+				3: {
+					OldString: "Search...  |  RMB to clear"
+					NewString: "搜索...  |  右键清除"
+				}
+
+				4: {
+					OldString: "Drag to move the browser"
+					NewString: "拖动移动浏览器"
+				}
+
+				5: {
+					OldString: "Settings"
+					NewString: "设置"
+				}
+
+				6: {
+					OldString: "Recipes"
+					NewString: "配方"
+				}
+
+				7: {
+					OldString: "Items"
+					NewString: "物品"
+				}
+
+				8: {
+					OldString: "Loot"
+					NewString: "战利品"
+				}
+
+				9: {
+					OldString: "Equippable"
+					NewString: "装备"
+				}
+
+				10: {
+					OldString: "Show or hide recipe filters"
+					NewString: "显示或隐藏配方过滤器"
+				}
+
+				11: {
+					OldString: "Close docked browser"
+					NewString: "关闭停靠的浏览器"
+				}
+
+				12: {
+					OldString: "Hide useless recipes (machines recycling, extracting, etc.)"
+					NewString: "隐藏无用配方（机器回收、萃取等）"
+				}
+
+				13: {
+					OldString: "Show only recipes you can craft from current inventory"
+					NewString: "仅显示当前背包可合成的配方"
+				}
+
+				14: {
+					OldString: "Also match recipes by their ingredients, not just their results"
+					NewString: "同时按材料（而不只是产物）匹配配方"
+				}
+
+				15: {
+					OldString: "Click to clear the active filter"
+					NewString: "点击清除当前过滤器"
+				}
+
+				16: {
+					OldString: "No recipes match this search"
+					NewString: "没有符合搜索的配方"
+				}
+
+				17: {
+					OldString: "No items match this search"
+					NewString: "没有符合搜索的物品"
+				}
+
+				18: {
+					OldString: "No equippable items match this search"
+					NewString: "没有符合搜索的装备"
+				}
+
+				19: {
+					OldString: "No loot matches this search"
+					NewString: "没有符合搜索的战利品"
+				}
+
+				20: {
+					OldString: "Drag to resize the browser"
+					NewString: "拖动调整浏览器大小"
+				}
+			}
+
+			*cctor: {
+				1: {
+					OldString: "Helmets"
+					NewString: "头盔"
+				}
+
+				2: {
+					OldString: "Shirts"
+					NewString: "上衣"
+				}
+
+				3: {
+					OldString: "Pants"
+					NewString: "裤子"
+				}
+
+				4: {
+					OldString: "Trinkets"
+					NewString: "饰品"
+				}
+
+				5: {
+					OldString: "Dyes"
+					NewString: "染料"
+				}
+
+				6: {
+					OldString: "Mounts"
+					NewString: "坐骑"
+				}
+
+				7: {
+					OldString: "Hooks"
+					NewString: "抓钩"
+				}
+
+				8: {
+					OldString: "Minecarts"
+					NewString: "矿车"
+				}
+
+				9: {
+					OldString: "Pet"
+					NewString: "宠物"
+				}
+
+				10: {
+					OldString: "Light Pet"
+					NewString: "光源宠物"
+				}
+			}
 		}
 
 		GlobalRecipeBrowserSystem: {
@@ -740,6 +947,18 @@ TerrariaCompat: {
 				1: {
 					OldString: Open Too Many Items
 					NewString: 打开 太多物品了
+				}
+			}
+
+			DrawDockedButton: {
+				1: {
+					OldString: "Open Too Many Items docked"
+					NewString: "打开 太多物品了（停靠）"
+				}
+
+				2: {
+					OldString: "Close Too Many Items docked"
+					NewString: "关闭 太多物品了（停靠）"
 				}
 			}
 		}
@@ -753,6 +972,22 @@ TerrariaCompat: {
 			}
 		}
 
+
+		UILayers: {
+			DrawHotkeyTooltip: {
+				1: {
+					OldString: "\nHotkey: "
+					NewString: "\n热键："
+				}
+			}
+
+			HotkeyLabel: {
+				1: {
+					OldString: "ASSIGN IN SETTINGS"
+					NewString: "在设置中指定"
+				}
+			}
+		}
 		MachineUIState: {
 			AppendIOConfigPanel: {
 				1: {
@@ -968,6 +1203,260 @@ TerrariaCompat: {
 		}
 
 
+
+		MeBus: {
+			MeBusSettingsState: {
+				SideWord: {
+					1: {
+						OldString: "Up"
+						NewString: "上"
+					}
+
+					2: {
+						OldString: "Down"
+						NewString: "下"
+					}
+
+					3: {
+						OldString: "Left"
+						NewString: "左"
+					}
+
+					4: {
+						OldString: "Right"
+						NewString: "右"
+					}
+				}
+
+				BuildSideCell: {
+					1: {
+						OldString: ": "
+						NewString: "："
+					}
+
+					2: {
+						OldString: "None"
+						NewString: "无"
+					}
+
+					3: {
+						OldString: "Storage"
+						NewString: "存储"
+					}
+
+					4: {
+						OldString: "Import"
+						NewString: "导入"
+					}
+
+					5: {
+						OldString: "Export"
+						NewString: "导出"
+					}
+				}
+
+				BuildCenterCell: {
+					1: {
+						OldString: "ME Network"
+						NewString: "ME网络"
+					}
+
+					2: {
+						OldString: "("
+						NewString: "（"
+					}
+
+					3: {
+						OldString: ", "
+						NewString: "，"
+					}
+
+					4: {
+						OldString: ")"
+						NewString: "）"
+					}
+				}
+
+				<BuildCenterCell>b__50_0: {
+					1: {
+						OldString: "Cables: "
+						NewString: "线缆："
+					}
+
+					2: {
+						OldString: "Cables: -"
+						NewString: "线缆：-"
+					}
+				}
+
+				<BuildCenterCell>b__50_1: {
+					1: {
+						OldString: "Storage devices: "
+						NewString: "存储设备："
+					}
+
+					2: {
+						OldString: "Storage devices: -"
+						NewString: "存储设备：-"
+					}
+				}
+
+				<BuildCenterCell>b__50_2: {
+					1: {
+						OldString: "Providers: "
+						NewString: "供应器："
+					}
+
+					2: {
+						OldString: "Providers: -"
+						NewString: "供应器：-"
+					}
+				}
+
+				<BuildCenterCell>b__50_3: {
+					1: {
+						OldString: "Interfaces: "
+						NewString: "接口："
+					}
+
+					2: {
+						OldString: "Interfaces: -"
+						NewString: "接口：-"
+					}
+				}
+
+				<BuildCenterCell>b__50_4: {
+					1: {
+						OldString: "Types: "
+						NewString: "种类："
+					}
+
+					2: {
+						OldString: "Types: -"
+						NewString: "种类：-"
+					}
+				}
+
+				BuildFilterZone: {
+					1: {
+						OldString: "Export list"
+						NewString: "导出列表"
+					}
+
+					2: {
+						OldString: "Filter (empty = all)"
+						NewString: "过滤（留空 = 全部）"
+					}
+
+					3: {
+						OldString: "Speed"
+						NewString: "速度"
+					}
+				}
+
+				AppendSchedulingRow: {
+					1: {
+						OldString: "Export list traversal order"
+						NewString: "导出列表的遍历顺序"
+					}
+				}
+
+				BuildStorageZone: {
+					1: {
+						OldString: "Network access"
+						NewString: "网络访问"
+					}
+
+					2: {
+						OldString: "Read+Write"
+						NewString: "可读可写"
+					}
+
+					3: {
+						OldString: "Read Only"
+						NewString: "只读"
+					}
+
+					4: {
+						OldString: "Write Only"
+						NewString: "只写"
+					}
+
+					5: {
+						OldString: "Priority"
+						NewString: "优先级"
+					}
+
+					6: {
+						OldString: "Partition (empty = any)"
+						NewString: "分区（留空 = 任意）"
+					}
+				}
+
+				AppendStorageToggle: {
+					1: {
+						OldString: "Whether input-only slots are visible to network"
+						NewString: "仅用于输入的槽位是否对网络可见"
+					}
+
+					2: {
+						OldString: "Whether the partition filter also restricts what the network can extract."
+						NewString: "分区过滤是否同时限制网络能提取的内容。"
+					}
+				}
+
+				AppendAccessButton: {
+					1: {
+						OldString: "Network can insert and extract through this inventory"
+						NewString: "网络可通过此库存存入和提取"
+					}
+
+					2: {
+						OldString: "Network can only extract from this inventory"
+						NewString: "网络只能从此库存提取"
+					}
+
+					3: {
+						OldString: "Network can only insert into this inventory"
+						NewString: "网络只能向此库存存入"
+					}
+				}
+
+				CraftModeLabel: {
+					1: {
+						OldString: "Craft Missing"
+						NewString: "缺货自动合成"
+					}
+
+					2: {
+						OldString: "Craft Only"
+						NewString: "仅合成"
+					}
+
+					3: {
+						OldString: "OFF"
+						NewString: "关"
+					}
+				}
+
+				AppendKindButton: {
+					1: {
+						OldString: "Expose container contents to the network"
+						NewString: "把容器内容公开给网络"
+					}
+
+					2: {
+						OldString: "Pull from container into network"
+						NewString: "从容器拉取进网络"
+					}
+
+					3: {
+						OldString: "Push from container into network"
+						NewString: "把容器内容推入网络"
+					}
+				}
+			}
+		}
 		MeCraft: {
 			CraftAmountWindow: {
 				*ctor: {
@@ -2121,6 +2610,18 @@ TerrariaCompat: {
 							Alt+点击
 							以固定
 							'''
+					}
+				}
+
+				*ctor: {
+					1: {
+						OldString: "Favorites"
+						NewString: "收藏"
+					}
+
+					2: {
+						OldString: "Alt+click\nto pin"
+						NewString: "Alt+点击\n以固定"
 					}
 				}
 			}
@@ -4154,57 +4655,57 @@ TerrariaCompat: {
 						NewString: 运行中
 					}
 
-					5: {
+					2: {
 						OldString: 55FFFF
 						NewString: 55FFFF
 					}
 
-					6: {
+					3: {
 						OldString: FF5555
 						NewString: FF5555
 					}
 
-					7: {
+					4: {
 						OldString: Computation: [c/
 						NewString: 计算： [c/
 					}
 
-					8: {
+					5: {
 						OldString: ":"
 						NewString: ：
 					}
 
-					9: {
+					6: {
 						OldString: "' / "
 						NewString: "' / "
 					}
 
-					10: {
+					7: {
 						OldString: "' CWU/t]"
 						NewString: "' CWU/t]"
 					}
 
-					11: {
+					8: {
 						OldString: "[c/FF5555:Insufficient computation - need "
 						NewString: "[c/FF5555:计算力不足 - 需要 "
 					}
 
-					12: {
+					9: {
 						OldString: "' CWU/t, HPCA chain provides "
 						NewString: "' CWU/t，HPCA链提供 "
 					}
 
-					13: {
+					10: {
 						OldString: "]"
 						NewString: "]"
 					}
 
-					14: {
+					11: {
 						OldString: Computation: [c/55FFFF:
 						NewString: 计算： [c/55FFFF:
 					}
 
-					15: {
+					12: {
 						OldString: "' CWU/t available]"
 						NewString: "' CWU/t 可用]"
 					}
@@ -6699,6 +7200,179 @@ TerrariaCompat: {
 		}
 	}
 
+
+	AppliedEnergistics: {
+		MeStorageMachine: {
+			get_Label: {
+				1: {
+					OldString: "ME Storage"
+					NewString: "ME存储"
+				}
+			}
+
+			AppendTooltip: {
+				1: {
+					OldString: "ME Network: connected"
+					NewString: "ME网络：已连接"
+				}
+
+				2: {
+					OldString: "[c/FF8888:Not connected]"
+					NewString: "[c/FF8888:未连接]"
+				}
+
+				3: {
+					OldString: "Stored: "
+					NewString: "已存储："
+				}
+
+				4: {
+					OldString: "Stored: empty  (cap "
+					NewString: "已存储：空  (容量 "
+				}
+
+				5: {
+					OldString: "Holds one type. Right-click to open / deposit"
+					NewString: "只能存放一种物品。右键打开 / 存入"
+				}
+			}
+		}
+
+		MeInterfaceMachine: {
+			get_Label: {
+				1: {
+					OldString: "ME Interface"
+					NewString: "ME接口"
+				}
+			}
+
+			AppendTooltip: {
+				1: {
+					OldString: "ME Network: connected"
+					NewString: "ME网络：已连接"
+				}
+
+				2: {
+					OldString: "[c/FF8888:Not connected]"
+					NewString: "[c/FF8888:未连接]"
+				}
+
+				3: {
+					OldString: "Passthrough (no config)"
+					NewString: "直通（未配置）"
+				}
+
+				4: {
+					OldString: "Stocking: "
+					NewString: "库存："
+				}
+
+				5: {
+					OldString: " type(s), "
+					NewString: " 种，"
+				}
+
+				6: {
+					OldString: " filled"
+					NewString: " 个已备货"
+				}
+
+				7: {
+					OldString: "Priority: "
+					NewString: "优先级："
+				}
+
+				8: {
+					OldString: "[c/88FF88:Craft missing: on]"
+					NewString: "[c/88FF88:缺货自动合成：开]"
+				}
+			}
+		}
+
+		PatternProviderMachine: {
+			get_Label: {
+				1: {
+					OldString: "ME Pattern Provider"
+					NewString: "ME样板供应器"
+				}
+			}
+
+			StationTileName: {
+				1: {
+					OldString: "crafting station"
+					NewString: "合成站"
+				}
+			}
+
+			AppendTooltip: {
+				1: {
+					OldString: "ME Network: connected"
+					NewString: "ME网络：已连接"
+				}
+
+				2: {
+					OldString: "[c/FF8888:Not connected]"
+					NewString: "[c/FF8888:未连接]"
+				}
+
+				3: {
+					OldString: "Patterns: "
+					NewString: "样板："
+				}
+
+				4: {
+					OldString: "Crafting: "
+					NewString: "合成中："
+				}
+
+				5: {
+					OldString: " job(s)"
+					NewString: " 个任务"
+				}
+			}
+		}
+
+		QuantumComputerMachine: {
+			get_Label: {
+				1: {
+					OldString: "Quantum Computer"
+					NewString: "量子计算机"
+				}
+			}
+
+			AppendTooltip: {
+				1: {
+					OldString: "ME Network: connected"
+					NewString: "ME网络：已连接"
+				}
+
+				2: {
+					OldString: "[c/FF8888:Not connected]"
+					NewString: "[c/FF8888:未连接]"
+				}
+
+				3: {
+					OldString: "Storage: "
+					NewString: "存储："
+				}
+
+				4: {
+					OldString: " bytes   Parallel: "
+					NewString: " 字节   并行："
+				}
+
+				5: {
+					OldString: "Crafting: "
+					NewString: "合成中："
+				}
+
+				6: {
+					OldString: "Idle"
+					NewString: "空闲"
+				}
+			}
+		}
+	}
 	Machine: {
 		MachineDefinitions: {
 			RegisterAll: {
@@ -7942,6 +8616,21 @@ TerrariaCompat: {
 				9: {
 					OldString: /A)
 					NewString: /安）
+				}
+
+				10: {
+					OldString: " cables   "
+					NewString: " 线缆   "
+				}
+
+				11: {
+					OldString: "   cap "
+					NewString: "   上限 "
+				}
+
+				12: {
+					OldString: "A, loss "
+					NewString: "安，损耗 "
 				}
 			}
 		}
@@ -10316,6 +11005,44 @@ TerrariaCompat: {
 			}
 		}
 
+
+		MeCables: {
+			MeCableItem: {
+				HoldItem: {
+					1: {
+						OldString: "ME Cable"
+						NewString: "ME 线缆"
+					}
+				}
+
+				MeCableBody: {
+					1: {
+						OldString: "ME Cable: "
+						NewString: "ME 线缆："
+					}
+
+					2: {
+						OldString: "Network: not initialized"
+						NewString: "网络：未初始化"
+					}
+
+					3: {
+						OldString: "Network: "
+						NewString: "网络："
+					}
+
+					4: {
+						OldString: " cables   "
+						NewString: " 线缆   "
+					}
+
+					5: {
+						OldString: " devices"
+						NewString: " 个设备"
+					}
+				}
+			}
+		}
 		Terminal: {
 			MeTerminalUpgradeCardItem: {
 				ModifyTooltips: {
@@ -11637,6 +12364,105 @@ TerrariaCompat: {
 					5: {
 						OldString: hex
 						NewString: hex
+					}
+				}
+
+				HoldItem: {
+					1: {
+						OldString: "Wire"
+						NewString: "导线"
+					}
+
+					2: {
+						OldString: "Cable"
+						NewString: "线缆"
+					}
+				}
+
+				WireBody: {
+					1: {
+						OldString: "Wire"
+						NewString: "导线"
+					}
+
+					2: {
+						OldString: "Cable"
+						NewString: "线缆"
+					}
+
+					3: {
+						OldString: "A   loss "
+						NewString: "安   损耗 "
+					}
+
+					4: {
+						OldString: "Network: not initialized"
+						NewString: "网络：未初始化"
+					}
+
+					5: {
+						OldString: "Network: "
+						NewString: "网络："
+					}
+
+					6: {
+						OldString: " cables   "
+						NewString: " 线缆   "
+					}
+
+					7: {
+						OldString: "   cap "
+						NewString: "   上限 "
+					}
+
+					8: {
+						OldString: "Endpoints: -"
+						NewString: "端点：-"
+					}
+
+					9: {
+						OldString: "Endpoints: "
+						NewString: "端点："
+					}
+
+					10: {
+						OldString: " producers, "
+						NewString: " 生产者，"
+					}
+
+					11: {
+						OldString: " consumers"
+						NewString: " 消费者"
+					}
+
+					12: {
+						OldString: "Throughput: "
+						NewString: "吞吐量："
+					}
+
+					13: {
+						OldString: "Throughput: -"
+						NewString: "吞吐量：-"
+					}
+
+					14: {
+						OldString: " EU/t   loss "
+						NewString: " EU/t   损耗 "
+					}
+
+					15: {
+						OldString: "[c/FF5555:! High-loss path: ~"
+						NewString: "[c/FF5555:！高损耗路径：~"
+					}
+
+					16: {
+						OldString: "% of source voltage already lost here]\n"
+						NewString: "% 的源电压已在此处损耗]\n"
+					}
+
+					17: {
+						OldString: "[c/FF8888:Energy delivered downstream of this cable is heavily reduced.]\n[c/FF8888:Shorten the cable run, use a higher-tier wire (lower loss), or insulate it.]"
+						NewString: "[c/FF8888:该线缆下游输送的能量已大幅降低。]\n[c/FF8888:缩短线缆长度、改用更高等级的导线（损耗更低）或为其绝缘。]"
 					}
 				}
 			}
