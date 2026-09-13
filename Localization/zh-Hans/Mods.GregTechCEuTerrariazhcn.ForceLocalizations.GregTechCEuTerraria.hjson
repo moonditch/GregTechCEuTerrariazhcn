@@ -7396,6 +7396,11 @@ TerrariaCompat: {
 					OldString: GregTech Quests
 					NewString: GregTech 任务
 				}
+
+				2: {
+					OldString: WIP - new questbook ETA v0.0.16
+					NewString: 开发中：新任务书预计 v0.0.16
+				}
 			}
 		}
 
@@ -7404,6 +7409,11 @@ TerrariaCompat: {
 				1: {
 					OldString: GregTech Quests
 					NewString: GregTech 任务
+				}
+
+				2: {
+					OldString: Open Questbook
+					NewString: 打开任务书
 				}
 			}
 		}
@@ -11862,6 +11872,32 @@ TerrariaCompat: {
 				}
 			}
 
+			GregTechMultitool: {
+				ModifyTooltips: {
+					1: {
+						OldString: "[c/A0E0FF:Right-click]: open tool menu"
+						NewString: "[c/A0E0FF:右键]：打开工具菜单"
+					}
+
+					2: {
+						OldString: "[c/A0E0FF:Left-drag]: place wire/pipe"
+						NewString: "[c/A0E0FF:左键拖动]：放置导线/管道"
+					}
+
+					3: {
+						OldString: Synthesizes any width from single wires
+						NewString: 可将单根导线合成为任意宽度
+					}
+				}
+
+				AppendHint: {
+					1: {
+						OldString: Try to use Greg Multitool for better cable management, its really convenient!
+						NewString: 试试用格雷多功能工具整理线缆，真的非常方便！
+					}
+				}
+			}
+
 			Multitool: {
 				CableMultitoolLayer: {
 					get_Name: {
@@ -11886,6 +11922,92 @@ TerrariaCompat: {
 						1: {
 							OldString: Laser Pipe
 							NewString: 激光管道
+						}
+					}
+				}
+
+				MeCableMultitoolLayer: {
+					get_Name: {
+						1: {
+							OldString: ME Cable
+							NewString: ME线缆
+						}
+					}
+				}
+
+				FluidPipeMultitoolLayer: {
+					get_Name: {
+						1: {
+							OldString: Fluid Pipe
+							NewString: 流体管道
+						}
+					}
+				}
+
+				OpticalMultitoolLayer: {
+					get_Name: {
+						1: {
+							OldString: Optical Pipe
+							NewString: 光学管道
+						}
+					}
+				}
+
+				LongDistanceMultitoolLayer: {
+					get_Name: {
+						1: {
+							OldString: LD Pipe
+							NewString: 长距离管道
+						}
+					}
+				}
+
+				MultitoolRadial: {
+					DrawCutHub: {
+						1: {
+							OldString: Cut: OFF
+							NewString: 拆除：关
+						}
+
+						2: {
+							OldString: Cut: ON
+							NewString: 拆除：开
+						}
+					}
+
+					DrawActivePanel: {
+						1: {
+							OldString: "Cut mode - left-drag to remove "
+							NewString: "拆除模式 - 左键拖动移除 "
+						}
+
+						2: {
+							OldString: " - coming soon"
+							NewString: " - 即将推出"
+						}
+
+						3: {
+							OldString: "(no "
+							NewString: （背包里没有
+						}
+
+						4: {
+							OldString: " in inventory)"
+							NewString: ）
+						}
+					}
+				}
+
+				MultitoolPick: {
+					HotkeyHint: {
+						1: {
+							OldString: Eyedropper: NOT SET (change in Controls)
+							NewString: 吸取器：未设置（在控制中更改）
+						}
+
+						2: {
+							OldString: "Eyedropper: "
+							NewString: 吸取器：
 						}
 					}
 				}

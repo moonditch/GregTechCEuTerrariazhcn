@@ -7396,6 +7396,11 @@ TerrariaCompat: {
 					OldString: GregTech Quests
 					NewString: GregTech Quests
 				}
+
+				2: {
+					OldString: WIP - new questbook ETA v0.0.16
+					NewString: WIP - new questbook ETA v0.0.16
+				}
 			}
 		}
 
@@ -7404,6 +7409,11 @@ TerrariaCompat: {
 				1: {
 					OldString: GregTech Quests
 					NewString: GregTech Quests
+				}
+
+				2: {
+					OldString: Open Questbook
+					NewString: Open Questbook
 				}
 			}
 		}
@@ -11862,6 +11872,32 @@ TerrariaCompat: {
 				}
 			}
 
+			GregTechMultitool: {
+				ModifyTooltips: {
+					1: {
+						OldString: "[c/A0E0FF:Right-click]: open tool menu"
+						NewString: "[c/A0E0FF:Right-click]: open tool menu"
+					}
+
+					2: {
+						OldString: "[c/A0E0FF:Left-drag]: place wire/pipe"
+						NewString: "[c/A0E0FF:Left-drag]: place wire/pipe"
+					}
+
+					3: {
+						OldString: Synthesizes any width from single wires
+						NewString: Synthesizes any width from single wires
+					}
+				}
+
+				AppendHint: {
+					1: {
+						OldString: Try to use Greg Multitool for better cable management, its really convenient!
+						NewString: Try to use Greg Multitool for better cable management, its really convenient!
+					}
+				}
+			}
+
 			Multitool: {
 				CableMultitoolLayer: {
 					get_Name: {
@@ -11886,6 +11922,92 @@ TerrariaCompat: {
 						1: {
 							OldString: Laser Pipe
 							NewString: Laser Pipe
+						}
+					}
+				}
+
+				MeCableMultitoolLayer: {
+					get_Name: {
+						1: {
+							OldString: ME Cable
+							NewString: ME Cable
+						}
+					}
+				}
+
+				FluidPipeMultitoolLayer: {
+					get_Name: {
+						1: {
+							OldString: Fluid Pipe
+							NewString: Fluid Pipe
+						}
+					}
+				}
+
+				OpticalMultitoolLayer: {
+					get_Name: {
+						1: {
+							OldString: Optical Pipe
+							NewString: Optical Pipe
+						}
+					}
+				}
+
+				LongDistanceMultitoolLayer: {
+					get_Name: {
+						1: {
+							OldString: LD Pipe
+							NewString: LD Pipe
+						}
+					}
+				}
+
+				MultitoolRadial: {
+					DrawCutHub: {
+						1: {
+							OldString: Cut: OFF
+							NewString: Cut: OFF
+						}
+
+						2: {
+							OldString: Cut: ON
+							NewString: Cut: ON
+						}
+					}
+
+					DrawActivePanel: {
+						1: {
+							OldString: "Cut mode - left-drag to remove "
+							NewString: "Cut mode - left-drag to remove "
+						}
+
+						2: {
+							OldString: " - coming soon"
+							NewString: " - coming soon"
+						}
+
+						3: {
+							OldString: "(no "
+							NewString: "(no "
+						}
+
+						4: {
+							OldString: " in inventory)"
+							NewString: " in inventory)"
+						}
+					}
+				}
+
+				MultitoolPick: {
+					HotkeyHint: {
+						1: {
+							OldString: Eyedropper: NOT SET (change in Controls)
+							NewString: Eyedropper: NOT SET (change in Controls)
+						}
+
+						2: {
+							OldString: "Eyedropper: "
+							NewString: "Eyedropper: "
 						}
 					}
 				}
